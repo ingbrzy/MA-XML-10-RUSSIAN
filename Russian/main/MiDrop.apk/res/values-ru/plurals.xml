@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">Удалить %d выбранных файлов?</item>
+        <item quantity="one">Удалить %d выбранный файл?</item>
+        <item quantity="few">Удалить %d выбранных файла?</item>
+        <item quantity="many">Удалить %d выбранных файлов?</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Передача файлов отменена %1$s</item>
+        <item quantity="one">Передача файлов отменена %1$s</item>
+        <item quantity="few">Передача файлов отменена %1$s</item>
+        <item quantity="many">Передача файлов отменена %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Получение %1$s файлов…</item>
+        <item quantity="one">Получение %1$s файла…</item>
+        <item quantity="few">Получение %1$s файлов…</item>
+        <item quantity="many">Получение %1$s файлов…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Файлы от %1$s успешно получены</item>
+        <item quantity="one">Файл от %1$s успешно получен</item>
+        <item quantity="few">Файлы от %1$s успешно получены</item>
+        <item quantity="many">Файлы от %1$s успешно получены</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d файлов от %1$s</item>
+        <item quantity="one">%2$d файл от %1$s</item>
+        <item quantity="few">%2$d файла от %1$s</item>
+        <item quantity="many">%2$d файлов от %1$s</item>
+    </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d объектов</item>
+        <item quantity="one">%1$d объект</item>
+        <item quantity="few">%1$d объекта</item>
+        <item quantity="many">%1$d объектов</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">Получено %1$d файлов (%2$s)</item>
+        <item quantity="one">Получен %1$d файл (%2$s)</item>
+        <item quantity="few">Получено %1$d файла (%2$s)</item>
+        <item quantity="many">Получено %1$d файлов (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">Отправлено %1$d файлов (%2$s)</item>
+        <item quantity="one">Отправлен %1$d файл (%2$s)</item>
+        <item quantity="few">Отправлено %1$d файла (%2$s)</item>
+        <item quantity="many">Отправлено %1$d файлов (%2$s)</item>
+    </plurals>
+</resources>

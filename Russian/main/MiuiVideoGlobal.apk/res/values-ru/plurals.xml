@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Ускорение субтитров на %.1f секунд</item>
+        <item quantity="one">Ускорение субтитров на %.1f секунду</item>
+        <item quantity="few">Ускорение субтитров на %.1f секунды</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Задержка субтитров на %.1f секунд</item>
+        <item quantity="one">Задержка субтитров на %.1f секунду</item>
+        <item quantity="few">Задержка субтитров на %.1f секунды</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Размер: %.2fКБ</item>
+        <item quantity="one">Размер: %.2fКБ</item>
+        <item quantity="few">Размер: %.2fКБ</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+        <item quantity="few">%d видео</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теги</string>
+    <string name="title_scanned_tag">Добавлен новый тег</string>
+    <string name="title_existing_tag">Тег</string>
+    <string name="tag_unknown">Неизвестный тип тега</string>
+    <string name="tag_empty">Пустой тег</string>
+    <string name="button_done">Готово</string>
+    <string name="action_text">Отправка SMS на номер %s</string>
+    <string name="action_call">Вызов: %s</string>
+    <string name="empty_tag_prompt">Этот тег пуст.</string>
+    <string name="import_vcard">Импорт ^1</string>
+    <string name="mime_display_name">Данные из тега малого радиуса действия</string>
+    <string name="vcard_title">Контактная информация для ^1</string>
+</resources>

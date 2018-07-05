@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Сегодня вечером</item>
+        <item>Завтра</item>
+        <item>На выходных</item>
+        <item>На следующей неделе</item>
+        <item>В следующем месяце</item>
+        <item>Выбрать дату</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Недавно просмотренные</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>Отправитель</item>
+        <item>Дата получения</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Системные</item>
+        <item>Недавние</item>
+        <item>Все папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Перейти к более новому</item>
+        <item>Перейти к более старому</item>
+        <item>Перейти во \"Входящие\"</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Телефон:</item>
+        <item>Имя:</item>
+        <item>Почта:</item>
+        <item>Мобильный:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Почтовый индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Спасибо,</item>
+        <item>С уважением,</item>
+        <item>Отправлено с моего</item>
+        <item>Оригинальный Email</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>От</item>
+        <item>Это сообщение</item>
+        <item>Отказ от ответственности</item>
+        <item>Заявление-отказ от ответственности</item>
+    </string-array>
+</resources>

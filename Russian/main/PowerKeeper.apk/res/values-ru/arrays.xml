@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Особый режим</item>
+        <item>Умный режим</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Контроль температуры по умолчанию</item>
+        <item>Производительность</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Текущий режим контроля температуры</item>
+        <item>Текущий режим производительности</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+    </string-array>
+</resources>

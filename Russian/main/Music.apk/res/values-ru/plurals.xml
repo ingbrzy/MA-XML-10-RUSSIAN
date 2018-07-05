@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Всего %d треков</item>
+        <item quantity="one">Всего %d трек</item>
+        <item quantity="few">Всего %d трека</item>
+        <item quantity="many">Всего %d треков</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Поиск обложек и текстов (%1$d/%2$d)</item>
+        <item quantity="one">Поиск обложек и текстов (%1$d/%2$d)</item>
+        <item quantity="few">Поиск обложек и текстов (%1$d/%2$d)</item>
+        <item quantity="many">Поиск обложек и текстов (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Сохранение треков, %1$d осталось (%2$.1fМБ)</item>
+        <item quantity="one">Сохранение треков, %1$d остался (%2$.1fМБ)</item>
+        <item quantity="few">Сохранение треков, %1$d осталось (%2$.1fМБ)</item>
+        <item quantity="many">Сохранение треков, %1$d осталось (%2$.1fМБ)</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Плеер остановится через %d минут</item>
+        <item quantity="one">Плеер остановится через %d минуту</item>
+        <item quantity="few">Плеер остановится через %d минуты</item>
+        <item quantity="many">Плеер остановится через %d минут</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Создано %1$s | всего %2$d треков</item>
+        <item quantity="one">Создано %1$s | всего %2$d трек</item>
+        <item quantity="few">Создано %1$s | всего %2$d трека</item>
+        <item quantity="many">Создано %1$s | всего %2$d треков</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d треков не сохранено в Mi Cloud. Остановить?</item>
+        <item quantity="one">%d трек не сохранен в Mi Cloud. Остановить?</item>
+        <item quantity="few">%d трека не сохранено в Mi Cloud. Остановить?</item>
+        <item quantity="many">%d треков не сохранено в Mi Cloud. Остановить?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d треков добавлено в плейлист</item>
+        <item quantity="one">%d трек добавлен в плейлист</item>
+        <item quantity="few">%d трека добавлено в плейлист</item>
+        <item quantity="many">%d треков добавлено в плейлист</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d треков удалено из плейлиста</item>
+        <item quantity="one">%d трек удален из плейлиста</item>
+        <item quantity="few">%d трека удалено из плейлиста</item>
+        <item quantity="many">%d треков удалено из плейлиста</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d похожих треков</item>
+        <item quantity="one">%d похожий трек</item>
+        <item quantity="few">%d похожих трека</item>
+        <item quantity="many">%d похожих треков</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d треков не сохранено (%2$.1fМБ)</item>
+        <item quantity="one">%1$d трек не сохранен (%2$.1fМБ)</item>
+        <item quantity="few">%1$d трека не сохранено (%2$.1fМБ)</item>
+        <item quantity="many">%1$d треков не сохранено (%2$.1fМБ)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Сохранение %1$d треков (%2$.1fМБ)</item>
+        <item quantity="one">Сохранение %1$d трека (%2$.1fМБ)</item>
+        <item quantity="few">Сохранение %1$d треков (%2$.1fМБ)</item>
+        <item quantity="many">Сохранение %1$d треков (%2$.1fМБ)</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d комментариев</item>
+        <item quantity="one">%d комментарий</item>
+        <item quantity="few">%d комментария</item>
+        <item quantity="many">%d комментариев</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Удалить %d объектов?</item>
+        <item quantity="one">Удалить %d объект?</item>
+        <item quantity="few">Удалить %d объекта?</item>
+        <item quantity="many">Удалить %d объектов?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Удалить %d объектов?
+Внимание: Файлы также будут удалены с этого устройства."</item>
+        <item quantity="one">"Удалить %d объект?
+Внимание: Файл также будет удален с этого устройства."</item>
+        <item quantity="few">"Удалить %d объекта?
+Внимание: Файлы также будут удалены с этого устройства."</item>
+        <item quantity="many">"Удалить %d объектов?
+Внимание: Файлы также будут удалены с этого устройства."</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Удалить %d треков?</item>
+        <item quantity="one">Удалить %d трек?</item>
+        <item quantity="few">Удалить %d трека?</item>
+        <item quantity="many">Удалить %d треков?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Убрать %d треков?</item>
+        <item quantity="one">Убрать %d трек?</item>
+        <item quantity="few">Убрать %d трека?</item>
+        <item quantity="many">Убрать %d треков?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Удалить %d треков из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
+        <item quantity="one">Удалить %d трек из Mi Cloud? Он также будет удален из локальных плейлистов.</item>
+        <item quantity="few">Удалить %d трека из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
+        <item quantity="many">Удалить %d треков из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">Загружено &lt;font color==\"red\">%d треков&lt;/font></item>
+        <item quantity="one">Загружен &lt;font color==\"red\">%d трек&lt;/font></item>
+        <item quantity="few">Загружено &lt;font color==\"red\">%d трека&lt;/font></item>
+        <item quantity="many">Загружено &lt;font color==\"red\">%d треков&lt;/font></item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Удалено %d загрузок</item>
+        <item quantity="one">Удалена %d загрузка</item>
+        <item quantity="few">Удалено %d загрузки</item>
+        <item quantity="many">Удалено %d загрузок</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">Загружается &lt;font color==\"red\">%d треков&lt;/font></item>
+        <item quantity="one">Загружается &lt;font color==\"red\">%d трек&lt;/font></item>
+        <item quantity="few">Загружается &lt;font color==\"red\">%d трека&lt;/font></item>
+        <item quantity="many">Загружается &lt;font color==\"red\">%d треков&lt;/font></item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d подписчиков</item>
+        <item quantity="one">%d подписчик</item>
+        <item quantity="few">%d подписчика</item>
+        <item quantity="many">%d подписчиков</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">Будет отправлено %d треков</item>
+        <item quantity="one">Будет отправлен %d трек</item>
+        <item quantity="few">Будет отправлено %d трека</item>
+        <item quantity="many">Будет отправлено %d треков</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Пропущено %d треков. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+        <item quantity="one">Пропущен %d трек. Включите онлайн-сервисы в настройках, чтобы прослушать его.</item>
+        <item quantity="few">Пропущено %d трека. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+        <item quantity="many">Пропущено %d треков. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Треки уже в избранных.</item>
+        <item quantity="one">Трек уже в избранных.</item>
+        <item quantity="few">Треки уже в избранных.</item>
+        <item quantity="many">Треки уже в избранных.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+    </plurals>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s просмотров</item>
+        <item quantity="one">%1$s просмотр</item>
+        <item quantity="few">%1$s просмотра</item>
+        <item quantity="many">%1$s просмотров</item>
+    </plurals>
+</resources>

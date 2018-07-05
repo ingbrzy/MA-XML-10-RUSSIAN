@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Доступны обновления для %1$d тем.</item>
+        <item quantity="one">Доступны обновления для %1$d темы.</item>
+        <item quantity="few">Доступны обновления для %1$d тем.</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Доступны обновления для %1$d тем</item>
+        <item quantity="one">Доступны обновления для %1$d темы</item>
+        <item quantity="few">Доступны обновления для %1$d тем</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enabled_for_pad_entries">
+        <item>Отключено</item>
+        <item>Включено</item>
+        <item>Временное отображение в альбомном режиме</item>
+    </string-array>
+    <string-array name="motion_behavior_entries">
+        <item>Скольжение</item>
+        <item>Нажатие</item>
+    </string-array>
+</resources>
