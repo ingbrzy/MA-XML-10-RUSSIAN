@@ -1364,9 +1364,7 @@
     <string name="menu_text_antispam">Антиспам</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
-    <string name="menu_text_garbage_cleanup_danger">Более %s</string>
     <string name="menu_text_power_manager">Питание</string>
-    <string name="menu_text_power_percent_title">Батарея %s</string>
     <string name="menu_text_power_percent_title_default">Батарея</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>

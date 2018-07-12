@@ -101,7 +101,6 @@
     <string name="incompatible_dialog_ok">Понятно</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
@@ -294,7 +293,6 @@
     <string name="resource_pack_price_info">Стоимость: %1$s</string>
     <string name="resource_pack_warning">Вы уже купили %1$d компонентов. Будет дешевле докупить остальные компоненты по отдельности.</string>
     <string name="resource_present">Подарок</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Произошла ошибка, повторите попытку</string>
