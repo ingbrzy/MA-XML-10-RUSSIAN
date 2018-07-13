@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="paste_as_plain_text">Вставить как обычный текст</string>
     <string name="BaMmi">Запрет вызовов</string>
@@ -385,7 +384,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Код функции выполнен.</string>
     <string name="fcError">Неполадки подключения или неверный код функции.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Найти</string>
     <string name="find_next">Cлед.</string>
     <string name="find_on_page">Найти на странице</string>
@@ -572,7 +570,6 @@
     <string name="kg_reordering_delete_drop_target_text">Удалить</string>
     <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
-    <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %1$d сек.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы %1$d раз неверно указали пароль.
 
@@ -850,7 +847,6 @@
     <string name="notification_hidden_by_policy_text">Содержимое скрыто в соответствии с заданными правилами</string>
     <string name="notification_hidden_text">Содержимое скрыто</string>
     <string name="notification_listener_binding_label">Служба просмотра уведомлений</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Сервис для оценки важности уведомлений</string>
     <string name="notification_title">Ошибка входа в аккаунт %1$s</string>
     <string name="notification_work_profile_content_description">Рабочий профиль</string>
@@ -1516,6 +1512,5 @@
     <string name="zen_mode_feature_name">Не беспокоить</string>
     <string name="zen_mode_forever">Пока вы не отключите режим \"Не беспокоить\"</string>
     <string name="zen_mode_forever_dnd">Пока вы не отключите режим \"Не беспокоить\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">До %1$s</string>
 </resources>

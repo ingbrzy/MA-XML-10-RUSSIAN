@@ -223,7 +223,6 @@
     <string name="battery_saver">Экономия энергии</string>
     <string name="battery_saver_keywords">экономия энергии;батарея почты</string>
     <string name="bcc">Скрытая копия</string>
-    <string name="bcc_heading">"Скрытая копия: "</string>
     <string name="bill_center_setting">Настройки счетов</string>
     <string name="bill_center_setting_head">Импорт информации из этих аккаунтов</string>
     <string name="bill_cycle_text">Периодичность выставления счетов</string>
@@ -244,7 +243,6 @@
     <string name="cancel_pop3_attchemt_downloading">Не удается отменить текущие загрузки для вложений в аккаунтах POP3</string>
     <string name="cant_move_or_change_labels">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cc">Копия</string>
-    <string name="cc_attribution">Копия: %1$s&lt;br></string>
     <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
     <string name="change_folders_selection_dialog_title">Изменить папки</string>
@@ -262,7 +260,6 @@
     <string name="click_download_all_content">[Нажмите для загрузки]</string>
     <string name="click_to_reload">Нажмите для обновления</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
-    <string name="colon">:</string>
     <string name="compose">Создать</string>
     <string name="compose_attachment_number_limit">Максимум 10 вложений</string>
     <string name="compose_paste_address_oob">Слишком много символов</string>
@@ -476,7 +473,6 @@
     <string name="gmail_web_login_go">ОК</string>
     <string name="gmail_web_login_required_message">Войти в Gmail</string>
     <string name="header_category_account">Аккаунты</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Отзывы</string>
     <string name="header_label_general_preferences">Основные настройки</string>
     <string name="help_and_info">Помощь</string>
@@ -498,7 +494,6 @@
     <string name="invalid_recipient">Адрес %s неверен.</string>
     <string name="invalid_recipient_title">Неверный получатель</string>
     <string name="kilobytes">%s КБ</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Поиск на сервере</string>
     <string name="load_more">Загрузить еще</string>
     <string name="loading_conversation">Загрузка…</string>
@@ -918,7 +913,6 @@
     <string name="silent_ringtone">Без звука</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Неверный пароль сервера исходящих сообщений</string>
     <string name="sort_attachment">Сортировка</string>
     <string name="storage">Память</string>
