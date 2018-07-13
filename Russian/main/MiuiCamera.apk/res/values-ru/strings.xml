@@ -277,7 +277,7 @@
     <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
     <string name="pref_camera_device_watermark_title">Водяной знак</string>
     <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
-    <string name="pref_scan_qrcode_title">Сканирование QR-кодов</string>
+    <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_camera_exposuretime_entry_auto">АВТО</string>
@@ -362,7 +362,7 @@
     <string name="pref_audio_focus_entry_rear">Задний</string>
     <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
     <string name="pref_camera_long_press_shutter_feature_title">Долгое нажатие кнопки съемки</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокус</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокусировка</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Серийная съемка</string>
     <string name="pref_camera_hdr_entry_auto">Авто</string>
     <string name="pref_camera_hdr_entry_off">Отключен</string>
@@ -380,6 +380,7 @@
     <string name="pref_camera_beauty">Улучшение</string>
     <string name="pref_camera_beauty_deep">Улучшение Pro</string>
     <string name="pref_camera_asd_night_title">Автоматически улучшать темные фото</string>
+    <string name="pref_camera_super_resolution_title">Суперразрешение</string>
     <string name="simple_mode_button_text_scene">Отключить режим Сюжет</string>
     <string name="pref_camera_peak_title">Выделение области фокусировки</string>
     <string name="pref_camera_peak_entry_off">Откл</string>
@@ -429,6 +430,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Отключить режим Квадрат</string>
     <string name="face_beauty_smart">Авто</string>
@@ -443,6 +445,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -537,4 +540,17 @@
     <string name="lens_dirty_detected_title_front">Фронтальная камера загрязнена</string>
     <string name="lens_dirty_detected_content">"Объектив вашей камеры загрязнен.
 Очистите объектив для улучшения снимков."</string>
+    <string name="lighting_hint_title">Студийный свет</string>
+    <string name="lighting_hint_usage">"Вы можете использовать студийный
+свет в режиме \"Портрет\""</string>
+    <string name="lighting_hint_needed">Поместите объект в центр круга</string>
+    <string name="lighting_hint_too_far">Поднесите камеру ближе</string>
+    <string name="lighting_hint_too_close">Отодвиньте камеру дальше</string>
+    <string name="lighting_pattern_nature">Натуральный</string>
+    <string name="lighting_pattern_stage">Сцена</string>
+    <string name="lighting_pattern_movie">Фильм</string>
+    <string name="lighting_pattern_rainbow">Радуга</string>
+    <string name="lighting_pattern_leaf">Листья</string>
+    <string name="lighting_pattern_dot">Точки</string>
+    <string name="lighting_pattern_shutter">Шторки</string>
 </resources>

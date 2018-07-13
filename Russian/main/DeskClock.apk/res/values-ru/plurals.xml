@@ -52,22 +52,4 @@
         <item quantity="few">%1$d секунды</item>
         <item quantity="many">%1$d секунд</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Сигнал будет отключен через %d минут</item>
-        <item quantity="one">Сигнал будет отключен через %d минуту</item>
-        <item quantity="few">Сигнал будет отключен через %d минуты</item>
-        <item quantity="many">Сигнал будет отключен через %d минут</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d минут</item>
-        <item quantity="one">1 минута</item>
-        <item quantity="few">%1$d минуты</item>
-        <item quantity="many">%1$d минут</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d секунд</item>
-        <item quantity="one">1 секунда</item>
-        <item quantity="few">%1$d секунды</item>
-        <item quantity="many">%1$d секунд</item>
-    </plurals>
 </resources>

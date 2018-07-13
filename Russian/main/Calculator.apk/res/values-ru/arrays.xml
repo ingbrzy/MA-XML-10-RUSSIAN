@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mortgage_repayment">
+        <item>Равные взносы</item>
+        <item>По убывающей</item>
+    </string-array>
     <string-array name="operatorDescs">
         <item>левая скобка</item>
         <item>правая скобка</item>
@@ -18,10 +22,6 @@
         <item>косинус</item>
         <item>пи</item>
         <item>равно</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Аннуитетный</item>
-        <item>Дифференцированный</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>

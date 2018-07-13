@@ -33,8 +33,8 @@
     <string name="adjust_vignette">Виньетка</string>
     <string name="ai_album_open_switch_button_title">Начать анализ фото</string>
     <string name="ai_album_requesting_title">Алгоритм ИИ все еще обрабатывает ваши фото. Вернитесь через пару минут.</string>
-    <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли находить их быстрее.</string>
-    <string name="ai_album_setting_title">Определение объектов на фото</string>
+    <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли быстрее их находить</string>
+    <string name="ai_album_setting_title">Определять объекты на фото</string>
     <string name="album_already_exists_check">Просмотреть</string>
     <string name="album_already_exists_msg">Альбом \"%s\" уже существует</string>
     <string name="album_already_forced_top">Альбом закреплен</string>
@@ -54,6 +54,7 @@
     <string name="album_name_people">Лица</string>
     <string name="album_name_recent_discovery">Недавние</string>
     <string name="album_name_tags">Метки</string>
+    <string name="album_notes">Заметки</string>
     <string name="album_others_share_baby_info_format">Альбом ребенка от \"%s\"</string>
     <string name="album_others_share_info_format">От пользователя \"%s\"</string>
     <string name="album_owner_share">Общие</string>
@@ -160,7 +161,7 @@
     <string name="backup_no_network_title">Нет связи с Mi Cloud</string>
     <string name="backup_no_wifi_btn_text">Продолжить</string>
     <string name="backup_no_wifi_desc">Также можно выгружать объекты через мобильный интернет</string>
-    <string name="backup_no_wifi_title">Синхронизация будет возобновлена после подключения к сети Wi-Fi</string>
+    <string name="backup_no_wifi_title">Синхронизация возобновится после подключения к Wi-Fi</string>
     <string name="backup_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Никогда не использовать мобильный интернет для выгрузки фото или видео</string>
     <string name="backup_only_wifi_dialog_message">Использовать мобильный интернет для выгрузки фото и видео?</string>
@@ -206,8 +207,8 @@
     <string name="change_to_face_mode">Показывать только лицо</string>
     <string name="change_to_photo_mode">Показывать полную версию</string>
     <string name="change_to_visible">Восстановить фото?</string>
-    <string name="checked">Selected</string>
-    <string name="checked_something">Selected %s</string>
+    <string name="checked">Выбрано</string>
+    <string name="checked_something">Выбрано %s</string>
     <string name="choose_baby_sexy">Пол</string>
     <string name="choose_owner_relation">Отношения</string>
     <string name="choose_people">Выберите альбом</string>
@@ -373,8 +374,7 @@
     <string name="enable_cloud_for_sharing">Для просмотра общих фото включите альбомы Mi Cloud.</string>
     <string name="enable_face_album_summary">Автоматически сортировать фото по лицам изображенных на них людей</string>
     <string name="enable_face_album_title">Альбом \"Лица\"</string>
-    <string name="enabling_face_feature">Секунду…</string>
-    <string name="enter_choice_mode">Entered Share dialog</string>
+    <string name="enter_choice_mode">Диалог общего доступа открыт</string>
     <string name="enter_email_hint">Введите адрес Email</string>
     <string name="error_album_not_exist">Альбом не существует</string>
     <string name="error_build_thumbnail_action">Скачать оригинал</string>
@@ -419,7 +419,7 @@
     <string name="error_not_synced_tip">Данные не синхронизированы.</string>
     <string name="error_over_quota_tip">Слишком много запросов. Подождите немного и повторите попытку.</string>
     <string name="error_repeat_apply">Вы уже поделились альбомом</string>
-    <string name="error_share_not_support">Обмен облачными альбомами временно недоступен</string>
+    <string name="error_share_not_support">Эта функция пока не поддерживается</string>
     <string name="error_share_with_creator">Вы уже являетесь участником этого альбома</string>
     <string name="error_socket_timeout">Время ожидания истекло</string>
     <string name="error_socket_timeout_action">Выбрать сеть</string>
@@ -438,7 +438,7 @@
     <string name="error_unknown_msg">Произошла ошибка. Пришлите нам отчет.</string>
     <string name="error_unknown_tip">Произошла ошибка.</string>
     <string name="exit">Выход</string>
-    <string name="exit_choice_mode">Left Share dialog</string>
+    <string name="exit_choice_mode">Диалог общего доступа закрыт</string>
     <string name="exit_share">Выйти из альбома</string>
     <string name="exit_share_failed">Не удалось выйти из альбома \"%1$s\"</string>
     <string name="exit_share_in_process">Выход из альбома \"%s\"…</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">Выход</string>
     <string name="expand_desc">Еще</string>
     <string name="expand_people">Показать другие лица</string>
-    <string name="face_album_detecting_tip">Секунду…</string>
     <string name="face_album_empty">"Недостаточно фото для распознавания лиц.
 Делайте больше фото ваших друзей!"</string>
     <string name="face_album_empty_syncing">Синхронизация данных, возвращайтесь позже</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">Для выбора нескольких людей или изменения настроек группы, нажмите и удерживайте фото профиля</string>
     <string name="face_album_new_name_hint">Новое имя</string>
     <string name="face_album_not_named">Без имени</string>
-    <string name="face_album_pending_enable_tip">Фото будут отсортированы при подключении к Wi-Fi</string>
     <string name="face_album_rename_hint">Введите имя</string>
     <string name="face_album_title">Фото с %s</string>
     <string name="face_album_use_tip">Фото можно автоматически сортировать по лицам изображенных на них людей</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">Цвета</string>
     <string name="fast_share_auto_render">Улучшение</string>
     <string name="fast_share_auto_render_finish">Улучшено</string>
-    <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_photo_effects">"Доступны новые
+фотоэффекты"</string>
+    <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
@@ -575,8 +578,8 @@
     <string name="image_invalid_path">Недопустимый путь</string>
     <string name="image_not_found">Не удалось найти изображение</string>
     <string name="image_quota_fulfiled">Слишком много изображений. Удалите часть изображений и повторите попытку.</string>
-    <string name="image_with_time">Photo taken on %s</string>
-    <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
+    <string name="image_with_time">Фото снято в %s</string>
+    <string name="image_with_time_and_location">Фото снято в %1$s. Место: %2$s.</string>
     <string name="impunity_declaration_settings">Запрашивать доступ к интернету</string>
     <string name="impunity_declaration_summary">Запрос доступа к интернету при каждом запуске приложения</string>
     <string name="initializing_cloud">Инициализация…</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">Загрузка плагина…</string>
     <string name="photo_save_to_msg">Сохранено в %s</string>
     <string name="photomovie_audio_custom">На устройстве</string>
+    <string name="photomovie_audio_default">Память</string>
+    <string name="photomovie_audio_kawaii">Романтика</string>
+    <string name="photomovie_audio_light">Баллада</string>
+    <string name="photomovie_audio_linear">Рок</string>
     <string name="photomovie_audio_none">Нет</string>
+    <string name="photomovie_audio_soft">Укулеле</string>
+    <string name="photomovie_audio_sport">Техно</string>
     <string name="photomovie_cancel_download">Отмена</string>
     <string name="photomovie_delete_disable">Для создания клипа нужно не менее 3 фото.</string>
     <string name="photomovie_download">Загрузить</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">Музыка</string>
     <string name="photomovie_tab_template">Шаблон</string>
     <string name="photomovie_template_default">Медленный</string>
+    <string name="photomovie_template_kawaii">Чары</string>
+    <string name="photomovie_template_light">Бриз</string>
+    <string name="photomovie_template_linear">Дорога</string>
+    <string name="photomovie_template_soft">Молодость</string>
+    <string name="photomovie_template_sport">Энергия</string>
     <string name="pick_from_contact">Выбрать из контактов</string>
     <string name="pick_too_many_recipients">Слишком много получателей</string>
     <string name="picker_cancel_download">Отменить загрузку</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d из выбранных фото нет на устройстве. Они будут загружены.</string>
     <string name="picker_no_network_message">Подключитесь к сети для загрузки</string>
     <string name="picker_origin_need_download">%1$d из выбранных фото (%2$d МБ) нет на устройстве. Загрузить через мобильный интернет?</string>
+    <string name="picker_origin_request_progress_message">Подготовка исходных файлов (%1$d/%2$d)…</string>
     <string name="picker_title_format">Выберите от %1$d до %2$d фото</string>
     <string name="picker_title_selection_format">Выбрано фото: %d</string>
     <string name="picker_title_selection_format_multiple">Выберите от %1$d до %2$d фото (%3$d)</string>
@@ -911,7 +927,7 @@
     <string name="rename_fail_msg">Не удалось переименовать</string>
     <string name="rename_from_contact">Использовать имя контакта</string>
     <string name="request_qr_code_failed">Ошибка получения QR-кода</string>
-    <string name="request_sms_url_failed">Не удалось запросить информацию</string>
+    <string name="request_sms_url_failed">Не удалось получить данные</string>
     <string name="request_sms_url_msg">Запрос информации…</string>
     <string name="request_sms_url_title">Предупреждение</string>
     <string name="retry_to_create_album">Повторить</string>
@@ -928,7 +944,7 @@
     <string name="search_clear_histories">Очистить</string>
     <string name="search_connection_error">Не удалось подключиться к сети</string>
     <string name="search_connection_error_and_set">Нажмите для проверки настроек</string>
-    <string name="search_empty_title">Найти фото с определенными людьми, местами и объектами в вашей Галерее</string>
+    <string name="search_empty_title">Поиск фото с конкретными людьми, местами и объектами</string>
     <string name="search_error">Произошла ошибка</string>
     <string name="search_error_and_retry">Произошла ошибка, нажмите для повтора</string>
     <string name="search_failed_mark_feedback_false_negative">Не удалось добавить</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">Произошла ошибка сети. Подключитесь к другой сети и повторите попытку.</string>
     <string name="search_request_applied">Применено</string>
     <string name="search_request_open">Присоединяйтесь к команде тестирования</string>
+    <string name="search_request_requesting">Применено. Подождите немного, прежде чем начать.</string>
     <string name="search_result_empty">Ничего не найдено</string>
     <string name="search_retry">Повторить</string>
     <string name="search_select_network">Выбрать сеть</string>
     <string name="search_set_network_connection">Настройки сети</string>
     <string name="search_setting_sub_title">Ищите людей, места и объекты на ваших фото</string>
-    <string name="search_setting_sub_title_open">Применено. Подождите немного, прежде чем начать.</string>
     <string name="search_setting_title">Поиск фото в Галерее</string>
     <string name="search_syncing">Синхронизация данных, возвращайтесь позже</string>
     <string name="search_title_album">Альбом</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">Файл слишком большой</string>
     <string name="secret_reason_type_not_support">Тип файла не поддерживается</string>
     <string name="secret_reason_unknow_reasons">Неизвестная ошибка</string>
+    <string name="secret_reason_video_not_support">Невозможно добавить видео в скрытый альбом</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
@@ -1027,12 +1047,12 @@
     <string name="slideshow_interval_dialog_title">Введите интервал</string>
     <string name="slideshow_interval_invalid">Интервал должен составлять от 3 до 3600 секунд</string>
     <string name="slideshow_interval_title">Интервал слайд-шоу</string>
-    <string name="slideshow_interval_value">%1$d сек.</string>
+    <string name="slideshow_interval_value">%1$d с</string>
     <string name="slim_complete">Готово</string>
     <string name="slim_complete_action_title">Оптимизация завершена</string>
-    <string name="slim_cost_time_minute">Осталось %d мин.</string>
-    <string name="slim_cost_time_minute_and_second">Осталось %1$d мин. %2$d сек.</string>
-    <string name="slim_cost_time_second">Осталось %d сек.</string>
+    <string name="slim_cost_time_minute">Осталось %d мин</string>
+    <string name="slim_cost_time_minute_and_second">Осталось %1$d мин %2$d с</string>
+    <string name="slim_cost_time_second">Осталось %d с</string>
     <string name="slim_description_dialog_detail">Уменьшите размер локальных фото. Исходные файлы будут храниться в Mi Cloud.</string>
     <string name="slim_description_dialog_ok">Понятно</string>
     <string name="slim_description_dialog_slim_after">После: 167 КБ</string>
@@ -1062,7 +1082,7 @@
     <string name="sticker_words">Слова</string>
     <string name="storage_description_primary">Внутренняя память</string>
     <string name="storage_description_sdcard">SD карта</string>
-    <string name="storage_description_usb">USB storage</string>
+    <string name="storage_description_usb">USB накопитель</string>
     <string name="storage_description_xspace">Данные клонов</string>
     <string name="storage_no_space">Недостаточно места</string>
     <string name="sub_discard_confirm_message">Сохранить изменения?</string>
@@ -1128,8 +1148,8 @@
     <string name="turn_off_and_move">Отключить и переместить</string>
     <string name="turn_on_and_remove">Включить и переместить</string>
     <string name="turn_on_sync">Синхронизировать</string>
-    <string name="unchecked">Deselected</string>
-    <string name="unchecked_something">Deselected %s</string>
+    <string name="unchecked">Не выбрано</string>
+    <string name="unchecked_something">Не выбрано %s</string>
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="unpublish_succeeded">Общий доступ к альбому закрыт</string>
     <string name="unpublishing">Отмена…</string>
@@ -1142,7 +1162,7 @@
     <string name="video_edit_file_not_exits_tip">Сначала загрузите видео</string>
     <string name="video_editor_abandon_changes_tip_message">Отменить все изменения?</string>
     <string name="video_editor_abandon_changes_tip_title">Отмена изменений</string>
-    <string name="video_editor_adjust">Усилить</string>
+    <string name="video_editor_adjust">Улучшение</string>
     <string name="video_editor_analyzing">Анализ видео…</string>
     <string name="video_editor_audio">Аудио</string>
     <string name="video_editor_audio_custom">Выбрать</string>
@@ -1193,7 +1213,7 @@
     <string name="video_editor_more">Еще</string>
     <string name="video_editor_not_support_tips">Такие видеофайлы не поддерживаются</string>
     <string name="video_editor_ok">OK</string>
-    <string name="video_editor_regulator">Настроить</string>
+    <string name="video_editor_regulator">Уровни</string>
     <string name="video_editor_res_download_failed_tips">Ошибка загрузки, проверьте настройки сети и повторите попытку</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Загрузить саундтреки через мобильный интернет?</string>
     <string name="video_editor_res_download_mobil_network_confirm_title">Используется мобильный интернет</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">Движение</string>
     <string name="video_editor_smart_effect_freesze">Остановка движения</string>
     <string name="video_editor_smart_effect_halo">Сияние</string>
-    <string name="video_editor_smart_effect_high_iframes_text">Этот эффект лучше всего работает с видео с высокой частотой кадров.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">Этот эффект лучше всего подходит для 120 fps видео.</string>
     <string name="video_editor_smart_effect_movie">Фильм</string>
     <string name="video_editor_smart_effect_none">Нет</string>
     <string name="video_editor_smart_effect_radical">Оптимистичный</string>
@@ -1221,28 +1241,29 @@
     <string name="video_editor_text">Текст</string>
     <string name="video_editor_text_default">По умолчанию</string>
     <string name="video_editor_text_edit_all">Все</string>
-    <string name="video_editor_text_edit_end">Аутро</string>
+    <string name="video_editor_text_edit_end">Конец</string>
     <string name="video_editor_text_edit_input_all_hint">Введите текст</string>
     <string name="video_editor_text_edit_input_end_hint">Введите данные</string>
     <string name="video_editor_text_edit_input_hint">Введите текст</string>
     <string name="video_editor_text_edit_input_open_hint">Введите название</string>
-    <string name="video_editor_text_edit_start">Интро</string>
+    <string name="video_editor_text_edit_start">Начало</string>
     <string name="video_editor_text_input_empty_tips">Похоже, вы не ввели текст</string>
     <string name="video_editor_text_preview_text">Aa</string>
     <string name="video_editor_trim">Обрезка</string>
     <string name="video_editor_unsupport_audio_file">Тип аудио не поддерживается</string>
     <string name="video_editor_unzip_file_fail">Не удалось распаковать видео.</string>
     <string name="video_editor_video_is_short">Редактирование этого видео невозможно.</string>
+    <string name="video_editor_video_loading">Подготовка видео. Подождите немного и повторите попытку.</string>
     <string name="video_editor_watermark">Водяной знак</string>
     <string name="video_err">Не удается воспроизвести видео</string>
     <string name="video_not_exist">Видео не существует</string>
-    <string name="video_with_time">Video taken on %s</string>
-    <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
+    <string name="video_with_time">Видео снято в %s</string>
+    <string name="video_with_time_and_location">Видео снято в %1$s. Место: %2$s.</string>
     <string name="view_by_gallery_tip">Галерея MIUI</string>
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
-    <string name="view_queuing_status">Проверить статус</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>

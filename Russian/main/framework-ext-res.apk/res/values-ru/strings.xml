@@ -168,7 +168,7 @@
     <string name="switch_desc_tv">Два пространства. Одно устройство.</string>
     <string name="switch_brand_desc_tv">Сервисы безопасности предоставлены Spaces Mobile</string>
     <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
-    <string name="super_resolution_maintain_tips">Суперразрешение пока недоступно.</string>
+    <string name="super_resolution_maintain_tips">Суперразрешение пока недоступно</string>
     <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>

@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">Не удается подключиться к сети. Для просмотра информации посетите %s</string>
     <string name="passport_login_failed">Ошибка авторизации</string>
     <string name="passport_reg_failed">Ошибка регистрации</string>
-    <string name="passport_verification_failed">Ошибка аутентификации</string>
+    <string name="passport_verification_failed">Не удалось проверить аккаунт</string>
     <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
     <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>

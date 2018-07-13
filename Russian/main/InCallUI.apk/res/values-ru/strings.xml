@@ -124,7 +124,7 @@
     <string name="user_locked_prompt">Разблокируйте устройство для доступа к контактам.</string>
     <string name="package_not_available">\"%s\" недоступен</string>
     <string name="select_voice_call_sim">Выберите SIM-карту</string>
-    <string name="msim_select_default_time_left">(%d сек.)</string>
+    <string name="msim_select_default_time_left">(%d с)</string>
     <string name="select_sim_hint">Нельзя использовать SIM %2$d, когда SIM %1$d занята.</string>
     <string name="select_one_sim_title">Можно использовать только SIM %1$d</string>
     <string name="can_not_use">Использование невозможно</string>

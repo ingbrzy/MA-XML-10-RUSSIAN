@@ -354,6 +354,12 @@
         <item quantity="few">Осталось %1$d шага до отправки отчета об ошибках</item>
         <item quantity="many">Осталось %1$d шагов до отправки отчета об ошибках</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Осталось %1$d шагов до сброса к заводским настройкам</item>
+        <item quantity="one">Остался %1$d шаг до сброса к заводским настройкам</item>
+        <item quantity="few">Осталось %1$d шага до сброса к заводским настройкам</item>
+        <item quantity="many">Осталось %1$d шагов до сброса к заводским настройкам</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d приложения без ограничений мобильного Интернета</item>
         <item quantity="one">%d приложение без ограничений мобильного Интернета</item>

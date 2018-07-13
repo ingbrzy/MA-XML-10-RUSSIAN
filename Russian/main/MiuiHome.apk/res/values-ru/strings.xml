@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -24,7 +25,7 @@
     <string name="announce_for_edit_mode">Вы вошли в режим редактирования</string>
     <string name="announce_for_edit_mode_disable">Вы вышли из режима редактирования</string>
     <string name="announce_for_move">Переместить в строку %1$d столбец %2$d</string>
-    <string name="announce_for_move_hotseat">Переместить в позицию %1$d</string>
+    <string name="announce_for_move_hotseat">Переместить в избранные позиция %1$d</string>
     <string name="announce_for_open_default_preview">Открыты настройки выбора основного экрана</string>
     <string name="announce_for_open_folder">Открыта папка %1$s</string>
     <string name="announce_for_open_launcher_menu">Меню открыто</string>
@@ -114,8 +115,8 @@
     <string name="editing_add_widget_tips">Виджеты</string>
     <string name="editing_mode_enter_tip_text">Используйте \"щипок\" для редактирования рабочего стола</string>
     <string name="editing_mode_title_empty">Ничего не выбрано</string>
-    <string name="editing_set_screen_layout_cells">Выберите сетку рабочего стола</string>
-    <string name="editing_set_transition_effect_tips">Выберите эффект смены экранов</string>
+    <string name="editing_set_screen_layout_cells">Сетка рабочего стола</string>
+    <string name="editing_set_transition_effect_tips">Эффекты смены экранов</string>
     <string name="editing_set_wallpaper_tips">Обои</string>
     <string name="editing_tips">Режим редактирования</string>
     <string name="emptyplaylist">Нажмите на виджет</string>
@@ -201,7 +202,7 @@
     <string name="lock_screen_success_message">Обои экрана блокировки установлены</string>
     <string name="lock_screen_wallpaper">Обои экрана блокировки</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-    <string name="memory_clear_result">Освобождено %1$sБ</string>
+    <string name="memory_clear_result">Очищено %1$sB памяти</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_auto_fill">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
@@ -282,7 +283,7 @@
     <string name="refresh">Обновить</string>
     <string name="reset_description_first_time">Вы можете восстановить макет с %1$s в течение 2 часов</string>
     <string name="reset_description_others">Вы можете восстановить макет с %1$s</string>
-    <string name="reset_fail">Не удалось восстановить</string>
+    <string name="reset_fail">Восстановление не удалось</string>
     <string name="reset_scene_prompt">Расположение иконок на рабочем столе будет сброшено по умолчанию</string>
     <string name="reset_title">Восстановить</string>
     <string name="screen_cells_config_title">Сетка рабочего стола</string>

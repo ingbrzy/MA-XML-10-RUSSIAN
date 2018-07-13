@@ -901,6 +901,16 @@
     <string name="brightness_title">Яркость</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению.</string>
+    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению
+Эту функцию можно отключить в [Настройках]"</string>
+    <string name="bt_ldac_dialog_title">Текущее устройство поддерживает LDAC, который включен по умолчанию:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению.</string>
+    <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
+    <string name="bt_ldac_pre_summary">Обеспечивает высококачественный звук</string>
+    <string name="bt_ldac_property">Свойства</string>
+    <string name="bt_ldac_remember_choice">Запомнить выбор</string>
+    <string name="bt_ldac_settings">Настройки</string>
     <string name="bt_rarely_used_device_title">Редко используемые (%d)</string>
     <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
     <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
@@ -1841,6 +1851,8 @@
     <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s​</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="firmware_version">Версия Android</string>
+    <string name="flash_drive_backup_restore">Резервирование на USB</string>
+    <string name="flash_drive_backup_restore_summary">Подключите USB накопитель</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
     <string name="fluency_mode">Системные анимации</string>
@@ -1936,6 +1948,7 @@
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="gadget_state_off">отключено</string>
     <string name="gadget_state_on">включено</string>
+    <string name="gadget_state_template">%1$s: %2$s</string>
     <string name="gadget_state_turning_off">выключение…</string>
     <string name="gadget_state_turning_on">включение…</string>
     <string name="gadget_sync">Синхронизация</string>
@@ -2225,6 +2238,7 @@
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="link_speed">%1$d Мбит/с</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="loading_notification_apps">Загрузка...</string>
@@ -2315,9 +2329,9 @@
     <string name="lock_screen_notifications_interstitial_title_profile">Уведомления профиля</string>
     <string name="lock_screen_notifications_summary_disable">Не показывать уведомления</string>
     <string name="lock_screen_notifications_summary_disable_profile">Не показывать рабочие уведомления</string>
-    <string name="lock_screen_notifications_summary_hide">Все уведомления без их содержимого</string>
+    <string name="lock_screen_notifications_summary_hide">Скрывать содержимое уведомлений</string>
     <string name="lock_screen_notifications_summary_hide_profile">Скрывать конфиденц. данные в рабочих уведомлениях</string>
-    <string name="lock_screen_notifications_summary_show">Все уведомления и их содержимое</string>
+    <string name="lock_screen_notifications_summary_show">Показывать уведомления полностью</string>
     <string name="lock_screen_notifications_summary_show_profile">Показывать рабочие уведомления полностью</string>
     <string name="lock_screen_notifications_title">На заблокированном экране</string>
     <string name="lock_screen_signature_summary">Заданный вами текст будет отображен на экране блокировки</string>
@@ -2580,6 +2594,7 @@
     <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
     <string name="memory_usage">Используемая память</string>
     <string name="memory_usage_apps">Использование памяти приложениями</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">За последние 3 часа использовано %1$s памяти</string>
     <string name="menu_cancel">Отменить</string>
     <string name="menu_check">Попробовать</string>
@@ -2618,7 +2633,7 @@
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
-    <string name="miui_lab_ai_cloud_closed">Предзагрузка пока не доступна</string>
+    <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
     <string name="miui_lab_ai_preload_desc">Предзагрузка увеличивает скорость запуска приложений</string>
     <string name="miui_lab_ai_preload_title">Предзагрузка</string>
     <string name="miui_lab_drive_mode_desc">Используйте управление голосом и слушайте сообщения WeChat</string>
@@ -2788,7 +2803,7 @@
     <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение \"%s\" для управления сетевыми подключениями?</string>
     <string name="network_scorer_picker_none_preference">Нет</string>
     <string name="network_scorer_picker_title">Источник рейтинга сетей</string>
-    <string name="network_settings_title">Мобильные сети</string>
+    <string name="network_settings_title">SIM-карты и мобильные сети</string>
     <string name="network_speed_for_apps_close">Закрыть</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Закрыть принудительно?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Невозможно принудительно закрыть системное приложение.</string>
@@ -2811,6 +2826,7 @@
     <string name="nfc_how_it_works_got_it">ОК</string>
     <string name="nfc_how_it_works_title">Как оплатить</string>
     <string name="nfc_more_title">Ещё…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Оплата по умолчанию</string>
     <string name="nfc_payment_default_not_set">Не выбрано</string>
     <string name="nfc_payment_favor_default">Всегда</string>
@@ -3016,6 +3032,7 @@
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overlay_settings">Поверх других приложений</string>
     <string name="owner_info_settings_edit_text_hint">Например, Android Саши</string>
+    <string name="owner_info_settings_status">%1$d из %2$d</string>
     <string name="owner_info_settings_summary">Нет текста</string>
     <string name="owner_info_settings_title">Подпись на экране блокировки</string>
     <string name="owner_space">Первое пространство</string>
@@ -3241,7 +3258,7 @@
     <string name="privacy_authorize_revoke_dialog_title">Отзыв разрешения</string>
     <string name="privacy_authorize_revoke_failed">Не удалось отозвать разрешение</string>
     <string name="privacy_authorize_revoke_success">Разрешение успешно отозвано</string>
-    <string name="privacy_authorize_revoke_time">Отозвать (%1$d сек.)</string>
+    <string name="privacy_authorize_revoke_time">Отозвать (%1$d с)</string>
     <string name="privacy_authorize_revoke_title">Доступ к личным данным</string>
     <string name="privacy_authorize_revoking">Отзыв разрешения…</string>
     <string name="privacy_authorize_success">Разрешение успешно предоставлено</string>
@@ -3252,7 +3269,7 @@
     <string name="privacy_delete_space_dlg_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
     <string name="privacy_dlg_button_cancel">Отмена</string>
     <string name="privacy_factory_reset_dlg_button_text">Сбросить</string>
-    <string name="privacy_factory_reset_dlg_message">Если вы забудете свой пароль, то придется выполнить сброс до заводских настроек для установки нового.</string>
+    <string name="privacy_factory_reset_dlg_message">Если вы забудете свой пароль, то придется выполнить сброс к заводским настройкам для установки нового.</string>
     <string name="privacy_factory_reset_dlg_title">Создайте резервную копию</string>
     <string name="privacy_file">Файлы</string>
     <string name="privacy_gallery">Фотографии</string>
@@ -3307,6 +3324,7 @@
     <string name="private_sms_recording_intro_header">Нарисуйте графический ключ</string>
     <string name="private_sms_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
     <string name="process_dex2oat_label">Оптимизация приложений</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
     <string name="process_provider_in_use_description">Провайдер %1$s используется.</string>
     <string name="process_service_in_use_description">Служба %1$s используется.</string>
@@ -3504,6 +3522,7 @@ UT-интерфейс: %5$s"</string>
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
     <string name="retry">Повторить</string>
+    <string name="rgb_manage_facerecoginition_text">Управление 2D данными лица</string>
     <string name="ring_volume_option_title">Рингтон</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_slot_setting_title">Отдельно для каждой SIM</string>
@@ -3597,7 +3616,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_off_apps_title">Не использовать режим чтения</string>
     <string name="screen_paper_mode_range_title">Настройки</string>
     <string name="screen_paper_mode_set_apps_title">Приложения в режиме чтения</string>
-    <string name="screen_paper_mode_summary">Режим чтения делает цвета дисплея более теплыми, позволяя вашим глазам расслабиться</string>
+    <string name="screen_paper_mode_summary">Делает цвета на экране более теплыми, позволяя вашим глазам расслабиться</string>
     <string name="screen_paper_mode_time_summary">Назначить время включения и выключения режима чтения</string>
     <string name="screen_paper_mode_time_title">Использовать по расписанию</string>
     <string name="screen_paper_mode_title">Режим чтения</string>
@@ -3892,6 +3911,9 @@ UT-интерфейс: %5$s"</string>
     <string name="second_space">Второе пространство</string>
     <string name="secondspace_category">Второе пространство</string>
     <string name="secondspace_delete_space_title">Удалить второе пространство</string>
+    <string name="secspace_fod_finger_tips">Ошибка проверки. Повторите попытку.</string>
+    <string name="secspace_fod_finger_title">Подтвердите отпечаток пальца</string>
+    <string name="secspace_fod_use_password">Введите пароль</string>
     <string name="secure_keyguard_business_title">Блокировка экрана</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_dashboard_summary">Блокировка экрана, цифровой отпечаток</string>
@@ -3912,7 +3934,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_encryption_is_used">Вкл</string>
     <string name="security_encryption_progress_dialog_close">Расшифровка…</string>
     <string name="security_encryption_progress_dialog_open">Шифрование…</string>
-    <string name="security_encryption_rejected_via_home_manager">Эта функция не поддерживается в демонстрационной версии.</string>
+    <string name="security_encryption_rejected_via_home_manager">Эта функция не работает в демонстрационной версии.</string>
     <string name="security_encryption_title">Шифрование устройства</string>
     <string name="security_keyguard_category_name">Экран блокировки</string>
     <string name="security_password_category_name">Блокировка экрана</string>
@@ -4133,8 +4155,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_lock_settings_summary_off">Откл.</string>
     <string name="sim_lock_settings_summary_on">Заблокировано</string>
     <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-    <string name="sim_management_title">Мобильные сети</string>
-    <string name="sim_management_title_singlesim">Мобильные сети</string>
+    <string name="sim_management_title">SIM-карты и мобильные сети</string>
+    <string name="sim_management_title_singlesim">SIM-карта и мобильные сети</string>
     <string name="sim_multi_sims_summary">Выберите SIM-карту для мобильного Интернета.</string>
     <string name="sim_multi_sims_title">Обнаружено более одной SIM-карты</string>
     <string name="sim_name_hint">Укажите название SIM-карты</string>
@@ -4153,6 +4175,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_reenter_new">Введите новый PIN-код ещё раз</string>
     <string name="sim_select_card">Выберите SIM-карту</string>
     <string name="sim_selection_required_pref">Выберите SIM-карту</string>
+    <string name="sim_settings_summary">SIM-карта %1$s: %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБмВт, asu: %2$d</string>
@@ -4166,6 +4189,7 @@ UT-интерфейс: %5$s"</string>
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Все равно пропустить</string>
     <string name="skip_label">Далее</string>
@@ -4229,6 +4253,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_app_enable_message">Метка на иконке</string>
     <string name="status_bar_carrier_settings_no_sim_card">Нет SIM-карты</string>
     <string name="status_bar_key_position_custom">Изменить положение кнопок</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_bar_screen_button_force_immersive_desc">Для показа экранных кнопок проведите по экрану снизу вверх</string>
     <string name="status_bar_screen_button_key_force_immersive">Скрыть экранные кнопки</string>
     <string name="status_bar_screen_key_back">Кнопка \"Назад\"</string>
@@ -4256,10 +4281,11 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_show_carrier_summary">Если эта функция отключена, имя оператора будет по-прежнему отображаться на экране блокировки и в шторке уведомлений</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Имя оператора на экране блокировки</string>
     <string name="status_bar_settings_show_floating_notification">Всплывающие уведомления</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Всплывающие уведомления автоматически исчезнут после отображения в верхней части экрана</string>
+    <string name="status_bar_settings_show_floating_notification_summary">Разрешить важные уведомления в верхней части экрана</string>
     <string name="status_bar_settings_show_flow_info">Расход трафика</string>
     <string name="status_bar_settings_show_home_message">Метка на иконке приложения</string>
     <string name="status_bar_settings_show_keyguard_notification">Экран блокировки</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Разрешить важные уведомления на экране блокировки</string>
     <string name="status_bar_settings_show_network_speed">Скорость сети</string>
     <string name="status_bar_settings_show_notification_icon">Значки уведомлений</string>
     <string name="status_bar_settings_show_wifi_name">Имя Wi-Fi</string>
@@ -4447,6 +4473,7 @@ UT-интерфейс: %5$s"</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
     <string name="structure_add_facerecoginition_text">Добавление 3D данных лица</string>
+    <string name="structure_manage_facerecoginition_text">Управление 3D данными лица</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
     <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка пальца</string>
     <string name="suggested_fingerprint_lock_settings_title">Используйте отпечаток пальца</string>
@@ -4458,10 +4485,11 @@ UT-интерфейс: %5$s"</string>
     <string name="suggestion_remove">Убрать</string>
     <string name="suggestions_title">Подсказки</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
+    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="super_resolution_access_title">Доступные приложения</string>
     <string name="super_resolution_desc">Повышение резкости изображений при помощи алгоритма AI</string>
-    <string name="super_resolution_maintain">Суперразрешение пока недоступно.</string>
+    <string name="super_resolution_maintain">Суперразрешение пока недоступно</string>
     <string name="super_resolution_no_app_tips">Сначала загрузите WeChat и Toutiao.</string>
     <string name="super_resolution_reboot_tips">Эта функция позволяет делать резкими нечеткие изображения в WeChat и Toutiao. После включения этой функции перезапустите приложения.</string>
     <string name="super_resolution_title">Суперразрешение</string>
@@ -4682,7 +4710,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_keyguard_password_alert_choose">Запомните свой пароль. Если вы его забудете, то придется стереть все данные на вашем устройстве для установки нового.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Не сейчас</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Понятно</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d сек.)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d с)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Запомните свой пароль блокировки экрана. Если вы его забудете, то придется стереть все данные, включая фото и контакты, а затем установить новый.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Запомните свой пароль</string>
     <string name="turn_on_security_lock">Способ блокировки</string>

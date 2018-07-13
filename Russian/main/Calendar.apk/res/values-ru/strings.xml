@@ -34,7 +34,9 @@
     <string name="alert_reminder_expired">Срок действия истек</string>
     <string name="alert_title">Уведомления календаря</string>
     <string name="anniversary_event_title">Годовщина: %1$s</string>
+    <string name="anniversary_secondary_tag">Годовщина</string>
     <string name="app_label">Календарь</string>
+    <string name="birthday_born">Дата рождения</string>
     <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
     <string name="birthday_event_description_a_week_ago">Неделю назад:</string>
     <string name="birthday_event_description_a_week_later">Через неделю:</string>
@@ -74,6 +76,7 @@
     <string name="countdown_event_title">Событие: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Событие: %1$s через 3 дня</string>
     <string name="countdown_notify_title">Событие: %1$s</string>
+    <string name="countdown_secondary_tag">Отсчет</string>
     <string name="countdown_today">Сегодня</string>
     <string name="create_an_account_desc">"Подключите Календарь к Mi аккаунту, чтобы:
 
@@ -120,6 +123,7 @@
     <string name="edit_event_birthday_import_from_contact">Импорт дней рождения</string>
     <string name="edit_event_birthday_name_empty_hint">Введите имя</string>
     <string name="edit_event_birthday_name_hint">Имя</string>
+    <string name="edit_event_birthday_reminder_3_days_before">Напомнить за 3 дня</string>
     <string name="edit_event_birthday_reminder_time">Напоминания</string>
     <string name="edit_event_calendar_label">Календарь</string>
     <string name="edit_event_choose_date">Выберите дату</string>
@@ -180,6 +184,10 @@
     <string name="global_football_final">ФИНАЛ</string>
     <string name="global_football_no_match">Сегодня нет матчей по футболу.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_import">Импорт</string>
+    <string name="guide_card_primary_text">Импортируйте дни рождения ваших друзей</string>
+    <string name="guide_card_second_text">Никогда не пропускайте важные даты</string>
+    <string name="guide_card_title">Импорт дней рождения</string>
     <string name="hint_attendees">Гости</string>
     <string name="hint_description">Описание</string>
     <string name="hint_what">Название мероприятия</string>
@@ -417,12 +425,4 @@
     <string name="xiaomi_calendar_display_name">Календарь Mi аккаунта</string>
     <string name="yearly">Ежегодно (%s)</string>
     <string name="yearly_plain">Ежегодно</string>
-    <string name="anniversary_secondary_tag">Годовщина</string>
-    <string name="birthday_born">Дата рождения</string>
-    <string name="countdown_secondary_tag">Отсчет</string>
-    <string name="edit_event_birthday_reminder_3_days_before">Напомнить за 3 дня</string>
-    <string name="guide_card_import">Импорт</string>
-    <string name="guide_card_primary_text">Импортируйте дни рождения ваших друзей</string>
-    <string name="guide_card_second_text">Никогда не пропускайте важные даты</string>
-    <string name="guide_card_title">Импорт дней рождения</string>
 </resources>

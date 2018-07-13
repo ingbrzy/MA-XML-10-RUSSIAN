@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
@@ -62,7 +63,7 @@
     <string name="callAgain">Повторный вызов</string>
     <string name="callBack">Перезвонить</string>
     <string name="callDetailTitle">Информация о вызове</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s мин %s с</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
     <string name="call_assistant">Вызов %s</string>
     <string name="call_callback">Обратный вызов</string>
@@ -99,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -191,7 +193,7 @@
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с устройства не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-    <string name="confirm_delete_contact_all_call_logs">Удалить все записи журнала %s?</string>
+    <string name="confirm_delete_contact_all_call_logs">Удалить все записи для %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить записи журнала вызовов?</string>
     <string name="confirm_delete_sim_entry_miui_title">Удаление контактов</string>
     <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\".</string>
@@ -464,7 +466,7 @@
     <string name="exporting_contact_list_message">Экспорт в %s.</string>
     <string name="exporting_contact_list_progress" formatted="false">Контактов: %s из %s</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-    <string name="exporting_vcard_canceled_title">Экспорт отменен: %s</string>
+    <string name="exporting_vcard_canceled_title">Экспорт файла %s отменен</string>
     <string name="exporting_vcard_finished_title">Экспорт файла %s завершен</string>
     <string name="external_profile_title">Мой профиль %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Ошибка экспорта: %s.</string>
@@ -488,6 +490,7 @@
     <string name="force_touch_new_contact">Новый контакт</string>
     <string name="foundTooManyContacts">Найдено более %d.</string>
     <string name="frequentList">Часто вызываемые</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
@@ -566,6 +569,7 @@
     <string name="keep_local">Сохранить локально</string>
     <string name="keep_local_btn">Во внутреннюю память</string>
     <string name="label_custom_type">Особый</string>
+    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Дубликаты контактов не найдены</string>
     <string name="label_notes">Примечания</string>
     <string name="label_sip_address">Интернет вызов</string>
@@ -669,6 +673,7 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
@@ -756,7 +761,7 @@
 • Синхронизировать все контакты – Вы никогда не потеряете их"</string>
     <string name="no_contact_details">Нет других данных об этом контакте</string>
     <string name="no_contact_in_other_phone">Нет контактов</string>
-    <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно, контакты находятся на SIM карте. Для поиска импортируйте их в память устройства.</string>
+    <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно, контакты находятся на SIM карте. Для поиска импортируйте их во внутреннюю память.</string>
     <string name="no_contacts_dialog_title">Контакты не найдены</string>
     <string name="no_contacts_selected">Контакты не выбраны</string>
     <string name="no_sdcard_message">SD карта не обнаружена.</string>
@@ -813,7 +818,10 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Управление контактами/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -884,7 +892,7 @@
     <string name="preference_phone">Устройство</string>
     <string name="preference_phone_more_title">Вызовы</string>
     <string name="preference_remove_duplicate">Объединение дубликатов</string>
-    <string name="preference_show_firewall_calllog">Show blocked calls in call history</string>
+    <string name="preference_show_firewall_calllog">Показывать заблокированные вызовы в журнале</string>
     <string name="preference_show_yellowpage_tab_description">Если эта функция отключена, Справочник может не работать должным образом</string>
     <string name="preference_show_yellowpage_tab_title">Показывать Справочник</string>
     <string name="preference_simple_mode_description">Показывать фото и данные контактов в режиме списка</string>
@@ -1060,6 +1068,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1122,6 +1131,8 @@
     <string name="title_other_devices">Другие доступные устройства</string>
     <string name="title_paired_devices">Подключенные устройства</string>
     <string name="toast_call_detail_error">Не удалось получить информацию о вызове</string>
+    <string name="toast_call_no_SoundRecorder">Recorder app not available</string>
+    <string name="toast_call_no_notes">Notes app not available</string>
     <string name="toast_copy_done">Копирование завершено</string>
     <string name="toast_copying">Копирование…</string>
     <string name="toast_displaying_all_contacts">Отображение всех контактов</string>
@@ -1192,6 +1203,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
