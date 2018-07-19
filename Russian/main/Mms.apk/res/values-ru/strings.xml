@@ -49,7 +49,7 @@
     <string name="block_messaging_entry_title">Заблокированные SMS</string>
     <string name="block_support_text">Поддержка: Antiy</string>
     <string name="bookmark">Избранные</string>
-    <string name="bookmark_confirm_delete_message">Убрать сообщение из списка избранных?</string>
+    <string name="bookmark_confirm_delete_message">Удалить из списка избранных?</string>
     <string name="bookmark_empty">Нет избранных сообщений</string>
     <string name="bookmark_list_title">Избранные</string>
     <string name="button_emoji_creature">Животные</string>
@@ -127,7 +127,7 @@
     <string name="copy_to_sdcard_fail">Не удалось сохранить вложение</string>
     <string name="copy_to_sdcard_success">Вложение сохранено как \"%s\"</string>
     <string name="delete">Удалить</string>
-    <string name="delete_bookmark">Убрать из избранных</string>
+    <string name="delete_bookmark">Удалить из избранных</string>
     <string name="delete_message">Удалить</string>
     <string name="delete_phrase">Удалить шаблон</string>
     <string name="delete_unlocked">Удалить закрепленные сообщения</string>
@@ -154,7 +154,7 @@
     <string name="downloading_file_can_not_play">Загрузка записи…</string>
     <string name="draft">Черновик</string>
     <string name="duration_not_a_number">Должно быть указано числовое значение</string>
-    <string name="duration_sec">Длительность показа (%s сек.)</string>
+    <string name="duration_sec">Длительность показа (%s с)</string>
     <string name="duration_selector_title">"Длительность показа слайда "</string>
     <string name="duration_zero">Значение должно быть больше нуля</string>
     <string name="earlier">Более старые</string>
@@ -193,6 +193,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_prefix">"FW: "</string>
@@ -515,7 +516,7 @@
     <string name="search_title_mms">Сообщения</string>
     <string name="second_mms_introduction">Перейти во второе пространство</string>
     <string name="second_mms_switch">Перейти</string>
-    <string name="secs">сек.</string>
+    <string name="secs">с</string>
     <string name="security_alert_desc"><font color="#7f000000">"Отправителя нет в списке ваших контактов.\"
 \" "</font></string>
     <string name="security_alert_desc_highlight">Пожаловаться на абонента</string>
@@ -544,6 +545,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -670,7 +672,7 @@
     <string name="view_bookmark">Открыть в диалоге</string>
     <string name="view_message_details">Информация о сообщении</string>
     <string name="wap_push_title">[WAP Push] </string>
-    <string name="warning_show">Отправка через %d сек.</string>
+    <string name="warning_show">Отправка через %d с</string>
     <string name="wild_msg_processing">Обработка…</string>
     <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
     <string name="yes">OK</string>

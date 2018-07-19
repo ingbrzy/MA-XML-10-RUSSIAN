@@ -432,6 +432,7 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -957,6 +958,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Это приложение может замедлить
 работу вашего устройства"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Удалить %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Удалите это приложение для решения проблем с батареей.</string>
     <string name="om_ill_proc_type_wakelock_title">Приложение блокирует спящий режим и разряжает батарею</string>
@@ -973,7 +975,7 @@
     <string name="om_ill_proc_type_radio_detail">Решите проблемы с сетевым подключением</string>
     <string name="om_ill_proc_activity_title">Проблемы</string>
     <string name="power_center_title">Питание</string>
-    <string name="power_center_back">Вернуться в Питание</string>
+    <string name="power_center_back">Назад</string>
     <string name="power_center_auto_shutdown">Таймер питания</string>
     <string name="power_center_ontime_boot">Включение по расписанию</string>
     <string name="power_center_time_to_boot">Время включения</string>
@@ -1015,6 +1017,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1361,11 +1364,13 @@
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
     <string name="menu_summary_networkassistants">Управляйте своим тарифом</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1378,12 +1383,14 @@
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
     <string name="menu_summary_power_manager_4">До полного заряда %s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Можно оптимизировать несколько объектов</string>
@@ -1576,14 +1583,14 @@
     <string name="title_flow_notification">Уведомления о трафике</string>
     <string name="summary_flow_notification">Показывать статистику трафика в шторке уведомлений</string>
     <string name="title_flow_purchase">Предоплата трафика</string>
-    <string name="summary_flow_purchase">Похоже, осталось не так много трафика. Купите трафик, чтобы оставаться на связи.</string>
+    <string name="summary_flow_purchase">Осталось не так много трафика. Купите трафик, чтобы оставаться на связи.</string>
     <string name="title_show_notification">Виджет в шторке уведомлений</string>
     <string name="summary_show_notification">Очищайте память, управляйте батареей и антиспамом из шторки уведомлений</string>
     <string name="title_garbage_lib">Обновить базы очистки</string>
     <string name="summary_garbage_lib">Включите автообновление базы очистки</string>
     <string name="title_device_not_root">ROOT доступ не разрешен</string>
     <string name="title_permission_root">ROOT доступ</string>
-    <string name="summary_permission_root">Похоже, это устройство имеет ROOT доступ. Это может повлиять на безопасность устройства.</string>
+    <string name="summary_permission_root">Устройство имеет ROOT доступ. Это может повлиять на безопасность устройства.</string>
     <string name="title_app_update">Доступны обновления</string>
     <string name="title_find_device">Поиск устройства</string>
     <string name="summary_find_device">Находите и блокируйте устройство откуда угодно</string>
@@ -1749,6 +1756,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -2284,8 +2292,8 @@
     <string name="gamebox_type_gesture">Провести для показа</string>
     <string name="gb_first_window_title">Ускорение игр</string>
     <string name="gb_first_window_summary">Повышайте производительность на системном уровне</string>
-    <string name="gb_first_window_gamebox_summary_four">Освобождайте память, делайте записи и снимки экрана</string>
-    <string name="gb_first_window_gamebox_summary_six">Используйте быстрые ответы, делайте записи и снимки экрана</string>
+    <string name="gb_first_window_gamebox_summary_four">Используйте быстрые ответы, делайте записи и снимки экрана</string>
+    <string name="gb_first_window_gamebox_summary_six">Освобождайте память, делайте записи и снимки экрана</string>
     <string name="gb_first_window_handsfree_title">Свободные руки</string>
     <string name="gb_first_window_handsfree_summary">Динамик включается автоматически</string>
     <string name="gb_first_window_antimsg_title">Удобные уведомления</string>

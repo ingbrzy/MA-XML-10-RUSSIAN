@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_google_play_services_api_unavailable_text">Сервисы Google Play, необходимые для работы с приложением \"%1$s\", сейчас недоступны. Обратитесь за помощью к разработчику.</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -8,17 +7,7 @@
     <string name="common_google_play_services_install_text_phone">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
     <string name="common_google_play_services_install_text_tablet">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
     <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
-    <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
-    <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
-    <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети передачи данных.</string>
-    <string name="common_google_play_services_network_error_title">Ошибка сети</string>
     <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
-    <string name="common_google_play_services_resolution_required_text">Выполните действие, запрашиваемое приложением \"%1$s\".</string>
-    <string name="common_google_play_services_resolution_required_title">Требуется выполнить действие</string>
-    <string name="common_google_play_services_restricted_profile_text">У вашего профиля нет доступа к аккаунтам.</string>
-    <string name="common_google_play_services_restricted_profile_title">Профиль с ограниченным доступом</string>
-    <string name="common_google_play_services_sign_in_failed_text">При входе в указанный аккаунт произошла ошибка. Выберите другой аккаунт.</string>
-    <string name="common_google_play_services_sign_in_failed_title">Ошибка входа</string>
     <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику.</string>
     <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
     <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>

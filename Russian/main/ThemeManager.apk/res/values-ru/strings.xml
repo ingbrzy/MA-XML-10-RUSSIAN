@@ -50,6 +50,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="account_info">Мой аккаунт</string>
     <string name="account_name_not_login">Не авторизован</string>
     <string name="account_unactivated">Аккаунт не активирован</string>
@@ -151,6 +152,7 @@
     <string name="incompatible_dialog_ok">Понятно</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
@@ -342,6 +344,7 @@
     <string name="resource_pack_price_info">Стоимость: %1$s</string>
     <string name="resource_pack_warning">Вы уже купили %1$d компонентов. Будет дешевле докупить остальные компоненты по отдельности.</string>
     <string name="resource_present">Подарок</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Произошла ошибка, повторите попытку</string>
@@ -480,6 +483,7 @@
     <string name="theme_is_external_priority_storage">Сохранять на SD карту</string>
     <string name="theme_is_external_priority_storage_summary">Приложение \"Темы\" перезапустится для применения изменений.</string>
     <string name="theme_multiple_button_title_customize">Компоненты</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_precast_create_notification_content">Нажмите для просмотра новых тем.</string>
     <string name="theme_precast_create_notification_title">Обновлено до MIUI 7</string>

@@ -57,7 +57,7 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_description_content">Приложение используется для навигации и ориентирования и показывает направление. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
-    <string name="open_perm_msg">Компасу требуется доступ к данным местоположения и камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
+    <string name="open_perm_msg">Компасу требуется доступ к местоположению и камере. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
     <string name="open_perm_title">Требуются разрешения</string>
     <string name="cancel">Отмена</string>
     <string name="allow">Разрешить</string>

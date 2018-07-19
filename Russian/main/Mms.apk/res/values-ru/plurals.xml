@@ -67,16 +67,16 @@
         <item quantity="many">Отправлено %1$s сообщений</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">%d сек.</item>
-        <item quantity="few">%d сек.</item>
-        <item quantity="many">%d сек.</item>
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+        <item quantity="many">%d с</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%d сек.</item>
-        <item quantity="one">%d сек.</item>
-        <item quantity="few">%d сек.</item>
-        <item quantity="many">%d сек.</item>
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+        <item quantity="many">%d с</item>
     </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">Не отправлено %d запланированных сообщений</item>

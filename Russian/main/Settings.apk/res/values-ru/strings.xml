@@ -1948,6 +1948,7 @@
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="gadget_state_off">отключено</string>
     <string name="gadget_state_on">включено</string>
+    <string name="gadget_state_template">%1$s: %2$s</string>
     <string name="gadget_state_turning_off">выключение…</string>
     <string name="gadget_state_turning_on">включение…</string>
     <string name="gadget_sync">Синхронизация</string>
@@ -2091,7 +2092,7 @@
     <string name="instant_app_details_summary">Подробнее (%1$s)</string>
     <string name="instant_apps_account">Аккаунт для приложений с мгновенным запуском</string>
     <string name="instruction_privacy_password">Защищаемые объекты</string>
-    <string name="instruction_title">Инструкции</string>
+    <string name="instruction_title">Важная информация о безопасности</string>
     <string name="insufficient_storage">Недостаточно места.</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="intent_sender_sendbroadcast_text">Отправить broadcast</string>
@@ -2237,6 +2238,7 @@
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="link_speed">%1$d Мбит/с</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="loading_notification_apps">Загрузка...</string>
@@ -2592,6 +2594,7 @@
     <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
     <string name="memory_usage">Используемая память</string>
     <string name="memory_usage_apps">Использование памяти приложениями</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">За последние 3 часа использовано %1$s памяти</string>
     <string name="menu_cancel">Отменить</string>
     <string name="menu_check">Попробовать</string>
@@ -2823,6 +2826,7 @@
     <string name="nfc_how_it_works_got_it">ОК</string>
     <string name="nfc_how_it_works_title">Как оплатить</string>
     <string name="nfc_more_title">Ещё…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Оплата по умолчанию</string>
     <string name="nfc_payment_default_not_set">Не выбрано</string>
     <string name="nfc_payment_favor_default">Всегда</string>
@@ -3028,6 +3032,7 @@
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overlay_settings">Поверх других приложений</string>
     <string name="owner_info_settings_edit_text_hint">Например, Android Саши</string>
+    <string name="owner_info_settings_status">%1$d из %2$d</string>
     <string name="owner_info_settings_summary">Нет текста</string>
     <string name="owner_info_settings_title">Подпись на экране блокировки</string>
     <string name="owner_space">Первое пространство</string>
@@ -3239,7 +3244,7 @@
     <string name="print_settings_title">Службы печати</string>
     <string name="printer_info_desc">Подробные сведения о принтере</string>
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
-    <string name="priority_storage_settings_summary">Если SD карта не обнаружена, ваши данные будут автоматически сохраняться во внутреннюю память</string>
+    <string name="priority_storage_settings_summary">При отсутствии SD карты данные будут сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
     <string name="priority_storage_title">Настройки памяти</string>
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Mi Cloud (включая синхронизацию и резервирование)</string>
@@ -3319,6 +3324,7 @@
     <string name="private_sms_recording_intro_header">Нарисуйте графический ключ</string>
     <string name="private_sms_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
     <string name="process_dex2oat_label">Оптимизация приложений</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
     <string name="process_provider_in_use_description">Провайдер %1$s используется.</string>
     <string name="process_service_in_use_description">Служба %1$s используется.</string>
@@ -4169,6 +4175,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_reenter_new">Введите новый PIN-код ещё раз</string>
     <string name="sim_select_card">Выберите SIM-карту</string>
     <string name="sim_selection_required_pref">Выберите SIM-карту</string>
+    <string name="sim_settings_summary">SIM-карта %1$s: %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБмВт, asu: %2$d</string>
@@ -4182,6 +4189,7 @@ UT-интерфейс: %5$s"</string>
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Все равно пропустить</string>
     <string name="skip_label">Далее</string>
@@ -4217,6 +4225,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
     <string name="sound_settings_summary_silent">Включен режим без звука</string>
     <string name="sound_settings_summary_vibrate">Включен вибросигнал</string>
+    <string name="sound_stereo_mode_summary">Доступно только при воспроизведении звука через динамик</string>
+    <string name="sound_stereo_mode_title">Стереозвук</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="sound_work_settings">Сигналы в рабочем профиле</string>
     <string name="special_access">Специальный доступ</string>
@@ -4245,6 +4255,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_app_enable_message">Метка на иконке</string>
     <string name="status_bar_carrier_settings_no_sim_card">Нет SIM-карты</string>
     <string name="status_bar_key_position_custom">Изменить положение кнопок</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_bar_screen_button_force_immersive_desc">Для показа экранных кнопок проведите по экрану снизу вверх</string>
     <string name="status_bar_screen_button_key_force_immersive">Скрыть экранные кнопки</string>
     <string name="status_bar_screen_key_back">Кнопка \"Назад\"</string>
@@ -4415,8 +4426,8 @@ UT-интерфейс: %5$s"</string>
 
 "<b>Все данные, сохраненные на карте \"^1\", будут удалены.</b> Чтобы избежать их потери, создайте их резервную копию.</string>
     <string name="storage_wizard_format_confirm_next">Очистить и отформатировать</string>
-    <string name="storage_wizard_format_confirm_public_body">"Для этого необходимо отформатировать ^1. 
-"<b>Форматирование уничтожит все данные, хранящиеся на ^1.</b> Во избежание потери данных произведите их резервирование.</string>
+    <string name="storage_wizard_format_confirm_public_body">"Потребуется отформатировать устройство ^1.
+"<b>При этом будут удалены все данные на устройстве ^1.</b> Во избежание потери данных произведите их резервирование.</string>
     <string name="storage_wizard_format_confirm_public_title">Форматировать как съемный накопитель</string>
     <string name="storage_wizard_format_confirm_third_body">^1 форматируется</string>
     <string name="storage_wizard_format_confirm_title">Внутренняя память</string>
@@ -4427,8 +4438,8 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_init_internal_summary">Для хранения данных (приложений, фотографий и других файлов) только на этом устройстве. Необходимо отформатировать карту, чтобы ее нельзя было использовать на других устройствах.</string>
     <string name="storage_wizard_init_internal_title">Внутренняя память</string>
     <string name="storage_wizard_init_title">Настройте карту \"^1\"</string>
-    <string name="storage_wizard_migrate_body">"Вы можете переместить фото, файлы и некоторые приложения на ^1. 
-Перемещение займет ^2 и освободит ^3 внутренней памяти. Некоторые приложения не будут работать во время этого процесса."</string>
+    <string name="storage_wizard_migrate_body">"Вы можете переместить фото, файлы и некоторые приложения на устройство ^1.
+Перемещение займет ^2 и освободит ^3 внутренней памяти. Во время этого процесса некоторые приложения работать не будут."</string>
     <string name="storage_wizard_migrate_confirm_body"><b>На это уйдет примерно ^1, после чего освободится ^2 на устройстве \"^3\".</b></string>
     <string name="storage_wizard_migrate_confirm_next">Перенести</string>
     <string name="storage_wizard_migrate_confirm_title">Перенесите данные</string>
@@ -4449,11 +4460,11 @@ UT-интерфейс: %5$s"</string>
 Пока он не завершится, приложение \"^2\" будет недоступно на этом устройстве."</string>
     <string name="storage_wizard_move_progress_cancel">Отменить перенос</string>
     <string name="storage_wizard_move_progress_title">Перенос приложения \"^1\"…</string>
-    <string name="storage_wizard_ready_external_body">Ваша ^1 готова к работе с фото и другими медиафайлами</string>
+    <string name="storage_wizard_ready_external_body">Теперь на устройстве ^1 можно сохранять фото и другие медиафайлы.</string>
     <string name="storage_wizard_ready_internal_body">"Ваша карта \"^1\" готова к работе.
 
 Чтобы перенести на нее фотографии, данные приложений и другие файлы, нажмите \"Настройки > Память\"."</string>
-    <string name="storage_wizard_ready_title">^1 готова</string>
+    <string name="storage_wizard_ready_title">Устройство ^1 готово к работе</string>
     <string name="storage_wizard_slow_body">"^1 работает медленно. 
 
 В перемещенных приложениях могут происходить сбои, а обмен данными может занимать много времени. 
@@ -4464,6 +4475,8 @@ UT-интерфейс: %5$s"</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
     <string name="structure_add_facerecoginition_text">Добавление 3D данных лица</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Батарея разряжена</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Для начала записи заряд батареи должен быть не менее 5%.</string>
     <string name="structure_manage_facerecoginition_text">Управление 3D данными лица</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
     <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка пальца</string>
@@ -4476,6 +4489,7 @@ UT-интерфейс: %5$s"</string>
     <string name="suggestion_remove">Убрать</string>
     <string name="suggestions_title">Подсказки</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
+    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="super_resolution_access_title">Доступные приложения</string>
     <string name="super_resolution_desc">Повышение резкости изображений при помощи алгоритма AI</string>

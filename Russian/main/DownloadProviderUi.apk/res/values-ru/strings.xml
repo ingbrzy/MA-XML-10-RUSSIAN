@@ -106,6 +106,7 @@
     <string name="package_filter">Пакеты</string>
     <string name="other_filter">Прочее</string>
     <string name="xunlei_brand">Поддержка: Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Сервис загрузки Xunlei</string>
     <string name="turn_off_xunlei_title">Отключение Xunlei</string>
     <string name="turn_off_xunlei_message">После отключения возможна более низкая скорость загрузки файлов.</string>
@@ -331,6 +332,8 @@
     <string name="xl_vip_open">Приобрести</string>
     <string name="xl_vip_pay">Продлить</string>
     <string name="xl_vip_overdue">Срок действия истек</string>
+    <string name="download_num_size">%1$s | %2$s</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">Вместе с %1$s пользователи загружали это:</string>
     <string name="rank_data_empty">Нет данных</string>
     <string name="net_error">Не удается подключиться к сети, повторите попытку</string>

@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">Подключите зарядное устройство.</string>
     <string name="asset_sync_power_alert_title">Батарея разряжена</string>
     <string name="audio_picker_title">Выберите трек</string>
-    <string name="auto_payment">Автоматическое продление</string>
-    <string name="auto_payment_date">Следующий платёж: %s</string>
     <string name="available_playlist_name_format">Новый плейлист %d</string>
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">Треки не выбраны</string>
     <string name="backup_immediate">Начать</string>
     <string name="backup_song_title">Выберите треки</string>
-    <string name="being_disable_auto_payment">Отключение…</string>
-    <string name="being_enable_auto_payment">Включение…</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="buffering">Буферизация…</string>
     <string name="button_cancel_download">Отменить</string>
@@ -84,7 +80,7 @@
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="change_download_quality">Изменить качество загрузки</string>
-    <string name="checking_new_version">Проверка наличия обновлений…</string>
+    <string name="checking_new_version">Проверка обновлений…</string>
     <string name="choose_download_quality">Выберите качество загрузки</string>
     <string name="choose_language">Выбрать язык</string>
     <string name="choose_stream_quality">Выберите качество музыки</string>
@@ -130,6 +126,7 @@
     <string name="continue_backup">Продолжить</string>
     <string name="cp_info_first">"Онлайн музыка предоставлена
 сервисом Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Не удалось создать заказ, повторите попытку.</string>
     <string name="create_playlist">Создать плейлист</string>
     <string name="create_playlist_failure">Не удается создать плейлист</string>
@@ -137,7 +134,7 @@
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
-    <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика</string>
+    <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">Удалить</string>
     <string name="delete_download">Удалить</string>
@@ -183,10 +180,6 @@
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="dialog_title_remove_tracks">Убрать</string>
-    <string name="disable_auto_payment_fail">Не удалось отключить</string>
-    <string name="disable_auto_payment_fail_message">Не удалось отключить автоматическое продление</string>
-    <string name="disable_auto_payment_success">Отключено</string>
-    <string name="disable_auto_payment_success_message">Автоматическое продление отключено. Когда текущая подписка закончится, придется подписаться снова.</string>
     <string name="disallow_add_to_fm">Нельзя добавить треки в Радио</string>
     <string name="disallow_add_to_personal_radio">Нельзя добавить треки в персональное радио</string>
     <string name="do_not_remind_this_version">Не напоминать об этой версии</string>
@@ -217,7 +210,7 @@
     <string name="download_done_btn">Загружено</string>
     <string name="download_error">Ошибка</string>
     <string name="download_error_insufficient_space">Недостаточно места</string>
-    <string name="download_fail_to_fetch_info">Не удалось загрузить, попробуйте еще раз</string>
+    <string name="download_fail_to_fetch_info">Ошибка загрузки, повторите попытку</string>
     <string name="download_filesize_unknown">Неизвестно</string>
     <string name="download_in_process">АКТИВНЫЕ</string>
     <string name="download_info_start_deleted_tasks">Удалить загрузки</string>
@@ -225,7 +218,8 @@
     <string name="download_manage_item_complete">ЗАГРУЖЕНО</string>
     <string name="download_method">Загрузка</string>
     <string name="download_no_application_title">Не удается открыть файл</string>
-    <string name="download_paused_in_power_save_mode">Останавливать загрузки при включенной экономии энергии</string>
+    <string name="download_paused_in_power_save_mode">Останавливать при включении экономии энергии</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Загрузка…</string>
     <string name="download_quality">Качество загрузки</string>
     <string name="download_quality_summary">Дополнительные настройки для загруженных треков</string>
@@ -264,10 +258,6 @@
     <string name="edit_playlist_info">Изменить информацию о плейлисте</string>
     <string name="empty_page_no_album">Нет альбомов</string>
     <string name="empty_page_no_artist">Нет исполнителей</string>
-    <string name="enable_auto_payment_fail">Не удалось включить</string>
-    <string name="enable_auto_payment_fail_message">Не удалось включить автоматическое продление</string>
-    <string name="enable_auto_payment_success">Продлевать автоматически</string>
-    <string name="enable_auto_payment_success_message">Автоматическое продление включено. Следующий платёж будет произведен в %s.</string>
     <string name="enabled">ОК</string>
     <string name="enter_garbage_clean">Требуется очистка памяти.</string>
     <string name="eq_auto">Пользовательский</string>
@@ -324,9 +314,9 @@
     <string name="exo_track_surround_5_point_1">Система объемного звука 5.1</string>
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
-    <string name="expired">Срок действия истек</string>
+    <string name="expired">Просрочено</string>
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
-    <string name="fail_to_fetch_payment_page_url">Не удалось получить платежную информацию</string>
+    <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удается воспроизвести трек</string>
     <string name="fav_login_msg">Войдите в Mi аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
@@ -338,8 +328,8 @@
     <string name="feed_back">Обратная связь</string>
     <string name="file_not_found">Файл не найден</string>
     <string name="filter_by_duration">По длительности</string>
-    <string name="filter_by_duration_max">%d мин.</string>
-    <string name="filter_by_duration_min">%d сек.</string>
+    <string name="filter_by_duration_max">%d мин</string>
+    <string name="filter_by_duration_min">%d с</string>
     <string name="filter_by_duration_prefix">"Скрыть файлы короче "</string>
     <string name="filter_by_duration_summary">Скрыть короткие файлы</string>
     <string name="filter_by_folder">По папкам</string>
@@ -399,7 +389,7 @@
     <string name="hungama_subscribe_positive_button">Купить PRO подписку</string>
     <string name="hungama_subscribe_title">PRO подписка</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">Вы должны прочитать и принять &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=ru_RU\">Пользовательское соглашение&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=ru_RU\">Политика конфиденциальности&lt;/a> перед использованием продукта.</string>
+    <string name="impunity_declaration_content">Вы должны прочитать и принять наши &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=ru_RU\">Условия использования&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=ru_RU\">Политика конфиденциальности&lt;/a> перед использованием продукта.</string>
     <string name="impunity_declaration_ignore">Больше не показывать</string>
     <string name="impunity_declaration_negative_text">Выход</string>
     <string name="impunity_declaration_positive_text">Принять</string>
@@ -467,7 +457,7 @@
     <string name="metered_serious_allow">Воспроизвести</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
     <string name="missing_title">&lt;Без названия></string>
-    <string name="miuishare_account_login_ok">Вход</string>
+    <string name="miuishare_account_login_ok">Войти</string>
     <string name="miuishare_no_network">Не удается подключиться к сети.</string>
     <string name="miuishare_publish">Отправить</string>
     <string name="miuishare_share_done">Отправлено</string>
@@ -485,8 +475,9 @@
     <string name="modify_song_info_success">Информация о треке обновлена</string>
     <string name="more">Еще</string>
     <string name="more_add_song_list">Добавить треки в очередь</string>
+    <string name="more_milink">MI Link</string>
     <string name="more_settings">Расширенные настройки</string>
-    <string name="more_settings_summary">Настройка загрузок, таймер сна, управление мобильным интернетом, фильтры для файлов и т.д.</string>
+    <string name="more_settings_summary">Таймер сна, фильтры файлов, и т.д.</string>
     <string name="more_share">Отправить</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фильтр аудиофайлов</string>
@@ -540,7 +531,7 @@
     <string name="nowplaying_dialog_title_delete_tracks">Удалить трек из очереди?</string>
     <string name="nowplaying_menu_item_delete">Удалить из очереди</string>
     <string name="ok">OK</string>
-    <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из памяти устройства.</string>
+    <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из внутренней памяти.</string>
     <string name="online_recommend">Плейлист</string>
     <string name="online_service_open_tip">Онлайн-сервисы музыки включены</string>
     <string name="online_service_title">Онлайн-сервисы</string>
@@ -594,11 +585,12 @@
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ru_RU</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Разрешить изменение параметров системы</string>
-    <string name="pulluprefreshrecyclerview_loading_error">Загрузка не удалась</string>
+    <string name="pulluprefreshrecyclerview_loading_error">Ошибка загрузки</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Успешно загружено</string>
-    <string name="pulluprefreshrecyclerview_loading_running">Загрузка\u0002026</string>
+    <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
     <string name="queue_is_empty">Очередь пуста</string>
     <string name="radar">ACRCloud</string>
     <string name="radar_click_to_retry">Нажмите, чтобы повторить</string>
@@ -700,9 +692,10 @@
     <string name="songgroup_pick_playlist">Плейлисты</string>
     <string name="sort_by_name">Название</string>
     <string name="sort_by_time">Дата</string>
-    <string name="start_to_check_new_version">Проверка наличия обновлений…</string>
+    <string name="start_to_check_new_version">Проверка обновлений…</string>
     <string name="start_to_download">Загрузка…</string>
     <string name="start_to_play">Играть</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="stop">Остановить</string>
     <string name="stop_backup">Остановить</string>
     <string name="storage_internal">Внутренняя память</string>
@@ -719,7 +712,7 @@
     <string name="tab_track_list">Треки</string>
     <string name="take_effect_afater_restart">Для применения данной функции необходимо перезапустить проигрыватель</string>
     <string name="talkback_back">Вернуться</string>
-    <string name="talkback_batch_process">Несколько элементов</string>
+    <string name="talkback_batch_process">Несколько объектов</string>
     <string name="talkback_clear">Очистить</string>
     <string name="talkback_device">Воспроизводить на других устройствах</string>
     <string name="talkback_download">Загрузить</string>
@@ -763,7 +756,8 @@
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
-    <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="user_agreement">Условия использования</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ru_RU</string>
     <string name="version_info">Версия</string>
     <string name="video_play_cellular">Устройство не подключено к Wi-Fi. Использовать мобильный интернет?</string>
     <string name="video_replay_btn">Повторить</string>

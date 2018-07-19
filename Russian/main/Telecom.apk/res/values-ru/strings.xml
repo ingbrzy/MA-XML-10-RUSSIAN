@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
     <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="tether_settings_title_usb">USB-модем</string>

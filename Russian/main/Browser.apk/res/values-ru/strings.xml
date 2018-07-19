@@ -329,7 +329,7 @@
     <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к данным о вашем местоположении</string>
     <string name="geolocation_settings_page_title">Закрыть геоданные</string>
     <string name="go_supermarket_button">Перейти</string>
-    <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в App Store</string>
+    <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Магазине</string>
     <string name="gold_medals">Золотые медали</string>
     <string name="google_bookmarks">Google</string>
     <string name="have_sent_bookmark_to_home_screen">Ярлык добавлен на рабочий стол</string>
@@ -628,20 +628,20 @@
     <string name="mw_payments_accepted_debit_cards_label">Принимаемые дебетовые карты</string>
     <string name="mw_payments_accepted_debit_prepaid_cards_label">Принимаемые дебетовые и предоплаченные карты</string>
     <string name="mw_payments_accepted_prepaid_cards_label">Принимаемые предоплаченные карты</string>
-    <string name="mw_payments_add_address">Add address</string>
-    <string name="mw_payments_add_billing_address">Add billing address</string>
-    <string name="mw_payments_add_card">Add card</string>
+    <string name="mw_payments_add_address">Добавить адрес</string>
+    <string name="mw_payments_add_billing_address">Добавить платежный адрес</string>
+    <string name="mw_payments_add_card">Добавить карту</string>
     <string name="mw_payments_add_card_label">Добавить карту</string>
-    <string name="mw_payments_add_contact">Add contact info</string>
+    <string name="mw_payments_add_contact">Добавить контактную информацию</string>
     <string name="mw_payments_add_contact_details_label">Добавить контактную информацию</string>
-    <string name="mw_payments_add_email">Add email</string>
-    <string name="mw_payments_add_more_information">Add more information</string>
-    <string name="mw_payments_add_name">Add name</string>
-    <string name="mw_payments_add_name_on_card">Add name on card</string>
-    <string name="mw_payments_add_phone_number">Add phone number</string>
-    <string name="mw_payments_add_recipient">Add name</string>
-    <string name="mw_payments_add_valid_address">Add valid address</string>
-    <string name="mw_payments_add_valid_card_number">Add valid card number</string>
+    <string name="mw_payments_add_email">Добавить email</string>
+    <string name="mw_payments_add_more_information">Добавить информацию</string>
+    <string name="mw_payments_add_name">Добавить имя</string>
+    <string name="mw_payments_add_name_on_card">Добавить имя владельца карты</string>
+    <string name="mw_payments_add_phone_number">Добавить номер телефона</string>
+    <string name="mw_payments_add_recipient">Добавить имя</string>
+    <string name="mw_payments_add_valid_address">Добавить верный адрес</string>
+    <string name="mw_payments_add_valid_card_number">Добавить верный номер карты</string>
     <string name="mw_payments_android_app_error">Ошибка платежного приложения</string>
     <string name="mw_payments_billing_address_required">Требуется платежный адрес</string>
     <string name="mw_payments_card_and_address_settings">Вы можете управлять картами и адресами в BEGIN_LINKНастройкахEND_LINK.</string>
@@ -732,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
@@ -1013,7 +1015,7 @@
     <string name="search_tupian">Изображение</string>
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
-    <string name="secure_download_in_xiaomi_market">Скачать в App Store</string>
+    <string name="secure_download_in_xiaomi_market">Скачать из Магазина</string>
     <string name="secureaccess">Перейти в безопасный режим</string>
     <string name="secureaccess_cancel">Отмена</string>
     <string name="security_url_confirm_message">Отключение этой функции может создать угрозу безопасности.</string>
@@ -1036,6 +1038,7 @@
     <string name="snapshot_failed">Не удалось сохранить страницу</string>
     <string name="snapshot_successed">Для просмотра страницы откройте Закладки -> Устройство</string>
     <string name="soft_toast_see_view">Просмотр</string>
+    <string name="source_dislike">Не нравится</string>
     <string name="ssl_bad_clock_date_settings">Установить дату</string>
     <string name="ssl_bad_clock_warning" formatted="false">Защищенное соединение с %s1 не может быть установлено, поскольку настройки даты и времени на вашем устройстве (%s2) неверны.</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
@@ -1055,7 +1058,7 @@
     <string name="storage_permission_request_toast">Загрузки требуют доступа к памяти устройства</string>
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопитель</string>
-    <string name="suggest_access_appstore">Mi App Store</string>
+    <string name="suggest_access_appstore">Магазин</string>
     <string name="suggest_access_btn_install">Установить</string>
     <string name="suggest_access_btn_open">Открыть</string>
     <string name="suggest_access_btn_play">Воспроизведение</string>
@@ -1088,7 +1091,7 @@
     <string name="update_now">ОБНОВИТЬ</string>
     <string name="uploads_disabled">Отправка файлов отключена</string>
     <string name="url_copy_done">URL скопирован</string>
-    <string name="url_find_on_page_result">Просмотреть в браузере</string>
+    <string name="url_find_on_page_result">Открыть в браузере</string>
     <string name="url_find_on_page_result_item">Показать текст \"%s\"</string>
     <string name="url_hint">Введите URL или поисковый запрос</string>
     <string name="url_hint_from_search">Введите ключевые слова</string>

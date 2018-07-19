@@ -163,4 +163,12 @@
     <string name="notification_channel_remind">Напоминания</string>
     <string name="done_remove">Удаление завершено</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
+    <string name="title_alert_cancel_restore">Предупреждение</string>
+    <string name="msg_alert_cancel_restore">Восстановление не завершено. Отменить процесс?</string>
+    <string name="btn_restore_cancel">Отменить</string>
+    <string name="btn_restore_resume">Продолжить</string>
+    <string name="title_alert_restore_error">Ошибка восстановления</string>
+    <string name="msg_alert_restore_error">Восстановление не удалось, повторите попытку.</string>
+    <string name="btn_restore_retry">Повторить</string>
+    <string name="btn_restore_abort">Отменить</string>
 </resources>

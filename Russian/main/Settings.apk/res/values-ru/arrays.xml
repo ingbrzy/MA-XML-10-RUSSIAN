@@ -862,6 +862,10 @@
         <item>Медленная скорость из-за слабого сигнала</item>
         <item>Перемещение…</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>

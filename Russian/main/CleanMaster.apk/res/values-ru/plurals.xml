@@ -185,9 +185,9 @@
         <item quantity="many">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Удалить %1$d файлов?</item>
-        <item quantity="one">Удалить %1$d файл?</item>
-        <item quantity="few">Удалить %1$d файла?</item>
-        <item quantity="many">Удалить %1$d файлов?</item>
+        <item quantity="other">Удалить %1$d объектов?</item>
+        <item quantity="one">Удалить %1$d объект?</item>
+        <item quantity="few">Удалить %1$d объекта?</item>
+        <item quantity="many">Удалить %1$d объектов?</item>
     </plurals>
 </resources>

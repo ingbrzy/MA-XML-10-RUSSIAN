@@ -377,6 +377,7 @@
     <string name="pref_camera_delay_capture_entry_5s">5 секунд</string>
     <string name="pref_camera_delay_capture_entry_10s">10 секунд</string>
     <string name="pref_ai_detect">Обнаружение AI</string>
+    <string name="pref_google_lens">Google Lens</string>
     <string name="pref_camera_beauty">Улучшение</string>
     <string name="pref_camera_beauty_deep">Улучшение Pro</string>
     <string name="pref_camera_asd_night_title">Автоматически улучшать темные фото</string>
@@ -426,10 +427,11 @@
     <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включен</string>
     <string name="portrait_mode_lowlight_hint">Сейчас слишком темно</string>
     <string name="portrait_mode_too_close_hint">Отойдите дальше от объекта съемки</string>
-    <string name="portrait_mode_too_far_hint">Подойдите к объекту съемки на 2.5 метра</string>
+    <string name="portrait_mode_too_far_hint">Подойдите к объекту съемки на 2 метра</string>
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Отключить режим Квадрат</string>
     <string name="face_beauty_smart">Авто</string>
@@ -444,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>

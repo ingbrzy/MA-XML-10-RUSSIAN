@@ -60,7 +60,7 @@
     <string name="Active">Активировать</string>
     <string name="ok_button">OK</string>
     <string name="remove_button">Удалить</string>
-    <string name="remove_button_time">Удалить (%d сек.)</string>
+    <string name="remove_button_time">Удалить (%d с)</string>
     <string name="cancel_button">Отмена</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="list_empty_text_xspace">Установите WeChat/QQ/Weibo и создайте его клон</string>
@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">Приложение по умолчанию</string>
     <string name="xspace_default_app_title">Приложение по умолчанию</string>
     <string name="xspace_default_app_summary">Задайте приложение по умолчанию для платежей, обмена, избранных и т.д.</string>
-    <string name="xspace_default_setting_dialog_title">По умолчанию</string>
+    <string name="xspace_default_setting_dialog_title"> по умолчанию</string>
     <string name="xspace_default_guide_notification_content">Нажмите для изменения.</string>
     <string name="xspace_default_guide_notification_main_title">Основное приложение</string>
     <string name="xspace_default_guide_notification_xspace_title">Клон приложения</string>
