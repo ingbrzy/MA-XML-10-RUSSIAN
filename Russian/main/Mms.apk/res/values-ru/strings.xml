@@ -193,7 +193,6 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_prefix">"FW: "</string>
@@ -543,7 +542,6 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>

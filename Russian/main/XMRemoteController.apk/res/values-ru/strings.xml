@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">Авто</string>
     <string name="ac_mode_cold">Охлаждение</string>
@@ -103,7 +102,6 @@
     <string name="bind_stb">Продолжить подключение приставки</string>
     <string name="bind_stb_dlg">Подключите приставку для переключения каналов</string>
     <string name="bind_stb_dlg_agree">Подключить</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Выберите производителя</string>
     <string name="brand_title_all">Все</string>
     <string name="brand_title_hot">Популярные</string>
@@ -306,7 +304,6 @@
     <string name="hot_videos">Популярные</string>
     <string name="hour">Ч</string>
     <string name="humidity">Влажность:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Вверх</string>
     <string name="input_complete">OK</string>
     <string name="input_dialogue_cancel_button">Отмена</string>
@@ -406,7 +403,6 @@
     <string name="loading_more">Подождите…</string>
     <string name="locate_current_place">Найти текущее местоположение</string>
     <string name="location_select">Переименовать устройство</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Войти</string>
     <string name="login_directly">Войти</string>
     <string name="login_done">Успешный вход</string>
@@ -433,7 +429,6 @@
     <string name="match_data">Информация о подключении</string>
     <string name="match_data_error_tips">"Не удалось получить информацию
 Вернитесь назад, чтобы продолжить"</string>
-    <string name="match_dataset_frame">%2$d.%1$d</string>
     <string name="match_direction_default">Кнопки направления работают?</string>
     <string name="match_dvd_intro_pause">Отпустите, когда воспроизведение DVD встанет на паузу</string>
     <string name="match_dvd_intro_play">Отпустите, когда начнется воспроизведение DVD</string>
@@ -858,8 +853,6 @@
     <string name="scaning">Поиск…</string>
     <string name="scanning_milink">Поиск устройств…</string>
     <string name="scene_default">По умолчанию</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Скриншот</string>
     <string name="screenshot_failed">Не удалось захватить экран</string>
     <string name="screenshot_failed_and_check_connection">Не удалось захватить экран, проверьте подключенные устройства</string>
@@ -967,7 +960,6 @@
     <string name="start_diagnosis">Начать</string>
     <string name="start_match">Подключить</string>
     <string name="stb">Приставка</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">Приставка вкл/выкл</string>
     <string name="steps">Попытка №%d</string>
     <string name="sticky_on_top">Закрепить</string>
