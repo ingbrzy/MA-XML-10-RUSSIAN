@@ -12,9 +12,9 @@
     <string name="video_camera_label">Видеокамера</string>
     <string name="wait">Секунду…</string>
     <string name="no_storage">Вставьте SD карту перед использованием камеры</string>
-    <string name="not_enough_space">Внутренняя память заполнена</string>
-    <string name="preparing_sd">Подготовка внутренней памяти…</string>
-    <string name="access_sd_fail">Нет доступа к USB накопителю</string>
+    <string name="not_enough_space">SD карта заполнена</string>
+    <string name="preparing_sd">Подготовка SD карты…</string>
+    <string name="access_sd_fail">Нет доступа к SD карте</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_location_title">Запоминать место съемки?</string>
@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Отключить режим Квадрат</string>
     <string name="face_beauty_smart">Авто</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>

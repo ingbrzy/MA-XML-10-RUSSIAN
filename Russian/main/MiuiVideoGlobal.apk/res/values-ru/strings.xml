@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="airkan_control_device_des">Для управления воспроизведением коснитесь панели внизу экрана</string>
     <string name="airkan_device_xiaomi_phone">Мой телефон</string>
     <string name="airkan_playing">Трансляция на %s</string>

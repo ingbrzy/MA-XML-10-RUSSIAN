@@ -31,6 +31,10 @@
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с Mi Cloud</string>
     <string name="cloud_trash_bin_title">Удаленные заметки в Mi Cloud</string>
     <string name="cta_reminder">Для сохранения заметок в Mi Cloud, а также чтения контактов для маркировки заметок, сделанных во время вызовов, требуется подключение к интернету.</string>
+    <string name="date_time_picker_alarm_reminder">Напоминание</string>
+    <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="date_time_picker_has_not_set_alarm">Напоминание не установлено</string>
+    <string name="date_time_picker_has_set_alarm">Напоминание установлено</string>
     <string name="db_downgrade_clear_button">Очистить данные</string>
     <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию MIUI требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в Mi Cloud.</string>
     <string name="default_folder_name">Заметки</string>
@@ -110,6 +114,7 @@
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не сейчас</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Оно содержит встроенные напоминания и синхронизирует ваши объекты с Mi Cloud, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
@@ -117,7 +122,7 @@
     <string name="note_link_other">Открыть с помощью карт</string>
     <string name="note_link_select">Выделить текст</string>
     <string name="note_link_tel">Вызов</string>
-    <string name="note_link_web">Просмотреть в браузере</string>
+    <string name="note_link_web">Открыть в браузере</string>
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
@@ -216,10 +221,9 @@
     <string name="trash_folder_reminder">Заметки будут навсегда удалены через 30 дней</string>
     <string name="undo">Отменить</string>
     <string name="unknown_source">Неизвестный источник</string>
+    <string name="widget_content_loading">Секунду…</string>
+    <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
     <string name="welcome_note_for_cm">"И еще больше функций!
   - Синхронизация с Mi Cloud
   - Установка напоминаний"</string>
-    <string name="widget_content_loading">Секунду…</string>
-    <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
-    <string name="note_alert_expired">Просрочено</string>
 </resources>

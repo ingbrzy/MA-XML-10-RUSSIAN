@@ -53,10 +53,10 @@
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, необходимо сначала обратиться к оператору связи и подключить эту услугу. После этого вы сможете снова выбрать этот параметр в настройках.</item>
+        <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, необходимо подключить эту услугу через оператора связи. После этого вы сможете выбрать этот параметр в настройках. Код ошибки: %1$s.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Укажите оператора и зарегистрируйтесь</item>
+        <item>Укажите оператора и зарегистрируйтесь (код ошибки: %1$s)</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>

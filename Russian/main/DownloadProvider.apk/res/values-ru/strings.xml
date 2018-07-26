@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">Позволяет приложению получать доступ к расширенным функциям диспетчера загрузок. Вредоносные приложения могут использовать это для доступа к личной информации.</string>
     <string name="permlab_downloadCompletedIntent">Отправка уведомлений о загрузке</string>
     <string name="permdesc_downloadCompletedIntent">Позволяет приложению отправлять уведомления о завершенных загрузках. Вредоносные приложения могут использовать это для обмана других приложений, загружающих файлы.</string>
-    <string name="permlab_seeAllExternal">Просмотр загрузок на USB накопителе</string>
+    <string name="permlab_seeAllExternal">Просмотр загрузок на SD карте</string>
     <string name="permdesc_seeAllExternal">Позволяет приложению просматривать все загрузки на внешнем накопителе вне зависимости от того, какое приложение их загрузило.</string>
     <string name="permlab_downloadCacheNonPurgeable">Резервирование места в кэше загрузок</string>
     <string name="permdesc_downloadCacheNonPurgeable">Позволяет приложению загружать файлы в кэш загрузок, который не может быть автоматически очищен диспетчером загрузок при нехватке места.</string>

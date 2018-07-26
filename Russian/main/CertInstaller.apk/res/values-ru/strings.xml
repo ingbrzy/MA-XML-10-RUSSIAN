@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">Установка не выполнена, поскольку сертификат слишком большой.</string>
     <string name="cert_missing_error">Установка не выполнена, поскольку не удалось найти файл сертификата.</string>
     <string name="cert_read_error">Установка не выполнена, поскольку не удалось открыть файл сертификата.</string>
-    <string name="no_cert_file_found">На USB-накопителе отсутствует файл сертификата.</string>
-    <string name="sdcard_not_present">USB-накопитель недоступен.</string>
+    <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата.</string>
+    <string name="sdcard_not_present">SD-карта отсутствует.</string>
     <string name="only_primary_user_allowed">Сертификаты может устанавливать только владелец устройства.</string>
     <string name="credential_usage_label">Использование:</string>
     <string name="wifi_title">Профиль Wi-Fi</string>

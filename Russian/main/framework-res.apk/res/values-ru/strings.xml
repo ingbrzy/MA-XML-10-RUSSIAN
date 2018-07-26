@@ -23,8 +23,10 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="paste_as_plain_text">Вставить как обычный текст</string>
+    <string name="autofill">Автозаполнение</string>
     <string name="BaMmi">Запрет вызовов</string>
     <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
     <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
@@ -41,6 +43,8 @@
     <string name="ColrMmi">Ограничение идентификатора подключенной линии</string>
     <string name="CwMmi">Параллельный вызов</string>
     <string name="DndMmi">Не беспокоить</string>
+    <string name="EmergencyCallWarningSummary">Для экстренных вызовов требуется мобильная сеть.</string>
+    <string name="EmergencyCallWarningTitle">Включена функция \"Звонки по Wi‑Fi\"</string>
     <string name="Midnight">Полночь</string>
     <string name="NetworkPreferenceSwitchSummary">Чтобы улучшить сигнал, попробуйте выбрать другой тип сети в настройках (раздел \"Мобильные сети\").</string>
     <string name="NetworkPreferenceSwitchTitle">Сеть недоступна</string>
@@ -134,7 +138,6 @@
     <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные данные или выключить приложение.</string>
     <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
     <string name="app_upgrading_toast">Обновление приложения \"%1$s\"…</string>
-    <string name="autofill">Автозаполнение</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -270,10 +273,6 @@
     <string name="deleted_key">Цифра %1$s удалена</string>
     <string name="demo_restarting_message">Сброс данных…</string>
     <string name="demo_starting_message">Запуск деморежима…</string>
-    <string name="demo_user_inactivity_timeout_countdown">Все изменения будут утеряны. Деморежим будет перезапущен через %1$s сек.</string>
-    <string name="demo_user_inactivity_timeout_left_button">Отмена</string>
-    <string name="demo_user_inactivity_timeout_right_button">Сбросить</string>
-    <string name="demo_user_inactivity_timeout_title">Сбросить настройки устройства?</string>
     <string name="deny">Отклонить</string>
     <string name="description_target_unlock_tablet">Проведите по экрану, чтобы разблокировать устройство.</string>
     <string name="device_storage_monitor_notification_channel">Хранилище устройства</string>
@@ -293,18 +292,6 @@
     <string name="dump_heap_notification_detail">Создан дамп кучи. Нажмите, чтобы отправить его.</string>
     <string name="dump_heap_text">Процесс \"%1$s\" превысил объем памяти (%2$s). При необходимости отправьте созданный дамп кучи разработчику. Обратите внимание, что файл может содержать личные данные, доступные приложению.</string>
     <string name="dump_heap_title">Отправить дамп кучи?</string>
-    <string name="durationDayHour">%1$d день %2$d ч.</string>
-    <string name="durationDayHours">%1$d день %2$d ч.</string>
-    <string name="durationDays">%1$d дн.</string>
-    <string name="durationHourMinute">%1$d ч. %2$d мин.</string>
-    <string name="durationHourMinutes">%1$d ч. %2$d мин.</string>
-    <string name="durationHours">%1$d ч.</string>
-    <string name="durationMinute">%1$d мин.</string>
-    <string name="durationMinuteSecond">%1$d мин. %2$d с</string>
-    <string name="durationMinuteSeconds">%1$d мин. %2$d с</string>
-    <string name="durationMinutes">%1$d мин.</string>
-    <string name="durationSecond">%1$d с</string>
-    <string name="durationSeconds">%1$d с</string>
     <string name="editTextMenuTitle">Операции с текстом</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -384,6 +371,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Код функции выполнен.</string>
     <string name="fcError">Неполадки подключения или неверный код функции.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Найти</string>
     <string name="find_next">Cлед.</string>
     <string name="find_on_page">Найти на странице</string>
@@ -400,19 +388,18 @@
     <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий.</string>
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>
-    <string name="fingerprint_name_template">Палец %d</string>
+    <string name="fingerprint_name_template">Отпечаток %d</string>
     <string name="fingerprints">Отпечатки:</string>
     <string name="floating_toolbar_close_overflow_description">Закрыть дополнительное меню</string>
     <string name="floating_toolbar_open_overflow_description">Ещё</string>
     <string name="force_close">ОК</string>
-    <string name="foreground_service_app_in_background">%1$s в фоновом режиме</string>
-    <string name="foreground_service_apps_in_background">Несколько приложений (%1$d) работает в фоновом режиме</string>
+    <string name="foreground_service_app_in_background">Приложение \"%1$s\" расходует заряд</string>
+    <string name="foreground_service_apps_in_background">Несколько приложений (%1$d) расходуют заряд</string>
     <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">Нажмите, чтобы проверить энергопотребление и трафик</string>
     <string name="forward_intent_to_owner">Это приложение используется в личном профиле</string>
     <string name="forward_intent_to_work">Вы перешли в рабочий профиль</string>
     <string name="gadget_host_error_inflating">Не удалось добавить виджет.</string>
-    <string name="gigabyteShort">ГБ</string>
     <string name="global_action_assist">Помощник</string>
     <string name="global_action_bug_report">Отчет об ошибке</string>
     <string name="global_action_emergency">Экстренный вызов</string>
@@ -570,6 +557,7 @@
     <string name="kg_reordering_delete_drop_target_text">Удалить</string>
     <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %1$d сек.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Вы %1$d раз неверно указали пароль.
 
@@ -583,7 +571,6 @@
     <string name="kg_wrong_password">Неправильный пароль</string>
     <string name="kg_wrong_pattern">Неправильный графический ключ</string>
     <string name="kg_wrong_pin">Неправильный PIN-код</string>
-    <string name="kilobyteShort">КБ</string>
     <string name="language_picker_section_all">Все языки</string>
     <string name="language_picker_section_suggested">Рекомендуемые</string>
     <string name="language_selection_title">Добавьте язык</string>
@@ -779,7 +766,6 @@
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">Неизвестный горизонтальный формат</string>
     <string name="mediasize_unknown_portrait">Неизвестный вертикальный формат</string>
-    <string name="megabyteShort">МБ</string>
     <string name="meid">MEID</string>
     <string name="menu_delete_shortcut_label">удалить</string>
     <string name="menu_enter_shortcut_label">ввод</string>
@@ -828,8 +814,8 @@
     <string name="notification_channel_developer">Сообщения от разработчиков</string>
     <string name="notification_channel_device_admin">Управление устройством</string>
     <string name="notification_channel_emergency_callback">Режим экстренных обратных вызовов</string>
-    <string name="notification_channel_foreground_service">Приложения, работающие в фоновом режиме</string>
-    <string name="notification_channel_mobile_data_alert">Оповещения, связанные с мобильным Интернетом</string>
+    <string name="notification_channel_foreground_service">Приложения, расходующие заряд</string>
+    <string name="notification_channel_mobile_data_status">Состояние мобильного Интернета</string>
     <string name="notification_channel_network_alert">Оповещения</string>
     <string name="notification_channel_network_alerts">Оповещения сети</string>
     <string name="notification_channel_network_available">Сеть доступна</string>
@@ -844,10 +830,11 @@
     <string name="notification_channel_voice_mail">Голосовые сообщения</string>
     <string name="notification_channel_vpn">Статус VPN</string>
     <string name="notification_channel_wfc">Звонки по Wi-Fi</string>
-    <string name="notification_hidden_by_policy_text">Содержимое скрыто в соответствии с заданными правилами</string>
-    <string name="notification_hidden_text">Содержимое скрыто</string>
+    <string name="notification_hidden_text">Новое уведомление</string>
     <string name="notification_listener_binding_label">Служба просмотра уведомлений</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Сервис для оценки важности уведомлений</string>
+    <string name="notification_reply_button_accessibility">Ответить</string>
     <string name="notification_title">Ошибка входа в аккаунт %1$s</string>
     <string name="notification_work_profile_content_description">Рабочий профиль</string>
     <string name="now_string_shortest">сейчас</string>
@@ -957,8 +944,8 @@
     <string name="permdesc_requestInstallPackages">Приложение сможет запрашивать разрешения на установку пакетов.</string>
     <string name="permdesc_route_media_output">Приложение сможет направлять поток мультимедиа на другие внешние устройства.</string>
     <string name="permdesc_runInBackground">Приложению разрешено работать в фоновом режиме. Заряд батареи может расходоваться быстрее.</string>
-    <string name="permdesc_sdcardRead">Приложение сможет считывать данные на USB-накопителе.</string>
-    <string name="permdesc_sdcardWrite">Приложение сможет записывать данные на USB-накопитель.</string>
+    <string name="permdesc_sdcardRead">Приложение сможет считывать данные на SD-карте.</string>
+    <string name="permdesc_sdcardWrite">Приложение сможет записывать данные на SD-карту.</string>
     <string name="permdesc_sendSms">Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</string>
     <string name="permdesc_setAlarm">Приложение сможет настраивать будильник. Функция поддерживается не во всех программах.</string>
     <string name="permdesc_setInputCalibration">Приложение сможет изменять параметры калибровки сенсорного экрана. Это разрешение обычно используется только специальными приложениями.</string>
@@ -1084,8 +1071,8 @@
     <string name="permlab_requestInstallPackages">Запрос пакетов установки</string>
     <string name="permlab_route_media_output">Перенаправление вывода мультимедиа</string>
     <string name="permlab_runInBackground">Работа в фоновом режиме</string>
-    <string name="permlab_sdcardRead">Просмотр данных на USB-накопителе</string>
-    <string name="permlab_sdcardWrite">Изменение/удаление данных на USB-накопителе</string>
+    <string name="permlab_sdcardRead">Считывание содержимого SD-карты</string>
+    <string name="permlab_sdcardWrite">Изменение или удаление содержимого SD-карты</string>
     <string name="permlab_sendSms">Отправка и просмотр SMS-сообщений</string>
     <string name="permlab_setAlarm">Установка будильника</string>
     <string name="permlab_setInputCalibration">изменение параметров калибровки экрана</string>
@@ -1159,6 +1146,7 @@
     <string name="policylab_watchLogin">Отслеживать попытки снять блокировку экрана</string>
     <string name="policylab_wipeData">Удаление всех данных</string>
     <string name="policylab_wipeData_secondaryUser">Удалить пользовательские данные</string>
+    <string name="popup_window_default_title">Всплывающее окно</string>
     <string name="postalTypeCustom">Новый тип</string>
     <string name="postalTypeHome">Домашний</string>
     <string name="postalTypeOther">Другой</string>
@@ -1173,7 +1161,7 @@
     <string name="print_service_installed_title">Служба %s установлена</string>
     <string name="profile_encrypted_detail">Рабочий профиль заблокирован</string>
     <string name="profile_encrypted_message">Нажмите, чтобы разблокировать раб. профиль</string>
-    <string name="progress_erasing">Очистка USB-накопителя...</string>
+    <string name="progress_erasing">Очистка SD-карты...</string>
     <string name="quick_contacts_not_available">Не найдено приложение для просмотра контакта</string>
     <string name="reason_service_unavailable">Служба печати недоступна</string>
     <string name="reason_unknown">неизвестно</string>
@@ -1207,8 +1195,6 @@
     <string name="replace">Заменить</string>
     <string name="report">Отправить отчет</string>
     <string name="reset">Сбросить</string>
-    <string name="reset_retail_demo_mode_text">Нажмите здесь, чтобы сбросить настройки</string>
-    <string name="reset_retail_demo_mode_title">Сбросить настройки устройства?</string>
     <string name="restr_pin_confirm_pin">Введите новый PIN-код ещё раз</string>
     <string name="restr_pin_create_pin">Создайте PIN-код для изменения ограничений.</string>
     <string name="restr_pin_enter_admin_pin">Введите PIN-код администратора</string>
@@ -1361,7 +1347,6 @@
     <string name="system_error_manufacturer">Произошла внутренняя ошибка. Обратитесь к производителю устройства за подробными сведениями.</string>
     <string name="system_error_wipe_data">Произошла внутренняя ошибка, и устройство может работать нестабильно, пока вы не выполните сброс настроек.</string>
     <string name="taking_remote_bugreport_notification_title">Подготовка отчета об ошибке</string>
-    <string name="terabyteShort">TБ</string>
     <string name="tethered_notification_message">Нажмите, чтобы настроить.</string>
     <string name="tethered_notification_title">Включен режим модема</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
@@ -1403,6 +1388,8 @@
     <string name="usb_notification_message">Нажмите, чтобы показать дополнительные параметры.</string>
     <string name="usb_ptp_notification_title">Передача фото через USB</string>
     <string name="usb_supplying_notification_title">Подача питания на подключенное устройство через USB</string>
+    <string name="usb_unsupported_audio_accessory_message">Подсоединенное устройство несовместимо с этим телефоном. Нажмите, чтобы узнать подробности.</string>
+    <string name="usb_unsupported_audio_accessory_title">Обнаружено аналоговое аудиоустройство</string>
     <string name="use_a_different_app">Другое приложение</string>
     <string name="user_creation_account_exists">Разрешить приложению \"%1$s\" создать пользователя для аккаунта %2$s?</string>
     <string name="user_creation_adding">Разрешить приложению \"%1$s\" создать нового пользователя для аккаунта %2$s (пользователь c таким аккаунтом уже есть)?</string>
@@ -1471,7 +1458,14 @@
     <string name="whichViewApplication">Открыть с помощью приложения:</string>
     <string name="whichViewApplicationLabel">Открыть</string>
     <string name="whichViewApplicationNamed">Открыть с помощью приложения \"%1$s\"</string>
+    <string name="wifi_available_action_all_networks">Все сети</string>
+    <string name="wifi_available_action_connect">Подключиться</string>
+    <string name="wifi_available_content_failed_to_connect">Нажмите, чтобы увидеть список сетей</string>
     <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
+    <string name="wifi_available_title">Подключитесь к открытой сети Wi‑Fi</string>
+    <string name="wifi_available_title_connected">Подключено к сети Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Подключение к открытой сети Wi‑Fi…</string>
+    <string name="wifi_available_title_failed_to_connect">Не удалось подключиться к сети Wi‑Fi</string>
     <string name="wifi_calling_off_summary">Отключено</string>
     <string name="wifi_connect_alert_message">Приложение \"%1$s\" запрашивает доступ на подключение к сети Wi-Fi (%2$s)</string>
     <string name="wifi_connect_alert_title">Разрешить подключение?</string>
@@ -1512,5 +1506,6 @@
     <string name="zen_mode_feature_name">Не беспокоить</string>
     <string name="zen_mode_forever">Пока вы не отключите режим \"Не беспокоить\"</string>
     <string name="zen_mode_forever_dnd">Пока вы не отключите режим \"Не беспокоить\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">До %1$s</string>
 </resources>

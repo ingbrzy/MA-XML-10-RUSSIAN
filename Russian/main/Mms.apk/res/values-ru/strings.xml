@@ -181,7 +181,7 @@
     <string name="failed_to_add_media">Невозможно добавить это %1$s к вашему сообщению.</string>
     <string name="failed_to_resize_image">Не удалось изменить размер изображения</string>
     <string name="fake_cell_alert_detect_error">Отправлено с подлинной базовой станции</string>
-    <string name="fake_cell_alert_hint">Похоже, это сообщение было отправлено с номера телефона, который отличается от отображаемого. Будьте осторожны с SMS, содержащими финансовые запросы.</string>
+    <string name="fake_cell_alert_hint">Похоже, что это сообщение было отправлено с номера телефона, который отличается от отображаемого. Будьте осторожны с SMS, содержащими финансовые запросы.</string>
     <string name="fake_cell_checking_hint">Проверка безопасности…</string>
     <string name="fake_cell_safe_hint">Это сообщение безопасно</string>
     <string name="fake_cell_timeout_hint">Не удалось проверить безопасность</string>
@@ -193,6 +193,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_prefix">"FW: "</string>
@@ -361,8 +362,6 @@
     <string name="no_subject_view">(без темы)</string>
     <string name="non_english_subject_limit">Не более 13 символов</string>
     <string name="nosend_message">Не отправлять</string>
-    <string name="notification_channel_description">Уведомления о сообщениях</string>
-    <string name="notification_channel_name">Сообщения</string>
     <string name="notification_copy">Скопировать OTP</string>
     <string name="notification_failed_multiple">Не отправлено сообщений: %s</string>
     <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
@@ -544,6 +543,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -675,4 +675,6 @@
     <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
     <string name="yes">OK</string>
     <string name="yesterday">Вчера</string>
+    <string name="notification_channel_description">Уведомления о сообщениях</string>
+    <string name="notification_channel_name">Сообщения</string>
 </resources>
