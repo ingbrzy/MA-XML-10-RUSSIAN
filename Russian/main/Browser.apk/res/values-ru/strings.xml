@@ -732,8 +732,6 @@
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
