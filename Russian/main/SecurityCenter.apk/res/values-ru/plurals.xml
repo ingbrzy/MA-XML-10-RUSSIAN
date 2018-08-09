@@ -123,10 +123,10 @@
         <item quantity="many">%d приложений разряжают батарею</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d дн. "</item>
+        <item quantity="other">"%d д "</item>
         <item quantity="one">"%d д "</item>
-        <item quantity="few">"%d дн. "</item>
-        <item quantity="many">"%d дн. "</item>
+        <item quantity="few">"%d д "</item>
+        <item quantity="many">"%d д "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ч "</item>
@@ -135,10 +135,10 @@
         <item quantity="many">"%d ч "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
+        <item quantity="other">"%d мин "</item>
         <item quantity="one">"%d мин "</item>
-        <item quantity="few">"%d мин. "</item>
-        <item quantity="many">"%d мин. "</item>
+        <item quantity="few">"%d мин "</item>
+        <item quantity="many">"%d мин "</item>
     </plurals>
     <plurals name="power_center_battery_volume">
         <item quantity="other">%d мАч</item>
@@ -421,6 +421,12 @@
         <item quantity="one">Найдено: %d</item>
         <item quantity="few">Найдено: %d</item>
         <item quantity="many">Найдено: %d</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Сброс настроек (%d с)</item>
+        <item quantity="one">Сброс настроек (%d с)</item>
+        <item quantity="few">Сброс настроек (%d с)</item>
+        <item quantity="many">Сброс настроек (%d с)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d защищенных приложений ожидают очистки</item>

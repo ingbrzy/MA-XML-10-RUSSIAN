@@ -24,6 +24,12 @@
         <item quantity="few">Плеер остановится через %d минуты</item>
         <item quantity="many">Плеер остановится через %d минут</item>
     </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Вы решили не искать автоматически обложки и тексты для локальных треков. Удалить данные для %d треков?</item>
+        <item quantity="one">Вы решили не искать автоматически обложки и тексты для локальных треков. Удалить данные для %d трека?</item>
+        <item quantity="few">Вы решили не искать автоматически обложки и тексты для локальных треков. Удалить данные для %d треков?</item>
+        <item quantity="many">Вы решили не искать автоматически обложки и тексты для локальных треков. Удалить данные для %d треков?</item>
+    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Создано %1$s | всего %2$d треков</item>
         <item quantity="one">Создано %1$s | всего %2$d трек</item>
@@ -101,10 +107,10 @@
         <item quantity="many">Удалить %d треков?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Убрать %d треков?</item>
-        <item quantity="one">Убрать %d трек?</item>
-        <item quantity="few">Убрать %d трека?</item>
-        <item quantity="many">Убрать %d треков?</item>
+        <item quantity="other">Удалить %d треков?</item>
+        <item quantity="one">Удалить %d трек?</item>
+        <item quantity="few">Удалить %d трека?</item>
+        <item quantity="many">Удалить %d треков?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
         <item quantity="other">Удалить %d треков из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
@@ -116,7 +122,7 @@
         <item quantity="other">Загружено &lt;font color==\"red\">%d треков&lt;/font></item>
         <item quantity="one">Загружен &lt;font color==\"red\">%d трек&lt;/font></item>
         <item quantity="few">Загружено &lt;font color==\"red\">%d трека&lt;/font></item>
-        <item quantity="many">Загружено &lt;font color==\"red\">%d треков&lt;/font></item>
+        <item quantity="many">&lt;font color=\"red\">%d songs&lt;/font> downloaded</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">Удалено %d загрузок</item>
@@ -128,7 +134,7 @@
         <item quantity="other">Загружается &lt;font color==\"red\">%d треков&lt;/font></item>
         <item quantity="one">Загружается &lt;font color==\"red\">%d трек&lt;/font></item>
         <item quantity="few">Загружается &lt;font color==\"red\">%d трека&lt;/font></item>
-        <item quantity="many">Загружается &lt;font color==\"red\">%d треков&lt;/font></item>
+        <item quantity="many">&lt;font color=\"red\">%d songs&lt;/font> downloading</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Выбрано: %d</item>
@@ -165,11 +171,5 @@
         <item quantity="one">%d трек</item>
         <item quantity="few">%d трека</item>
         <item quantity="many">%d треков</item>
-    </plurals>
-    <plurals name="video_play_count">
-        <item quantity="other">%1$s просмотров</item>
-        <item quantity="one">%1$s просмотр</item>
-        <item quantity="few">%1$s просмотра</item>
-        <item quantity="many">%1$s просмотров</item>
     </plurals>
 </resources>

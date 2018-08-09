@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_alarm">Добавить будильник</string>
-    <string name="add_clock">Добавить часы</string>
+    <string name="add_alarm">Новый будильник</string>
+    <string name="add_clock">Добавить</string>
     <string name="add_timezone_title">Добавить часовой пояс</string>
     <string name="alarm_alert_alert_silenced">Будильник звонил %d мин.</string>
     <string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
     <string name="alarm_ascending_mode_summary">Громкость будильника будет постепенно расти до заданного уровня</string>
     <string name="alarm_ascending_mode_title">Нарастание громкости</string>
-    <string name="alarm_clock_more_setting">Дополнительные настройки</string>
+    <string name="alarm_clock_more_setting">Настройки</string>
     <string name="alarm_disabled">Отключен</string>
     <string name="alarm_in_silent_mode_title">Будильник в режиме \"Без звука\"</string>
     <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов, установленных в часах.</string>
@@ -54,15 +54,15 @@
     <string name="delete_timezone_title">Удалить часовой пояс</string>
     <string name="dialog_confirm_abort">Отменить изменения?</string>
     <string name="dialog_message_agree">Согласен</string>
-    <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению Часы необходим доступ к вашим контактам. Вы согласны?</string>
+    <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению Часы требуется доступ к вашим контактам. Вы согласны?</string>
     <string name="dialog_message_negative">Отмена</string>
     <string name="dialog_message_not_remind">Больше не показывать</string>
     <string name="done">Готово</string>
     <string name="dynamic_alarm_speech">Умный будильник</string>
-    <string name="edit_alarm">Изменить будильник</string>
+    <string name="edit_alarm">Изменение будильника</string>
     <string name="edit_systemtime">Настройки даты и времени</string>
     <string name="every_day">Ежедневно</string>
-    <string name="force_touch_add_alarm">Добавить будильник</string>
+    <string name="force_touch_add_alarm">Будильник</string>
     <string name="force_touch_enter_stopwatch">Секундомер</string>
     <string name="force_touch_enter_timer">Таймер</string>
     <string name="go_back">Назад</string>
@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,10 +176,14 @@
     <string name="timer_alert_type_rain">Дождь</string>
     <string name="timer_alert_type_stove_fire">Костер</string>
     <string name="timer_alert_type_summer_night">Ночь</string>
+    <string name="timer_cancel_hint">Стоп</string>
     <string name="timer_cancel_timer">Отменить таймер</string>
     <string name="timer_clock_alert_text">Установить таймер</string>
     <string name="timer_continue">Продолжить</string>
     <string name="timer_continue_timer">Возобновить таймер</string>
+    <string name="timer_end_time">Таймер остановится в %s</string>
+    <string name="timer_end_time_format">HH:mm d MMM</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_item_duration_display">%1$d мин %2$d с</string>
     <string name="timer_item_label_hint">Описание</string>
@@ -212,6 +218,4 @@
     <string name="worldcolock_timezone_date">d MMM</string>
     <string name="worldcolock_timezone_gap">Час</string>
     <string name="worldcolock_timezone_local">Как местное время</string>
-    <string name="timer_pause_hint">Пауза</string>
-    <string name="timer_running_hint">Продолжить</string>
 </resources>

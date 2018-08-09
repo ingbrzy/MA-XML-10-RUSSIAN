@@ -432,6 +432,7 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -441,7 +442,7 @@
     <string name="pref_title_declaration">Отказ от ответственности</string>
     <string name="pref_new_installed_preconfig_title">Настройки для новых приложений</string>
     <string name="pref_bg_network_title">Фоновые подключения</string>
-    <string name="pref_mi_sim_settings">Настройки Mi SIM</string>
+    <string name="pref_mi_sim_settings">Настройки пакета %s</string>
     <string name="pref_title_upload_data_usage">Отправлять отчеты о трафике</string>
     <string name="pref_summary_upload_data_usage">Отправляйте отчеты о трафике, чтобы помочь нам улучшить MIUI. Отчетность осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
     <string name="pref_manual_adjust">Ввод расхода трафика</string>
@@ -884,6 +885,7 @@
     <string name="status_bar_network_flow_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Остаток: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;За месяц: %2$s</string>
     <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Однократный лимит трафика</string>
     <string name="pref_key_tethering_title">Однократный лимит трафика</string>
     <string name="tether_limit_value_custom">Особый</string>
@@ -957,6 +959,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Это приложение может замедлить
 работу вашего устройства"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Удалить %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Удалите это приложение для решения проблем с батареей.</string>
     <string name="om_ill_proc_type_wakelock_title">Приложение блокирует спящий режим и разряжает батарею</string>
@@ -982,7 +985,7 @@
     <string name="power_center_time_to_shutdown">Время выключения</string>
     <string name="power_center_state_on">Вкл</string>
     <string name="power_center_state_off">Откл</string>
-    <string name="power_center_charge_time">До полного заряда %1$s</string>
+    <string name="power_center_charge_time">%1$sдо окончания</string>
     <string name="power_dialog_cancel">Отмена</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_consume_rank_title">Потребление энергии</string>
@@ -1015,6 +1018,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1045,7 +1049,7 @@
     <string name="legal_workday_invalidate">Пн-пт (данные праздников устарели)</string>
     <string name="legal_workday_invalidate_message">Нажмите для обновления данных о праздниках.</string>
     <string name="legal_workday_message">(пропускать праздники)</string>
-    <string name="boot_time_day">Включение через %1$d дн. в %2$s</string>
+    <string name="boot_time_day">Включение через %1$d д в %2$s</string>
     <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
     <string name="boot_time">Включение в %1$s</string>
     <string name="battery_stats_on_battery">%1$s без зарядки</string>
@@ -1096,7 +1100,7 @@
     <string name="hide_mode_summary_text">Управляйте фоновой активностью приложений для экономии заряда батареи</string>
     <string name="hide_mode_app_background_setting_text">Контроль активности</string>
     <string name="battery_estimate_usage_time_title">До полного разряда</string>
-    <string name="battery_estimate_charge_time_title">До полного заряда</string>
+    <string name="battery_estimate_charge_time_title">Время зарядки</string>
     <string name="battery_temperature_title">Температура</string>
     <string name="battery_capacity_title">Емкость</string>
     <string name="battery_charge_full">Заряжена</string>
@@ -1361,11 +1365,13 @@
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
     <string name="menu_summary_networkassistants">Управляйте своим тарифом</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1378,12 +1384,14 @@
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
-    <string name="menu_summary_power_manager_4">До полного заряда %s</string>
+    <string name="menu_summary_power_manager_4">%sдо окончания</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Можно оптимизировать несколько объектов</string>
@@ -1749,6 +1757,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -1770,7 +1779,7 @@
     <string name="card_main_xspace_action">Создать</string>
     <string name="card_main_overscroll_tips">Безопасность на высшем уровне</string>
     <string name="card_main_gamebooster_title">Ускорение игр</string>
-    <string name="card_main_gamebooster_summary">Повышайте стабильность соединения для игр</string>
+    <string name="card_main_gamebooster_summary">Повышайте стабильность сети для игр</string>
     <string name="exit_dialog_scan_title">Оптимизируйте устройство</string>
     <string name="exit_dialog_scan_message">Индекс производительности вашего устройства ниже 75 баллов. Оптимизировать его?</string>
     <string name="exit_dialog_scan_positive_button">Оптимизировать</string>
@@ -1917,6 +1926,9 @@
     <string name="set_pattern_password_name">Задайте графический ключ</string>
     <string name="set_numeric_password_name">Задайте цифровой код</string>
     <string name="set_mixed_password_name">Задайте пароль</string>
+    <string name="reset_data_title">Невозможно восстановить пароль</string>
+    <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
+    <string name="reset_data_dialog_ok">Сброс настроек</string>
     <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="toast_network_eror">Не удается подключиться к сети</string>
@@ -2169,7 +2181,7 @@
     <string name="sys_title_gamebooster_unit_mb">МБ</string>
     <string name="gmscore_support_service">Сервисы Google</string>
     <string name="gmscore_support_remind">Включите эту функцию, если у вас возникли проблемы с использованием Gmail, Карт Google и других приложений Google. Это немного повысит расход заряда батареи.</string>
-    <string name="google_base_app_install_choice">\"%s\" требует наличия Google Services Framework для нормальной работы, загрузить и установить?</string>
+    <string name="google_base_app_install_choice">Приложение требует наличия Google Services Framework для нормальной работы, загрузить и установить?</string>
     <string name="application_item_disable">Запрещено</string>
     <string name="application_item_already_permission">Разрешено</string>
     <string name="man_add_application">Добавить приложение с автозапуском</string>

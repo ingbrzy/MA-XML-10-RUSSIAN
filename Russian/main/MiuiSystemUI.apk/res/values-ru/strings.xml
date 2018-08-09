@@ -39,7 +39,7 @@
     <string name="accessibility_battery_details">Открыть информацию о батарее</string>
     <string name="accessibility_battery_full">Батарея заряжена.</string>
     <string name="accessibility_battery_level">Заряд батареи в процентах: %d.</string>
-    <string name="accessibility_battery_level_charging">Батарея заряжается, %d процентов.</string>
+    <string name="accessibility_battery_level_charging">Батарея заряжается, заряд в процентах: %d.</string>
     <string name="accessibility_battery_one_bar">Заряд батареи: одно деление.</string>
     <string name="accessibility_battery_three_bars">Заряд батареи: три деления.</string>
     <string name="accessibility_battery_two_bars">Заряд батареи: два деления.</string>
@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -103,7 +104,7 @@
     <string name="accessibility_home">Домой</string>
     <string name="accessibility_ime_switch_button">Переключение способа ввода.</string>
     <string name="accessibility_key">Пользовательская кнопка навигации</string>
-    <string name="accessibility_left_button">ярлык</string>
+    <string name="accessibility_left_button">Ярлык</string>
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
     <string name="accessibility_managed_profile">Рабочий профиль</string>
     <string name="accessibility_menu">Меню</string>
@@ -144,6 +145,7 @@
     <string name="accessibility_quick_settings_airplane_off">Режим полета отключен.</string>
     <string name="accessibility_quick_settings_airplane_on">Режим полета включен.</string>
     <string name="accessibility_quick_settings_alarm">Будильник установлен на %s.</string>
+    <string name="accessibility_quick_settings_alarm_on">Будильник включен.</string>
     <string name="accessibility_quick_settings_alarm_set">Будильник установлен.</string>
     <string name="accessibility_quick_settings_battery">Батарея %s.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -151,6 +153,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth включен.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Соединение Bluetooth установлено.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Соединение Bluetooth устанавливается.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд батареи устройства Bluetooth в процентах: %d.</string>
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth отключен.</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth включен.</string>
     <string name="accessibility_quick_settings_close">Закрыть панель.</string>
@@ -274,7 +277,7 @@
     <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_info">О приложении</string>
     <string name="app_label">Интерфейс</string>
-    <string name="app_name">Блокировка</string>
+    <string name="app_name">Экран блокировки</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="as_important">Важное</string>
     <string name="as_unimportant">Неважное</string>
@@ -526,7 +529,7 @@
     <string name="dock_keyguard_locked_failed_to_dock_text">Разделение экрана не работает при блокировке</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Приложение не поддерживает разделение экрана.</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
-    <string name="drag_to_add_tiles">Перетащите нужные элементы</string>
+    <string name="drag_to_add_tiles">Перетащите сюда для добавления</string>
     <string name="drag_to_remove_tiles">Перетащите сюда для удаления</string>
     <string name="drive_mode_tip">Режим \"За рулем\"</string>
     <string name="drive_mode_tip_idle">Режим \"За рулем\"</string>
@@ -551,7 +554,7 @@
     <string name="expanded_confirm_disable_notification">Скрыть</string>
     <string name="expanded_header_battery_charged">Заряжена</string>
     <string name="expanded_header_battery_charging">Заряжается</string>
-    <string name="expanded_header_battery_charging_with_time">%s до полного заряда</string>
+    <string name="expanded_header_battery_charging_with_time">%s до окончания</string>
     <string name="expanded_header_battery_not_charging">Не заряжается</string>
     <string name="expanded_notification_manager">Управление уведомлениями</string>
     <string name="experimental">Экспериментальные</string>
@@ -713,6 +716,7 @@
     <string name="incorrect_pukcode">Неверный PUK код</string>
     <string name="input_password_after_boot_msg">Для разблокировки устройства требуется пароль</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Нельзя переходить между пространствами во время вызова</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Нельзя переходить между пространствами при включенном родительском контроле</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_handle_sdcard_fs">Нельзя войти во второе пространство с экрана блокировки. Войдите из первого пространства.</string>
     <string name="input_password_hint_text">Введите пароль</string>
@@ -791,9 +795,13 @@
     <string name="keyguard_accessibility_sim_pin_area">Область ввода PIN SIM-карты</string>
     <string name="keyguard_accessibility_sim_puk_area">Область ввода PUK SIM-карты</string>
     <string name="keyguard_carrier_default">Нет сети</string>
-    <string name="keyguard_charged">Заряжена</string>
+    <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_charging_info_battery_used_time_text">Работа от батареи</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -805,9 +813,9 @@
     <string name="keyguard_charging_info_tip_text4">Во избежание перегрева не используйте устройство слишком активно во время зарядки.</string>
     <string name="keyguard_charging_info_tip_text5">Батарея будет заряжаться дольше при повышенной температуре.</string>
     <string name="keyguard_charging_info_tip_text6">Для охлаждения выключите экран и отложите устройство в сторону.</string>
-    <string name="keyguard_indication_charging_time">Заряжается (%s до полного заряда)</string>
-    <string name="keyguard_indication_charging_time_fast">Быстрая зарядка (%s до полного заряда)</string>
-    <string name="keyguard_indication_charging_time_slowly">Медленная зарядка (%s до полного заряда)</string>
+    <string name="keyguard_indication_charging_time">Зарядка (%s до окончания)</string>
+    <string name="keyguard_indication_charging_time_fast">Быстрая зарядка (%s до окончания)</string>
+    <string name="keyguard_indication_charging_time_slowly">Медленная зарядка (%s до окончания)</string>
     <string name="keyguard_indication_trust_disabled">Устройство будет необходимо разблокировать вручную</string>
     <string name="keyguard_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
@@ -817,19 +825,20 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN</string>
     <string name="keyguard_password_enter_pin_password_code">Введите цифровой код</string>
     <string name="keyguard_password_enter_pin_prompt">Новый PIN SIM карты</string>
-    <string name="keyguard_password_enter_puk_code">Введите PUK SIM карты и новый PIN</string>
+    <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
     <string name="keyguard_password_enter_puk_prompt">PUK SIM карты</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Нажмите для ввода пароля</font></string>
-    <string name="keyguard_password_wrong_pin_code">Неверный PIN код.</string>
+    <string name="keyguard_password_wrong_pin_code">Неверный цифровой код</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-карта заблокирована навсегда.
 Для получения новой SIM-карты обратитесь к оператору мобильной связи."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-карта непригодна.</string>
-    <string name="keyguard_plugged_in">Зарядка</string>
+    <string name="keyguard_plugged_in">Зарядка батареи</string>
     <string name="keyguard_plugged_in_charging_fast">Быстрая зарядка</string>
     <string name="keyguard_plugged_in_charging_slowly">Медленная зарядка</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Быстрая зарядка. Нажмите для просмотра.</string>
@@ -838,7 +847,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
     <string name="keyguard_torch_cover_text">Чтобы фонарик не выключился, нажмите кнопку питания</string>
     <string name="keyguard_unlock">Проведите вверх для разблокировки</string>
-    <string name="kg_enter_confirm_pin_hint">Подтвердите желаемый PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите новый PIN</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_login">"Количество неудачных попыток ввода графического ключа: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью email.
@@ -849,18 +858,18 @@
     <string name="kg_failed_attempts_now_erasing_user">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="kg_forgot_pattern_button_text">Забыли ключ?</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
-    <string name="kg_invalid_sim_pin_hint">PIN должен содержать от 4 до 8 цифр.</string>
+    <string name="kg_invalid_sim_pin_hint">PIN должен содержать от 4 до 8 цифр</string>
     <string name="kg_invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="kg_login_too_many_attempts">Слишком много попыток ввода</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_password_pin_failed">Сбой операции PIN SIM-карты!</string>
-    <string name="kg_password_puk_failed">Сбой операции PUK SIM-карты!</string>
-    <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Для разблокировки SIM-карты обратитесь к оператору связи.</string>
+    <string name="kg_password_pin_failed">Не удалось разблокировать SIM-карту</string>
+    <string name="kg_password_puk_failed">Не удалось разблокировать SIM-карту</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки SIM-карты.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
     <string name="kg_pattern_instructions">Введите графический ключ</string>
-    <string name="kg_pin_accepted">Код принят!</string>
+    <string name="kg_pin_accepted">Код принят</string>
     <string name="kg_pin_instructions">Введите цифровой код</string>
     <string name="kg_prompt_reason_device_admin">Устройство заблокировано администратором</string>
     <string name="kg_prompt_reason_restart_password">Введите пароль</string>
@@ -873,7 +882,7 @@
     <string name="kg_prompt_reason_timeout_pattern">Для дополнительной защиты необходимо ввести графический ключ</string>
     <string name="kg_prompt_reason_timeout_pin">Для дополнительной защиты необходимо ввести цифровой код</string>
     <string name="kg_prompt_reason_user_request">Устройство заблокировано вручную</string>
-    <string name="kg_puk_enter_pin_hint">Введите желаемый PIN-код</string>
+    <string name="kg_puk_enter_pin_hint">Введите новый PIN</string>
     <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Для продолжения введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM-карта \"%1$s\" заблокирована. Для продолжения введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
@@ -900,6 +909,7 @@
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -927,8 +937,7 @@
     <string name="lockscreen_none">Нет</string>
     <string name="lockscreen_shortcut_left">Левый ярлык</string>
     <string name="lockscreen_shortcut_right">Правый ярлык</string>
-    <string name="lockscreen_sim_error_message_short">SIM-карта недействительна.</string>
-    <string name="lockscreen_storage_locked">Разблокируйте для доступа ко всем функциям</string>
+    <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
     <string name="lockscreen_unlock_left">Левый ярлык также разблокирует экран</string>
     <string name="lockscreen_unlock_right">Правый ярлык также разблокирует экран</string>
     <string name="long_screenshot_not_support_msg">Приложение не поддерживает снимки с прокруткой</string>
@@ -962,6 +971,7 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т. д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
@@ -988,12 +998,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1025,6 +1037,7 @@
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1039,6 +1052,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1102,7 +1116,7 @@
     <string name="notification_otg_unknow_in">Устройство OTG подключено</string>
     <string name="notification_otg_unknow_out">Устройство OTG отключено</string>
     <string name="notification_tap_again">Нажмите еще раз для открытия</string>
-    <string name="notification_template_text">" получено уведомление. Нажмите для просмотра."</string>
+    <string name="notification_template_text">" отправил уведомление. Нажмите для просмотра."</string>
     <string name="oem_unlock_enable">OEM разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
     <string name="oldman_airplane_mode_text">Режим полета</string>
@@ -1126,7 +1140,7 @@
     <string name="phone_locked_string">Устройство заблокировано</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
-    <string name="pip_close">Выйти</string>
+    <string name="pip_close">Закрыть PiP</string>
     <string name="pip_fullscreen">На весь экран</string>
     <string name="pip_menu_title">Меню</string>
     <string name="pip_notification_message">Чтобы отключить эту функцию для приложения %s перейдите в настройки.</string>
@@ -1172,9 +1186,10 @@
 
 "<b>Уровень 0</b>" 
 - Блокировать все уведомления приложения"</string>
-    <string name="power_remaining_charging_duration_only">%1$s до полного заряда</string>
+    <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
     <string name="power_remaining_duration_only_short">Осталось %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1191,7 +1206,7 @@
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="quick_settings">Быстрые настройки</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
-    <string name="quick_settings_batterysaver_label">Экономия энергии</string>
+    <string name="quick_settings_batterysaver_label">Экономия</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Нет подключенных устройств</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d)</string>
@@ -1210,7 +1225,7 @@
     <string name="quick_settings_cellular_detail_data_warning">%s предупреждение</string>
     <string name="quick_settings_cellular_detail_over_limit">Превышение лимита</string>
     <string name="quick_settings_cellular_detail_remaining_data">Остаток трафика</string>
-    <string name="quick_settings_cellular_detail_title">Мобильный интернет</string>
+    <string name="quick_settings_cellular_detail_title">Интернет</string>
     <string name="quick_settings_color_space_label">Коррекция цвета</string>
     <string name="quick_settings_connect_success">Подключено</string>
     <string name="quick_settings_connected">Подключено</string>
@@ -1304,7 +1319,7 @@
     <string name="recents_accessibility_split_screen_top">Разделить по верхнему краю</string>
     <string name="recents_app_info_button_label">Сведения</string>
     <string name="recents_caption_resize">Выберите другой макет</string>
-    <string name="recents_drag_hint_message">Перетащите сюда, чтобы разделить экран</string>
+    <string name="recents_drag_hint_message">Перетащите сюда для разделения экрана</string>
     <string name="recents_empty_message">Недавних приложений нет</string>
     <string name="recents_empty_message_dismissed_all">Все приложения закрыты</string>
     <string name="recents_empty_message_multi_window">Открыть приложение с рабочего стола</string>
@@ -1701,6 +1716,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1725,9 +1741,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

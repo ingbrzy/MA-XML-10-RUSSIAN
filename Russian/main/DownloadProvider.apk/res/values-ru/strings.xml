@@ -42,5 +42,4 @@
     <string name="download_running">Загружается</string>
     <string name="download_error">Ошибка</string>
     <string name="download_running_percent">Загружено %s</string>
-    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
 </resources>

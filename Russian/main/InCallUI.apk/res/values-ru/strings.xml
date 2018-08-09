@@ -128,6 +128,8 @@
     <string name="select_sim_hint">Нельзя использовать SIM %2$d, когда SIM %1$d занята.</string>
     <string name="select_one_sim_title">Можно использовать только SIM %1$d</string>
     <string name="can_not_use">Использование невозможно</string>
+    <string name="sim1_description">SIM1</string>
+    <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Запись…</string>
     <string name="call_recording_error_privacy">Невозможно записывать вызовы в режиме \"Гость\"</string>
     <string name="call_recording_error_sd_access">Накопитель недоступен</string>
@@ -171,7 +173,7 @@
     <string name="close_camera_requesting">Отключение камеры…</string>
     <string name="close_camera_failed">Не удалось отключить камеру…</string>
     <string name="change_to_voice_tips_when_background">Другая сторона перешла на голосовую связь</string>
-    <string name="video_crbt_title">%s видеосигнал вызова</string>
+    <string name="video_crbt_title">Видеосигнал обратного вызова другой стороны</string>
     <string name="crbt_second_hold_prompt">%s ждет ответа…</string>
     <string name="crbt_second_hold_prompt_no_name">Предыдущий вызов ждет ответа…</string>
     <string name="crbt_second_hold_prompt_conference">Конференц-вызов ждет ответа…</string>

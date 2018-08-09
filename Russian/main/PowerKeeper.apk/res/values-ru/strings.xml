@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">Подробнее о конфиденциальности</string>
     <string name="sleepmode_disclaimer_cancel">Отмена</string>
     <string name="sleepmode_disclaimer_agree">Принять</string>
+    <string name="appconfig_active_app_dialog_title">Управление активностью</string>
+    <string name="config_classify">Сортировать по настройкам</string>
+    <string name="active_classify">Сортировать по активности</string>
 </resources>

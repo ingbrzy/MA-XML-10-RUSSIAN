@@ -42,29 +42,11 @@
         <item quantity="few">Неверный PUK код, осталось %d попытки</item>
         <item quantity="many">Неверный PUK код, осталось %d попыток</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">До полного заряда %d ч</item>
-        <item quantity="one">До полного заряда %d ч</item>
-        <item quantity="few">До полного заряда %d ч</item>
-        <item quantity="many">До полного заряда %d ч</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">До полного заряда %d мин.</item>
-        <item quantity="one">До полного заряда %d мин.</item>
-        <item quantity="few">До полного заряда %d мин.</item>
-        <item quantity="many">До полного заряда %d мин.</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">До полного заряда %1$d ч %2$d мин</item>
-        <item quantity="one">До полного заряда %1$d ч %2$d мин</item>
-        <item quantity="few">До полного заряда %1$d ч %2$d мин</item>
-        <item quantity="many">До полного заряда %1$d ч %2$d мин</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Осталось %d ч</item>
         <item quantity="one">Остался %d ч</item>
         <item quantity="few">Осталось %d ч</item>
-        <item quantity="many">Осталось %d ч</item>
+        <item quantity="many">Осталось %d\u0000</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
         <item quantity="other">Осталось %d мин</item>
@@ -97,10 +79,10 @@
         <item quantity="many">%1$d ч %2$d мин</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Введите PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Введите PIN-код. Осталось %d попыток.</item>
         <item quantity="one">Введите PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
-        <item quantity="few">Введите PIN-код. Осталось %d попытки. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
-        <item quantity="many">Введите PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="few">Введите PIN-код. Осталось %d попытки.</item>
+        <item quantity="many">Введите PIN-код. Осталось %d попыток.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">SIM-карта заблокирована. Для продолжения введите PUK-код. Осталось %d попыток. После этого SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к своему оператору связи.</item>
@@ -109,10 +91,10 @@
         <item quantity="many">SIM-карта заблокирована. Для продолжения введите PUK-код. Осталось %d попыток. После этого SIM-карта будет заблокирована навсегда. За подробной информацией обратитесь к своему оператору связи.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Неверный PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Неверный PIN-код. Осталось %d попыток.</item>
         <item quantity="one">Неверный PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
-        <item quantity="few">Неверный PIN-код. Осталось %d попытки. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
-        <item quantity="many">Неверный PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="few">Неверный PIN-код. Осталось %d попытки.</item>
+        <item quantity="many">Неверный PIN-код. Осталось %d попыток.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Неверный PUK-код. Осталось %d попыток. После этого SIM-карта будет заблокирована навсегда.</item>

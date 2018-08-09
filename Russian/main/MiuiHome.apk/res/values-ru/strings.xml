@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -85,7 +86,7 @@
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
-    <string name="custom_wallpaper_picker">Еще</string>
+    <string name="custom_wallpaper_picker">Обзор</string>
     <string name="defalut_launcher_title">Рабочий стол</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Игры</string>

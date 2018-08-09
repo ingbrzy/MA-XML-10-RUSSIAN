@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d мин. назад</item>
-        <item quantity="one">%1$d мин. назад</item>
-        <item quantity="few">%1$d мин. назад</item>
-        <item quantity="many">%1$d мин. назад</item>
+        <item quantity="other">%1$d минут назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d часов назад</item>

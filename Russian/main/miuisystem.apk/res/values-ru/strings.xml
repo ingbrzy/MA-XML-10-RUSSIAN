@@ -13,6 +13,8 @@
     <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi Pad</string>
     <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_poco_global">POCOPHONE</string>
+    <string name="device_poco_india">POCO PHONE</string>
     <string name="solar_calendar">公历</string>
     <string name="lunar_calendar">Лунный календарь</string>
     <string name="lunar_zheng">正</string>
@@ -166,7 +168,7 @@
     <string name="candy">Конфета</string>
     <string name="fairyland">Сказка</string>
     <string name="glee">Радость</string>
-    <string name="kungfu">Кунфу</string>
+    <string name="kungfu">Кунг-фу</string>
     <string name="spaceage">Космос</string>
     <string name="mountainspring">Горный ручей</string>
     <string name="fieldtrip">Экскурсия</string>

@@ -12,7 +12,7 @@
     <string name="permdesc_accessDrm">Позволяет приложению получать доступ к содержимому, защищенному DRM.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
-    <string name="settings_license_activity_title">Лицензии с открытым исходным кодом</string>
+    <string name="settings_license_activity_title">Лицензии открытого ПО</string>
     <string name="settings_license_activity_loading">Секунду…</string>
     <string name="settings_license_activity_unavailable">Не удалось загрузить лицензии.</string>
     <string name="settings_safetylegal_title">Информация о безопасности</string>

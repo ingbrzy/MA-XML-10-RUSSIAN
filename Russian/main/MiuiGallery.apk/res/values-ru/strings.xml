@@ -463,6 +463,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -473,6 +474,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
@@ -649,7 +652,7 @@
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
-    <string name="more_album_hint">и т.д.</string>
+    <string name="more_album_hint">, и т.д.</string>
     <string name="more_face">Еще похожие люди</string>
     <string name="more_face_album_name">Другие лица</string>
     <string name="move_to_other_albums_tip">Переместить этот альбом в Другие альбомы?</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -987,6 +991,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1224,9 +1231,9 @@
     <string name="video_editor_smart_effect_radical">Оптимистичный</string>
     <string name="video_editor_smart_effect_rhythm">Пульс</string>
     <string name="video_editor_smart_effect_street">Метрополис</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Вы можете применить этот эффект к видео продолжительностью до 40 секунд.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_6">Вы можете применить этот эффект к видео продолжительностью более 6 секунд.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Вы можете применить этот эффект к видео продолжительностью до 60 секунд.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Вы можете применить этот эффект к видео не длиннее 40 секунд. Длительность исправлена автоматически.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_6">Вы можете применить этот эффект к видео длиной не менее 6 секунд.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Вы можете применить этот эффект к видео не длиннее 60 секунд. Длительность исправлена автоматически.</string>
     <string name="video_editor_template_family">Семья</string>
     <string name="video_editor_template_forbidden_tips">Не удалось сделать это при использовании шаблона</string>
     <string name="video_editor_template_oldfilm">Ретро</string>
@@ -1240,13 +1247,13 @@
     <string name="video_editor_text_edit_input_hint">Введите текст</string>
     <string name="video_editor_text_edit_input_open_hint">Введите название</string>
     <string name="video_editor_text_edit_start">Начало</string>
-    <string name="video_editor_text_input_empty_tips">Похоже, вы не ввели текст</string>
+    <string name="video_editor_text_input_empty_tips">Похоже, что вы не ввели текст</string>
     <string name="video_editor_text_preview_text">Aa</string>
     <string name="video_editor_trim">Обрезка</string>
     <string name="video_editor_unsupport_audio_file">Тип аудио не поддерживается</string>
     <string name="video_editor_unzip_file_fail">Не удалось распаковать видео.</string>
     <string name="video_editor_video_is_short">Редактирование этого видео невозможно.</string>
-    <string name="video_editor_video_loading">Подготовка видео. Подождите немного и повторите попытку.</string>
+    <string name="video_editor_video_loading">Подготовка видео… Подождите немного и повторите попытку.</string>
     <string name="video_editor_watermark">Водяной знак</string>
     <string name="video_err">Не удается воспроизвести видео</string>
     <string name="video_not_exist">Видео не существует</string>
@@ -1256,6 +1263,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>

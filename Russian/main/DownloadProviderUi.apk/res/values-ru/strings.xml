@@ -87,7 +87,7 @@
     <string name="download_remain_time">Осталось:</string>
     <string name="download_speed">Скорость загрузки:</string>
     <string name="download_spend_time">Время</string>
-    <string name="download_status_continue">Пуск</string>
+    <string name="download_status_continue">Продолжить</string>
     <string name="download_status_fail">Повтор</string>
     <string name="download_status_paused">Пауза</string>
     <string name="download_title">Загрузки</string>
@@ -171,7 +171,7 @@
     <string name="recommend_paused">Пауза</string>
     <string name="recommend_prepare">Ожидание…</string>
     <string name="restart_download">Заново</string>
-    <string name="resume_download">Пуск</string>
+    <string name="resume_download">Продолжить</string>
     <string name="retry_after_network_available">Не удается подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="revert_default">Восстановить настройки по умолчанию</string>
     <string name="revert_download_path">Сохранять в папку по умолчанию?</string>

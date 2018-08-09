@@ -91,6 +91,7 @@
     <string name="hints_apk_header_left">Пакеты установки</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">Автоматическая очистка</string>
     <string name="deepclean_normal_item_desc1">Мусор</string>
     <string name="deepclean_normal_item_desc2">Активность очистки не будет влиять на производительность системы</string>
-    <string name="deepclean_1_k_clean">Быстрая очистка</string>
+    <string name="deepclean_1_k_clean">Очистка памяти</string>
     <string name="similar_image_title">Фото</string>
     <string name="similar_image_desc">Удалить повторяющиеся фото</string>
     <string name="similar_image_scaning">Проверка…</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
@@ -529,7 +531,7 @@
     <string name="wechat_msg_time_long">dd.MM.yyyy</string>
     <string name="wechat_msg_time_short">dd.MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
-    <string name="main_total_garbage">Всего мусора</string>
+    <string name="main_total_garbage">Размер мусора</string>
     <string name="whatsapp_group_image">Изображения</string>
     <string name="whatsapp_group_video">Видео</string>
     <string name="whatsapp_group_voice">Голосовые сообщения</string>
@@ -555,4 +557,14 @@
     <string name="whatsapp_title">Очистка WhatsApp</string>
     <string name="whatsapp_function_title">Очистка WhatsApp</string>
     <string name="whatsapp_function_summery">Очищайте вложения WhatsApp</string>
+    <string name="clean_summary">Очищено файлов: %1$s</string>
+    <string name="onekeyclean_boosting_title">Ускорение</string>
+    <string name="onekeyclean_boosted_title">Очистка завершена</string>
+    <string name="onekeyclean_boost_cleaned">%s очищено</string>
+    <string name="onekeyclean_boost_available">%s доступно</string>
+    <string name="onekeyclean_card_summery">Удаляйте мусор для освобождения места</string>
+    <string name="onekeyclean_card_btn">Очистить</string>
+    <string name="memory_clean_icon_text">Очистка памяти</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Добавить ярлык на рабочий стол</string>
+    <string name="memory_clean_no_trash_tip">Всё в порядке</string>
 </resources>
