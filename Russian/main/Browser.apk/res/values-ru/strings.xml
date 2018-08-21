@@ -25,7 +25,6 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Еще</string>
