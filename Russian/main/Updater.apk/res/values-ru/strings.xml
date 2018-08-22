@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="app_name">Обновление</string>
+  <string name="menu_title_current_version_log">"Список изменений"</string>
+  <string name="menu_title_pick_rom_file">Выбрать файл прошивки</string>
+  <string name="menu_title_recovery">Перезагрузить в режим Recovery</string>
 </resources>
