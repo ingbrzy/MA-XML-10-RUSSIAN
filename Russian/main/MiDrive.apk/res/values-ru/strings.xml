@@ -22,7 +22,6 @@
   <string name="delete_failed">"Ошибка удаления"</string>
   <string name="delete_failed_retry">"Ошибка удаления, подождите %1$s и повторите попытку"</string>
   <string name="delete_success">Файл удален</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Ошибка загрузки</string>
   <string name="downloading">Скачивание</string>
   <string name="downloading_in_3g">Загрузка по сети 3G\u2026</string>
