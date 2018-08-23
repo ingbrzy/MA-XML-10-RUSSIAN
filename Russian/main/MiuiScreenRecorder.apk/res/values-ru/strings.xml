@@ -24,6 +24,8 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
+    <string name="first_using_mic_dialog_message">Приложению требуется доступ к микрофону для записи звука. Разрешить?</string>
+    <string name="first_using_mic_dialog_title">Требуются разрешения</string>
     <string name="fixed_frame_rate">Фиксированная частота кадров</string>
     <string name="fixed_frame_rate_summary">Улучшает воспроизведение на платформах социальных сетей и продляет время работы от батареи</string>
     <string name="frames">Частота кадров</string>
@@ -55,7 +57,7 @@
     <string name="operation_delete">Удалить</string>
     <string name="operation_send">Отправить</string>
     <string name="quit_recording">Выход из приложения…</string>
-    <string name="recording_failure">Ошибка записи, начните заново</string>
+    <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
     <string name="recording_without_mic">Микрофон сейчас занят и не может записывать звук</string>
     <string name="resolution">Разрешение</string>
@@ -82,4 +84,6 @@
     <string name="storage_location_summary">Предпочтительный вариант хранения</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Не выбрано</string>
+    <string name="using_record_confirm_cancel">Отмена</string>
+    <string name="using_record_confirm_ok">Разрешить</string>
 </resources>

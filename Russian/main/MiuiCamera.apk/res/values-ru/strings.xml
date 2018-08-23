@@ -28,7 +28,7 @@
     <string name="pref_camera_proximity_lock_title">Режим \"В кармане\"</string>
     <string name="pref_camera_proximity_lock_summary">Предотвращать случайные нажатия при помещении устройства в карман</string>
     <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
-    <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Увеличение громкости\" и \"Назад\".</string>
+    <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
     <string name="pref_front_mirror_title">Зеркальный режим</string>
     <string name="pref_video_quality_title">Качество видео</string>
     <string name="pref_video_hfr_title">HFR видео</string>
@@ -200,6 +200,7 @@
     <string name="tap_to_exposure">Нажмите для ручной настройки экспозиции</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_intent_done_apply">Готово</string>
+    <string name="accessibility_intent_done_retry">Переснять</string>
     <string name="accessibility_review_thumbnail">Недавние фото</string>
     <string name="accessibility_camera_picker">Переключение камеры</string>
     <string name="accessibility_stereo_button">Стерео</string>
@@ -279,24 +280,24 @@
     <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
     <string name="pref_scan_qrcode_title">Сканировать QR-коды</string>
     <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
-    <string name="pref_manual_exposure_title">S</string>
+    <string name="pref_manual_exposure_title">ВЫДЕРЖКА</string>
     <string name="pref_camera_exposuretime_entry_auto">АВТО</string>
-    <string name="pref_camera_exposuretime_entry_32s">32 сек.</string>
-    <string name="pref_camera_exposuretime_entry_16s">16 сек.</string>
-    <string name="pref_camera_exposuretime_entry_8s">8 сек.</string>
-    <string name="pref_camera_exposuretime_entry_4s">4 сек.</string>
-    <string name="pref_camera_exposuretime_entry_0_5">2 сек.</string>
-    <string name="pref_camera_exposuretime_entry_1">1 сек.</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2 сек.</string>
-    <string name="pref_camera_exposuretime_entry_4">1/4 сек.</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8 сек.</string>
-    <string name="pref_camera_exposuretime_entry_15">1/15 сек.</string>
-    <string name="pref_camera_exposuretime_entry_30">1/30 сек.</string>
-    <string name="pref_camera_exposuretime_entry_60">1/60 сек.</string>
-    <string name="pref_camera_exposuretime_entry_125">1/125 сек.</string>
-    <string name="pref_camera_exposuretime_entry_250">1/250 сек.</string>
-    <string name="pref_camera_exposuretime_entry_500">1/500 сек.</string>
-    <string name="pref_camera_exposuretime_entry_1000">1/1000 сек.</string>
+    <string name="pref_camera_exposuretime_entry_32s">32 с</string>
+    <string name="pref_camera_exposuretime_entry_16s">16 с</string>
+    <string name="pref_camera_exposuretime_entry_8s">8 с</string>
+    <string name="pref_camera_exposuretime_entry_4s">4 с</string>
+    <string name="pref_camera_exposuretime_entry_0_5">2 с</string>
+    <string name="pref_camera_exposuretime_entry_1">1 с</string>
+    <string name="pref_camera_exposuretime_entry_2">1/2 с</string>
+    <string name="pref_camera_exposuretime_entry_4">1/4 с</string>
+    <string name="pref_camera_exposuretime_entry_8">1/8 с</string>
+    <string name="pref_camera_exposuretime_entry_15">1/15 с</string>
+    <string name="pref_camera_exposuretime_entry_30">1/30 с</string>
+    <string name="pref_camera_exposuretime_entry_60">1/60 с</string>
+    <string name="pref_camera_exposuretime_entry_125">1/125 с</string>
+    <string name="pref_camera_exposuretime_entry_250">1/250 с</string>
+    <string name="pref_camera_exposuretime_entry_500">1/500 с</string>
+    <string name="pref_camera_exposuretime_entry_1000">1/1000 с</string>
     <string name="face_age_info">Возраст: %d</string>
     <string name="face_score_info">Оценка: %.1f</string>
     <string name="face_analyze_info_male">Мужской</string>
@@ -346,7 +347,7 @@
     <string name="pref_camera_auto_capture_when_stable_title">Снимать выбранные неподвижные объекты</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Для выбора объекта коснитесь одновременно двух точек по диагонали вокруг его границы. Когда объект будет неподвижен, камера сделает снимок автоматически.</string>
     <string name="simple_mode_button_text_manual">Отключить ручной режим</string>
-    <string name="pref_qc_focus_position_title">F</string>
+    <string name="pref_qc_focus_position_title">ФОКУС</string>
     <string name="pref_front_mirror_entry_auto">Когда распознано лицо</string>
     <string name="pref_front_mirror_label_auto">Авто</string>
     <string name="pref_front_mirror_entry_on">Включен</string>
@@ -431,6 +432,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Отключить режим Квадрат</string>
     <string name="face_beauty_smart">Авто</string>
@@ -445,6 +447,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -557,4 +560,5 @@
     <string name="lighting_pattern_leaf">Листья</string>
     <string name="lighting_pattern_dot">Точки</string>
     <string name="lighting_pattern_shutter">Шторки</string>
+    <string name="view_privacy_policy">Политика конфиденциальности</string>
 </resources>

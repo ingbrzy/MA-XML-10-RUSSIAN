@@ -69,10 +69,10 @@
     <string name="reboot_progress">Перезагрузка…</string>
     <string name="screen_on_proximity_sensor_title">Режим \"В кармане\"</string>
     <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
-    <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Увеличение громкости\" и \"Назад\".</string>
-    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Для отключения этой функции нажмите кнопку \"Увеличение громкости\".</string>
+    <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Для отключения этой функции нажмите кнопку \"Громкость+\".</string>
     <string name="screen_button_notification_title">Кнопки навигации отключены</string>
-    <string name="screen_button_notification_text">Для включения нажмите кнопки \"Домой\" и \"Питание\" одновременно.</string>
+    <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
     <string name="screen_paper_mode_enter_toast">Включен режим чтения. Для его отключения перейдите в Настройки > Экран > Режим чтения.</string>
     <string name="sim_added_reboot_title">SIM карта будет активирована после перезагрузки устройства.</string>
     <string name="sim_added_reboot_confirm">Перезагрузка</string>

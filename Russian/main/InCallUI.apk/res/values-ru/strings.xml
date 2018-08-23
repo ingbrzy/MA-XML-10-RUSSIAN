@@ -132,7 +132,7 @@
     <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Запись…</string>
     <string name="call_recording_error_privacy">Невозможно записывать вызовы в режиме \"Гость\"</string>
-    <string name="call_recording_error_sd_access">Накопитель недоступен</string>
+    <string name="call_recording_error_sd_access">Нет доступа к SD карте</string>
     <string name="call_recording_error_sd_unmounted">Запись остановлена: SD карта извлечена.</string>
     <string name="call_recording_error_low_storage">Недостаточно места на накопителе.</string>
     <string name="call_recording_error_start_failed">Диктофон используется другим приложением.</string>
@@ -142,7 +142,7 @@
     <string name="call_recording_notification_message">Нажмите для прослушивания.</string>
     <string name="call_recording_notification_message_low_storage">SD карта заполнена.</string>
     <string name="call_recording_notification_message_sd_unmounted">SD карта извлечена.</string>
-    <string name="call_recording_deny_permission_msg">Вы не дали разрешения на запись, запись невозможна.</string>
+    <string name="call_recording_deny_permission_msg">Отсутствует разрешение, запись невозможна.</string>
     <string name="call_contacts_deny_permission_msg">Вы не дали разрешения на доступ к контактам, невозможно просмотреть информацию.</string>
     <string name="conference_call_recorder_title">Конференц-вызов</string>
     <string name="antispam_marked_count">Сообщило пользователей MIUI: %1$d</string>

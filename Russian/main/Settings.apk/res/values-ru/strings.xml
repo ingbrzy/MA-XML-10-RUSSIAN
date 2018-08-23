@@ -907,15 +907,16 @@
     <string name="bootloader_status_locked">Заблокирован</string>
     <string name="bootloader_status_locked_info">Загрузчик заблокирован</string>
     <string name="bootloader_status_locked_summary">Устройство защищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальной работы Mi Unlock требуется доступ к вашему Mi аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Разрешить?</string>
+    <string name="bootloader_status_privacy_dialog_message">Для нормальной работы Mi Unlock требуется доступ к вашему Mi аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
     <string name="bootloader_status_privacy_dialog_no">Отмена</string>
     <string name="bootloader_status_privacy_dialog_title">Требуются разрешения</string>
     <string name="bootloader_status_privacy_dialog_url_text">Политика конфиденциальности</string>
-    <string name="bootloader_status_privacy_dialog_yes">Разрешить</string>
+    <string name="bootloader_status_privacy_dialog_yes">Согласен</string>
     <string name="bootloader_status_summary">Проверка блокировки загрузчика</string>
     <string name="bootloader_status_unlocked">Разблокирован</string>
     <string name="bootloader_status_unlocked_info">Загрузчик разблокирован</string>
     <string name="bootloader_summary">Прошивка устройства через USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">Цвет индикатора</string>
     <string name="breathing_light_color_summary">Цвет индикатора для уведомлений</string>
     <string name="breathing_light_freq_summary">Частота мерцания индикатора для уведомлений</string>
@@ -927,11 +928,11 @@
     <string name="brightness_title">Яркость</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
-    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Текущее устройство поддерживает LDAC, который включен по умолчанию:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к более высокому энергопотреблению. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_summary">Обеспечивает высокое качество звучания</string>
     <string name="bt_ldac_pre_title">LDAC</string>
@@ -1408,6 +1409,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки пальцев?</string>
     <string name="delete_rule">Удаление расписания</string>
     <string name="delete_saved_network">Удаление сохраненных сетей</string>
+    <string name="delete_sound_effect">Звук при удалении</string>
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="deletion_helper_automatic_title">Автоматически</string>
     <string name="deletion_helper_manual_title">Вручную</string>
@@ -1552,6 +1554,7 @@
     <string name="dndm_auto_button_title">Использовать по расписанию</string>
     <string name="dndm_auto_setting_group">Расписание</string>
     <string name="dndm_auto_time_setting">Настройки времени</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Окончание</string>
     <string name="dndm_auto_time_turn_off_title">Автоматическое отключение режима \"Не беспокоить\"</string>
     <string name="dndm_auto_time_turn_on">Начало</string>
@@ -1710,6 +1713,7 @@
     <string name="enter_password">Чтобы запустить Android, введите пароль</string>
     <string name="enter_pattern">Чтобы запустить Android, введите графический ключ</string>
     <string name="enter_pin">Чтобы запустить Android, введите PIN-код</string>
+    <string name="enterprise_mode">Режим предприятия</string>
     <string name="enterprise_privacy_always_on_vpn_device">Постоянная VPN включена</string>
     <string name="enterprise_privacy_always_on_vpn_personal">Постоянная VPN включена в вашем личном профиле</string>
     <string name="enterprise_privacy_always_on_vpn_work">Постоянная VPN включена в вашем рабочем профиле</string>
@@ -1953,12 +1957,12 @@
     <string name="foreground_traffic">Активный: %s</string>
     <string name="forget">Удалить</string>
     <string name="forget_password_button_text"><u>Забыли пароль?</u></string>
-    <string name="forget_password_dialog_button_text">Back</string>
-    <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
-    <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-    <string name="forget_password_dialog_title">Reset your password</string>
+    <string name="forget_password_dialog_button_text">Назад</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Выберите &lt;font color=#e6e6e6>[Wipe data]&lt;/font> и дождитесь перезагрузки устройства.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Если вы забыли свой пароль, то не сможете его восстановить. Однако вы можете сбросить его после &lt;font color=#ec2700>удаления всех данных на устройстве&lt;/font> (включая фото, контакты и т.д.). Создайте резервную копию всех важных данных.</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Выключите устройство. Одновременно нажмите кнопки &lt;font color=#e6e6e6>[Питание]&lt;/font> и &lt;font color=#e6e6e6>[Громкость+]&lt;/font>, и удерживайте их, пока не увидите логотип &lt;img src=''>."</Data></string>
+    <string name="forget_password_dialog_content_two">Как стереть данные:</string>
+    <string name="forget_password_dialog_title">Сбросьте свой пароль</string>
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
     <string name="forget_privacy_password_setting">Добавить Mi аккаунт</string>
     <string name="forget_privacy_password_summary">Использовать Mi аккаунт для сброса пароля</string>
@@ -2007,6 +2011,7 @@
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="gadget_state_off">отключено</string>
     <string name="gadget_state_on">включено</string>
+    <string name="gadget_state_template">%1$s: %2$s</string>
     <string name="gadget_state_turning_off">выключение…</string>
     <string name="gadget_state_turning_on">включение…</string>
     <string name="gadget_sync">Синхронизация</string>
@@ -2208,6 +2213,8 @@
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
+    <string name="keyguard_security_setting_others">Прочее</string>
+    <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="keywords_accounts">аккаунт</string>
     <string name="keywords_airplane">Самолет;Режим полета;Самолет;Режим полета;Полет;Режим полета</string>
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
@@ -2314,6 +2321,7 @@
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
+    <string name="link_speed">%1$d Мбит/с</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="loading_notification_apps">Загрузка...</string>
@@ -2410,7 +2418,7 @@
     <string name="lock_screen_notifications_summary_show_profile">Показывать рабочие уведомления полностью</string>
     <string name="lock_screen_notifications_title">На заблокированном экране</string>
     <string name="lock_screen_signature_summary">Заданный вами текст будет отображен на экране блокировки</string>
-    <string name="lock_screen_signature_title">Информация о владельце</string>
+    <string name="lock_screen_signature_title">Подпись на экране блокировки</string>
     <string name="lock_screen_unlock_show">Пропускать экран блокировки</string>
     <string name="lock_screen_unlock_show_summary">Сразу переходить к рабочем столу или вводу пароля</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Изменить</string>
@@ -2610,7 +2618,7 @@
 "</string>
     <string name="master_clear_personal_data">Удалить ваши личные данные? Это необратимое действие!</string>
     <string name="master_clear_personal_data_application">Удалить ваши личные данные и установленные приложения? Это необратимое действие!</string>
-    <string name="master_clear_personal_data_sdcard">Удалить ваши личные данные и отформатировать SD карту? Это необратимое действие!</string>
+    <string name="master_clear_personal_data_sdcard">Удалить ваши личные данные? Это необратимое действие!</string>
     <string name="master_clear_progress_text">Подождите...</string>
     <string name="master_clear_progress_title">Удаление…</string>
     <string name="master_clear_title">Сбросить к заводским настройкам</string>
@@ -2669,6 +2677,7 @@
     <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
     <string name="memory_usage">Используемая память</string>
     <string name="memory_usage_apps">Использование памяти приложениями</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">За последние 3 часа использовано %1$s памяти</string>
     <string name="menu_cancel">Отменить</string>
     <string name="menu_check">Попробовать</string>
@@ -2915,6 +2924,7 @@
     <string name="nfc_how_it_works_got_it">ОК</string>
     <string name="nfc_how_it_works_title">Как оплатить</string>
     <string name="nfc_more_title">Ещё…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Оплата по умолчанию</string>
     <string name="nfc_payment_default_not_set">Не выбрано</string>
     <string name="nfc_payment_favor_default">Всегда</string>
@@ -2981,7 +2991,7 @@
     <string name="no_updates_warning2">Не волнуйтесь, мы уведомим вас об обновлении :)</string>
     <string name="no_vr_listeners">Установленные приложения не запрашивали доступ для работы в качестве вспомогательного VR-сервиса</string>
     <string name="noise_suppression">Подавление внешних шумов</string>
-    <string name="normal">Обычный</string>
+    <string name="normal">Отключен</string>
     <string name="normal_info">Все звуки будут работать нормально</string>
     <string name="normal_smartcover_title">Непрозрачная</string>
     <string name="not_battery_optimizing">Режим экономии заряда отключен</string>
@@ -3126,6 +3136,7 @@
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overlay_settings">Поверх других приложений</string>
     <string name="owner_info_settings_edit_text_hint">Например, Android Саши</string>
+    <string name="owner_info_settings_status">%1$d из %2$d</string>
     <string name="owner_info_settings_summary">Нет текста</string>
     <string name="owner_info_settings_title">Подпись на экране блокировки</string>
     <string name="owner_space">Первое пространство</string>
@@ -3257,7 +3268,7 @@
     <string name="power_charge_remaining">Батарея будет заряжена через %1$s</string>
     <string name="power_checker">Мониторинг питания</string>
     <string name="power_flashlight">Фонарик</string>
-    <string name="power_hide_mode_summary">Экономьте заряд батареи, ограничив фоновые процессы приложений, подключения Wi-Fi и мобильного интернета, а также GPS</string>
+    <string name="power_hide_mode_summary">Экономьте энергию, ограничив фоновые процессы приложений, подключения Wi-Fi и мобильного интернета, а также GPS</string>
     <string name="power_hide_mode_title">Контроль активности</string>
     <string name="power_idle">Режим ожидания</string>
     <string name="power_last_full_charge_summary">^1 назад</string>
@@ -3323,7 +3334,7 @@
     <string name="preferred_network_type_title">Предпочтительный тип сети</string>
     <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений</string>
     <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
-    <string name="preferred_sms_warning_message">Использование \"%1$s\" по умолчанию для сообщений может увеличить мобильный трафик или подвергнуть опасности ваши личные данные, а также сделать невозможным использование RCS.</string>
+    <string name="preferred_sms_warning_message">Использование \"%1$s\" по умолчанию для сообщений может увеличить мобильный трафик или подвергнуть опасности ваши личные данные.</string>
     <string name="preferred_sms_warning_use_system">Отмена</string>
     <string name="premium_sms_access">Доступ к платным SMS</string>
     <string name="premium_sms_none">Установленные приложения не запрашивали доступ к платным SMS</string>
@@ -3362,9 +3373,9 @@
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
     <string name="priority_storage_title">Настройки памяти</string>
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Mi Cloud (включая синхронизацию и резервирование)</string>
-    <string name="privacy_authorize_dialog_agree">Принять</string>
+    <string name="privacy_authorize_dialog_agree">Согласен</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
-    <string name="privacy_authorize_dialog_message"><Data>Для использования основных функций этого сервиса вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные. Нажатие \"Принять\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.​</Data></string>
+    <string name="privacy_authorize_dialog_message"><Data>Для использования основных функций этого сервиса вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.​</Data></string>
     <string name="privacy_authorize_network_error">Подключитесь к сети и повторите попытку.</string>
     <string name="privacy_authorize_privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_authorize_revoke">Отозвать</string>
@@ -3439,6 +3450,8 @@
     <string name="private_sms_recording_intro_header">Нарисуйте графический ключ</string>
     <string name="private_sms_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
     <string name="process_dex2oat_label">Оптимизация приложений</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
     <string name="process_provider_in_use_description">Провайдер %1$s используется.</string>
     <string name="process_service_in_use_description">Служба %1$s используется.</string>
@@ -3700,6 +3713,7 @@ UT-интерфейс: %5$s"</string>
     <string name="saved_network">Сохранено %1$s</string>
     <string name="saved_wifi">Сохраненные сети</string>
     <string name="saved_wifi_delete">Удалить</string>
+    <string name="sccret_code_error">The code you entered is incorrect.</string>
     <string name="screen">Экран</string>
     <string name="screen_button">Экранные кнопки</string>
     <string name="screen_button_tips">Для скрытия экранных кнопок проведите по экрану сверху вниз</string>
@@ -4062,6 +4076,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_encryption_attention_3">Вам придется установить новый пароль блокировки экрана.</string>
     <string name="security_encryption_attention_4">Убедитесь, что вы помните свой пароль блокировки экрана, иначе вам придется выполнить полный сброс и стереть все данные на устройстве.</string>
     <string name="security_encryption_attention_info">Вы можете зашифровать свои аккаунты, настройки, установленные приложения и их данные, медиафайлы и т.д.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Важно</string>
     <string name="security_encryption_close_dialog_info">При отключении шифрования устройства с помощью пароля блокировки экрана некоторые сервисы Google могут стать недоступными.</string>
     <string name="security_encryption_close_dialog_title">Возврат к защите по умолчанию</string>
@@ -4315,6 +4330,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_reenter_new">Введите новый PIN-код ещё раз</string>
     <string name="sim_select_card">Выберите SIM-карту</string>
     <string name="sim_selection_required_pref">Выберите SIM-карту</string>
+    <string name="sim_settings_summary">SIM-карта %1$s: %2$s</string>
     <string name="sim_settings_title">SIM-карты</string>
     <string name="sim_setup_wizard_title">SIM-карты</string>
     <string name="sim_signal_strength">%1$d дБмВт, asu: %2$d</string>
@@ -4328,6 +4344,7 @@ UT-интерфейс: %5$s"</string>
     <string name="size_kilo_byte">КБ</string>
     <string name="size_mega_byte">МБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="skip_anyway_button_label">Все равно пропустить</string>
     <string name="skip_label">Далее</string>
@@ -4405,6 +4422,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_all_app_display_loading">Секунду…</string>
     <string name="status_bar_settings_app_notification_preferences">Настройки приложения</string>
     <string name="status_bar_settings_basic_settings">Основные настройки</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Оператор</string>
     <string name="status_bar_settings_custom_wifi_name">Изменить имя Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">Показывать уведомления</string>
@@ -4466,6 +4484,9 @@ UT-интерфейс: %5$s"</string>
     <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
     <string name="status_write_success">Готово</string>
     <string name="statusbar_permission_desc">Настройки важных уведомлений</string>
+    <string name="stop_upload_audio_log">Finish getting audio log</string>
+    <string name="stop_upload_gps_log">Finish getting GPS log</string>
+    <string name="stop_upload_modem_log">Finish getting modem log</string>
     <string name="storage_detail_apps">Приложения</string>
     <string name="storage_detail_audio">Аудио</string>
     <string name="storage_detail_cached">Данные кеша</string>
@@ -4636,6 +4657,7 @@ UT-интерфейс: %5$s"</string>
     <string name="suggestions_title">Подсказки</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
     <string name="super_resolution_access_title">Доступные приложения</string>
     <string name="super_resolution_desc">Повышение резкости изображений при помощи алгоритма AI</string>
@@ -4870,7 +4892,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Не сейчас</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Понятно</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d с)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">Запомните свой пароль блокировки экрана. Если вы его забудете, то придется стереть все данные, включая фото и контакты, а затем установить новый.</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">Запомните свой пароль блокировки экрана. Если вы его забудете, то придется стереть все данные на вашем устройстве, включая фото и контакты, а затем установить новый.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Запомните свой пароль</string>
     <string name="turn_on_security_lock">Способ блокировки</string>
     <string name="turn_on_torch">Фонарик</string>
@@ -4970,8 +4992,11 @@ UT-интерфейс: %5$s"</string>
     <string name="untitled_apn">Без названия</string>
     <string name="update_new_version">Доступно обновление</string>
     <string name="update_progress_for_updates">Обновление (%s)</string>
+    <string name="upload_audio_log">Start getting audio log</string>
     <string name="upload_debug_log_summary">Информация, которая помогает нам находить и решать проблемы, может содержать ваши личные данные</string>
     <string name="upload_debug_log_title">Отправлять данные для диагностики</string>
+    <string name="upload_gps_log">Start getting GPS log</string>
+    <string name="upload_modem_log">Start getting modem log</string>
     <string name="usage">Передача данных</string>
     <string name="usage_access">Доступ к истории использования</string>
     <string name="usage_access_description">Доступ к истории использования позволяет отслеживать, какие приложения вы используете и как часто, а также определять оператора сети, язык и другие параметры.</string>
@@ -5626,9 +5651,11 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

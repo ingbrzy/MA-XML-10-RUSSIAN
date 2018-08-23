@@ -299,6 +299,7 @@
     <string name="title_schema_title">Выделять имя</string>
     <string name="toast_function_add_not_allowed">Вы можете добавить до 8 ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо оставить хотя бы 1 ярлык</string>
+    <string name="today_apps">Рекомендуемые</string>
     <string name="today_apps_bref">Откройте для себя новые приложения</string>
     <string name="today_apps_detail">Здесь вы можете найти новые приложения, становящиеся популярными</string>
     <string name="today_apps_loading">Секунду…</string>

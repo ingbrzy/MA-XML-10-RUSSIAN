@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_hint_text">Email, номер телефона или ID Mi аккаунта</string>
     <string name="passport_account_identity_title">Подтвердить подлинность аккаунта</string>

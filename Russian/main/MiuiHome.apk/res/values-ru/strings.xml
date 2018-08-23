@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -155,7 +156,7 @@
     <string name="gadget_mtz_label">Виджеты</string>
     <string name="gadget_notes_label">Заметки</string>
     <string name="gadget_photo_22_label">Рамка 2x2</string>
-    <string name="gadget_photo_24_label">Рамка 2x4</string>
+    <string name="gadget_photo_24_label">Рамка 4x2</string>
     <string name="gadget_photo_44_label">Рамка 4x4</string>
     <string name="gadget_photo_label">Фоторамка</string>
     <string name="gadget_power_clear_button_label">Глубокая очистка</string>
@@ -315,10 +316,10 @@
     <string name="toggle_title">Переключатели</string>
     <string name="transformation_type_classic">Стандарт</string>
     <string name="transformation_type_classic_no_overshoot">Слайд</string>
-    <string name="transformation_type_crossfade">Угасание</string>
+    <string name="transformation_type_crossfade">Наложение</string>
     <string name="transformation_type_cube">3D куб</string>
     <string name="transformation_type_falldown">Мельница</string>
-    <string name="transformation_type_leftpage">Листание</string>
+    <string name="transformation_type_leftpage">Книга</string>
     <string name="transformation_type_rotate">Вращение</string>
     <string name="transformation_type_stack">Каскад</string>
     <string name="uninstall">Удалить</string>

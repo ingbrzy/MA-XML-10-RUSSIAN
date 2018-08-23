@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">Добавить в избранное</string>
     <string name="menu_speaker">Включить динамик</string>
     <string name="menu_headset">Включить наушники</string>
+    <string name="menu_privacy">Политика конфиденциальности</string>
     <string name="menu_exit">Выход</string>
     <string name="dialog_sleep_title">Таймер сна</string>
     <string name="search_dialog_title">Предупреждение</string>

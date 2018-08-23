@@ -330,6 +330,12 @@
         <item quantity="few">%1$d переключателя появятся в шторке уведомлений</item>
         <item quantity="many">%1$d переключателей появятся в шторке уведомлений</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+        <item quantity="few">%1$d steps left before you can get audio log</item>
+        <item quantity="many">%1$d steps left before you can get audio log</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Осталось %1$d шагов до открытия инженерного меню</item>
         <item quantity="one">Остался %1$d шаг до открытия инженерного меню</item>
@@ -341,6 +347,18 @@
         <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
         <item quantity="few">Вы почти у цели. Осталось %1$d шага.</item>
         <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+        <item quantity="few">%1$d steps left before you can get GPS log</item>
+        <item quantity="many">%1$d steps left before you can get GPS log</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
+        <item quantity="few">%1$d steps left before you can get modem log</item>
+        <item quantity="many">%1$d steps left before you can get modem log</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Осталось %1$d шагов до открытия информации о телефоне</item>

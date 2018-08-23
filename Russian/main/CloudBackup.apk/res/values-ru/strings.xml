@@ -87,10 +87,10 @@
     <string name="download_settings_fail">Не удалось загрузить настройки рабочего стола</string>
     <string name="backup_fail_wifi_needed">Резервирование не удалось, требуется Wi-Fi</string>
     <string name="backup_success">Резервирование завершено</string>
-    <string name="cloud_task_in_process">Остановить %s и удалить копию? Действие нельзя будет отменить.</string>
+    <string name="cloud_task_in_process">Остановить %s и удалить копию? Это необратимое действие!</string>
     <string name="cloud_back_up_task">Резервирование…</string>
     <string name="cloud_restore_task">Восстановление…</string>
-    <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Действие нельзя будет отменить.</string>
+    <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>
     <string name="back_up_task_in_process">Резервирование…</string>
     <string name="restore_task_in_process">Восстановление…</string>
     <string name="restore_task_cancelling">Отмена…</string>

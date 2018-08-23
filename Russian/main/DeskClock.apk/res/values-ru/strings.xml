@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
@@ -156,6 +157,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,6 +176,7 @@
     <string name="timer_alert_type_rain">Дождь</string>
     <string name="timer_alert_type_stove_fire">Костер</string>
     <string name="timer_alert_type_summer_night">Ночь</string>
+    <string name="timer_can_continue_in_timer">Откройте таймер для продолжения</string>
     <string name="timer_cancel_hint">Стоп</string>
     <string name="timer_cancel_timer">Отменить таймер</string>
     <string name="timer_clock_alert_text">Установить таймер</string>
@@ -183,6 +186,7 @@
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_is_paused">Таймер остановлен</string>
     <string name="timer_item_duration_display">%1$d мин %2$d с</string>
     <string name="timer_item_label_hint">Описание</string>
     <string name="timer_item_picker_hour">Ч</string>
@@ -190,7 +194,7 @@
     <string name="timer_item_picker_second">С</string>
     <string name="timer_new_item">Добавить</string>
     <string name="timer_notify_text">Отложить или отключить таймер</string>
-    <string name="timer_pause_timer">Приостановить таймер</string>
+    <string name="timer_pause_timer">Остановить таймер</string>
     <string name="timer_running">Таймер запущен</string>
     <string name="timer_start_alarm">Время истекло!</string>
     <string name="timer_start_timer">Запустить таймер</string>

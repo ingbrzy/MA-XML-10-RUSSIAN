@@ -512,4 +512,28 @@
         <item quantity="few">Отметились %d дня подряд</item>
         <item quantity="many">Отметились %d дней подряд</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d символов</item>
+        <item quantity="one">    +%1$d символ</item>
+        <item quantity="few">    +%1$d символа</item>
+        <item quantity="many">    +%1$d символов</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Можно скрыть %d приложений</item>
+        <item quantity="one">Можно скрыть %d приложение</item>
+        <item quantity="few">Можно скрыть %d приложения</item>
+        <item quantity="many">Можно скрыть %d приложений</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Скрыто %d приложений</item>
+        <item quantity="one">Скрыто %d приложение</item>
+        <item quantity="few">Скрыто %d приложения</item>
+        <item quantity="many">Скрыто %d приложений</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d проблем требуют решения</item>
+        <item quantity="one">%1$d проблема требует решения</item>
+        <item quantity="few">%1$d проблемы требуют решения</item>
+        <item quantity="many">%1$d проблем требуют решения</item>
+    </plurals>
 </resources>

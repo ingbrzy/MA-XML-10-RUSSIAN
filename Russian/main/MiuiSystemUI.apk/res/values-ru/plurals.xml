@@ -46,7 +46,7 @@
         <item quantity="other">Осталось %d ч</item>
         <item quantity="one">Остался %d ч</item>
         <item quantity="few">Осталось %d ч</item>
-        <item quantity="many">Осталось %d\u0000</item>
+        <item quantity="many">Осталось %d ч</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
         <item quantity="other">Осталось %d мин</item>

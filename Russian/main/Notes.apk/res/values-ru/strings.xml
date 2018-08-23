@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не сейчас</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Оно содержит встроенные напоминания и синхронизирует ваши объекты с Mi Cloud, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
@@ -159,6 +161,8 @@
     <string name="search_setting_description">Поиск текста в заметках</string>
     <string name="select_account_prompt">Синхронизация заметок</string>
     <string name="set_alarm_description">Установить напоминание</string>
+    <string name="setting_other">ПРОЧЕЕ</string>
+    <string name="setting_privacy">Политика конфиденциальности</string>
     <string name="snippet_audio_stub">Аудиофайл</string>
     <string name="snippet_image_stub">Изображение</string>
     <string name="snippet_image_template">[Изображение %1$s]</string>
@@ -197,7 +201,6 @@
     <string name="toast_cancel_to_insert_image">Не удалось добавить изображение</string>
     <string name="toast_message_add_image_fail">Не удалось добавить изображение</string>
     <string name="toast_notes_delete_success">Заметка удалена</string>
-    <string name="toast_notes_hidden">Заметка скрыта</string>
     <string name="toast_notes_hidden_count">Скрыто: %1$s</string>
     <string name="toast_notes_unhidden">Скрытие заметки отменено</string>
     <string name="toast_notes_unhidden_count">Скрытие отменено: %1$s</string>
@@ -221,4 +224,5 @@
     <string name="unknown_source">Неизвестный источник</string>
     <string name="widget_content_loading">Секунду…</string>
     <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
+    <string name="toast_notes_hidden">Заметка скрыта</string>
 </resources>

@@ -12,6 +12,10 @@
         <item>Активные приложения</item>
         <item>Неактивные приложения</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Системные приложения</item>
+        <item>Другие приложения</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>Контроль температуры по умолчанию</item>
         <item>Производительность</item>

@@ -110,7 +110,7 @@
     <string name="activate_history_multisim_canceled_overview">Активация SIM-карты %2$d была отменена. Активация запущена %1$s\".</string>
     <string name="activate_history_sms">Во время активации было отправлено SMS.</string>
     <string name="phone_verify_title">Разрешите %1$s проверку номера телефона</string>
-    <string name="phone_verify_text">%1$s не получит ваш номер телефона, а просто подтвердит его действительность. Разрешить?</string>
+    <string name="phone_verify_text">%1$s не получит ваш номер телефона, а просто подтвердит его действительность. Вы согласны?</string>
     <string name="phone_verify_processing">Проверка…</string>
     <string name="phone_get_title">Разрешить %1$s получение номера телефона</string>
     <string name="phone_get_text">Разрешить %1$s получение номера телефона (%2$s)?</string>

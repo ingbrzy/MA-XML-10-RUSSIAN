@@ -40,7 +40,7 @@
     <string name="notify_device_lose_connection_title">Потеряно соединение с %1$s</string>
     <string name="notify_device_lose_connection_text">Нажмите для отключения %1$s</string>
     <string name="unbind_device_alert_title">Отключите устройство</string>
-    <string name="unbind_device_alert_content">Потеряно соединение с %1$s. Отмените подключение к нему для экономии заряда батареи.</string>
+    <string name="unbind_device_alert_content">Потеряно соединение с %1$s. Отмените подключение к нему для экономии энергии.</string>
     <string name="unbind_device_alert_ok">Отключить</string>
     <string name="unbind_device_alert_cancel">Отмена</string>
     <string name="ok_button">OK</string>

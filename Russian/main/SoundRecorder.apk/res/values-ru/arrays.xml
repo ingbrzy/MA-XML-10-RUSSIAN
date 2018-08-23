@@ -57,4 +57,14 @@
         <item>ar</item>
         <item>bn</item>
     </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>

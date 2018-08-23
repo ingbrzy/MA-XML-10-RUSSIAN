@@ -46,9 +46,9 @@
     </string-array>
     <string-array name="transformation_entries">
         <item>Слайд</item>
-        <item>Угасание</item>
+        <item>Наложение</item>
         <item>Мельница</item>
-        <item>Листание</item>
+        <item>Книга</item>
         <item>Каскад</item>
         <item>Вращение</item>
         <item>3D куб</item>

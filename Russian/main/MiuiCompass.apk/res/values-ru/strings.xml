@@ -61,4 +61,6 @@
     <string name="open_perm_title">Требуются разрешения</string>
     <string name="cancel">Отмена</string>
     <string name="allow">Разрешить</string>
+    <string name="preference_other">Прочее</string>
+    <string name="preference_privacy_title">Политика конфиденциальности</string>
 </resources>

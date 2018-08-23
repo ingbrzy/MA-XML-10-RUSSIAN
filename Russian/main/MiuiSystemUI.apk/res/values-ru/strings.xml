@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -98,6 +99,9 @@
     <string name="accessibility_enter_lock_wallpaper">Нажмите для запуска Карусели обоев</string>
     <string name="accessibility_ethernet_connected">Устройство подключено к Ethernet.</string>
     <string name="accessibility_ethernet_disconnected">Устройство отключено от Ethernet.</string>
+    <string name="accessibility_fingerprint_dialog_app_icon">Значок приложения</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">Значок отпечатка пальца</string>
+    <string name="accessibility_fingerprint_dialog_help_area">Справочное сообщение</string>
     <string name="accessibility_gps_acquiring">Установление связи с GPS.</string>
     <string name="accessibility_gps_enabled">GPS включен.</string>
     <string name="accessibility_home">Домой</string>
@@ -288,6 +292,7 @@
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="back">Назад</string>
     <string name="battery">Батарея</string>
+    <string name="battery_can_use_time">Осталось примерно %s</string>
     <string name="battery_detail_charging_summary">Экономию энергии нельзя включить во время зарядки</string>
     <string name="battery_detail_switch_summary">Ограничивает производительность и фоновую передачу данных</string>
     <string name="battery_detail_switch_title">Экономия энергии</string>
@@ -306,10 +311,10 @@
     <string name="battery_profiles">Режимы батареи</string>
     <string name="battery_saver_confirmation_ok">Включить</string>
     <string name="battery_saver_confirmation_title">Включить экономию энергии?</string>
-    <string name="battery_saver_notification_action_text">Отключить экономию энергии</string>
-    <string name="battery_saver_notification_text">Ограничивает производительность и фоновую передачу данных</string>
-    <string name="battery_saver_notification_title">Экономия энергии включена</string>
-    <string name="battery_saver_start_action">Включить экономию энергии</string>
+    <string name="battery_saver_notification_action_text">Отключить экономию</string>
+    <string name="battery_saver_notification_text">Производительность устройства снижена.</string>
+    <string name="battery_saver_notification_title">Включена экономия энергии</string>
+    <string name="battery_saver_start_action">Экономия энергии</string>
     <string name="block">Блокировать все уведомления</string>
     <string name="block_notification_content_text">Уведомления от %1$s больше не будут отображаться. Вы можете изменить это в Настройках.</string>
     <string name="block_notification_desc">Уведомления от приложения больше не будут отображаться. Вы можете изменить это в Настройках.</string>
@@ -515,10 +520,17 @@
     <string name="divider_menu_close">Закрыть</string>
     <string name="divider_menu_select_apps">Выбрать</string>
     <string name="divider_menu_swap_task">Заменить</string>
+    <string name="dlg_cancel">Отмена</string>
+    <string name="dlg_confirm">Включить</string>
     <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые приложения будут остановлены и могут стать недоступны до отключения USB накопителя.</string>
     <string name="dlg_confirm_kill_storage_users_title">Включение USB накопителя</string>
     <string name="dlg_error_title">USB операция не удалась</string>
     <string name="dlg_ok">OK</string>
+    <string name="dlg_summary_close_app">Ограничить фоновую активность и уведомления</string>
+    <string name="dlg_summary_close_theme">Ограничить живые темы</string>
+    <string name="dlg_summary_close_wifi">Отключить Wi-Fi, Bluetooth и точку доступа</string>
+    <string name="dlg_summary_nfc">Отключить NFC</string>
+    <string name="dlg_summary_title">Максимальная экономия останавливает всю фоновую активность приложения после выхода из него и возврата на рабочий стол. Если вы хотите, чтобы приложение работало в фоновом режиме, добавьте его в список исключений.</string>
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключен</string>
     <string name="do_disclosure_generic">Это устройство управляется вашей организацией</string>
     <string name="do_disclosure_with_name">Это устройство управляется %s</string>
@@ -542,10 +554,11 @@
     <string name="enable_bluetooth_message">Чтобы подключить клавиатуру к планшету, включите Bluetooth.</string>
     <string name="enable_bluetooth_title">Подключение по Bluetooth</string>
     <string name="enable_demo_mode">Включить деморежим</string>
+    <string name="enable_extreme_power_save_mode">Максимальная экономия</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
-    <string name="enable_power_save_mode">Включить экономию энергии</string>
+    <string name="enable_power_save_mode">Экономия энергии</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enabled_by_admin">Включено администратором</string>
@@ -628,6 +641,7 @@
     <string name="fingerprint_add_text">Интерфейс модуля отпечатков пальцев был обновлен. Добавьте ваш отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
     <string name="fingerprint_again_identified_msg">Теперь ваш отпечаток пальца активен. Используйте его для разблокировки устройства или введите пароль.</string>
+    <string name="fingerprint_dialog_touch_sensor">Прикоснитесь к сканеру отпечатков</string>
     <string name="fingerprint_enter_second_psw_msg">Введите пароль второго пространства для использования распознавания отпечатков пальцев</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Нельзя войти во второе пространство в Простом режиме</string>
     <string name="fingerprint_enter_second_psw_title">Введите пароль второго пространства</string>
@@ -797,6 +811,10 @@
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_charging_info_battery_used_time_text">Работа от батареи</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -820,6 +838,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN</string>
@@ -903,6 +922,7 @@
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -964,6 +984,7 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т. д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
@@ -990,12 +1011,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1027,6 +1050,7 @@
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1041,6 +1065,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1110,6 +1135,7 @@
     <string name="oldman_airplane_mode_text">Режим полета</string>
     <string name="oldman_incall_text">Назад к разговору</string>
     <string name="open_camera_hint_text">Проведите влево для запуска камеры</string>
+    <string name="open_extreme_power_save_mode_title">Включите Максимальную экономию</string>
     <string name="open_remote_center_hint_text">Проведите вправо для запуска Mi пульта</string>
     <string name="other">Другое</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
@@ -1119,11 +1145,11 @@
     <string name="phone_locked_foget_password">Забыли пароль?</string>
     <string name="phone_locked_foget_password_mehod_back">Назад</string>
     <string name="phone_locked_foget_password_method">Забыли пароль?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> с вашего устройства, включая фото и контакты, а затем установить новый пароль блокировки экрана.</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> на вашем устройстве, включая фото и контакты, а затем установить новый пароль блокировки экрана.</Data></string>
     <string name="phone_locked_foget_password_method_next">Далее</string>
     <string name="phone_locked_foget_password_ok">Понятно</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключите устройство, нажмите и удерживайте одновременно &lt;font color=#a5220e>кнопку питания&lt;/font> и &lt;font color=#a5220e>кнопку увеличения громкости&lt;/font>, пока не увидите логотип Mi.</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> и подождите, пока устройство перезагрузится.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключите устройство, одновременно нажмите кнопки &lt;font color=#a5220e>[Питание]&lt;/font> и &lt;font color=#a5220e>[Громкость+]&lt;/font>, и удерживайте их, пока не увидите логотип Mi.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> и дождитесь перезагрузки устройства.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Как стереть данные?</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
     <string name="picture_color_mode">Цветовой режим</string>
@@ -1177,6 +1203,7 @@
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
     <string name="power_remaining_duration_only_short">Осталось %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1240,6 +1267,7 @@
     <string name="quick_settings_drivemode_label">За рулем</string>
     <string name="quick_settings_dual_location_label">Двойной GPS</string>
     <string name="quick_settings_edit_label">Сортировка</string>
+    <string name="quick_settings_extreme_batterysaver_label">Максимальная экономия</string>
     <string name="quick_settings_flashlight_label">Фонарик</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Точка доступа</string>
@@ -1344,7 +1372,7 @@
     <string name="save">Сохранить</string>
     <string name="save_mode_btn_ok">OK</string>
     <string name="saved_network">Сохранено %1$s</string>
-    <string name="screen_button_notification_text">Для включения нажмите кнопки \"Домой\" и \"Питание\" одновременно.</string>
+    <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
     <string name="screen_button_notification_title">Кнопки навигации отключены</string>
     <string name="screen_pinning_description">Приложение останется активным, пока вы не отмените блокировку, нажав и удерживая кнопки \"Назад\" и \"Обзор\".</string>
     <string name="screen_pinning_description_accessible">Приложение останется активным, пока вы не отмените блокировку, нажав и удерживая кнопку \"Обзор\".</string>
@@ -1703,6 +1731,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1727,9 +1756,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

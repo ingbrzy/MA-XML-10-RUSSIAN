@@ -104,7 +104,7 @@
     <string name="date_jump_title">Переход к дате</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сегодня)"</string>
-    <string name="day_view_new_event_hint">+ Создать мероприятие</string>
+    <string name="day_view_new_event_hint">+ Новое мероприятие</string>
     <string name="default_reminder_mode">Напоминания</string>
     <string name="delete_calendar">Отписаться</string>
     <string name="delete_recurring_event_title">Удалить %s?</string>
@@ -369,7 +369,7 @@
     <string name="tab_title_day">День</string>
     <string name="tab_title_month">Месяц</string>
     <string name="tab_title_week">Неделя</string>
-    <string name="talk_back_read_date">Текущая дата: %1$s (%2$s по лунному календарю).</string>
+    <string name="talk_back_read_date">%1$s (%2$s по лунному календарю).</string>
     <string name="template_announce_item_index">Мероприятие %1$s из %2$s.</string>
     <string name="template_week_num">Неделя %1$s</string>
     <string name="time_zone">Часовой пояс</string>
@@ -425,5 +425,9 @@
     <string name="xiaomi_calendar_display_name">Календарь Mi аккаунта</string>
     <string name="yearly">Ежегодно (%s)</string>
     <string name="yearly_plain">Ежегодно</string>
+    <string name="close_alarm">Отключить</string>
     <string name="discard_label">Отмена</string>
+    <string name="guide_card_close">Закрыть</string>
+    <string name="login_failed_toast">Ошибка авторизации, обновите и повторите попытку</string>
+    <string name="talk_back_setting">Настройки</string>
 </resources>

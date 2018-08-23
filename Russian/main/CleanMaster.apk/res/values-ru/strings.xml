@@ -31,7 +31,7 @@
     <string name="activity_title_deep_clean">Глубокая очистка</string>
     <string name="activity_title_cache">Кэш</string>
     <string name="activity_title_ad">Реклама</string>
-    <string name="activity_title_apk">Пакеты установки</string>
+    <string name="activity_title_apk">Пакеты</string>
     <string name="activity_title_residual">Остатки данных</string>
     <string name="btn_text_quick_scan">Проверить</string>
     <string name="optimizecenter_data_support_cm">Поддержка: Clean Master</string>
@@ -61,6 +61,7 @@
     <string name="pref_category_title_garbage_cleanup_check">Уведомления</string>
     <string name="pref_summary_garbage_cleanup_check_time">Создать расписание очистки</string>
     <string name="pref_title_garbage_cleanup_check_time">Расписание</string>
+    <string name="pref_about_privacy_title">Политика конфиденциальности</string>
     <string name="pref_summary_garbage_cleanup_check_size">Очищать автоматически, когда накопится определенное количество мусора</string>
     <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
     <string name="pref_title_garbage_cleanup_size">Размер мусора</string>
@@ -86,11 +87,12 @@
     <string name="deepclean_title_uninstall_apps">Редко используемые приложения</string>
     <string name="toast_garbage_cleanup_success">Очистка завершена</string>
     <string name="toast_add_white_list_success">Успешно добавлено в исключения</string>
-    <string name="hints_cache_header_left">Файлы кэша</string>
+    <string name="hints_cache_header_left">Файлы данных</string>
     <string name="hints_ad_header_left">Бесполезные файлы</string>
-    <string name="hints_apk_header_left">Пакеты установки</string>
+    <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -113,7 +115,7 @@
     <string name="hints_latest_garbage_cleanup_date">Последняя очистка: %d дн. назад</string>
     <string name="hints_loading_text">Загрузка…</string>
     <string name="toast_removed_from_white_list">Успешно удалено из исключений</string>
-    <string name="white_list_cache_header">Файлы кэша: %d</string>
+    <string name="white_list_cache_header">Файлы данных: %d</string>
     <string name="white_list_ad_header">Бесполезные файлы: %d</string>
     <string name="white_list_apk_header">Пакеты установки: %d</string>
     <string name="white_list_large_file_header">Большие файлы и видео: %d</string>
@@ -168,7 +170,7 @@
     <string name="hints_quick_scanning">Проверка…</string>
     <string name="hints_quick_cleanuping">Оптимизация…</string>
     <string name="hints_deepclean_scanning">Проверка %s</string>
-    <string name="cache_title_system_cache">Кэш данных</string>
+    <string name="cache_title_system_cache">Системный кэш</string>
     <string name="hints_storage_free">Свободно</string>
     <string name="hints_storage_free_size">Всего %1$s | Доступно %2$s</string>
     <string name="apps_sort_type_title">Сортировка</string>
@@ -183,15 +185,15 @@
     <string name="toast_backup_uninstall_failed">Резервирование %d приложений не удалось</string>
     <string name="toast_backup_uninstall_failed2">Резервирование не удалось</string>
     <string name="toast_backup_uninstall_success">Резервирование и удаление завершено</string>
-    <string name="activity_title_cache_data">Данные приложений</string>
-    <string name="deepclean_cache_header_left">Файлы: %d</string>
+    <string name="activity_title_cache_data">Файлы данных</string>
+    <string name="deepclean_cache_header_left">Файлы данных: %d</string>
     <string name="notification_title_of_garbage_cleanup">%s мусора</string>
     <string name="notification_summary_of_garbage_cleanup">Нажмите для очистки.</string>
     <string name="notification_summary_after_auto_cleanup">Очищено: %s.</string>
     <string name="toast_uninstall_success">Удаление завершено</string>
     <string name="toast_app_no_residual_on_sdcard">Приложение не имеет данных на накопителе</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
-    <string name="default_cache_type">Файлы кэша</string>
+    <string name="default_cache_type">Файлы данных</string>
     <string name="deepclean_normal_title">Автоматическая очистка</string>
     <string name="deepclean_normal_item_desc1">Мусор</string>
     <string name="deepclean_normal_item_desc2">Активность очистки не будет влиять на производительность системы</string>
@@ -258,9 +260,9 @@
     <string name="hints_list_item_lock">Оставить</string>
     <string name="hints_list_item_unlock">Очистить</string>
     <string name="memeory_check_content">Приложений: %1$d | Память: %2$s</string>
-    <string name="deepclean_cache_content">Очистить кэш приложений</string>
-    <string name="deepclean_large_content">Удалить файлы больше 10МБ</string>
-    <string name="deepclean_app_content">Удалить приложения, не запускавшиеся в течение 30 дней</string>
+    <string name="deepclean_cache_content">Очистите данные, созданные приложениями</string>
+    <string name="deepclean_large_content">Удалите файлы размером более 10 МБ</string>
+    <string name="deepclean_app_content">Удалите приложения, не запускавшиеся в течение 30 дней</string>
     <string name="deepclean_similar_ignore">Пропустить</string>
     <string name="hints_scanfinish">Нет мусора</string>
     <string name="hints_scan_has_finish">Очистка завершена</string>
@@ -299,6 +301,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
@@ -347,7 +350,7 @@
     <string name="hints_deepclean_list_item_from">Источник: %s</string>
     <string name="deepclean_list_item_from_app">Магазин</string>
     <string name="deepclean_list_item_from_gallery">Галерея</string>
-    <string name="deepclean_list_item_from_dcim_thumbnails">Миниатюры</string>
+    <string name="deepclean_list_item_from_dcim_thumbnails">Эскизы</string>
     <string name="deepclean_list_item_from_download">Загрузки</string>
     <string name="deepclean_list_item_from_music">Музыка</string>
     <string name="deepclean_list_item_from_miui">MIUI</string>
@@ -369,7 +372,7 @@
     <string name="hints_installed_app_fewer">Редко использовались</string>
     <string name="hints_installed_app_near">Недавно использовались</string>
     <string name="activity_title_deep_apk">Пакеты установки</string>
-    <string name="deepclean_apk_content">Удалить APK или ненужные приложения</string>
+    <string name="deepclean_apk_content">Удалите APK или ненужные приложения</string>
     <string name="deepclean_apk_summary_empty">Всё в порядке, удалять APK не нужно</string>
     <string name="deepclean_apk_version_error">Неизвестно</string>
     <string name="title_delete_deepclean">Удалить</string>
@@ -523,7 +526,7 @@
     <string name="tips_low_storage_dialog_msg_storage">Память устройства заполнена на 90%. Удалите неиспользуемые приложения.</string>
     <string name="tips_low_storage_dialog_msg_wechat">Размер кэша WeChat достиг 3 ГБ. Это может замедлить работу вашего устройства. Очистить кэш WeChat?</string>
     <string name="tips_low_storage_dialog_msg_qq">Размер кэша QQ достиг 3 ГБ. Это может замедлить работу вашего устройства. Очистить кэш QQ?</string>
-    <string name="tips_low_storage_dialog_ok_storage">Очистить память</string>
+    <string name="tips_low_storage_dialog_ok_storage">Освободить</string>
     <string name="tips_low_storage_dialog_ok">Очистить</string>
     <string name="tips_low_storage_dialog_cancel">Отмена</string>
     <string name="wechat_msg_time_long">dd.MM.yyyy</string>

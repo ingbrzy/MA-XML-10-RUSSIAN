@@ -49,7 +49,7 @@
     <string name="block_messaging_entry_title">Заблокированные SMS</string>
     <string name="block_support_text">Поддержка: Antiy</string>
     <string name="bookmark">Избранные</string>
-    <string name="bookmark_confirm_delete_message">Удалить из списка избранных?</string>
+    <string name="bookmark_confirm_delete_message">Удалить сообщение из списка избранных?</string>
     <string name="bookmark_empty">Нет избранных сообщений</string>
     <string name="bookmark_list_title">Избранные</string>
     <string name="button_emoji_creature">Животные</string>
@@ -137,10 +137,20 @@
     <string name="delivery_report_activity">Отчет о доставке</string>
     <string name="delivery_toast_body">"Сообщение доставлено получателю
 %s"</string>
+    <string name="delivery_toast_body_more">Сообщение доставлено получателю %1$s и другим адресатам (%2$d)</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
+    <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\".</string>
+    <string name="dialog_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Принять?</string>
+    <string name="dialog_message_networking">Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Перед использованием этих функций вы должны принять наши \"%1$s\" и \"%2$s\". Разрешить?</string>
+    <string name="dialog_message_networking_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
+    <string name="dialog_message_networking_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
+    <string name="dialog_message_networking_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам. Перед использованием Сообщений China Mobile вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
+    <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам. Перед использованием Сообщений China Mobile вы должны принять наши \"%1$s\" и \"%2$s\". Принять?</string>
     <string name="dialog_message_sms_report">Сообщения со спамом и информация отправителя будут отправлены в MIUI. Они будут использоваться только для улучшения фильтров спама.</string>
     <string name="dialog_title_fake_cell_detect_error">Корректировка</string>
-    <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
+    <string name="dialog_title_mx_rcs">Mi сообщения</string>
+    <string name="dialog_title_networking">Условия использования</string>
+    <string name="disable_notifications_dialog_message">Остановить дублирование уведомлений об SMS из приложения обмена сообщениями по умолчанию?</string>
     <string name="disabled">Откл</string>
     <string name="discard">Отменить</string>
     <string name="discard_message">Удалить черновик?</string>
@@ -193,6 +203,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_prefix">"FW: "</string>
@@ -245,7 +256,7 @@
     <string name="menu_delete_messages">Удалить сообщения</string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_forward">Переслать</string>
-    <string name="menu_lock">В избранные</string>
+    <string name="menu_lock">Добавить в избранные</string>
     <string name="menu_mark">Отметить</string>
     <string name="menu_more">Еще</string>
     <string name="menu_new_contact">Новый контакт</string>
@@ -421,8 +432,8 @@
     <string name="pref_summary_mms_read_reports">Показывать в диалоге уведомление о загрузке содержимого MMS получателем</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать фото и видео из сообщений в роуминге</string>
     <string name="pref_summary_notification_body_enabled">Показывать сообщения на экране блокировки и в шторке уведомлений</string>
-    <string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
-    <string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
+    <string name="pref_summary_off_system_mms_priority">Использовать сторонние приложения для отправки и получения MMS</string>
+    <string name="pref_summary_on_system_mms_priority">Использовать системное приложение для отправки и получения MMS</string>
     <string name="pref_summary_send_delivery_reports">Отправлять отчет о доставке при получении MMS</string>
     <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
     <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
@@ -449,7 +460,7 @@
     <string name="pref_title_sms_delete">Максимальное количество SMS</string>
     <string name="pref_title_sms_validity_period">Срок действия SMS</string>
     <string name="pref_title_storage_status">Информация о хранении сообщения</string>
-    <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
+    <string name="pref_title_system_mms_priority">Приложение по умолчанию</string>
     <string name="pref_title_vcard">Отправлять как vCard</string>
     <string name="pref_title_wake_up_screen">Включать экран</string>
     <string name="preferences_title">Настройки</string>
@@ -469,6 +480,7 @@
     <string name="privacy_password_title2">Пароль защиты личных данных</string>
     <string name="privacy_password_title3">Обновите ваш пароль</string>
     <string name="privacy_password_title4">Пароль обновлен</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="private_message">Личные сообщения</string>
     <string name="private_new_notification">Уведомлять о сообщениях</string>
     <string name="private_protect">Защита данных</string>
@@ -477,11 +489,20 @@
     <string name="prvate_contact">Личные контакты</string>
     <string name="quick_reply">Ответить</string>
     <string name="rate_limit_surpassed">OK</string>
+    <string name="rcs_message_disable">Невозможно просмотреть это сообщение во втором пространстве</string>
     <string name="received_at_time">Получено: %1s</string>
     <string name="received_label">"Получено: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Получатель: "</string>
     <string name="recipients_over_size">Слишком много получателей.</string>
+    <string name="recommend_bar_cancel">Пропустить</string>
+    <string name="recommend_bar_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI.</string>
+    <string name="recommend_bar_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile.</string>
+    <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам.</string>
+    <string name="recommend_bar_message_smart_message">Копируйте одноразовые пароли, отслеживайте посылки, используйте интеллектуальные меню и т.д.</string>
+    <string name="recommend_bar_ok">Включить</string>
+    <string name="recommend_bar_title_mx_rcs">Mi сообщения</string>
+    <string name="recommend_bar_title_smart_message">Умные сообщения</string>
     <string name="recording_failed">Ошибка записи</string>
     <string name="refill_now">Пополнить</string>
     <string name="refreshing">Обновление…</string>
@@ -551,6 +572,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -673,6 +695,7 @@
     <string name="url_result_safe">Этот адрес безопасен</string>
     <string name="url_scan_again">Проверить еще раз</string>
     <string name="url_scanning">Проверка адреса…</string>
+    <string name="user_agreement">Условия использования</string>
     <string name="verification_code_list_title">Коды подтверждения</string>
     <string name="view">Просмотреть</string>
     <string name="view_bookmark">Открыть в диалоге</string>

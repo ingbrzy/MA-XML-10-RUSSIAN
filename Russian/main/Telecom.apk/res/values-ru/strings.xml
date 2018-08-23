@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="tether_settings_title_usb">USB-модем</string>

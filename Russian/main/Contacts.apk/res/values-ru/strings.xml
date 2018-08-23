@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
@@ -59,7 +60,7 @@
     <string name="button_scan">Сканировать</string>
     <string name="caching_vcard_message">Кэширование файлов vCard на устройство…</string>
     <string name="caching_vcard_title">Кэширование</string>
-    <string name="callAgain">Повторный вызов</string>
+    <string name="callAgain">Перезвонить</string>
     <string name="callBack">Перезвонить</string>
     <string name="callDetailTitle">Информация о вызове</string>
     <string name="callDetailsDurationFormat" formatted="false">%s мин %s с</string>
@@ -99,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -299,7 +301,7 @@
     <string name="delete_dial_input">Удалить</string>
     <string name="delete_duplicate">Объединить</string>
     <string name="delete_duplicate_message">Объединение контактов…</string>
-    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Контакты этой группы не будут удалены.</string>
+    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? Контакты, входящие в группу, удалены не будут.</string>
     <string name="delete_group_dialog_title">Удаление группы</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
     <string name="delete_sim_entries_finish">Контакты с SIM карты удалены</string>
@@ -363,7 +365,6 @@
     <string name="device_import_progress_begin_message">Импорт…</string>
     <string name="device_import_progress_end_message">Импорт завершен</string>
     <string name="device_import_progress_message">Импорт…</string>
-    <string name="device_import_progress_toast">Импортировано контактов: %1$d</string>
     <string name="device_import_title">Импорт</string>
     <string name="device_list_title">Выберите устройство</string>
     <string name="device_other_guide">Другое устройство поддерживает Bluetooth?</string>
@@ -488,6 +489,7 @@
     <string name="force_touch_new_contact">Новый контакт</string>
     <string name="foundTooManyContacts">Найдено более %d.</string>
     <string name="frequentList">Часто вызываемые</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
@@ -566,6 +568,7 @@
     <string name="keep_local">Сохранить локально</string>
     <string name="keep_local_btn">Во внутреннюю память</string>
     <string name="label_custom_type">Особый</string>
+    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Дубликаты контактов не найдены</string>
     <string name="label_notes">Примечания</string>
     <string name="label_sip_address">Интернет вызов</string>
@@ -669,6 +672,7 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
@@ -813,7 +817,10 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Управление контактами/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -883,6 +890,7 @@
     <string name="preference_others">Другое</string>
     <string name="preference_phone">Устройство</string>
     <string name="preference_phone_more_title">Вызовы</string>
+    <string name="preference_privacy_policy_title">Политика конфиденциальности</string>
     <string name="preference_remove_duplicate">Объединение дубликатов</string>
     <string name="preference_show_firewall_calllog">Показывать заблокированные вызовы в журнале</string>
     <string name="preference_show_yellowpage_tab_description">Если эта функция отключена, Справочник может не работать должным образом</string>
@@ -928,6 +936,7 @@
     <string name="quickcontact_missing_app">Нет приложения для выполнения этого действия</string>
     <string name="quit_dialog_confirm_message">Вы не объединили ни одного контакта.</string>
     <string name="quit_dialog_confirm_title">Отмена объединения контактов</string>
+    <string name="rcs_app_name">Мини-приложение</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
     <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
@@ -962,7 +971,7 @@
     <string name="restore_nickname">Восстановить</string>
     <string name="ret_sign">"
 "</string>
-    <string name="returnCall">Обратный вызов</string>
+    <string name="returnCall">Вернуть вызов</string>
     <string name="ringLabelsGroup">Мелодия</string>
     <string name="save_photo_progress">Сохранение фото…</string>
     <string name="savingContact">Сохранение контакта…</string>
@@ -1060,6 +1069,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1139,7 +1149,7 @@
     <string name="transfer_accounts">Передача аккаунтов</string>
     <string name="type_incoming">Входящий вызов</string>
     <string name="type_missed">Пропущенный вызов</string>
-    <string name="type_mx_msg">Облачные сообщения</string>
+    <string name="type_mx_msg">Mi сообщение</string>
     <string name="type_outgoing">Исходящий вызов</string>
     <string name="type_voicemail">Голосовая почта</string>
     <string name="unable_get_device_id">Не удается прочитать IMEI</string>
@@ -1186,7 +1196,7 @@
     <string name="voicemail_speed_slower">Низкая скорость</string>
     <string name="voicemail_speed_slowest">Минимальная скорость</string>
     <string name="voicemail_status_action_call_server">Получить голосовую почту</string>
-    <string name="voicemail_status_action_configure">Настройка</string>
+    <string name="voicemail_status_action_configure">Настроить</string>
     <string name="voicemail_status_audio_not_available">Аудио недоступно</string>
     <string name="voicemail_status_configure_voicemail">Настройте голосовую почту</string>
     <string name="voicemail_status_messages_waiting">Нет подключения к серверу голосовой почты. Имеются новые сообщения.</string>
@@ -1194,6 +1204,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
