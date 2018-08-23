@@ -95,9 +95,7 @@
     <string name="opp_notification_group">Передача по Bluetooth</string>
     <string name="outbound_history_title">Исходящие передачи</string>
     <string name="outbound_noti_title">Передано по Bluetooth</string>
-    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s.</string>
-    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Истекло время ожидания ввода ключа сеанса для связи с %1$s.</string>
     <string name="pbap_notification_group">Передача контактов по Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth.</string>

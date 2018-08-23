@@ -114,7 +114,6 @@
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не сейчас</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Оно содержит встроенные напоминания и синхронизирует ваши объекты с Mi Cloud, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
@@ -126,7 +125,6 @@
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
