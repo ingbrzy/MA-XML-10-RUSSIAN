@@ -25,6 +25,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Еще</string>
@@ -86,7 +87,6 @@
     <string name="add_to_quicklink">Главная страница</string>
     <string name="added_to_bookmarks">Добавлено в закладки</string>
     <string name="adjust_text_zoom_toast">Изменение размера текста может вызвать неправильное отображение некоторых сайтов</string>
-    <string name="adx_loading_str">Секунду…</string>
     <string name="agree">Принять</string>
     <string name="agree_permissions_request">Разрешить</string>
     <string name="alert_tips">Этот сайт может представлять угрозу безопасности</string>
@@ -102,7 +102,6 @@
     <string name="aqi_quality_index_moderate">Приемлемый</string>
     <string name="aqi_quality_index_pure">Отличный</string>
     <string name="aqi_quality_index_unhealthy">Нездоровый</string>
-    <string name="articles_updated">Обновлено статей: %1$d</string>
     <string name="autoSwithcingSearchEngineTips">Переключено на часто используемую поисковую систему</string>
     <string name="autologin_bar_error">Ошибка авторизации</string>
     <string name="autologin_bar_hide_text">Скрыть</string>
@@ -319,13 +318,13 @@
     <string name="geolocation_permissions_prompt_message">%s запрашивает данные о Вашем местоположении</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить выбор</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Вы можете изменить это в Настройках.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к вашему местоположению. Вы можете изменить это в Настройках.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к вашему местоположению</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
-    <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о местоположении?</string>
+    <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к местоположению?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-    <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к данным о вашем местоположении</string>
-    <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к данным о вашем местоположении</string>
+    <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к вашему местоположению</string>
+    <string name="geolocation_settings_page_summary_not_allowed">У этого сайта нет доступа к вашему местоположению</string>
     <string name="geolocation_settings_page_title">Закрыть геоданные</string>
     <string name="go_supermarket_button">Перейти</string>
     <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Магазине</string>
@@ -347,6 +346,7 @@
     <string name="ignore_add_pwa_dialog_today">Не показывать сегодня</string>
     <string name="in_incognito">Теперь вы инкогнито! Просмотренные страницы не появятся в истории браузера.</string>
     <string name="in_secureaccess">Браузер перешел в безопасный режим</string>
+    <string name="into_info_flow_guide">Другие статьи</string>
     <string name="isReplacePage">Файл уже существует, заменить?</string>
     <string name="is_first_history_item">Это первая запись в истории браузера</string>
     <string name="is_first_tab">Это первая вкладка</string>
@@ -486,10 +486,10 @@
     <string name="mw_http_post_warning_resend">Продолжить</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-Вы действительно хотите покинуть эту страницу?"</string>
-    <string name="mw_js_dialog_before_unload_negative_button">Остаться</string>
-    <string name="mw_js_dialog_before_unload_positive_button">Покинуть</string>
-    <string name="mw_js_dialog_before_unload_title">Уход со страницы</string>
+Покинуть эту страницу?"</string>
+    <string name="mw_js_dialog_before_unload_negative_button">Остаться на странице</string>
+    <string name="mw_js_dialog_before_unload_positive_button">Покинуть страницу</string>
+    <string name="mw_js_dialog_before_unload_title">Подтверждение перехода</string>
     <string name="mw_js_dialog_title">Страница \"%s\" сообщает:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">В прошлом месяце</string>
@@ -714,7 +714,7 @@
     <string name="mw_sad_tab_oom_message_notabs">Попробуйте закрыть другие программы.</string>
     <string name="mw_sad_tab_oom_message_tabs">Попробуйте закрыть другие вкладки или программы.</string>
     <string name="mw_sad_tab_reload_close_notabs">Закройте другие приложения</string>
-    <string name="mw_sad_tab_reload_incognito">Откройте страницу в новой вкладке Инкогнито</string>
+    <string name="mw_sad_tab_reload_incognito">Откройте страницу в новой вкладке инкогнито</string>
     <string name="mw_sad_tab_reload_label">Обновить</string>
     <string name="mw_sad_tab_reload_learn_more">Подробнее</string>
     <string name="mw_sad_tab_reload_restart_browser">Перезапустите Chromium</string>
@@ -724,13 +724,15 @@
     <string name="mw_sad_tab_send_feedback_label">Отправить отчет</string>
     <string name="mw_sad_tab_title">Вот незадача!</string>
     <string name="mw_sad_tab_uma_optin">Автоматически отправлять статистику использования и отчеты о сбоях в Google</string>
-    <string name="mw_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
+    <string name="mw_save_password_message">Запомнить пароль?</string>
     <string name="mw_save_password_never">Никогда</string>
     <string name="mw_save_password_notnow">Не сейчас</string>
     <string name="mw_save_password_remember">Запомнить</string>
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
@@ -748,9 +750,8 @@
     <string name="nav_bottom_bar_new_tab">Новая вкладка</string>
     <string name="nav_screen_container_tab_incognito">Инкогнито</string>
     <string name="nav_screen_container_tab_normal">Обычная</string>
-    <string name="nav_screen_incognito_message">"В режиме инкогнито не сохраняются истории просмотров и поиска.
-Обратите внимание, что загруженные файлы и добавленные закладки будут сохранены."</string>
-    <string name="nav_screen_incognito_title">Режим инкогнито</string>
+    <string name="nav_screen_incognito_message">В режиме инкогнито не будет сохранена история просмотров и поиска. Обратите внимание, что загружаемые файлы и добавляемые закладки будут сохранены.</string>
+    <string name="nav_screen_incognito_title"> Режим инкогнито</string>
     <string name="navigation_delete_all">Проведите влево или вправо для закрытия вкладок</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Отмена</string>
     <string name="navigationbar_rightbutton_actiontext_go">Перейти</string>
@@ -803,11 +804,12 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">Часто используемые сочетания символов можно вводить одним нажатием</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
     <string name="pref_adblock_title">Блокировка рекламы</string>
-    <string name="pref_auto_update_under_wifi">Автообновление по Wi-Fi</string>
+    <string name="pref_auto_update">Обновлять автоматически</string>
+    <string name="pref_auto_update_under_wifi">Обновлять по Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Автовыбор поисковой системы</string>
     <string name="pref_card_setting">Категории сайтов</string>
     <string name="pref_category_hint">Категории</string>
-    <string name="pref_check_recommendation_app_quicklink">Рекомендации</string>
+    <string name="pref_check_recommendation_app_quicklink">Рекомендуемые</string>
     <string name="pref_check_security_url_summary">Отправлять адреса веб-сайтов на серверы Mi для проверки</string>
     <string name="pref_check_security_url_summary_international">Разрешить браузеру доступ к адресам посещенных вами сайтов для получения более подходящих рекомендаций</string>
     <string name="pref_check_security_url_title">Проверять безопасность сайтов</string>
@@ -871,7 +873,7 @@
     <string name="pref_privacy_clear_form_data_summary">Удалить все сохранённые данные форм</string>
     <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
-    <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к данным о вашем местоположении</string>
+    <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к вашему местоположению</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Очистить историю просмотров?</string>
     <string name="pref_privacy_clear_history_dlg">Очистить историю?</string>
@@ -952,6 +954,7 @@
     <string name="readmodelist_bookmarks_to_show">Список чтения</string>
     <string name="refresh">Обновить</string>
     <string name="refresh_fail">Ошибка загрузки</string>
+    <string name="refresh_guide">К началу</string>
     <string name="refreshing">Обновление…</string>
     <string name="refuse_permissions_request">Отмена</string>
     <string name="release_to_refresh">Отпустите для обновления</string>
@@ -1114,6 +1117,7 @@
     <string name="version_check_button_resume_download">Продолжить загрузку</string>
     <string name="version_check_button_update">Обновить</string>
     <string name="version_check_failed">Не удалось проверить обновления</string>
+    <string name="version_dialog_4G_checkbox">Вы можете обновлять системные приложения через мобильный интернет. Это может вызвать дополнительные затраты.</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Обновить</string>
     <string name="version_update_file_download_toast">Загрузка</string>
@@ -1158,7 +1162,7 @@
     <string name="video_subtitle_prefix1">Просмотрено</string>
     <string name="video_subtitle_prefix2">"Просмотрено "</string>
     <string name="video_title_prefix_message">"На устройстве: "</string>
-    <string name="video_unknown_duration">Неизвестная продолжительность</string>
+    <string name="video_unknown_duration">Неизвестная длительность</string>
     <string name="view_certificate">Просмотреть сертификат</string>
     <string name="view_document_downloaded_files">Просмотреть файлы в Загрузках</string>
     <string name="voice_check_network">Проверьте настройки сети и повторите попытку.</string>
@@ -1216,6 +1220,7 @@
     <string name="date_picker_dialog_set">OK</string>
     <string name="date_picker_dialog_title">Установите дату</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="external_app_restricted_access_error">Mi Browser не имеет доступа к запрашиваемому ресурсу.</string>
     <string name="find_next">Следующий</string>
     <string name="find_previous">Предыдущий</string>
     <string name="js_dialog_before_unload">"%s

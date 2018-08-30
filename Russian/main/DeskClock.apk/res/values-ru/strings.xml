@@ -47,7 +47,7 @@
     <string name="default_alarm_title">Мелодия по умолчанию</string>
     <string name="default_label">Будильник</string>
     <string name="delete">Удалить</string>
-    <string name="delete_alarm">Удалить будильник</string>
+    <string name="delete_alarm">Удаление будильника</string>
     <string name="delete_alarm_confirm">Удалить выбранные будильники?</string>
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timer_item_title">Удалить таймер</string>
@@ -62,6 +62,7 @@
     <string name="edit_alarm">Изменение будильника</string>
     <string name="edit_systemtime">Настройки даты и времени</string>
     <string name="every_day">Ежедневно</string>
+    <string name="expired_timers_dismissed">Таймер отключен</string>
     <string name="force_touch_add_alarm">Будильник</string>
     <string name="force_touch_enter_stopwatch">Секундомер</string>
     <string name="force_touch_enter_timer">Таймер</string>
@@ -72,6 +73,7 @@
     <string name="install_weather_app_error">Не удалось загрузить приложение</string>
     <string name="install_weather_app_loading">Секунду…</string>
     <string name="invalid_time">Неверное время: %3$s %1$d: %2$d</string>
+    <string name="invalid_timer_length">Недопустимая длительность таймера</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="label">Добавить описание</string>
     <string name="label_pref_summary">Описание</string>
@@ -129,8 +131,10 @@
     <string name="never">Однократно</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен</string>
+    <string name="other_category_title">Прочее</string>
     <string name="pause">Пауза</string>
     <string name="percentage_sign">%</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="remind_ringtone">Мелодия</string>
     <string name="reset">Сброс</string>
     <string name="revert">Назад</string>
@@ -148,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
@@ -156,6 +161,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>
@@ -180,6 +186,7 @@
     <string name="timer_clock_alert_text">Установить таймер</string>
     <string name="timer_continue">Продолжить</string>
     <string name="timer_continue_timer">Возобновить таймер</string>
+    <string name="timer_created">Таймер создан</string>
     <string name="timer_end_time">Таймер остановится в %s</string>
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -203,7 +210,7 @@
     <string name="turn_off_a_repeat_alarm">Отключение будильника</string>
     <string name="turn_off_this_repeat_alarm">Отключить насовсем</string>
     <string name="upcoming_alarm">Будильник в %s</string>
-    <string name="upcoming_alarm_hint">Можно отключить его</string>
+    <string name="upcoming_alarm_hint">Вы можете отключить его.</string>
     <string name="vibrate_pref_summary">Вибрировать при сигнале</string>
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
     <string name="volume_button_setting_summary">Настройка функции боковых кнопок при их нажатии во время звонка будильника</string>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="app_name">Резервирование</string>
     <string name="local_app_name">Резервирование</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Восстановление</string>
     <string name="enable_encrypt_description">Шифровать</string>
     <string name="disable_encrypt_description">Не шифровать</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="abort_backup_confirm">Резервирование не завершено. Отменить процесс?</string>
@@ -360,9 +364,9 @@
     <string name="trans_operate_old_phone_tips2">"Настройки > Расширенные настройки > Mi Mover
 Нажмите [Я отправитель]"</string>
     <string name="trans_operate_tip_for_other_android">Запустите Mi Mover на старом устройстве, нажмите \"Начать\" и отсканируйте этот QR-код.</string>
-    <string name="trans_operate_reconnect_new_tips">"Подождите, пока на новом устройстве не появится сообщение \"Соединение прервано\".
+    <string name="trans_operate_reconnect_new_tips">"Дождитесь, когда на новом устройстве появится сообщение \"Соединение прервано\".
 Затем нажмите \"Подключиться заново\" для создания QR-кода."</string>
-    <string name="trans_operate_reconnect_old_tips">"Подождите, пока на старом устройстве не появится сообщение \"Соединение прервано\".
+    <string name="trans_operate_reconnect_old_tips">"Дождитесь, когда на старом устройстве появится сообщение \"Соединение прервано\".
 Затем нажмите \"Подключиться заново\" для чтения QR-кода."</string>
     <string name="trans_generating_qrcode">Создание QR-кода…</string>
     <string name="trans_generate_qrcode_failed">Не удалось создать QR-код. Повторите попытку.</string>
@@ -384,7 +388,7 @@
     <string name="trans_please_waiting">Секунду…</string>
     <string name="trans_old_phone_low_space_title">Недостаточно места</string>
     <string name="trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительная память. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
-    <string name="button_clean_garbage">Очистить</string>
+    <string name="button_clean_garbage">Освободить</string>
     <string name="button_quit">Выход</string>
     <string name="trans_install_guide_page_title">Установите Mi Mover на старое устройство</string>
     <string name="trans_install_guide_scan_install_tip">"Отсканируйте QR-код старым устройством
@@ -417,7 +421,7 @@
     <string name="trans_intro_desc_new">Нажмите \"Я получатель\". Будет создан QR-код.</string>
     <string name="trans_intro_title_old">На старом устройстве:</string>
     <string name="trans_intro_desc_old">Нажмите \"Я отправитель\". Отсканируйте QR-код с нового устройства, дождитесь, когда Mi Mover выяснит, какие файлы отправлять, и нажмите \"Отправить\".</string>
-    <string name="trans_intro_desc_old_market">Нажмите \"Начать\". Отсканируйте QR-код с нового устройства, подождите, пока Mi Mover не выяснит, какие файлы отправлять, и нажмите \"Отправить\".</string>
+    <string name="trans_intro_desc_old_market">Нажмите \"Начать\". Отсканируйте QR-код с нового устройства, дождитесь, когда Mi Mover выяснит, какие файлы отправлять, и нажмите \"Отправить\".</string>
     <string name="trans_intro_question_3">%d. Что делать, если Mi Mover завис на определенном этапе?</string>
     <string name="trans_intro_desc_3">Отмените передачу, выйдите из Mi Mover и начните сначала. Дублирующиеся файлы будут перезаписаны во время новой передачи.</string>
     <string name="trans_intro_question_4">%d. Почему я не могу использовать Wi-Fi во время передачи?</string>
@@ -534,6 +538,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 необходимо создать резервную копию iCloud"</string>
     <string name="list_footer_tip_title">Советы:</string>
     <string name="import_tip_summary">Из-за проблем с совместимостью вы можете передавать данные с устройств iOS только частично. Перед началом передачи убедитесь, что вы создали резервную копию iCloud.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Импорт</string>
     <string name="select_empty">Выберите объекты для импорта</string>
     <string name="select_item_summary_wait">Ожидание…</string>

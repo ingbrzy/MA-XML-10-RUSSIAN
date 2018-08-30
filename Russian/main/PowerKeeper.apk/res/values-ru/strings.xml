@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
     <string name="power_config_select_apps_title">Приложения</string>
     <string name="power_config_event_delete">Удалить</string>
-    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для улучшения экономии заряда батареи. Эта функция будет получать и использовать личные данные в соответствии с %s</font></string>
+    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для снижения расхода заряда батареи. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
     <string name="privacy">Политика конфиденциальности</string>
     <string name="power_hide_mode_title">Батарея и производительность</string>
     <string name="power_config_apps">Контроль активности</string>
@@ -16,7 +16,7 @@
     <string name="about_extreme_mode">О максимальной экономии</string>
     <string name="scenario_policies_title">Умные сценарии</string>
     <string name="config_scenario_policies_title">Сценарии</string>
-    <string name="scenario_policies_summary">Различные стратегии энергосбережения для разных сценариев использования устройства</string>
+    <string name="scenario_policies_summary">Различные стратегии экономии энергии для разных сценариев использования устройства</string>
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleep_config_enhance_description">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование NFC, Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>
     <string name="sleep_config_enhance_description_non_nfc">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>

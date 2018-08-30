@@ -11,7 +11,7 @@
 посетите %s с любого устройства, подключенного к Интернету."</string>
     <string name="permdesc_accessDrm">Позволяет приложению получать доступ к содержимому, защищенному DRM.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">continue to use traffic, tap to switch wifi and verify.</string>
+    <string name="open_wifi_connect_and_use_data_summary">нажмите для переключения и проверки.</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
     <string name="settings_license_activity_title">Лицензии открытого ПО</string>
     <string name="settings_license_activity_loading">Секунду…</string>

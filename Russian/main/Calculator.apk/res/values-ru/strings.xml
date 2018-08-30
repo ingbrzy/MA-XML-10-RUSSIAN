@@ -256,6 +256,7 @@
     <string name="unit_data_display_currency_bhd">Бахрейнский динар</string>
     <string name="unit_data_display_currency_bnd">Брунейский доллар</string>
     <string name="unit_data_display_currency_brl">Бразильский реал</string>
+    <string name="unit_data_display_currency_byn">Белорусский рубль</string>
     <string name="unit_data_display_currency_cad">Канадский доллар</string>
     <string name="unit_data_display_currency_chf">Швейцарский франк</string>
     <string name="unit_data_display_currency_clp">Чилийское песо</string>
@@ -532,5 +533,4 @@
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
     <string name="year" />
-    <string name="unit_data_display_currency_byr">Белорусский рубль</string>
 </resources>

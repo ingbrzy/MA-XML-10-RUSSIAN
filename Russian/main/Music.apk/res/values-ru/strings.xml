@@ -25,6 +25,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="account_and_cloud">Аккаунт</string>
     <string name="action_item_add">Добавить в</string>
     <string name="action_item_add_song">Добавить в плейлист</string>
@@ -135,6 +136,7 @@
     <string name="continue_backup">Продолжить</string>
     <string name="cp_info_first">"Онлайн музыка предоставлена
 сервисом Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">Не удалось создать заказ, повторите попытку.</string>
     <string name="create_playlist">Создать плейлист</string>
     <string name="create_playlist_failure">Не удается создать плейлист</string>
@@ -228,6 +230,7 @@
     <string name="download_method">Загрузка</string>
     <string name="download_no_application_title">Не удается открыть файл</string>
     <string name="download_paused_in_power_save_mode">Останавливать загрузки при включенной экономии энергии</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Загрузка…</string>
     <string name="download_quality">Качество загрузки</string>
     <string name="download_quality_summary">Дополнительные настройки для загруженных треков</string>
@@ -561,6 +564,7 @@
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Разрешить изменение параметров системы</string>
     <string name="pulluprefreshrecyclerview_loading_error">Загрузка не удалась</string>
@@ -733,6 +737,7 @@
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="user_agreement">Пользовательское соглашение</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">Версия</string>
     <string name="vip_after_tomorrow_auto_renew_message">Подписка будет автоматически продлена послезавтра вечером. Убедитесь, что у вас достаточно Mi Credits для завершения платежа.</string>
     <string name="vip_after_tomorrow_renew_message">Вы не сможете прослушивать аудио в высоком качестве. Некоторые треки будут доступны в обычном качестве.</string>

@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -462,6 +464,7 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -469,7 +472,7 @@
     <string name="pref_title_diagnostics_show_float_notification">Всплывающие уведомления</string>
     <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
     <string name="pref_title_declaration">Отказ от ответственности</string>
-    <string name="pref_new_installed_preconfig_title">Настройки для новых приложений</string>
+    <string name="pref_new_installed_preconfig_title">Настройки новых приложений</string>
     <string name="pref_bg_network_title">Фоновые подключения</string>
     <string name="pref_mi_sim_settings">Настройки пакета %s</string>
     <string name="pref_title_upload_data_usage">Отправлять отчеты о трафике</string>
@@ -988,6 +991,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Это приложение замедляет
 работу вашего устройства"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Удалить %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Удалите это приложение для решения проблем с батареей.</string>
     <string name="om_ill_proc_type_wakelock_title">Приложение блокирует спящий режим и разряжает батарею</string>
@@ -1046,6 +1050,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1240,7 +1245,7 @@
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="auto_task_manage_new_task">Новая задача</string>
     <string name="extreme_power_save_mode_title">Максимальная экономия</string>
-    <string name="extreme_power_save_mode_summary">Максимальная экономия ограничивает фоновую активность, останавливает синхронизацию и переводит экран в монохромный режим</string>
+    <string name="extreme_power_save_mode_summary">Максимальная экономия ограничивает фоновую активность и останавливает синхронизацию</string>
     <string name="extreme_power_save_description"><li>Максимальная экономия останавливает всю фоновую активность приложения после выхода из него и возврата на рабочий стол. Это приложение не сможет отправлять уведомления или получать обновления.</li>"
 "<li>Если вы хотите, чтобы приложение работало в фоновом режиме, закрепите его в Недавних или добавьте его в список исключений. При этом в фоновом режиме может работать до 4 приложений.</li>"
 "<li>В режиме Максимальной экономии по умолчанию отключается NFC. Вы можете изменить это в Настройках.</li>"
@@ -1402,30 +1407,34 @@
     <string name="menu_summary_antivirus_3">Проверка не проводилась</string>
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
-    <string name="menu_summary_networkassistants">Управляйте своим трафиком</string>
+    <string name="menu_summary_networkassistants">Управляйте трафиком</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
     <string name="menu_text_networkassistants_unit_b">Б</string>
     <string name="menu_text_antispam">Антиспам</string>
-    <string name="menu_summary_antispam">Блокируйте вызовы и сообщения</string>
-    <string name="menu_summary_antispam_2">Есть заблокированные объекты</string>
+    <string name="menu_summary_antispam">Блокируйте вызовы и SMS</string>
+    <string name="menu_summary_antispam_2">Имеются блокировки</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
     <string name="menu_summary_power_manager_4">%sдо окончания</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Оптимизируйте несколько объектов</string>
@@ -1657,7 +1666,7 @@
     <string name="toast_garbage_lib">Автообновление базы очистки включено</string>
     <string name="title_app_lock_disable">Защита приложений</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
-    <string name="title_first_aid_kit">Аптечка</string>
+    <string name="title_first_aid_kit">Первая помощь</string>
     <string name="summary_first_aid_kit">Решайте проблемы с помощью нашей Аптечки</string>
     <string name="button_first_aid_kit">Исправить</string>
     <string name="info_and_call">Вызовы и сообщения</string>
@@ -1799,6 +1808,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -2348,15 +2358,17 @@
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_like">Нравится</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
     <string name="video_repeat">Повторить</string>
     <string name="game_video_network_eror">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="see_more_content">Обновите игровой центр для просмотра новинок</string>
     <string name="notify_channel_name_security">Безопасность системы</string>
     <string name="privacy_apps_category_title">Скрытые приложения</string>
-    <string name="privacy_apps">Скрытые приложения</string>
+    <string name="privacy_apps">Скрытие приложений</string>
     <string name="privacy_apps_enable_summary">Перемещение приложений в скрытую папку и удаление их ярлыков с рабочего стола</string>
-    <string name="privacy_apps_manage">Управление скрытыми приложениями</string>
+    <string name="privacy_apps_manage">Управление приложениями</string>
     <string name="privacy_apps_tutorial">Руководство</string>
     <string name="privacy_apps_tutorial_prompt_pageone">"При скрытии приложения оно перемещается в скрытую папку. Его ярлык удаляется с рабочего стола.
 Эта функция не поддерживается системными приложениями."</string>
@@ -2372,8 +2384,8 @@
     <string name="first_aid_scanning_item2">Проверка проблем с сетью…</string>
     <string name="first_aid_scanning_item3">Проверка корректности настроек…</string>
     <string name="first_aid_scanning_item4">Проверка проблем с питанием…</string>
-    <string name="first_aid_scanning_item5">Проверка других проблем…</string>
-    <string name="first_aid_activity_title">Аптечка</string>
+    <string name="first_aid_scanning_item5">Проверка наличия других проблем…</string>
+    <string name="first_aid_activity_title">Первая помощь</string>
     <string name="first_aid_item1_content">Производительность</string>
     <string name="first_aid_item2_content">Сеть</string>
     <string name="first_aid_item3_content">Настройки</string>
@@ -2408,14 +2420,14 @@
     <string name="first_aid_card_unable_install_button">Освободить</string>
     <string name="first_aid_result_summary_normal">Всё в порядке</string>
     <string name="first_aid_result_feedback_title">Отчет</string>
-    <string name="first_aid_result_feedback_summary">Я не могу решить проблемы с моим устройством.</string>
+    <string name="first_aid_result_feedback_summary">Я не могу решить проблемы с устройством</string>
     <string name="first_aid_result_feedback_button">Отправить</string>
     <string name="first_aid_card_kadun_title">Устройство работает медленно</string>
     <string name="first_aid_card_kadun_summary1">Освободите место для нормальной работы устройства.</string>
     <string name="first_aid_card_kadun_button1">Освободить</string>
     <string name="first_aid_card_kadun_summary2">Некоторые приложения имеют привилегии администратора. Это может замедлить работу вашего устройства.</string>
     <string name="first_aid_card_kadun_button2">Ограничить</string>
-    <string name="first_aid_card_kadun_summary3">Одновременно работает слишком много специальных возможностей. Это может замедлить работу вашего устройства.</string>
+    <string name="first_aid_card_kadun_summary3">Одновременно включено слишком много специальных возможностей. Это может замедлить работу вашего устройства.</string>
     <string name="first_aid_card_kadun_button3">Отключить</string>
     <string name="first_aid_dialog_title_stop_scan">Остановка проверки</string>
     <string name="first_aid_dialog_msg_stop_scan">Остановить проверку?</string>

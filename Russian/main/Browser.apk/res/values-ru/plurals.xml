@@ -13,10 +13,10 @@
         <item quantity="many">Заблокировано %d объектов</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">Обновлено статей: %1$d</item>
-        <item quantity="one">Обновлено статей: %1$d</item>
-        <item quantity="few">Обновлено статей: %1$d</item>
-        <item quantity="many">Обновлено статей: %1$d</item>
+        <item quantity="other">Проверьте %1$d новых статей</item>
+        <item quantity="one">Проверьте %1$d новую статью</item>
+        <item quantity="few">Проверьте %1$d новых статьи</item>
+        <item quantity="many">Проверьте %1$d новых статей</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Удалить %d загрузок?</item>
@@ -121,10 +121,10 @@
         <item quantity="many">Осталось %d минут</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">Обновлено видео: %1$d</item>
-        <item quantity="one">Обновлено видео: %1$d</item>
-        <item quantity="few">Обновлено видео: %1$d</item>
-        <item quantity="many">Обновлено видео: %1$d</item>
+        <item quantity="other">Проверьте %1$d новых видео</item>
+        <item quantity="one">Проверьте %1$d новое видео</item>
+        <item quantity="few">Проверьте %1$d новых видео</item>
+        <item quantity="many">Проверьте %1$d новых видео</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>

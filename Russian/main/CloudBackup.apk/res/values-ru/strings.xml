@@ -159,8 +159,8 @@
     <string name="dialog_cancel_backup_cancel">Отмена</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
     <string name="app_is_running">Задача выполняется…</string>
-    <string name="notification_channel_service">Службы</string>
-    <string name="notification_channel_remind">Напоминания</string>
+    <string name="notification_channel_service">Служба</string>
+    <string name="notification_channel_remind">Напоминание</string>
     <string name="done_remove">Удаление завершено</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
     <string name="title_alert_cancel_restore">Предупреждение</string>

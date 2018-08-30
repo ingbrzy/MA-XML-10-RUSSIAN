@@ -107,7 +107,7 @@
     <string name="tryNow">Попробовать</string>
     <string name="spaceSetting">Настройки</string>
     <string name="closePassword">Отключение пароля</string>
-    <string name="closePasswordGuide">После отключения пароля вы не сможете входить во второе пространство с экрана блокировки</string>
+    <string name="closePasswordGuide">После отключения блокировки экрана вы не сможете входить во второе пространство с экрана блокировки</string>
     <string name="cancelClosePassword">Не отключать</string>
     <string name="confirmClose">Отключить</string>
     <string name="opened">Вкл</string>
@@ -306,7 +306,7 @@
     <string name="space_name_default">Рабочее пространство</string>
     <string name="space_des_default">Изолированное пространство с зашифрованными данными</string>
     <string name="create_work_space">Создать рабочее пространство</string>
-    <string name="switch_download_space">Переключить рабочее пространство</string>
+    <string name="switch_download_space">Перейти в рабочее пространство</string>
     <string name="confirm_airspace_password">Подтвердите %s пароль</string>
     <string name="air_space_created">Рабочее пространство создано</string>
     <string name="enter_air_space">Перейти в рабочее пространство</string>
@@ -329,7 +329,7 @@
     <string name="contact_us">Свяжитесь с нами</string>
     <string name="space_deleted">Это пространство было удалено</string>
     <string name="function_not_support">Не поддерживается на этом устройстве</string>
-    <string name="can_not_switch_when_calling">Нельзя переходить между пространствами во время вызова</string>
+    <string name="can_not_switch_when_calling">Нельзя менять пространство во время вызова</string>
     <string name="can_not_delete_when_calling">Нельзя удалить пространство во время вызова</string>
     <string name="support_desc">Сервисы безопасности предоставлены Spaces Mobile</string>
     <string name="sdcardfs_dialog_title">Важное обновление</string>
@@ -382,8 +382,8 @@
     <string name="space_create_guide_desc_1">Безопасное хранение приложений и фото</string>
     <string name="space_create_guide_title_2">Всегда под рукой</string>
     <string name="space_create_guide_desc_2">Полностью готовое к работе отдельное пространство</string>
-    <string name="space_create_guide_title_3">Полностью безопасно</string>
-    <string name="space_create_guide_desc_3">Не влияет на другие объекты вашего устройства</string>
+    <string name="space_create_guide_title_3">Полная безопасность</string>
+    <string name="space_create_guide_desc_3">Не затрагивает другие объекты на вашем устройстве</string>
     <string name="space_create_guide_switchmode_title">Способ перехода</string>
     <string name="second_space_desktop_tips_dialog_title">Важное обновление</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Понятно</string>

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -274,7 +275,7 @@
     <string name="toast_select_white_need_remove">Выберите объекты для удаления</string>
     <string name="network_not_available">Не удается подключиться к сети</string>
     <string name="no_network_btn">Повторить</string>
-    <string name="name_debuglog_dir">Журнал ошибок BSP</string>
+    <string name="name_debuglog_dir">Журнал отладки BSP</string>
     <string name="just_now">Только что</string>
     <string name="yesterday">Вчера</string>
     <string name="month_day_format">dd MMM</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
