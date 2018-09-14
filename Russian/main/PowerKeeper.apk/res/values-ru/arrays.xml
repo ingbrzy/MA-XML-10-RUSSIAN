@@ -23,6 +23,7 @@
     <string-array name="thermal_summaries">
         <item>Приоритет контроля температуры</item>
         <item>Приоритет производительности</item>
+        <item>Не работает в режиме Максимальной экономии</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производительный</item>

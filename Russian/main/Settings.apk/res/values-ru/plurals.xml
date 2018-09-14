@@ -217,16 +217,16 @@
         <item quantity="many">Соедините не менее %d точек</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Слишком много неудачных попыток. Повторите через %d сек.</item>
-        <item quantity="one">Слишком много неудачных попыток. Повторите через %d сек.</item>
-        <item quantity="few">Слишком много неудачных попыток. Повторите через %d сек.</item>
-        <item quantity="many">Слишком много неудачных попыток. Повторите через %d сек.</item>
+        <item quantity="other">Слишком много неудачных попыток. Повторите через %d с.</item>
+        <item quantity="one">Слишком много неудачных попыток. Повторите через %d с.</item>
+        <item quantity="few">Слишком много неудачных попыток. Повторите через %d с.</item>
+        <item quantity="many">Слишком много неудачных попыток. Повторите через %d с.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Подождите %d сек. и повторите попытку</item>
-        <item quantity="one">Подождите %d сек. и повторите попытку</item>
-        <item quantity="few">Подождите %d сек. и повторите попытку</item>
-        <item quantity="many">Подождите %d сек. и повторите попытку</item>
+        <item quantity="other">Подождите %d с и повторите попытку</item>
+        <item quantity="one">Подождите %d с и повторите попытку</item>
+        <item quantity="few">Подождите %d с и повторите попытку</item>
+        <item quantity="many">Подождите %d с и повторите попытку</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d приложений с доступом к уведомлениям</item>

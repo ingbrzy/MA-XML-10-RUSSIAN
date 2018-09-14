@@ -182,6 +182,18 @@
         <item quantity="few">Найдено %d проблемы с батареей, решите их</item>
         <item quantity="many">Найдено %d проблем с батареей, решите их</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">проблем</item>
+        <item quantity="one">проблема</item>
+        <item quantity="few">проблемы</item>
+        <item quantity="many">проблем</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Добавить %d мин к автономности</item>
+        <item quantity="one">Добавить %d мин к автономности</item>
+        <item quantity="few">Добавить %d мин к автономности</item>
+        <item quantity="many">Добавить %d мин к автономности</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
@@ -375,10 +387,10 @@
         <item quantity="many">Вирусы: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Подождите %d сек. и повторите попытку. "</item>
-        <item quantity="one">"Подождите %d сек. и повторите попытку. "</item>
-        <item quantity="few">"Подождите %d сек. и повторите попытку. "</item>
-        <item quantity="many">"Подождите %d сек. и повторите попытку. "</item>
+        <item quantity="other">"Подождите %d с и повторите попытку. "</item>
+        <item quantity="one">"Подождите %d с и повторите попытку. "</item>
+        <item quantity="few">"Подождите %d с и повторите попытку. "</item>
+        <item quantity="many">"Подождите %d с и повторите попытку. "</item>
     </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d</item>
@@ -501,10 +513,10 @@
         <item quantity="many">Не добавлено %d игр</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Сеанс ускорения сети завершится через %d дней. Продлите сеанс, чтобы избежать проблем со скоростью сети.</item>
-        <item quantity="one">Сеанс ускорения сети завершится через %d день. Продлите сеанс, чтобы избежать проблем со скоростью сети.</item>
-        <item quantity="few">Сеанс ускорения сети завершится через %d дня. Продлите сеанс, чтобы избежать проблем со скоростью сети.</item>
-        <item quantity="many">Сеанс ускорения сети завершится через %d дней. Продлите сеанс, чтобы избежать проблем со скоростью сети.</item>
+        <item quantity="other">Сеанс ускорения сети завершится через %d дней. Продлите сеанс во избежание проблем со скоростью сети.</item>
+        <item quantity="one">Сеанс ускорения сети завершится через %d день. Продлите сеанс во избежание проблем со скоростью сети.</item>
+        <item quantity="few">Сеанс ускорения сети завершится через %d дня. Продлите сеанс во избежание проблем со скоростью сети.</item>
+        <item quantity="many">Сеанс ускорения сети завершится через %d дней. Продлите сеанс во избежание проблем со скоростью сети.</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Отметились %d дней подряд</item>
@@ -529,6 +541,12 @@
         <item quantity="one">Скрыто %d приложение</item>
         <item quantity="few">Скрыто %d приложения</item>
         <item quantity="many">Скрыто %d приложений</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d приложений могут отображаться некорректно. Запретите всплывающие уведомления.</item>
+        <item quantity="one">%d приложение может отображаться некорректно. Запретите всплывающие уведомления.</item>
+        <item quantity="few">%d приложения могут отображаться некорректно. Запретите всплывающие уведомления.</item>
+        <item quantity="many">%d приложений могут отображаться некорректно. Запретите всплывающие уведомления.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d проблем требуют решения</item>

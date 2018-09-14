@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
-    <string name="announce_for_checked">%1$s, отмечено</string>
+    <string name="announce_for_checked">%1$s, выбрано</string>
     <string name="announce_for_choose_default_screen">Установить экран %1$d в качестве основного</string>
     <string name="announce_for_close_default_preview">Настройки выбора основного экрана закрыты</string>
     <string name="announce_for_close_folder">Папка закрыта</string>
@@ -29,7 +30,7 @@
     <string name="announce_for_open_folder">Открыта папка %1$s</string>
     <string name="announce_for_open_launcher_menu">Меню открыто</string>
     <string name="announce_for_show_uninstall_dialog">Появился диалог удаления. Отмените или подтвердите.</string>
-    <string name="announce_for_unchecked">%1$s, не отмечено</string>
+    <string name="announce_for_unchecked">%1$s, выбор отменен</string>
     <string name="app_already_exist">Приложение уже существует</string>
     <string name="app_being_backup_message">Приложение резервируется</string>
     <string name="app_being_restored_message">Приложение восстанавливается</string>
@@ -80,8 +81,8 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны приложений будут удалены вместе с основными.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Клон приложения будет удален вместе с основным.</string>
     <string name="confirm_uninstall_dialog_title">Клоны приложений будут удалены</string>
-    <string name="content_description_for_shortcut_icon_checked">%1$s, отмечено</string>
-    <string name="content_description_shortcut_icon_unchecked">%1$s, не отмечено</string>
+    <string name="content_description_for_shortcut_icon_checked">%1$s, выбрано</string>
+    <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменен</string>
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
@@ -108,8 +109,8 @@
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="edit_mode_group">Группировать</string>
     <string name="edit_mode_group_error_full">Не хватает места</string>
-    <string name="edit_mode_group_error_in_folder">Перед группировкой иконок закройте папку</string>
-    <string name="edit_mode_group_error_one_folder">Нельзя дублировать папку с выбранными иконками</string>
+    <string name="edit_mode_group_error_in_folder">Перед группировкой значков закройте папку</string>
+    <string name="edit_mode_group_error_one_folder">Нельзя дублировать папку с выбранными значками</string>
     <string name="edit_mode_uninstall">Удалить</string>
     <string name="editing_add_widget_tips">Виджеты</string>
     <string name="editing_mode_enter_tip_text">Используйте \"щипок\" для редактирования рабочего стола</string>
@@ -181,7 +182,7 @@
     <string name="guide_install_app_title">Установка приложения</string>
     <string name="guide_tips_editing_mode">Нажмите и удерживайте виджет для перемещения</string>
     <string name="home_screen">Рабочий стол</string>
-    <string name="icon_reorganize_channel">Упорядочить иконки</string>
+    <string name="icon_reorganize_channel">Упорядочить значки</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
     <string name="install">Установить</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
@@ -225,13 +226,13 @@
     <string name="mi_wallpaper">Темы MIUI</string>
     <string name="miui_screen_config_title">Рабочий стол</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
-    <string name="multi_selecting_tips">Нажмите и удерживайте иконку для ее перемещения</string>
+    <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
     <string name="no_space_toast">Не хватает места</string>
     <string name="normal_wallpaper">Обои</string>
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
-    <string name="notification_reset_title">Иконки упорядочены</string>
+    <string name="notification_reset_title">Значки упорядочены</string>
     <string name="online_wallpaper">Онлайн</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>
@@ -256,11 +257,11 @@
     <string name="pref_cell_layout_size">Сетка рабочего стола</string>
     <string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить память. Возможно притормаживание системы.</string>
     <string name="pref_enable_drawing_cache_title">Кэш графики</string>
-    <string name="pref_icon_shadow_summary">Показывать тени от иконок и эффекты отражения в панели избранных</string>
-    <string name="pref_icon_shadow_title">Тень от иконок</string>
+    <string name="pref_icon_shadow_summary">Показывать тени от значков и эффекты отражения в панели избранных</string>
+    <string name="pref_icon_shadow_title">Тень от значков</string>
     <string name="pref_keep_in_memory_summary">Запретить выгружать рабочий стол из памяти</string>
     <string name="pref_keep_in_memory_title">Держать в памяти</string>
-    <string name="pref_keep_layout_summary">Изменение сетки рабочего стола не повлияет на позиции иконок относительно друг друга</string>
+    <string name="pref_keep_layout_summary">Изменение сетки рабочего стола не повлияет на положение значков относительно друг друга</string>
     <string name="pref_keep_layout_title">Сохранять расстановку</string>
     <string name="pref_render_in_truecolor_summary">Отключение этой функции улучшает производительность графики</string>
     <string name="pref_render_in_truecolor_title">Качественные цвета</string>
@@ -283,7 +284,7 @@
     <string name="reset_description_first_time">Вы можете восстановить макет с %1$s в течение 2 часов</string>
     <string name="reset_description_others">Вы можете восстановить макет с %1$s</string>
     <string name="reset_fail">Восстановление не удалось</string>
-    <string name="reset_scene_prompt">Расположение иконок на рабочем столе будет сброшено по умолчанию</string>
+    <string name="reset_scene_prompt">Расположение значков на рабочем столе будет сброшено</string>
     <string name="reset_title">Восстановить</string>
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
     <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
@@ -310,7 +311,7 @@
     <string name="title_jeejen">Рабочий стол Jeejen</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
-    <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, некоторые иконки могут быть не на месте</string>
+    <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, некоторые значки могут быть не на месте</string>
     <string name="toggle_select_title">Выберите переключатели</string>
     <string name="toggle_title">Переключатели</string>
     <string name="transformation_type_classic">Стандарт</string>

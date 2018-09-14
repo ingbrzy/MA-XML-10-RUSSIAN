@@ -4,20 +4,6 @@
         <item>Мальчик</item>
         <item>Девочка</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
-        <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="app_name">Резервирование</string>
     <string name="local_app_name">Резервирование</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Восстановление</string>
     <string name="enable_encrypt_description">Шифровать</string>
     <string name="disable_encrypt_description">Не шифровать</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="abort_backup_confirm">Резервирование не завершено. Отменить процесс?</string>
@@ -466,6 +470,13 @@
     <string name="trans_success_dialog_market_comment_title">"Ваше новое устройство готово.
 Вам понравился Mi Mover?"</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Оценить Mi Mover</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">Вcё готово! Расскажите нам, что вы думаете о Mi Mover.</string>
+    <string name="trans_success_dialog_button_market_comment">Отзыв</string>
+    <string name="trans_success_dialog_button_survey">Опрос</string>
+    <string name="trans_success_dialog_survey_title">Нам важно ваше мнение</string>
+    <string name="trans_success_survey_hint">Сначала заполните все поля.</string>
+    <string name="trans_cancel_dialog_survey_title">Почему вы прервали передачу?</string>
+    <string name="trans_dialog_survey_finish">Отправить</string>
     <string name="trans_failed_details_page_title">Неудачные передачи</string>
     <string name="close_twice_auth_tutor">Отключите двухфакторную аутентификацию Apple ID</string>
     <string name="close_twice_auth_steps">Для отключения двухфакторной аутентификации Apple ID выполните следующие действия:</string>
@@ -534,6 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 необходимо создать резервную копию iCloud"</string>
     <string name="list_footer_tip_title">Советы:</string>
     <string name="import_tip_summary">Из-за проблем с совместимостью вы можете передавать данные с устройств iOS только частично. Перед началом передачи убедитесь, что вы создали резервную копию iCloud.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Импорт</string>
     <string name="select_empty">Выберите объекты для импорта</string>
     <string name="select_item_summary_wait">Ожидание…</string>

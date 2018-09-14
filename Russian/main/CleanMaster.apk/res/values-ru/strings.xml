@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -171,7 +172,7 @@
     <string name="hints_deepclean_scanning">Проверка %s</string>
     <string name="cache_title_system_cache">Системный кэш</string>
     <string name="hints_storage_free">Свободно</string>
-    <string name="hints_storage_free_size">Всего %1$s | Доступно %2$s</string>
+    <string name="hints_storage_free_size">Доступно %2$s из %1$s</string>
     <string name="apps_sort_type_title">Сортировка</string>
     <string name="apps_sort_type_item_time">Частота использования</string>
     <string name="apps_sort_type_item_size">Размер</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
@@ -556,14 +558,16 @@
     <string name="whatsapp_title">Очистка WhatsApp</string>
     <string name="whatsapp_function_title">Очистка WhatsApp</string>
     <string name="whatsapp_function_summery">Очищайте вложения WhatsApp</string>
-    <string name="clean_summary">Очищено файлов: %1$s</string>
+    <string name="clean_summary">Очищено %1$s</string>
     <string name="onekeyclean_boosting_title">Ускорение</string>
     <string name="onekeyclean_boosted_title">Очистка завершена</string>
-    <string name="onekeyclean_boost_cleaned">%s очищено</string>
+    <string name="onekeyclean_boost_cleaned">Очищено %s</string>
     <string name="onekeyclean_boost_available">%s доступно</string>
     <string name="onekeyclean_card_summery">Удаляйте мусор для освобождения места</string>
     <string name="onekeyclean_card_btn">Очистить</string>
     <string name="memory_clean_icon_text">Очистка памяти</string>
     <string name="pref_title_create_onekeyclean_shortcut">Добавить ярлык на рабочий стол</string>
     <string name="memory_clean_no_trash_tip">Всё в порядке</string>
+    <string name="toast_updater_open_4g_text">Обновление через мобильный интернет (4G) включено</string>
+    <string name="toast_updater_close_4g_text">Обновление через мобильный интернет (4G) отключено</string>
 </resources>

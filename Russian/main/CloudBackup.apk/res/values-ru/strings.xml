@@ -83,7 +83,7 @@
     <string name="cancel_recover_settings"><u>Отмена</u></string>
     <string name="recover_settings_description">Не выключайте устройство</string>
     <string name="recover_miui_settings">Восстановить настройки системы</string>
-    <string name="wait_icon_download">Загрузка иконок приложений</string>
+    <string name="wait_icon_download">Загрузка значков приложений</string>
     <string name="download_settings_fail">Не удалось загрузить настройки рабочего стола</string>
     <string name="backup_fail_wifi_needed">Резервирование не удалось, требуется Wi-Fi</string>
     <string name="backup_success">Резервирование завершено</string>

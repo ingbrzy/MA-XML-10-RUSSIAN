@@ -123,7 +123,7 @@
     <string name="module_download_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="module_download_ok">Разрешить</string>
     <string name="module_download_success">Загрузка аудиофайлов завершена</string>
-    <string name="module_download_title">Требуются дополнительные файлы</string>
+    <string name="module_download_title">Требуются аудиофайлы</string>
     <string name="module_downloading">Загрузка аудиофайлов…</string>
     <string name="monday_to_friday">По будням</string>
     <string name="more_setting">Прочие настройки</string>
@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">Будильник будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
@@ -160,6 +161,7 @@
     <string name="start_up">Старт</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>

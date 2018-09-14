@@ -13,7 +13,7 @@
     <string name="about_hide_mode">О контроле активности</string>
     <string name="show_system_app">Показать системные приложения</string>
     <string name="hide_system_app">Скрыть системные приложения</string>
-    <string name="about_extreme_mode">О максимальной экономии</string>
+    <string name="about_extreme_mode">Максимальная экономия</string>
     <string name="scenario_policies_title">Умные сценарии</string>
     <string name="config_scenario_policies_title">Сценарии</string>
     <string name="scenario_policies_summary">Различные стратегии экономии энергии для разных сценариев использования устройства</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">Управление активностью</string>
     <string name="config_classify">Сортировать по настройкам</string>
     <string name="active_classify">Сортировать по активности</string>
-    <string name="extreme_mode_max_item_alert">В режиме максимальной экономии можно выбрать только 4 приложения для работы в фоне</string>
+    <string name="extreme_mode_max_item_alert">Вы можете выбрать до 4 приложений для работы в фоновом режиме</string>
     <string name="message_i_know">Понятно</string>
 </resources>

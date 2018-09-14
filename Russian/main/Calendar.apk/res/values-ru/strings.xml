@@ -249,7 +249,7 @@
     <string name="no_network_btn">Повторить</string>
     <string name="no_title_label">(Нет заголовка)</string>
     <string name="no_visiable_calendar_message">Необходимо добавить аккаунт календаря. Нажмите \"Добавить аккаунт\" для продолжения.</string>
-    <string name="no_visiable_calendar_select_account">Добавить аккаунт</string>
+    <string name="no_visiable_calendar_select_account">Добавление аккаунта</string>
     <string name="no_visiable_calendar_title">Добавить аккаунт</string>
     <string name="not_synced">не синхронизирован</string>
     <string name="panchang_amanta">Аманта</string>

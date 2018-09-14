@@ -17,7 +17,7 @@
     <string name="recording">Запись</string>
     <string name="recording_stopped">Запись остановлена</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Память недоступна</string>
+    <string name="error_sdcard_access">Нет доступа к SD карте</string>
     <string name="error_app_internal">Проверьте, не используется ли функция записи другим приложением.</string>
     <string name="error_app_internal_title">Ошибка диктофона</string>
     <string name="error_file_access">Файл не существует или поврежден</string>
@@ -36,6 +36,7 @@
     <string name="no_file">Нет записей</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Mi Cloud. Удалить запись?</string>
+    <string name="alert_message_delete_local_record">Удалить эту запись?</string>
     <string name="share">Отправить</string>
     <string name="rename">Переименовать</string>
     <string name="delete">Удалить</string>

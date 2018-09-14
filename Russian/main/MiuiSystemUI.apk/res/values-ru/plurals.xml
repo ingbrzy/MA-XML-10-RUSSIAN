@@ -78,6 +78,24 @@
         <item quantity="few">%1$d ч %2$d мин</item>
         <item quantity="many">%1$d ч %2$d мин</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Осталось %d часов</item>
+        <item quantity="one">Остался %d час</item>
+        <item quantity="few">Осталось %d часа</item>
+        <item quantity="many">Осталось %d часов</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Осталось %d минут</item>
+        <item quantity="one">Осталась %d минута</item>
+        <item quantity="few">Осталось %d минуты</item>
+        <item quantity="many">Осталось %d минут</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Осталось %1$d ч %2$d мин</item>
+        <item quantity="one">Осталось %1$d ч %2$d мин</item>
+        <item quantity="few">Осталось %1$d ч %2$d мин</item>
+        <item quantity="many">Осталось %1$d ч %2$d мин</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">Введите PIN-код. Осталось %d попыток.</item>
         <item quantity="one">Введите PIN-код. Осталась %d попытка. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>

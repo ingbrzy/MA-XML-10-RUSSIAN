@@ -46,9 +46,9 @@
     <string name="err_volume_not_enough">Недостаточно места</string>
     <string name="err_unknown">Неизвестная ошибка</string>
     <string name="dir_switch_out_all_photos">Second space Gallery</string>
-    <string name="creating_app_icon">Создание ярлыка…</string>
-    <string name="create_app_icon_success">Ярлык создан</string>
-    <string name="create_app_icon_failed">Не удалось создать ярлык</string>
+    <string name="creating_app_icon">Создание значка…</string>
+    <string name="create_app_icon_success">Значок успешно создан</string>
+    <string name="create_app_icon_failed">Не удалось создать значок</string>
     <string name="switch_file_success">Файлы перемещены</string>
     <string name="goToSecondSpacce">Перейти во второе пространство</string>
     <string name="newSecondSpace">Создать второе пространство</string>
@@ -82,8 +82,8 @@
     <string name="xspace_installing">Установка…</string>
     <string name="xspace_install_failed">Ошибка установки</string>
     <string name="xspace_uninstalling">Удаление…</string>
-    <string name="xspace_install_completed">Ярлык добавлен на рабочий стол</string>
-    <string name="xspace_install_completed_global">Ярлык добавлен в меню</string>
+    <string name="xspace_install_completed">Значок добавлен на рабочий стол</string>
+    <string name="xspace_install_completed_global">Значок добавлен в меню</string>
     <string name="xspace_uninstall_completed">Удаление клона приложения завершено</string>
     <string name="xspace_uninstall_dialog_title">Удалить клон приложения?</string>
     <string name="xspace_uninstall_dialog_content">Удаление клона приложения очистит все его данные.</string>
@@ -230,7 +230,7 @@
     <string name="guide_contact_sub_title_desc">"Контакты, добавленные во второе пространство, будут личными.
 Сообщения будут появляться только во втором пространстве."</string>
     <string name="guide_contact_suc_title_desc">Настройка завершена</string>
-    <string name="guide_contact_suc_sub_title_desc">Во втором пространстве будут показаны только личные контакты и сообщения</string>
+    <string name="guide_contact_suc_sub_title_desc">Во втором пространстве будут отображаться только личные контакты и сообщения</string>
     <string name="notification_setting_second_space">Настройте второе пространство</string>
     <string name="notification_setting_second_space_desc">Задайте пароль второго пространства и переместите данные</string>
     <string name="show_private_msg">Личные сообщения</string>
@@ -287,6 +287,8 @@
     <string name="xpsace_guide_button">Создать</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Приложения не найдены</string>
+    <string name="confirm_close_password_title">Отключение блокировки</string>
+    <string name="confirm_close_password_desc">После отключения блокировки экрана вы не сможете входить во второе пространство с экрана блокировки. Отключить её?</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Войти и поделиться</string>
@@ -387,7 +389,7 @@
     <string name="space_create_guide_switchmode_title">Способ перехода</string>
     <string name="second_space_desktop_tips_dialog_title">Важное обновление</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Понятно</string>
-    <string name="second_space_desktop_tips_dialog_message">После обновления ярлыки для перемещения данных и управления вторым пространством больше не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
+    <string name="second_space_desktop_tips_dialog_message">После обновления значки для перемещения данных и управления вторым пространством больше не будут отображаться на рабочем столе. Вы сможете получить доступ к соответствующим функциям в Настройках.</string>
     <string name="green_guard">Родительский контроль</string>
     <string name="bind_device">Добавить устройства</string>
     <string name="green_guard_des1">Добавляйте устройства для удаленного управления</string>
@@ -427,7 +429,7 @@
     <string name="ent_error_dialog_content">По крайней мере один из введенных вами кодов был неправильным. Проверьте коды предприятия и лицензии и введите их снова.</string>
     <string name="ent_download_install_dialog_content">Для активации режима предприятия необходимо установить корпоративные приложения. Установить сейчас?</string>
     <string name="ent_download_install_dialog_title">Загрузите корпоративные приложения</string>
-    <string name="ent_downloading_message">Загрузка %d/%%</string>
+    <string name="ent_downloading_message">Загрузка: %d%%</string>
     <string name="install">Установить</string>
     <string name="install_error">Ошибка установки. Повторите попытку.</string>
     <string name="ent_install_dialog_content">Установить приложения и перезагрузить устройство?</string>

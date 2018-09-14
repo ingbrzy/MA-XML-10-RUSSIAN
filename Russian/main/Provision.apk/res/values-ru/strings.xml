@@ -67,6 +67,7 @@
     <string name="disagree">Отмена</string>
     <string name="setting_locale">Настройка региона…</string>
     <string name="agree_terms">Я прочитал и принимаю Условия использования и Политику конфиденциальности.</string>
+    <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
     <string name="agree_terms_input_method_facemoji">Я прочитал и принимаю Политику конфиденциальности Facemoji.</string>
     <string name="agree_terms_input_method_kika">Я прочитал и принимаю Политику конфиденциальности Kika.</string>
     <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Условиями использования на %s.</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">Продолжайте нажимать на экран двумя пальцами для включения TalkBack.</string>
     <string name="voice_assist_title">Голосовой помощник</string>
     <string name="voice_assist_desp">Скажите \"Mi AI\" своему телефону. Mi AI распознает ваш голос и сможет управлять вашим устройством.</string>
-    <string name="voice_assist_desp_screen_light">После включения экрана скажите \"Mi AI\" своему телефону. Mi AI распознает ваш голос и сможет управлять вашим устройством.</string>
+    <string name="voice_assist_condition">"Вы сможете использовать Mi AI:
+1. При включенном экране.
+2. При прослушивании музыки с выключенным экраном."</string>
+    <string name="voice_assist_advice">Mi AI позволяет использовать голосовое управление, но потребляет больше энергии (+1% в час).</string>
+    <string name="ai_button_title">О кнопке AI</string>
+    <string name="ai_button_desc">Используйте эту кнопку для запуска Mi AI и управления телефоном при помощи голоса</string>
+    <string name="ai_button_long_press">Долгое нажатие</string>
+    <string name="ai_button_long_press_desc">Произнесите команду и отпустите кнопку</string>
+    <string name="ai_button_single_press">Нажатие</string>
+    <string name="ai_button_single_press_desc">Запуск Mi AI</string>
+    <string name="ai_button_double_press">Двойное нажатие</string>
+    <string name="ai_button_double_press_desc">Настройка функций Mi AI</string>
 </resources>

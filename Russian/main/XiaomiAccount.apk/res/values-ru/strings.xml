@@ -13,7 +13,7 @@
     <string name="passport_skip_setup_account_msg">Вы можете настроить Mi аккаунт позже.</string>
     <string name="passport_confirm_login">Продолжить</string>
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
-    <string name="passport_title_reg">Регистрация аккаунта</string>
+    <string name="passport_title_reg">Создание Mi аккаунта</string>
     <string name="passport_reg_prompt">Нет Mi аккаунта? Создайте его бесплатно.</string>
     <string name="passport_uplink_reg">Использовать номер телефона</string>
     <string name="passport_uplink_slot1_reg">Использовать SIM 1</string>
@@ -34,7 +34,7 @@
     <string name="passport_re_get_verify_code">Получить код снова</string>
     <string name="passport_getting_verify_code">Получение…</string>
     <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
-    <string name="passport_restart_register_title">Регистрация аккаунта</string>
+    <string name="passport_restart_register_title">Создание Mi аккаунта</string>
     <string name="passport_restart_register_prompt">Возможно, потребуется отправить код подтверждения повторно.</string>
     <string name="passport_wait_for_sms_prompt">Начать сначала? Время отправки кода подтверждения может составлять до 10 минут.</string>
     <string name="passport_send_vcode_failed">Не удалось отправить код</string>
@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">Секунду…</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
+    <string name="account_invalid_user_avatar">Недопустимое фото. Выберите другое.</string>
     <string name="account_none_binded_info">Нет</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>

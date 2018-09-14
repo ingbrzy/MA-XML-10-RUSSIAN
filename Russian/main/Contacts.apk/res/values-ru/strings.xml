@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
@@ -55,7 +56,6 @@
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="button_cancel_scan">Остановить</string>
     <string name="button_join_service_number">Добавить сервисный номер</string>
-    <string name="button_my_center">Профиль</string>
     <string name="button_scan">Сканировать</string>
     <string name="caching_vcard_message">Кэширование файлов vCard на устройство…</string>
     <string name="caching_vcard_title">Кэширование</string>
@@ -64,12 +64,12 @@
     <string name="callDetailTitle">Информация о вызове</string>
     <string name="callDetailsDurationFormat" formatted="false">%s мин %s с</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
-    <string name="call_assistant">Вызов %s</string>
+    <string name="call_assistant">Вызвать %s</string>
     <string name="call_callback">Обратный вызов</string>
     <string name="call_car">Телефон в машине</string>
     <string name="call_charge">Пополнить</string>
     <string name="call_company_main">Офис</string>
-    <string name="call_custom">Вызов %s</string>
+    <string name="call_custom">Вызвать %s</string>
     <string name="call_disambig_title">Выберите номер</string>
     <string name="call_fax_home">Домашний факс</string>
     <string name="call_fax_work">Рабочий факс</string>
@@ -99,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -191,6 +192,7 @@
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с устройства не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
+    <string name="conference_call_disable_tip">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
     <string name="confirm_delete_contact_all_call_logs">Удалить все записи для контакта %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Удалить записи журнала вызовов?</string>
     <string name="confirm_delete_sim_entry_miui_title">Удаление контактов</string>
@@ -308,7 +310,7 @@
     <string name="deleting_sim_entry_miui">Удаление контактов с SIM карты…</string>
     <string name="deleting_sim_entry_miui_prepare">Подготовка контактов…</string>
     <string name="description_add_contact">Добавить контакт</string>
-    <string name="description_call">Вызов %1$s</string>
+    <string name="description_call">Вызвать %1$s</string>
     <string name="description_call_log_incoming_call">Входящий вызов</string>
     <string name="description_call_log_incoming_forwarding_call">Входящий переадресованный вызов</string>
     <string name="description_call_log_missed_call">Пропущенный вызов</string>
@@ -321,7 +323,7 @@
     <string name="description_contact_photo">фото контакта</string>
     <string name="description_delete_button">назад</string>
     <string name="description_dial_button">набрать</string>
-    <string name="description_dial_phone_number">Вызов %1$s</string>
+    <string name="description_dial_phone_number">Набрать номер %1$s</string>
     <string name="description_digits_edittext">номер для набора</string>
     <string name="description_image_button_comma">Запятая</string>
     <string name="description_image_button_dial">Вызов</string>
@@ -398,6 +400,7 @@
     <string name="dialer_menu_description">Показать меню</string>
     <string name="dialer_menu_title">Главное меню</string>
     <string name="dialer_returnToInCallScreen">Вернуться к разговору</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Использовать тональную клавиатуру</string>
     <string name="dialog_import">Импорт контактов</string>
     <string name="dialog_import_export">Импорт и экспорт контактов</string>
@@ -485,8 +488,8 @@
     <string name="firewall_setting">Антиспам</string>
     <string name="force_touch_miprofile">Визитка</string>
     <string name="force_touch_new_contact">Новый контакт</string>
-    <string name="foundTooManyContacts">Найдено более %d.</string>
     <string name="frequentList">Часто вызываемые</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Ваши контакты будут в безопасности даже в случае потери телефона: синхронизация с онлайн-сервисом.</string>
@@ -610,8 +613,8 @@
     <string name="menu_bar_group_ringtone">Мелодия</string>
     <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
     <string name="menu_bar_group_sms">SMS</string>
-    <string name="menu_call">Вызов</string>
-    <string name="menu_callNumber">Вызов %s</string>
+    <string name="menu_call">Вызвать</string>
+    <string name="menu_callNumber">Вызвать %s</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="menu_clear_frequents">Очистить частые</string>
     <string name="menu_contacts_filter">Фильтр контактов</string>
@@ -644,7 +647,7 @@
     <string name="menu_search">Поиск</string>
     <string name="menu_select_all">Выбрать все</string>
     <string name="menu_select_none">Снять выбор</string>
-    <string name="menu_sendSMS">Отправить сообщение</string>
+    <string name="menu_sendSMS">Отправить SMS</string>
     <string name="menu_sendTextMessage">Отправить сообщение</string>
     <string name="menu_set_ring_tone">Мелодия контакта</string>
     <string name="menu_settings">Настройки</string>
@@ -654,7 +657,6 @@
     <string name="menu_splitAggregate">Разделить</string>
     <string name="menu_sync_remove">Отключить синхронизацию группы</string>
     <string name="menu_viewContact">Просмотреть контакт</string>
-    <string name="merge_contact_message">Контактов с частично идентичными данными: %1$d</string>
     <string name="messageShortcutActivityTitle">Выберите номер для отправки SMS</string>
     <string name="miprofile_account_type">Визитки</string>
     <string name="miprofile_alertdialog_edit">Введите имя</string>
@@ -668,6 +670,7 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
@@ -799,7 +802,7 @@
     <string name="path_import_from_other_phone">Системные приложения/Контакты/Импорт и экспорт/Импорт из другого телефона</string>
     <string name="path_import_from_sdcard">Системные приложения/Контакты/Импорт и экспорт/Импорт из памяти</string>
     <string name="path_import_from_sim">Системные приложения/Контакты/Импорт и экспорт/Импорт с SIM карты</string>
-    <string name="path_key_photo_word">Системные приложения/Контакты/Иконки для контактов без фото</string>
+    <string name="path_key_photo_word">Системные приложения/Контакты/Значки для контактов без фото</string>
     <string name="path_key_rebuild_t9_index_title">Системные приложения/Контакты/Управление контактами/Обновление индекса</string>
     <string name="path_key_sim_manage">Системные приложения/Контакты/Управление контактами/Контакты SIM карты</string>
     <string name="path_preference_contacts_filter">Системные приложения/Контакты/Настройки отображения/Фильтр контактов</string>
@@ -812,7 +815,10 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Управление контактами/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -845,7 +851,7 @@
     <string name="postal_street">Улица</string>
     <string name="pref_key_photo">Фото</string>
     <string name="pref_key_photo_word_summary">Автоматически назначать изображение контактам без фото</string>
-    <string name="pref_key_photo_word_title">Иконки для контактов без фото</string>
+    <string name="pref_key_photo_word_title">Значки для контактов без фото</string>
     <string name="pref_key_rebuild_t9_index_message">Перестроение индекса T9 для решения проблем с поиском.</string>
     <string name="pref_key_rebuild_t9_index_title">Перестроение индекса T9</string>
     <string name="pref_key_sdn_manage">Просмотр SDN</string>
@@ -938,7 +944,7 @@
     <string name="recent">Недавние</string>
     <string name="recentCallsIconLabel">Журнал вызовов</string>
     <string name="recentCalls_addToContact">Добавить к контакту</string>
-    <string name="recentCalls_callNumber">Вызов %s</string>
+    <string name="recentCalls_callNumber">Вызвать %s</string>
     <string name="recentCalls_deleteAll">Очистить журнал вызовов</string>
     <string name="recentCalls_editNumberBeforeCall">Изменить номер и вызвать</string>
     <string name="recentCalls_empty">Журнал вызовов пуст</string>
@@ -982,7 +988,7 @@
     <string name="search_contacts_display">Контакты;Отображение</string>
     <string name="search_contacts_more">Управление;Контакты</string>
     <string name="search_contacts_recovery">Контакты</string>
-    <string name="search_contacts_setting">Настройки контактов;Фото контактов;Иконки для контактов без фото;Импорт и экспорт;Отправить; Импорт из памяти;Импорт с SIM-карты;Импорт из другого телефона;Экспорт в память;Экспорт на SIM-карту;Отправить контакты; Отображение;Скрыть контакты без номера;Контакты SIM карты;Фильтр контактов;Умная группировка;Дополнительно; Объединение дубликатов;Массовое удаление;Очистить данные;Обновить индекс Т9;Т9;SIM-карты;Память SIM-карты;Восстановление контактов;Фото контактов</string>
+    <string name="search_contacts_setting">Настройки контактов;Фото контактов;Значки для контактов без фото;Импорт и экспорт;Отправить; Импорт из памяти;Импорт с SIM-карты;Импорт из другого телефона;Экспорт в память;Экспорт на SIM-карту;Отправить контакты; Отображение;Скрыть контакты без номера;Контакты SIM карты;Фильтр контактов;Умная группировка;Дополнительно; Объединение дубликатов;Массовое удаление;Очистить данные;Обновить индекс Т9;Т9;SIM-карты;Память SIM-карты;Восстановление контактов;Фото контактов</string>
     <string name="search_display_only_phones">Контакты;Отображение</string>
     <string name="search_display_sim_contacts">Контакты;Отображение</string>
     <string name="search_export_to_sdcard">Контакты;Экспорт;память</string>
@@ -1007,8 +1013,6 @@
     <string name="search_wipe_data">Управление;Контакты</string>
     <string name="searching_vcard_message">Поиск данных vCard на устройстве…</string>
     <string name="select_all">Выбрать все</string>
-    <string name="select_all_exceed">Выберите не более %1$d, нельзя выбрать все</string>
-    <string name="select_exceed">Выберите не более %1$d</string>
     <string name="select_groups">Выберите группы</string>
     <string name="select_none">Ничего не выбрано</string>
     <string name="select_show_contacts">Список контактов</string>
@@ -1061,6 +1065,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1186,7 +1191,7 @@
     <string name="voicemail_speed_normal">Средняя скорость</string>
     <string name="voicemail_speed_slower">Низкая скорость</string>
     <string name="voicemail_speed_slowest">Минимальная скорость</string>
-    <string name="voicemail_status_action_call_server">Получить голосовую почту</string>
+    <string name="voicemail_status_action_call_server">Получить почту</string>
     <string name="voicemail_status_action_configure">Настроить</string>
     <string name="voicemail_status_audio_not_available">Аудио недоступно</string>
     <string name="voicemail_status_configure_voicemail">Настройте голосовую почту</string>
@@ -1195,6 +1200,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
@@ -1221,4 +1227,5 @@
     <string name="yellowpage_search_the_yellowpage">Поиск в Справочнике</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="zero_items_selected">Выберите контакты</string>
+    <string name="button_my_center">Профиль</string>
 </resources>

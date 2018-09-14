@@ -48,9 +48,9 @@
     <string name="bcc_label">"Скрытая копия: "</string>
     <string name="block_messaging_entry_title">Заблокированные SMS</string>
     <string name="block_support_text">Поддержка: Antiy</string>
-    <string name="bookmark">Избранные</string>
-    <string name="bookmark_confirm_delete_message">Удалить сообщение из списка избранных?</string>
-    <string name="bookmark_empty">Нет избранных сообщений</string>
+    <string name="bookmark">Добавлено в избранные</string>
+    <string name="bookmark_confirm_delete_message">Удалить выбранные сообщения из избранных?</string>
+    <string name="bookmark_empty">Нет сообщений</string>
     <string name="bookmark_list_title">Избранные</string>
     <string name="button_emoji_creature">Животные</string>
     <string name="button_emoji_lifestyle">Стиль жизни</string>
@@ -78,6 +78,7 @@
     <string name="cloud_state_disabled">Включите синхронизацию с Mi Cloud</string>
     <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
     <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
+    <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
@@ -95,8 +96,7 @@
     <string name="confirm_export_dialog_description">Предыдущие диалоги с этим контактом больше не будут скрыты.</string>
     <string name="confirm_export_dialog_title">Удаление из личных контактов</string>
     <string name="confirm_no_block_positive">Разблокировать</string>
-    <string name="confirm_no_block_title">"Разблокировать номер и восстановить все сообщения от него?
-Номер будет добавлен в белый список."</string>
+    <string name="confirm_no_block_title">Разблокировать выбранные номера? Они будут добавлены в белый список, но ранее заблокированные объекты не появятся в списке сообщений.</string>
     <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
     <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
     <string name="confirm_restore_checkbox">Восстановить заблокированные сообщения</string>
@@ -108,7 +108,7 @@
     <string name="context_menu_add_contact">Добавить к контакту</string>
     <string name="context_menu_add_to_browser_favorite">Добавить в закладки браузера</string>
     <string name="context_menu_browse_web">Перейти</string>
-    <string name="context_menu_call">Вызов</string>
+    <string name="context_menu_call">Вызвать</string>
     <string name="context_menu_contact">Контакт: %1$s</string>
     <string name="context_menu_copy">Копировать</string>
     <string name="context_menu_copy_notice">Скопировано в буфер обмена</string>
@@ -137,15 +137,13 @@
     <string name="delivery_report_activity">Отчет о доставке</string>
     <string name="delivery_toast_body">"Сообщение доставлено получателю
 %s"</string>
-    <string name="delivery_toast_body_more">Сообщение доставлено получателю %1$s и другим адресатам (%2$d)</string>
+    <string name="delivery_toast_body_more">"Сообщение доставлено получателю
+%1$s
+и другим адресатам (%2$d)"</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
     <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\".</string>
-    <string name="dialog_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Принять?</string>
-    <string name="dialog_message_networking">Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Перед использованием этих функций вы должны принять наши \"%1$s\" и \"%2$s\". Разрешить?</string>
-    <string name="dialog_message_networking_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
-    <string name="dialog_message_networking_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
-    <string name="dialog_message_networking_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам. Перед использованием Сообщений China Mobile вы должны принять наши \"%1$s\" и \"%2$s\". Для работы Умных сообщений, распознавания ID отправителя и других функций Сообщениям требуется подключение к интернету и доступ к местоположению. Разрешить?</string>
-    <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам. Перед использованием Сообщений China Mobile вы должны принять наши \"%1$s\" и \"%2$s\". Принять?</string>
+    <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Для нормальной работы Сообщениям и Справочнику требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
+    <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
     <string name="dialog_message_sms_report">Сообщения со спамом и информация отправителя будут отправлены в MIUI. Они будут использоваться только для улучшения фильтров спама.</string>
     <string name="dialog_title_fake_cell_detect_error">Корректировка</string>
     <string name="dialog_title_mx_rcs">Mi сообщения</string>
@@ -173,12 +171,12 @@
     <string name="edit_slide_activity">Изменить слайд</string>
     <string name="edit_slideshow_activity">Редактор слайд-шоу</string>
     <string name="enabled">Вкл</string>
-    <string name="english_subject_limit">Не более 40 символов</string>
+    <string name="english_subject_limit">40 символов</string>
     <string name="enter_edit_mode">Пакетное удаление</string>
     <string name="error_code_label">"Код ошибки: "</string>
     <string name="error_state">Данные были изменены</string>
     <string name="error_state_text">Состояние диалогов и получателей не согласовано. Создайте отчет об ошибке и отправьте его через http://go/droidanizer</string>
-    <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
+    <string name="error_timed_msg">Нельзя запланировать время ранее текущего</string>
     <string name="ex_type_mx">Mi сообщение</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">Достигнут лимит размера сообщения</string>
@@ -195,7 +193,7 @@
     <string name="fake_cell_checking_hint">Проверка безопасности…</string>
     <string name="fake_cell_safe_hint">Это сообщение безопасно</string>
     <string name="fake_cell_timeout_hint">Не удалось проверить безопасность</string>
-    <string name="favorite_at_time">Добавлено: %1s</string>
+    <string name="favorite_at_time">Добавлено в избранные: %1s</string>
     <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
     <string name="festival_sms_loading">Загрузка…</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -203,6 +201,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_prefix">"FW: "</string>
@@ -232,7 +231,7 @@
     <string name="hybrid_pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
-    <string name="i_know">OK</string>
+    <string name="i_know">Понятно</string>
     <string name="importing_progress_private_message">Импорт…</string>
     <string name="in_sms">Сообщение</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -246,6 +245,7 @@
     <string name="loading_conversations">Секунду…</string>
     <string name="loading_mms">Секунду…</string>
     <string name="manage_permission_app_label">Разрешения управления устройством</string>
+    <string name="mark_number_by_own_dialog_subtitle">Отмечен как %1$s</string>
     <string name="me">Я</string>
     <string name="menu_add_black">Заблокировать номер</string>
     <string name="menu_add_contact">Добавить к контакту</string>
@@ -263,7 +263,7 @@
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_send_as_common">Отправить как SMS</string>
-    <string name="menu_unlock">Из избранных</string>
+    <string name="menu_unlock">Удалить из избранных</string>
     <string name="menu_view_contact">Просмотреть контакт</string>
     <string name="message_class_label">"Класс сообщения: "</string>
     <string name="message_contact">Контакт:</string>
@@ -304,7 +304,7 @@
     <string name="multimedia_message">Мультимедийное сообщение</string>
     <string name="multimedia_notification">Уведомление о MMS</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="mx_activate_allow_notice">Для активации службы бесплатных текстовых и голосовых услуг может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, для нормальной работы этой службе необходим доступ к мобильным данным.</string>
+    <string name="mx_activate_allow_notice">Для активации бесплатных текстовых и голосовых услуг может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
     <string name="mx_activate_dlg_title">Активация Mi сообщений</string>
     <string name="mx_activate_dlg_title_ex">Активация Mi сообщений и телефонии</string>
     <string name="mx_activate_error_malformed_info">Необходимо повторить активацию Mi сообщений</string>
@@ -317,7 +317,7 @@
     <string name="mx_activate_int_hint_malformed_info">Для повторной активации Mi сообщений может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="mx_activate_int_hint_server">Для повторной активации Mi сообщений может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="mx_activate_int_hint_sim_change">Вы заменили SIM-карту. Для повторной активации Mi сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
-    <string name="mx_activate_network_allow_notice">Для нормальной работы этой службе требуется доступ к мобильным данным.</string>
+    <string name="mx_activate_network_allow_notice">Когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
     <string name="mx_activate_status_desc_activating_now">Активация…</string>
     <string name="mx_activate_status_desc_check_net_connection">Не удалось подключиться к сети</string>
     <string name="mx_activate_status_desc_fail">Ошибка активации Mi сообщений</string>
@@ -326,16 +326,16 @@
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">Введен неверный номер телефона</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Ошибка активации Mi сообщений</string>
     <string name="mx_auto_resend_mms">Отправлять как MMS</string>
-    <string name="mx_auto_resend_mms_summary">Отправлять мультимедийные сообщения как MMS, используя мобильный интернет, когда нет подключения Wi-Fi. Мобильным оператором будет взиматься плата за MMS.</string>
+    <string name="mx_auto_resend_mms_summary">Отправлять мультимедийные сообщения в виде MMS через мобильную сеть, когда нет подключения Wi-Fi. Мобильным оператором будет взиматься плата за MMS.</string>
     <string name="mx_auto_resend_sms">Отправлять как SMS</string>
-    <string name="mx_auto_resend_sms_summary">Отправлять текстовые сообщения как SMS, используя мобильный интернет, когда нет подключения Wi-Fi. Мобильным оператором будет взиматься плата за SMS.</string>
+    <string name="mx_auto_resend_sms_summary">Отправлять текстовые сообщения в виде SMS через мобильную сеть, когда нет подключения Wi-Fi. Мобильным оператором будет взиматься плата за SMS.</string>
     <string name="mx_btn_enable">ОК</string>
     <string name="mx_btn_enable_now">Включить</string>
     <string name="mx_count_dspt">Вы бесплатно отправили %1$d SMS и %2$d MMS</string>
     <string name="mx_current_status">Настройки</string>
     <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям MIUI при подключении к Wi-Fi</string>
     <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
-    <string name="mx_dspt_provision">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации Mi сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, для нормальной работы этой службе необходим доступ к мобильным данным.</string>
+    <string name="mx_dspt_provision">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации Mi сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
     <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
     <string name="mx_enable">Mi сообщения</string>
     <string name="mx_enable_ex">Mi сообщения и телефония</string>
@@ -353,7 +353,7 @@
     <string name="mx_reactivate">Повторная активация</string>
     <string name="mx_recommend_msg">Нажмите для включения Mi сообщений</string>
     <string name="mx_stranger_recommend_msg">Нажмите для блокировки Mi сообщений с неизвестных номеров</string>
-    <string name="mx_type_guide">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI</string>
+    <string name="mx_type_guide">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
     <string name="need_download">Синхронизация…</string>
     <string name="networking_allow_continue">Разрешить</string>
     <string name="networking_allow_desc">Для нормальной работы Mi сообщениям требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, Mi сообщения должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
@@ -369,7 +369,7 @@
     <string name="no_delivery_report">Нет отчета о доставке</string>
     <string name="no_subject">(Без темы)</string>
     <string name="no_subject_view">(без темы)</string>
-    <string name="non_english_subject_limit">Не более 13 символов</string>
+    <string name="non_english_subject_limit">13 символов</string>
     <string name="nosend_message">Не отправлять</string>
     <string name="notification_channel_msg_description">Уведомления о сообщениях</string>
     <string name="notification_channel_msg_name">Сообщения</string>
@@ -489,6 +489,7 @@
     <string name="quick_reply">Ответить</string>
     <string name="rate_limit_surpassed">OK</string>
     <string name="rcs_message_disable">Невозможно просмотреть это сообщение во втором пространстве</string>
+    <string name="rcs_service_agreement">Условия использования</string>
     <string name="received_at_time">Получено: %1s</string>
     <string name="received_label">"Получено: "</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -496,8 +497,8 @@
     <string name="recipients_over_size">Слишком много получателей.</string>
     <string name="recommend_bar_cancel">Пропустить</string>
     <string name="recommend_bar_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI.</string>
-    <string name="recommend_bar_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile.</string>
-    <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам.</string>
+    <string name="recommend_bar_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile в материковом Китае.</string>
+    <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае.</string>
     <string name="recommend_bar_message_smart_message">Копируйте одноразовые пароли, отслеживайте посылки, используйте интеллектуальные меню и т.д.</string>
     <string name="recommend_bar_ok">Включить</string>
     <string name="recommend_bar_title_mx_rcs">Mi сообщения</string>
@@ -571,6 +572,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -649,10 +651,10 @@
     <string name="timed_message_to">для</string>
     <string name="title_allow_network_access">Обновлять информацию автоматически</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>
-    <string name="title_hide_verification_code">Скрывать одноразовые пароли на экране блокировки</string>
+    <string name="title_hide_verification_code">Скрывать одноразовые пароли</string>
     <string name="title_show_blocked_messages">Заблокированные SMS</string>
     <string name="title_show_list_avatar">Фото контактов</string>
-    <string name="title_show_photo_word">Иконки для контактов без фото</string>
+    <string name="title_show_photo_word">Значки для контактов без фото</string>
     <string name="title_show_sms_template">Умные сообщения</string>
     <string name="title_show_sms_template_in">Распознавание одноразовых паролей</string>
     <string name="title_timed_message_dialog">Время отправки сообщения</string>

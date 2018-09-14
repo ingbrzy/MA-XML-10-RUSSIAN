@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -598,7 +599,7 @@
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавление данных лица</string>
-    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед использованием этой функции требуется настроить блокировку экрана.</string>
+    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед использованием этой функции необходимо задать пароль блокировки экрана.</string>
     <string name="face_data_introduction_next">Далее</string>
     <string name="face_data_introduction_title">Распознавание лиц</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
@@ -626,7 +627,7 @@
     <string name="face_unlock_offset_top">Немного поднимите телефон</string>
     <string name="face_unlock_open_eye">Откройте глаза немного шире</string>
     <string name="face_unlock_passwork">Использовать пароль</string>
-    <string name="face_unlock_passwork_and_fingerprint">Использовать пароль или лицо</string>
+    <string name="face_unlock_passwork_and_fingerprint">Использовать пароль или отпечаток</string>
     <string name="face_unlock_quality">Невозможно четко увидеть ваше лицо</string>
     <string name="face_unlock_reenter_content">Алгоритм распознавания лиц обновлен. Добавьте данные лица заново.</string>
     <string name="face_unlock_reenter_title">Обновите данные лица</string>
@@ -635,6 +636,7 @@
     <string name="face_unlock_rise">Опустите голову</string>
     <string name="face_unlock_rotated_left">Поверните голову вправо</string>
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
+    <string name="face_unlock_sc_status">Коснитесь экрана для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки приложения %1$s</string>
     <string name="fingerprint_add_text">Интерфейс модуля отпечатков пальцев был обновлен. Добавьте ваш отпечаток заново.</string>
@@ -811,6 +813,10 @@
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
     <string name="keyguard_charging_info_battery_used_time_text">Работа от батареи</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -835,6 +841,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN</string>
@@ -861,7 +868,7 @@
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_login">"Количество неудачных попыток ввода графического ключа: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью email.
 
-Повторите попытку через %3$d сек."</string>
+Повторите попытку через %3$d с."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_erasing_user">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Аккаунт этого пользователя и все его данные будут удалены.</string>
@@ -873,8 +880,8 @@
     <string name="kg_invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="kg_login_too_many_attempts">Слишком много попыток ввода</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_password_pin_failed">Не удалось разблокировать SIM-карту</string>
-    <string name="kg_password_puk_failed">Не удалось разблокировать SIM-карту</string>
+    <string name="kg_password_pin_failed">Разблокировка не удалась</string>
+    <string name="kg_password_puk_failed">Разблокировка не удалась</string>
     <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки SIM-карты.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
     <string name="kg_pattern_instructions">Введите графический ключ</string>
@@ -897,16 +904,16 @@
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
     <string name="kg_sim_pin_instructions_multi">Введите PIN SIM-карты \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода цифрового кода: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pattern">Неверный графический ключ</string>
     <string name="kg_wrong_pin">Неверный цифровой код</string>
@@ -914,10 +921,11 @@
     <string name="label_view">Просмотр</string>
     <string name="launch_defaults_none">Настройки по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
-    <string name="left_icon">Левая иконка</string>
+    <string name="left_icon">Левый значок</string>
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -940,7 +948,7 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Количество неудачных попыток разблокировать телефон: %d. Осталось попыток: %d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Количество неудачных попыток ввода пароля: %d. Осталось попыток: %d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью Mi аккаунта.
 
-Повторите попытку через %d сек."</string>
+Повторите попытку через %d с."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_none">Нет</string>
     <string name="lockscreen_shortcut_left">Левый ярлык</string>
@@ -979,10 +987,12 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т. д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
     <string name="miui_ringer_total_description">Отключение звука и вибрации для всех режимов, кроме будильника</string>
+    <string name="miui_screen_rotation_freeze_message">Автоповорот экрана отключен</string>
     <string name="miui_toast_zen_dnd_to_off">Звуки и вибрация включены</string>
     <string name="miui_toast_zen_standard_to_off">Мелодии звонков и уведомлений включены</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Мелодии звонков, звуки уведомлений и медиа будут включены</string>
@@ -1005,12 +1015,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1042,6 +1054,7 @@
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1056,6 +1069,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1135,7 +1149,7 @@
     <string name="phone_locked_foget_password">Забыли пароль?</string>
     <string name="phone_locked_foget_password_mehod_back">Назад</string>
     <string name="phone_locked_foget_password_method">Забыли пароль?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> на вашем устройстве, включая фото и контакты, а затем установить новый пароль блокировки экрана.</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> на вашем устройстве, включая фото и контакты, а затем задать новый пароль блокировки экрана.</Data></string>
     <string name="phone_locked_foget_password_method_next">Далее</string>
     <string name="phone_locked_foget_password_ok">Понятно</string>
     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключите устройство, одновременно нажмите кнопки &lt;font color=#a5220e>[Питание]&lt;/font> и &lt;font color=#a5220e>[Громкость+]&lt;/font>, и удерживайте их, пока не увидите логотип Mi.</Data></string>
@@ -1193,6 +1207,7 @@
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
     <string name="power_remaining_duration_only_short">Осталось %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1350,7 +1365,7 @@
     <string name="return_to_incall_screen">Вернуться к разговору</string>
     <string name="rgb_face_data_introduction_title">Добавление 2D данных лица</string>
     <string name="rgb_face_data_manage_delete_msg">Удаление 2D данных лица</string>
-    <string name="right_icon">Правая иконка</string>
+    <string name="right_icon">Правый значок</string>
     <string name="right_keycode">Код правой кнопки</string>
     <string name="right_nav_bar_button_type">Дополнительный тип правой кнопки</string>
     <string name="running_foreground_services_msg">Нажмите для проверки батареи и трафика</string>
@@ -1447,6 +1462,8 @@
     <string name="status_bar_clear_all_button">Очистить</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+    <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -1703,7 +1720,7 @@ d MMMM"</string>
     <string name="voice_hint">Голосовой помощник: проведите от значка</string>
     <string name="volume_and_do_not_disturb">Не беспокоить</string>
     <string name="volume_dialog_accessibility_dismissed_message">Регуляторы громкости скрыты</string>
-    <string name="volume_dialog_accessibility_shown_message">Показаны регуляторы громкости: %s. Проведите вверх для скрытия.</string>
+    <string name="volume_dialog_accessibility_shown_message">Показаны регуляторы громкости: %s. Проведите вверх, чтобы скрыть.</string>
     <string name="volume_dnd_silent">Кнопки регулировки громкости</string>
     <string name="volume_stream_content_description_mute">%1$s. Нажмите, чтобы отключить звук. Специальные возможности могут прекратить работу.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Нажмите, чтобы отключить звук.</string>
@@ -1721,6 +1738,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1745,9 +1763,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

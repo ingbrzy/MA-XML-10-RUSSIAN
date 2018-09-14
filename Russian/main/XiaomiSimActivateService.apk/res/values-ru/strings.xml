@@ -61,7 +61,7 @@
     <string name="activate_popup_desc_new_sim_card_downlink">Вы заменили SIM карту. Введите номер телефона для активации %s.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">Поддержка услуг VoIP осуществляется Weihui. Просмотрите</string>
     <string name="activate_popup_desc_voip_privacy">Политика конфиденциальности</string>
-    <string name="activate_popup_title_register_account">Регистрация аккаунта</string>
+    <string name="activate_popup_title_register_account">Создание Mi аккаунта</string>
     <string name="activate_popup_desc_register_account">Для создания вашего Mi аккаунта может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_register_account_intl">Для создания вашего Mi аккаунта может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_register_account_downlink">Введите номер телефона</string>

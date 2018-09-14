@@ -159,6 +159,8 @@
     <string name="preference_follow_web_title">Официальный сайт</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_other">Прочее</string>
+    <string name="preference_privacy_title">Политика конфиденциальности</string>
     <string name="preference_settings">Настройки</string>
     <string name="preference_use_degress_summary">Использовать углы вместо радианов в тригонометрических функциях</string>
     <string name="preference_use_degress_title">Использовать углы</string>
@@ -400,8 +402,8 @@
     <string name="unit_data_display_weight_uk.cwt">Центнер (Великобритания)</string>
     <string name="unit_data_display_weight_uk.st">Стоун</string>
     <string name="unit_data_display_weight_us.cwt">Центнер (США)</string>
-    <string name="unit_data_short_area_acre">акр</string>
-    <string name="unit_data_short_area_are">ар</string>
+    <string name="unit_data_short_area_acre">ак</string>
+    <string name="unit_data_short_area_are">а</string>
     <string name="unit_data_short_area_ha">га</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
@@ -425,7 +427,7 @@
     <string name="unit_data_short_length_cun">cun</string>
     <string name="unit_data_short_length_dm">дм</string>
     <string name="unit_data_short_length_fen">fen</string>
-    <string name="unit_data_short_length_fm">мрс</string>
+    <string name="unit_data_short_length_fm">мсж</string>
     <string name="unit_data_short_length_ft">ft</string>
     <string name="unit_data_short_length_fur">фур</string>
     <string name="unit_data_short_length_gongli">gongli</string>

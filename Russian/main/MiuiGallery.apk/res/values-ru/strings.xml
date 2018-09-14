@@ -4,7 +4,7 @@
     <string name="accept_or_deny">Пользователь \"%1$s поделился с вами альбомом %2$s.</string>
     <string name="actionbar_overflow_item_desc">Дополнительные параметры</string>
     <string name="add_automatically_alert_msg">Добавлять фото из альбома \"%1$s\" в этот альбом автоматически?</string>
-    <string name="add_automatically_alert_title">Добавлять фото автоматически</string>
+    <string name="add_automatically_alert_title">Автоматическое добавление</string>
     <string name="add_secret_ensure_title">Скрытие</string>
     <string name="add_sharer">Добавить пользователя</string>
     <string name="add_to_album">Выберите альбом</string>
@@ -21,6 +21,7 @@
     <string name="add_to_secret_successful">Добавлено в скрытый альбом</string>
     <string name="add_to_share_album_not_delete">Нельзя удалить фото из общего альбома</string>
     <string name="added_to_favorites">Добавлено в Избранные</string>
+    <string name="added_to_favorites_desc">Добавлено в Избранные</string>
     <string name="added_to_favorites_tip">Добавлено в альбом \"Избранные\"</string>
     <string name="adding">Добавление…</string>
     <string name="adding_recipients">Добавление получателей…</string>
@@ -98,7 +99,6 @@
     <string name="app_name_view_picture">Просмотреть фото</string>
     <string name="app_name_view_video">Просмотреть видео</string>
     <string name="apply">Применить</string>
-    <string name="assistant_page_label">Помощник</string>
     <string name="associate_face_album">Выбрать альбом</string>
     <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
     <string name="auto_download_media_title">Автозагрузка фото из Mi Cloud</string>
@@ -212,7 +212,7 @@
     <string name="choose_baby_sexy">Пол</string>
     <string name="choose_owner_relation">Отношения</string>
     <string name="choose_people">Выберите альбом</string>
-    <string name="choose_some_people">Выберите альбом %s</string>
+    <string name="choose_some_people">Выберите альбом с %s</string>
     <string name="cleaner_empty_value_description">Всё в порядке</string>
     <string name="cleaner_photo_pick_delete_selected">Удалить выбранные фото</string>
     <string name="cleaner_scan_description">Оптимизация объектов освобождает место на вашем устройстве</string>
@@ -232,9 +232,9 @@
     <string name="cleaner_slim_title">Оптимизация фото</string>
     <string name="cleaner_space_description">можно освободить</string>
     <string name="cleaner_space_detail_description">Очищайте фото в Галерее для экономии места</string>
-    <string name="cleaner_stop_scan">Остановить проверку</string>
+    <string name="cleaner_stop_scan">Остановить</string>
     <string name="click_download_gif">Нажмите для загрузки GIF</string>
-    <string name="click_top_right">Нажмите на иконку вверху справа</string>
+    <string name="click_top_right">Нажмите на значок вверху справа</string>
     <string name="close">Закрыть</string>
     <string name="close_dialog_desc">Закрыть окно диалога</string>
     <string name="cloud_camera_display_name">Камера</string>
@@ -261,6 +261,9 @@
     <string name="cloudfolder_name_reserved">Имя альбома занято</string>
     <string name="collage__talkback_effect">Эффект %d</string>
     <string name="collage_choose">Выбрать</string>
+    <string name="collage_drawable_normal_date_format">dd.MM.yyyy</string>
+    <string name="collage_drawable_rect_date_month_day">d MMMM</string>
+    <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Границы</string>
     <string name="collage_mirror">Отразить</string>
     <string name="collage_poster_global_cat_text">ЛАПКИ</string>
@@ -286,8 +289,8 @@
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Еще похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
-    <string name="confirm_merge_face_albums">" "<Data> Объединить альбом с %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Объединить альбомы с %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums"><Data>Объединить этот альбом с %s?</Data></string>
+    <string name="confirm_merge_many_face_albums"><Data>Объединить эти альбомы с %s?</Data></string>
     <string name="confirm_not_face">Нет совпадений</string>
     <string name="confirm_recommandation_face_is">" "<Data> Уверены, что это &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Это фото будет перемещено в альбом \"%2$s\". </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Уверены, что это не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -306,7 +309,7 @@
     <string name="create_new_album">Новый альбом</string>
     <string name="create_new_album_failed">Не удалось создать альбом</string>
     <string name="create_new_face">Новое лицо</string>
-    <string name="create_quick_icon_on_desk">Создать ярлык</string>
+    <string name="create_quick_icon_on_desk">Создать значок</string>
     <string name="creating_baby_album">Создание альбома…</string>
     <string name="crop_label">Кадрированные фото</string>
     <string name="custom_select_title_deselect_all">Снять выбор</string>
@@ -425,7 +428,7 @@
     <string name="error_socket_timeout_action">Выбрать сеть</string>
     <string name="error_socket_timeout_msg">Подключитесь к другой сети и повторите попытку.</string>
     <string name="error_socket_timeout_tip">Время ожидания истекло.</string>
-    <string name="error_storage_full_action">Очистить</string>
+    <string name="error_storage_full_action">Освободить</string>
     <string name="error_storage_full_msg">Освободите место на устройстве и повторите попытку.</string>
     <string name="error_storage_full_tip">Недостаточно места</string>
     <string name="error_sync_off_action">Включить</string>
@@ -463,6 +466,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -473,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -541,6 +546,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
@@ -595,7 +601,7 @@
     <string name="invite_tip">Поделитесь детскими фото</string>
     <string name="is">Да</string>
     <string name="is_higher_definition">HD просмотр</string>
-    <string name="kick_owner_user_positive_button_text">ОК</string>
+    <string name="kick_owner_user_positive_button_text">Удалить</string>
     <string name="kick_owner_user_title">Удалить пользователя?</string>
     <string name="kick_sharer">Удалить пользователя</string>
     <string name="kick_sharer_failed">Ошибка удаления пользователя</string>
@@ -649,6 +655,7 @@
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
+    <string name="more">Еще</string>
     <string name="more_album_hint">, и т.д.</string>
     <string name="more_face">Еще похожие люди</string>
     <string name="more_face_album_name">Другие лица</string>
@@ -660,11 +667,11 @@
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с Mi Cloud</string>
     <string name="need_to_turn_on_wlan">Подключитесь к Wi-Fi</string>
     <string name="network_connected_rescan">Не удается подключиться к сети</string>
-    <string name="new_album_invalid_char">Имена альбомов не могут содержать \"%s\", введите букву или цифру.</string>
-    <string name="new_album_invalid_name">\"%s\" системный альбом, переименуйте его.</string>
+    <string name="new_album_invalid_char">Имя альбома не может содержать \"%s\", введите букву или цифру.</string>
+    <string name="new_album_invalid_name">Альбом \"%s\" является системным, введите другое имя.</string>
     <string name="new_album_invalid_prefix">Имя альбома не может начинаться с \".\" или \"_\"</string>
     <string name="new_relation_invalid_char">Имя группы не может содержать \"%s\". Используйте буквы, цифры или символы.</string>
-    <string name="new_relation_invalid_name">Группа \"%s\" уже существует, переименуйте ее.</string>
+    <string name="new_relation_invalid_name">Группа \"%s\" уже существует, введите другое имя.</string>
     <string name="new_relation_invalid_prefix">Имя группы не может начинаться с \".\" или \"_\"</string>
     <string name="next">Далее</string>
     <string name="no">Нет</string>
@@ -699,6 +706,7 @@
     <string name="operation_edit_video">Изменить</string>
     <string name="operation_enable_auto_upload">Включить синхронизацию с Mi Cloud</string>
     <string name="operation_failed">Не удалось завершить операцию</string>
+    <string name="operation_favorites">Избранные</string>
     <string name="operation_force_top">Закрепить</string>
     <string name="operation_hide">Сделать невидимым</string>
     <string name="operation_in_process">Обработка…</string>
@@ -736,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -867,6 +876,10 @@
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
     <string name="preparing_data">Секунду…</string>
+    <string name="privacy_permission_request_message">Галерее требуется доступ к %3$s. Собранная нами информация будет использоваться в соответствии с нашими %1$s и %2$s. Разрешить?</string>
+    <string name="privacy_permission_request_negative">Отмена</string>
+    <string name="privacy_permission_request_positive">Разрешить</string>
+    <string name="privacy_permission_request_title">Требуются разрешения</string>
     <string name="projection_cancel">Отмена</string>
     <string name="projection_checkbox_text">Запомнить</string>
     <string name="projection_device_connection_failed">Не удалось подключить проектор</string>
@@ -912,6 +925,7 @@
     <string name="remove_from_secret_successful">Удалено из скрытого альбома</string>
     <string name="remove_to_album_title">Объединить с</string>
     <string name="remove_to_other_album">Объединить с другим человеком</string>
+    <string name="removed_from_favorites_desc">Удалено из Избранных</string>
     <string name="remover_edit_type_free">Объект</string>
     <string name="remover_edit_type_line">Линия</string>
     <string name="remover_erase_aera_too_big">Область стирания слишком большая</string>
@@ -930,7 +944,7 @@
     <string name="retry_to_create_album">Повторить</string>
     <string name="retry_to_request_qr_code">Повторить</string>
     <string name="runtime_permission_ungranted">Галерея закрыта, нет необходимых разрешений</string>
-    <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Переименовано в \"%s\".</string>
+    <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="scan_barcode_guide">Для получения QR-кода альбома нажмите на значок \"Поделиться\".</string>
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
     <string name="scan_qr_code_buttom_text">Отсканируйте QR-код для просмотра альбома</string>
@@ -988,6 +1002,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1082,7 +1099,7 @@
     <string name="sub_discard_confirm_message">Сохранить изменения?</string>
     <string name="sub_discard_negative_btn">Не сохранять</string>
     <string name="sub_discard_positive_btn">Сохранить</string>
-    <string name="success_create_quick_icon_on_desk">Ярлык создан</string>
+    <string name="success_create_quick_icon_on_desk">Значок успешно создан</string>
     <string name="sync_album_in_proecess">Синхронизация альбома…</string>
     <string name="sync_battery_low">Батарея разряжена</string>
     <string name="sync_cloud_space_full">Недостаточно места в Mi Cloud</string>
@@ -1142,12 +1159,12 @@
     <string name="turn_off_and_move">Отключить и переместить</string>
     <string name="turn_on_and_remove">Включить и переместить</string>
     <string name="turn_on_sync">Синхронизировать</string>
-    <string name="unchecked">Не выбрано</string>
-    <string name="unchecked_something">Не выбрано %s</string>
+    <string name="unchecked">Выбор отменен</string>
+    <string name="unchecked_something">Выбор %s отменен</string>
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="unpublish_succeeded">Общий доступ к альбому закрыт</string>
     <string name="unpublishing">Отмена…</string>
-    <string name="user_agree">Принять</string>
+    <string name="user_agree">Согласен</string>
     <string name="user_agreement2">Условия использования</string>
     <string name="user_agreement4">Политика конфиденциальности</string>
     <string name="user_alias_self">Я</string>
@@ -1168,12 +1185,17 @@
     <string name="video_editor_audio_sad">Баллада</string>
     <string name="video_editor_audio_young">Укулеле</string>
     <string name="video_editor_auto_trim">Автообрезка</string>
-    <string name="video_editor_auto_trim_tip">Автообрезка…</string>
+    <string name="video_editor_auto_trim_tip">Обрезка видео…</string>
     <string name="video_editor_cancel">Отменить</string>
+    <string name="video_editor_cancel_download">Отмена</string>
     <string name="video_editor_done">Готово</string>
     <string name="video_editor_down_load_later">Позже</string>
     <string name="video_editor_down_load_no_wifi_tips">Подключитесь к Wi-Fi для загрузки</string>
     <string name="video_editor_down_load_now">Загрузить</string>
+    <string name="video_editor_download">Загрузить</string>
+    <string name="video_editor_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
+    <string name="video_editor_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
+    <string name="video_editor_download_without_wifi_title">Предупреждение о трафике</string>
     <string name="video_editor_encode_video">Кодирование видео…</string>
     <string name="video_editor_encode_video_error">Не удалось кодировать видео</string>
     <string name="video_editor_fatal_error">Неизвестная ошибка</string>
@@ -1205,31 +1227,33 @@
     <string name="video_editor_loading_warning_msg">Из-за ошибки кодирования некоторые функции и предварительный просмотр могут быть недоступны во время процесса редактирования. Это не повлияет на окончательный видеофайл.</string>
     <string name="video_editor_loading_warning_title">Ошибка кодирования</string>
     <string name="video_editor_more">Еще</string>
-    <string name="video_editor_not_support_tips">Такие видеофайлы не поддерживаются</string>
+    <string name="video_editor_not_support_tips">Этот тип видео не поддерживается</string>
     <string name="video_editor_ok">OK</string>
     <string name="video_editor_regulator">Уровни</string>
     <string name="video_editor_res_download_failed_tips">Ошибка загрузки, проверьте настройки сети и повторите попытку</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Загрузить саундтреки через мобильный интернет?</string>
-    <string name="video_editor_res_download_mobil_network_confirm_title">Используется мобильный интернет</string>
+    <string name="video_editor_res_download_mobil_network_confirm_title">Предупреждение о трафике</string>
     <string name="video_editor_res_not_load_dialog_msg">Загрузить саундтреки для использования этой функции (более 20 МБ).</string>
+    <string name="video_editor_return">Назад</string>
+    <string name="video_editor_save">Сохранить</string>
     <string name="video_editor_smart_effect_beat">Бит</string>
     <string name="video_editor_smart_effect_big_film">Эпос</string>
     <string name="video_editor_smart_effect_cadence">Ритм</string>
-    <string name="video_editor_smart_effect_dynamic">Динамический</string>
+    <string name="video_editor_smart_effect_dynamic">Динамика</string>
     <string name="video_editor_smart_effect_fastslow">Движение</string>
     <string name="video_editor_smart_effect_freesze">Кукольный мультфильм</string>
     <string name="video_editor_smart_effect_halo">Сияние</string>
     <string name="video_editor_smart_effect_high_iframes_text">Этот эффект лучше всего подходит для 120 fps видео.</string>
     <string name="video_editor_smart_effect_movie">Фильм</string>
     <string name="video_editor_smart_effect_none">Нет</string>
-    <string name="video_editor_smart_effect_radical">Оптимистичный</string>
+    <string name="video_editor_smart_effect_radical">Позитив</string>
     <string name="video_editor_smart_effect_rhythm">Пульс</string>
-    <string name="video_editor_smart_effect_street">Метрополис</string>
+    <string name="video_editor_smart_effect_street">Мегаполис</string>
     <string name="video_editor_smart_effect_time_limit_txt_40">Вы можете применить этот эффект к видео не длиннее 40 секунд. Длительность исправлена автоматически.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Вы можете применить этот эффект к видео длиной не менее 6 секунд.</string>
     <string name="video_editor_smart_effect_time_limit_txt_60">Вы можете применить этот эффект к видео не длиннее 60 секунд. Длительность исправлена автоматически.</string>
     <string name="video_editor_template_family">Семья</string>
-    <string name="video_editor_template_forbidden_tips">Не удалось сделать это при использовании шаблона</string>
+    <string name="video_editor_template_forbidden_tips">Нельзя сделать это при помощи шаблона</string>
     <string name="video_editor_template_oldfilm">Ретро</string>
     <string name="video_editor_template_sports">Рок</string>
     <string name="video_editor_text">Текст</string>
@@ -1244,7 +1268,7 @@
     <string name="video_editor_text_input_empty_tips">Похоже, что вы не ввели текст</string>
     <string name="video_editor_text_preview_text">Aa</string>
     <string name="video_editor_trim">Обрезка</string>
-    <string name="video_editor_unsupport_audio_file">Тип аудио не поддерживается</string>
+    <string name="video_editor_unsupport_audio_file">Этот тип аудио не поддерживается</string>
     <string name="video_editor_unzip_file_fail">Не удалось распаковать видео.</string>
     <string name="video_editor_video_is_short">Редактирование этого видео невозможно.</string>
     <string name="video_editor_video_loading">Подготовка видео… Подождите немного и повторите попытку.</string>
@@ -1257,6 +1281,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>

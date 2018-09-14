@@ -198,5 +198,5 @@
     <string name="dialpad_seven">7</string>
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
-    <string name="prompt_no_volte_when_failed">Невозможно совершить вызов. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
+    <string name="prompt_no_volte_when_failed">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
 </resources>

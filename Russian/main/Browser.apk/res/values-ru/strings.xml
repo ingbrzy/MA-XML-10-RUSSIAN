@@ -25,6 +25,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Еще</string>
@@ -730,6 +731,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>

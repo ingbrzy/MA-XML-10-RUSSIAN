@@ -51,7 +51,7 @@
     <string name="HIPS_Perm_Read_Call_Log_Desc">чтение журнала вызовов</string>
     <string name="HIPS_Perm_Read_Contact">Чтение контактов</string>
     <string name="HIPS_Perm_Read_Contact_Desc">чтение контактов</string>
-    <string name="HIPS_Perm_External_Storage">Доступ к файлам во внутренней памяти и их изменение</string>
+    <string name="HIPS_Perm_External_Storage">Внутренняя память</string>
     <string name="HIPS_Perm_External_Storage_Desc">добавление и удаление файлов во внутренней памяти</string>
     <string name="HIPS_Perm_Body_Sensors">Нательные датчики</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">доступ к нательным датчикам (например, датчику сердечного ритма)</string>

@@ -11,7 +11,7 @@
 посетите %s с любого устройства, подключенного к Интернету."</string>
     <string name="permdesc_accessDrm">Позволяет приложению получать доступ к содержимому, защищенному DRM.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">нажмите для переключения и проверки.</string>
+    <string name="open_wifi_connect_and_use_data_summary">Используется мобильный интернет. Нажмите для переключения на Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
     <string name="settings_license_activity_title">Лицензии открытого ПО</string>
     <string name="settings_license_activity_loading">Секунду…</string>
@@ -25,4 +25,5 @@
     <string name="settings_ad_loading">Секунду…</string>
     <string name="settings_ad_loading_unavailable">Не удалось загрузить данные.</string>
     <string name="autoconnect">Подключаться автоматически</string>
+    <string name="poco_privacy_policy">Политика конфиденциальности и Условия использования POCO Launcher</string>
 </resources>

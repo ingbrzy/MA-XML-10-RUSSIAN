@@ -20,7 +20,7 @@
     <string name="error_data_in_transfer">Синхронизация завершится в течение %s ч.</string>
     <string name="no_sim">Нет SIM карты</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
-    <string name="title_reg">Регистрация аккаунта</string>
+    <string name="title_reg">Создание Mi аккаунта</string>
     <string name="error_network">Не удается подключиться к сети</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Ошибка авторизации</string>
@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">Интернет телефония</string>
     <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
     <string name="sync_dspt_provision">"Синхронизируйте фото, контакты, заметки и другие данные на всех устройствах и просматривайте их на "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Отключить эту функцию можно в настройках.
 "</string>
     <string name="sync_dspt_entrance_provision">"Синхронизируйте фото, контакты, журналы вызовов и сообщения на всех устройствах. Просматривайте их в любом браузере на %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">Пропустить</string>
     <string name="sync_dspt_entrance_provision_network">Для нормальной работы приложению требуется подключение к интернету. Синхронизация возможна через мобильную сеть и Wi-Fi.</string>
     <string name="find_device_dspt_provision">При утере устройства вы можете перейти на %s для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="mx_dspt_provision">"Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI при подключении к Wi-Fi.
 
@@ -284,6 +288,7 @@
     <string name="micloud_find_device_opened">Поиск устройства включен</string>
     <string name="micloud_find_device_open_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_opened_content">Найдите свое устройство на %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_close_fail">Не удалось отключить Поиск устройства</string>
     <string name="micloud_find_device_finish">Готово</string>
@@ -330,7 +335,7 @@
     <string name="micloud_request_permission_title">Mi Cloud требуются разрешения</string>
     <string name="micloud_request_permission_content">Mi Cloud требуются разрешения для синхронизации данных. Разрешите Mi Cloud доступ к Календарю, Контактам, Mi аккаунту, статусу SIM карты, журналу вызовов и сообщениям.</string>
     <string name="micloud_request_permission_confirm">Понятно</string>
-    <string name="short_cut_desc">Добавить ярлык Mi Cloud на рабочий стол?</string>
+    <string name="short_cut_desc">Добавить значок Mi Cloud на рабочий стол?</string>
     <string name="add_short_cut">OK</string>
     <string name="close_shortcut">Закрыть</string>
     <string name="added_successfully">Успешно добавлено</string>
@@ -350,6 +355,8 @@
     <string name="micloud_main_head_menu_state_close">Отключено</string>
     <string name="micloud_main_head_menu_state_unavailable">Не поддерживается</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Поиск устройства недоступен из второго пространства</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Подтверждение платежей</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

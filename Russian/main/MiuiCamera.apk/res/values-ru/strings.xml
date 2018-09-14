@@ -38,6 +38,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">Вы можете записать с 240fps только видео 720P</string>
     <string name="pref_video_encoder_title">Видеокодер</string>
     <string name="pref_video_encoder_entry_h264">H.264 (совместимость)</string>
     <string name="pref_video_encoder_entry_h265">H.265 (производительность)</string>
@@ -414,7 +417,7 @@
     <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
     <string name="dual_camera_use_hint">Убедитесь, что объект расположен не далее 2 метров</string>
     <string name="bokeh_use_hint">Эффект глубины</string>
-    <string name="back_bokeh_use_hint">Убедитесь, что объект расположен не далее 1.5 метров</string>
+    <string name="back_bokeh_use_hint">Держитесь от объекта съемки в пределах 1.5 метров</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">ОБЪЕКТИВ</string>
@@ -432,6 +435,9 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
+Держите объект в фокусе, размывая фон."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
     <string name="simple_mode_button_text_square">Отключить режим Квадрат</string>
     <string name="face_beauty_smart">Авто</string>
@@ -446,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -470,6 +477,7 @@
     <string name="hint_ae_af_lock">Автофокус/автоэкспозиция зафиксированы</string>
     <string name="hint_device_water_mark">Водяной знак будет добавлен автоматически</string>
     <string name="module_name_fun">Видеоклип</string>
+    <string name="module_name_new_slow_motion">Замедление</string>
     <string name="module_name_video">Видео</string>
     <string name="module_name_capture">Фото</string>
     <string name="module_name_beauty">Улучшение</string>
@@ -559,4 +567,5 @@
     <string name="lighting_pattern_dot">Точки</string>
     <string name="lighting_pattern_shutter">Шторки</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
+    <string name="fps960_toast">Съемка в режиме Замедление начнется, когда таймер достигнет белой точки</string>
 </resources>
