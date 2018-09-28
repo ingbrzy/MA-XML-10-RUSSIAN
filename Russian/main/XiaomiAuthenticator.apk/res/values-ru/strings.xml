@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">О программе</string>
+  <string name="about_preference_title">О программе</string>
+  <string name="acknowledge_btn">Я согласен</string>
+  <string name="action_settings">Настройки</string>
+  <string name="activation_page">Не активировано</string>
+  <string name="activation_page_btn_txt">Активировать</string>
+  <string name="activation_page_info">Войдите в свой Mi аккаунт, чтобы включить Безопасный вход</string>
+  <string name="add_account_menu_item">Добавить аккаунт</string>
+  <string name="app_name">Xiaomi Authenticator</string>
+  <string name="app_name_lockpattern">LockPattern</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">Возможно, вы отключили эту функцию с помощью браузера компьютера или активировали другой токен безопасности Mi.</string>
+  <string name="authenticator_invalid_title">Аккаунт：%1$s истек срок токена безопасности.</string>
+  <string name="authenticator_page_reactivation">Ре-активировать</string>
+  <string name="button_add_account">Добавить аккаунт</string>
+  <string name="button_add_account_manual_entry">Добавить аккаунт вручную</string>
+  <string name="button_add_account_scan_barcode">Сканировать штрих-код</string>
+  <string name="button_back">Назад</string>
+  <string name="button_exit_howitworks_flow">Выйти</string>
+  <string name="button_how_it_works">Посмотреть, как это работает</string>
+  <string name="button_next">Далее</string>
+  <string name="button_uninstall_old_app">Удалить</string>
+  <string name="cancel">Отмена</string>
+  <string name="change_security_lock">Больше блокировок экрана</string>
+  <string name="check_code">Чтобы проверить правильность ключа для %1$s, убедитесь, что данное значение соответствует значению, предоставленному сервером:&lt;br/&gt;</string>
+  <string name="check_code_menu_item">Проверить значение ключа</string>
+  <string name="check_code_title">Проверка целостности</string>
+  <string name="continue_btn">Продолжить</string>
+  <string name="copy_to_clipboard">Скопировать в буфер обмена</string>
+  <string name="correct_enter_password">Пароль введен правильно</string>
+  <string name="correct_enter_update_password">Пароль введен правильно</string>
+  <string name="counter_pin">Получить код</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Ваши данные были успешно импортированы из устаревшего приложения Xiaomi Authenticator. Теперь можно безопасно удалить предыдущую версию приложения, нажав ниже.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">Импорт удался</string>
+  <string name="decoding_exception">Исключение расшифровки</string>
+  <string name="details_patternforgotten">"Ре-активация: 
+Выполните вход на account.xiaomi.com и нажмите Reactivate."</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
+  <string name="enter_account_label">Введите имя учетной записи</string>
+  <string name="enter_key_hint">Введите ключ</string>
+  <string name="enter_key_illegal_char">Введенный ключ использует недопостимые символы</string>
+  <string name="enter_key_page_add_button">Добавить</string>
+  <string name="enter_key_title">Ввести вручную</string>
+  <string name="enter_key_too_short">Значение ключа слишком короткое</string>
+  <string name="enter_pin">Введите этот код подтверждения, при запросе во время входа в учетную запись:</string>
+  <string name="error_empty_secret">Нельзя сохранить секрет без значения</string>
+  <string name="error_exists">Извините, это имя уже используется.</string>
+  <string name="error_qr">Невозможно распознать QR-код.</string>
+  <string name="error_title">Ошибка</string>
+  <string name="error_uri">Ключ не опознан.</string>
+  <string name="forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+  <string name="general_security_exception">Общие исключения безопасности</string>
+  <string name="gif_not_support_camera_msg">Ваше устройство не поддерживает запись видео.</string>
+  <string name="how_it_works_menu_item">Как это работает</string>
+  <string name="howitworks_page_enter_code_details">Это приложение сгенерировать код, необходимый для продолжения входа.</string>
+  <string name="howitworks_page_enter_code_title">"Если вы зашли с другого компьютера, введите код с телефона."</string>
+  <string name="howitworks_page_enter_password_details">"Однако, если у вас другой компьютер или мобильное устройство, Xiaomi запросит особый код, чтобы удостовериться, что это именно Вы."</string>
+  <string name="howitworks_page_enter_password_title">"Чтобы войти в систему, необходимо ввести свой пароль."</string>
+  <string name="howitworks_page_verify_device_details">"Вы также можете запомнить данный компьютер и Xiaomi не попросит вас снова ввести код."</string>
+  <string name="howitworks_page_verify_device_title">"Тогда вход выполнен."</string>
+  <string name="install_button">Установить</string>
+  <string name="install_dialog_message">Чтобы считывать штрих-коды содержащие ключи, необходимо установить сканер штрих-кодов от ZXing.</string>
+  <string name="install_dialog_title">Установить сканер штрих-кодов?</string>
+  <string name="jump_createpattern_tip">Создайте пароль, чтобы защитить свою учетную запись</string>
+  <string name="jump_lockpattern_title">Внимание</string>
+  <string name="jump_updatepattern_tip">Создайте пароль, чтобы защитить свою учетную запись</string>
+  <string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
+  <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
+  <string name="lockpassword_input_your_pattern_header">Подтвердите графический ключ</string>
+  <string name="lockpattern_confirm_button_text">Подтвердить</string>
+  <string name="lockpattern_continue_button_text">Продолжить</string>
+  <string name="lockpattern_need_to_confirm">Повторите графический ключ, чтобы подтвердить</string>
+  <string name="lockpattern_need_to_confirm_wrong">Значение не совпадает, пожалуйста повторите:</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Неверный пароль, осталось %d попыток&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">Ваш новый ключ разблокировки:</string>
+  <string name="lockpattern_pattern_entered_header">Ключ сохранен.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Соедините хотя бы %d точки. Повторите:</string>
+  <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите.</string>
+  <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ:</string>
+  <string name="lockpattern_redraw_button_text">Записать новый</string>
+  <string name="lockpattern_retry_text">Сбросить ключ</string>
+  <string name="lockpattern_settings_help_how_to_record">Как нарисовать ключ разблокировки</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите через %d секунд.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Слишком много неверных попыток!&lt;/font&gt;</string>
+  <string name="lockpattern_tutorial_cancel_label">Отмена</string>
+  <string name="lockpattern_tutorial_close_label">Закрыть</string>
+  <string name="lockpattern_tutorial_continue_label">Далее</string>
+  <string name="lockpattern_tutorial_jump_label">Пропустить</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Забыл пароль&lt;/u&gt;</string>
+  <string name="login">войти</string>
+  <string name="main_preference_screen_title">Настройки</string>
+  <string name="mycard_scan_barcode">MiID Code Scanner</string>
+  <string name="new_pattern_tip">Ваш пароль должен содержать более 4 символов</string>
+  <string name="ok">ОК</string>
+  <string name="ok_button">ОК</string>
+  <string name="open_camera_exception_dialog_content">Ошибка камеры, возможно необходимо перезагрузить устройство.</string>
+  <string name="open_camera_exception_dialog_title">сбой камеры</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_preference_title">Проект с открытым исходным кодом</string>
+  <string name="original_pattern_tip">Введите ключ разблокировки</string>
+  <string name="password_error">Введен неправильный пароль</string>
+  <string name="password_forget">Забыли пароль?</string>
+  <string name="password_hint">Введите ваш пароль от Mi Account</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_preference_title">Политика конфиденциальности</string>
+  <string name="progress_loading">Загрузка…</string>
+  <string name="remove_Xiaomi_account_dialog_message">Удаление этой учетной записи приведет к &lt;b&gt;невозможности способностей&lt;/b&gt; генерировать коды, однако это &lt;b&gt;не&lt;/b&gt; выключит 2-шаговую аутентификацию. Это может помешать вам войти в свою учетную запись. &lt;p&gt; Перед удаление: &lt;ul&gt; &lt;li&gt;Отключите 2-шаговую аутентификацию для этой учетной записи, или&lt;/li&gt; &lt;li&gt;Убедитесь в наличие других механизмов генерации кодов.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_account">Удалить учетную запись</string>
+  <string name="remove_account_dialog_message">"Удаление этой учетной записи приведет к невозможности способностей генерировать коды. Это может помешать вам войти в свою учетную запись.
+
+Перед удалением:
+—Отключите 2-шаговую аутентификацию для этой учетной записи, или
+—Убедитесь в наличие других механизмов генерации кодов."</string>
+  <string name="remove_account_dialog_title">Удалить учетную запись?</string>
+  <string name="rename">Переименовать</string>
+  <string name="rename_message">Переименовать %1$s</string>
+  <string name="resetbtn_patternforgotten">Сброс</string>
+  <string name="save_key_message">Сохранить ключ для</string>
+  <string name="scan_barcode">Сканировать MiID</string>
+  <string name="scan_barcode_info">Поместите и просканируйте MiID штрих-код внутри этого поля.</string>
+  <string name="secret_saved">Секрет сохранен</string>
+  <string name="security_setting">Настройки безопасности</string>
+  <string name="settings_menu_item">Настройки</string>
+  <string name="submit">Сохранить</string>
+  <string name="success_copy_to_clipboard">Скопировано в буфер обмена</string>
+  <string name="success_reset_password">Сброс пароля успешен</string>
+  <string name="success_set_password">Пароль создан</string>
+  <string name="summary_lockpattern">Для MiCredit необходим уникальный графический ключ</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">Условия использования</string>
+  <string name="timesync_about_feature_preference_title">О функции</string>
+  <string name="timesync_about_feature_screen_details">"Если Вы нажмете &amp;quot;Синхронизировать&amp;quot;, Authenticator попытается синхронизировать свои внутренние часы с серверами Google. Настройки Даты &amp; времени этого устройства не изменятся. &lt;p&gt; Аутентификатор не передает персональные данные или информацию об учетной записи при синхронизации своих внутренних часов с серверами Google. &lt;p&gt; &lt;b&gt;Почему это полезно&lt;/b&gt; &lt;p&gt; Аутентификатор генерирует код 2-шаговой аутентификации, основываясь на 1) текущем времени, и 2) секретном номере, известном приложению и серверу. &lt;p&gt; Если время Аутентификатора и сервера не совпадают, коды, которые генерирует приложение, могут не приниматься при попытке входа. &lt;p&gt; По умолчанию Аутентификатор использует настройки даты &amp; времени устройства, и в большинстве случаев, Вы сможете генерировать верные коды, если ваши настройки времени, даты, и часового пояса верны. Однако, в случае несовпадения времени, трудно найти и устранить ошибку (особенно, если Вы используете время и часовой пояс, предоставленный сетью)."</string>
+  <string name="timesync_about_feature_screen_title">О этой функции</string>
+  <string name="timesync_preference_screen_summary">"Синхронизировать часы Аутентификатора с сервером"</string>
+  <string name="timesync_preference_screen_title">Коррекция времени для кодов</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"Не удалось связаться с сервером. Проверьте настройки сети и повторите попытку."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Синхронизировать сейчас</string>
+  <string name="timesync_sync_now_preference_title">Синхронизировать сейчас</string>
+  <string name="timesync_sync_now_progress_dialog_details">Подключение к серверу…</string>
+  <string name="timesync_sync_now_progress_dialog_title">Синхронизировать сейчас</string>
+  <string name="timesync_sync_now_screen_title">Синхронизировать сейчас</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Внутренние часы Аутентификатора не были скорректированы, потому что они уже синхронизированы с сервером."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Время уже верно</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"Внетренние часы Аутентификатора были скорректированы, чтобы совпадать со временем предоставленным сервером. 
+
+Настройки Даты &amp; времени на этом устройстве не изменены."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">Время исправлено</string>
+  <string name="tip1_patternforgotten">\Переустановить и ре-активировать</string>
+  <string name="tip2_patternforgotten">Нажмите на сброс, чтобы очистить данные учетной записи и ре-активировать.</string>
+  <string name="tip_lockpattern">Ваш пароль должен содержать более 4 символов.</string>
+  <string name="title_change_lockpattern">Настроить ключ блокировки</string>
+  <string name="title_createpattern">Создать пароль</string>
+  <string name="title_forgetpattern">Забыл пароль</string>
+  <string name="title_gesture">Графический ключ</string>
+  <string name="title_lockpattern">Запршивать ключ</string>
+  <string name="title_myaccount">Моя учетная запись: %s</string>
+  <string name="title_nopassword">"Не требовать для мелких платежей"</string>
+  <string name="title_nopassword_dialog">Дневной лимит</string>
+  <string name="title_password">Пароль</string>
+  <string name="title_password_threshold">Дневной лимит = ￥%1$s</string>
+  <string name="title_patternforgotten">"Забыли пароль？
+Вы можете："</string>
+  <string name="title_updatepattern">Сменить пароль</string>
+  <string name="title_visible_pattern">Показать графический ключ</string>
+  <string name="type_prompt">Тип ключа</string>
+  <string name="update_pattern_jump">&lt;u&gt;Убрать пароль&lt;/u&gt;</string>
+  <string name="version_preference_title">Версия</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Если вы удалите свой Mi Security Token, вы не сможете войти в свою учетную запись."</string>
+  <string name="welcome_page_details">"— Держите свою учетную запись в безопасности.
+— Не позволяйте незнакомцам использовать устройство для входа в вашу учетную запись."</string>
+  <string name="welcome_page_title">Используйте для безопасного входа</string>
+</resources>

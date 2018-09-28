@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MusicFX</string>
-    <string name="no_effects">Эффекты недоступны.</string>
+    <string name="bass_boost_strength">Усиление басов</string>
+    <string name="ci_extreme">Усилитель FX</string>
+	<string name="combo_device">Эффекты доступны только при прослушивании через наушники.</string>
+	<string name="eq_custom">Чтобы настроить вручную, выберите Своя</string>
     <string name="eq_dialog_title">Эквалайзер</string>
     <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
-    <string name="bass_boost_strength">Усиление басов</string>
-    <string name="virtualizer_strength">Объемный звук</string>
-    <string name="setup">Настройка</string>
-    <string name="ci_extreme">Усилитель FX</string>
-    <string name="user">Своя настройка</string>
+	<string name="main_toggle_effects_title">Аудио эффекты</string>
+    <string name="no_effects">Эффекты недоступны.</string>
     <string name="picker_title">Управление звуковыми эффектами</string>
+	<string name="power_on_prompt">Нажмите кнопку включения в правом верхнем углу.</string>
+	<string name="pr_dialog_title">Настройки реверберации</string>
+	<string name="pr_summary">Дополнительные эффекты реверберации помещения</string>
+	<string name="pr_title">Реверберация</string>
+    <string name="setup">Настройка</string>
+	<string name="toggle_button_off">Выкл.</string>
+	<string name="toggle_button_on">Вкл.</string>
+    <string name="user">Своя настройка</string>
+    <string name="virtualizer_strength">Объемный звук</string>
 </resources>

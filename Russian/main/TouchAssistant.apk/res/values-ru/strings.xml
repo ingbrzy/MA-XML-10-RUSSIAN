@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>																
     <string name="app_name">Сенсорный помощник</string>
     <string name="app_not_installed">Не установлено</string>
     <string name="applications">Приложения</string>
@@ -8,7 +8,6 @@
     <string name="close_panel">Выключить сенсорный помощник</string>
     <string name="customize_entries">Функции ярлыков</string>
     <string name="enable_touch_assistant">Включить сенсорный помощник</string>
-    <string name="enabled_for_pad_hint">Не отключать при блокировке кнопок навигации в альбомном режиме</string>
     <string name="function_settings">Настройки ярлыков</string>
     <string name="handy_mode_default_to_close_whether_open">Управление одной рукой по умолчанию отключено. Включить его?</string>
     <string name="hide_touch_assistant">Автоматическое скрытие</string>
@@ -49,7 +48,7 @@
     <string name="pref_category_others">Прочее</string>
     <string name="pref_category_quick_pay">Быстрый платеж</string>
     <string name="pref_category_quick_settings">Быстрые настройки</string>
-    <string name="pref_category_system">Системные настройки</string>
+    <string name="pref_category_system">Системные настройки</string>											   
     <string name="restore_default">Сброс настроек</string>
     <string name="restore_intro">Восстановление настроек по умолчанию, включая ярлыки и их порядок. Данные приложения удалены не будут.</string>
     <string name="show_on_keyguard">Показывать на экране блокировки</string>

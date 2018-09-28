@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Синхронизация MiCloud</string>
+  <string name="error_data_in_transfer">Синхронизация закончится через %s ч.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud недоступно</string>
+  <string name="error_forbidden">Синхронизация была отключена из-за проблем с вашей учетной записью Mi.</string>
+  <string name="error_not_acceptable">Синхронизация была отключена.</string>
+  <string name="error_title">"Не удалось синхронизировать"</string>
+  <string name="error_unauthorized">Синхронизация была отключена из-за слишком многих попыток входа в систему.</string>
+</resources>

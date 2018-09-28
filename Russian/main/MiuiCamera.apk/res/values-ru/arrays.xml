@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_scene_names">
+        <item>Нет</item>
+        <item>Документы</item>
+        <item>Цветы</item>
+        <item>Еда</item>
+        <item>ppt</item>
+        <item>Небо</item>
+        <item>Восход и закат</item>
+        <item>Кот</item>
+        <item>Собака</item>
+        <item>Зеленые растения</item>
+        <item>Ночной вид</item>
+        <item>Снег</item>
+        <item>У моря</item>
+        <item>Осенние цвета</item>
+        <item>Свечи</item>
+        <item>Автомобиль</item>
+        <item>Луг</item>
+        <item>Кленовый лист</item>
+        <item>Кактусы</item>
+        <item>Здание</item>
+        <item>Город</item>
+        <item>Облачно</item>
+        <item>Пасмурный день</item>
+        <item>Портрет с подсветкой</item>
+        <item>Силуэт</item>
+        <item>Портрет</item>
+        <item>Ювелирные изделия</item>
+        <item>Статуя Будды</item>
+        <item>Ферма</item>
+        <item>Карри</item>
+        <item>Мотоцикл</item>
+        <item>Храм</item>
+        <item>Песчаный пляж</item>
+        <item>Подводный</item>
+    </string-array>
+</resources>

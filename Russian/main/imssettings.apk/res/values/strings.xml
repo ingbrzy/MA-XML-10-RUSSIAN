@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ims_get_packet_count_failed">Не удалось получить количество пакетов</string>
+  <string name="ims_get_packet_count_label">нажмите здесь, чтобы получить количество пакетов</string>
+  <string name="ims_get_packet_error_count_failed">Не удалось получить количество ошибок пакетов</string>
+  <string name="ims_get_packet_error_count_label">нажмите здесь, чтобы получить количество ошибок пакетов</string>
+  <string name="ims_settings">Настройки IMS</string>
+  <string name="ims_to_cs_retry_summary">Авто-повтор с обычной голосовой связью (рекомендуется)</string>
+  <string name="ims_to_cs_retry_title">Повтор</string>
+  <string name="ims_vt_call_quality_high">Высокое</string>
+  <string name="ims_vt_call_quality_low">Низкое</string>
+  <string name="ims_vt_call_quality_medium">Среднее</string>
+  <string name="ims_vt_call_quality_set_failed">Не удалось установить качество видео</string>
+  <string name="ims_vt_call_quality_title">Качество видео вызова</string>
+  <string name="ims_vt_call_quality_unknown">Неизвестно</string>
+  <string name="ims_vt_call_static_image_error">Неподдерживаемый формат изображения. Пожалуйста, выберите другое изображение</string>
+  <string name="ims_vt_call_static_image_ignore">Невозможно изменить статическое изображение во время вызова</string>
+  <string name="ims_vt_call_static_image_okay">Статическое изображение выбрано</string>
+  <string name="ims_vt_call_static_image_text">Выберите статическое изображение</string>
+  <string name="qti_ims_call_deflect_title">Номер отклонения звонка</string>
+  <string name="qti_ims_number_not_set">Не задано</string>
+  <string name="rtt_toggle_summary">Режим RTT</string>
+</resources>

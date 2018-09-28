@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pc_manage_active_app_items">
-        <item>Погружать в сон</item>
-        <item>Экономить энергию</item>
+    <string-array name="emode_app_groups">
+        <item>Системные приложения</item>
+        <item>Другие приложения</item>
+        <item>Избранные приложения</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Особый режим</item>
+        <item>Умный режим</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Пользовательские настройки</item>
@@ -12,9 +17,13 @@
         <item>Активные приложения</item>
         <item>Неактивные приложения</item>
     </string-array>
-    <string-array name="emode_app_groups">
-        <item>Системные приложения</item>
-        <item>Другие приложения</item>
+	<string-array name="pc_manage_active_app_items">
+        <item>Погружать в сон</item>
+        <item>Экономить энергию</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Контроль температуры по умолчанию</item>
@@ -23,9 +32,6 @@
     <string-array name="thermal_summaries">
         <item>Приоритет контроля температуры</item>
         <item>Приоритет производительности</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>Производительный</item>
-        <item>Сбалансированный</item>
+        <item>Не работает в режиме Максимальной экономии</item>
     </string-array>
 </resources>

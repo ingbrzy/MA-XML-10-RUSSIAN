@@ -331,11 +331,13 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
+	<string name="use_theme_screen_cells_title">Разрешить теме изменить макет экрана</string>
     <string name="wallpaper">Обои</string>
     <string name="wallpaper_auto_change_title">Экран блокировки</string>
     <string name="wallpaper_failed_message">Не удалось установить обои</string>
     <string name="wallpaper_scaling_message">Масштабирование…</string>
     <string name="wallpaper_scroll_type_tips">Прокрутка обоев</string>
+	<string name="wallpaper_scrolling">все</string>
     <string name="wallpaper_settings">Обои</string>
     <string name="wallpaper_success_message">Обои установлены</string>
     <string name="widget_favorite_contacts_edit">Редактор</string>

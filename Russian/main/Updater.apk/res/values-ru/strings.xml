@@ -1,3 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">Обновления</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Подключите зарядку&lt;/font&gt;</string>
+  <string name="battery_islow_desc">Уровень заряда батареи слишком низкий, чтобы безопасно установить zip-файл, подключите зарядное устройство и повторите попытку позже!</string>
+  <string name="btn_changelog">Список изменений</string>
+  <string name="btn_download">Загрузить (%1$s)</string>
+  <string name="btn_error">Произошла ошибка, повторить?</string>
+  <string name="btn_install">Установить</string>
+  <string name="btn_no">Отмена</string>
+  <string name="btn_ok">ОК</string>
+  <string name="btn_pause">Приостановить</string>
+  <string name="btn_share">Поделиться</string>
+  <string name="btn_stop">Остановить</string>
+  <string name="btn_yes">Да</string>
+  <string name="check_new_version">Проверить</string>
+  <string name="chengelog">%1$s</string>
+  <string name="dialog_3g_desc">Имейте в виду, использование мобильных данных для загрузки ROM может привести к значительному расходу вашей квоты трафика.</string>
+  <string name="dialog_3g_title">Внимание!</string>
+  <string name="dialog_btn_3g">Согласен, продолжить</string>
+  <string name="dialog_btn_wifi">Подключиться к Wi-Fi</string>
+  <string name="dialog_stop_desc">Вы можете Приостановить или Остановить загрузку, сделайте свой выбор сейчас.</string>
+  <string name="dialog_stop_title">Остановить загрузку?</string>
+  <string name="download_done">Успешно загружено!</string>
+  <string name="download_fail">Ошибка загрузки!</string>
+  <string name="download_fail_desc">Хэш-сумма MD5 не совпадает…</string>
+  <string name="downloading">Загузка:</string>
+  <string name="downloading_desc">Загрузка в процессе, следите за прогрессом в строке уведомлений.</string>
+  <string name="install_desc">Устройство перезагрузится в режим Recovery и выполнит установку выбранного файла:&lt;b&gt; %1$s&lt;/b&gt;"
+Данные не будут удалены."</string>
+  <string name="install_title">Вы согласны продолжить?</string>
+  <string name="menu_title_current_version_log">Что нового?</string>
+  <string name="menu_title_pick_rom_file">Выбрать пакет обновления</string>
+  <string name="menu_title_recovery">Перезагрузка в режим Recovery</string>
+  <string name="message">%1$s</string>
+  <string name="message_checkbox">Скрыть уведомления от команды Xiaomi.eu</string>
+  <string name="message_title">ВНИМАНИЕ!</string>
+  <string name="new_version">Обнаружена новая версия!</string>
+  <string name="no_info">Нет информации.</string>
+  <string name="no_network">Сеть недоступна.</string>
+  <string name="no_update">Вы используете последнюю версию!</string>
+  <string name="no_xioamieu">"Вы не используете версию MIUI от команды Xiaomi.eu!
+Обновления недоступны!"</string>
+  <string name="notif_cancel">Отмена</string>
+  <string name="notif_install">Установить</string>
+  <string name="notif_new_summary">Нажмите, чтобы получить информацию</string>
+  <string name="notif_new_title">Доступна новая версия!</string>
+  <string name="notifications_switch">Показывать уведомления</string>
+  <string name="permdesc_cache_filesystem">Разрешить приложениям  записывать файлы на /cache.</string>
+  <string name="permdesc_reboot">Разрешить приложению перезагружать устройство.</string>
+  <string name="permlab_cache_filesystem">Доступ к кешу</string>
+  <string name="permlab_reboot">Доступ к перезагрузке</string>
+  <string name="pick_not_found">Не найдено подходящего приложения Проводника.</string>
+  <string name="pick_title">Выбрать:</string>
+  <string name="recovery_desc">Устройство сейчас перезагрузится в режим Recover, если вы не знакомы с режимом прекратите дальнейшие действия. Продолжить?</string>
+  <string name="server_error">Сервер не отвечает, приложение может работать неправильно!</string>
+  <string name="share_title">Поделиться с</string>
+  <string name="stable">стабильная</string>
+  <string name="version">Установлено:</string>
+  <string name="weekly">еженедельная</string>
+  <string name="wifi_recommended">Нету подключения к сети Wi-Fi, чтобы начать загрузку!</string>
 </resources>

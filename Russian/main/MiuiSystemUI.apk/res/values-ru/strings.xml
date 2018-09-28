@@ -421,6 +421,7 @@
     <string name="car_lockscreen_disclaimer_title">Водите аккуратно</string>
     <string name="category_personal">Личные данные</string>
     <string name="category_work">Работа</string>
+    <string name="change_theme_reboot">Для изменения темы требуется перезагрузка.</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
     <string name="choose_profile">Выберите профиль</string>
@@ -488,6 +489,7 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="default_lockscreen_unlock_hint_text">Проведите вверх для разблокировки</string>
+    <string name="default_theme">По умолчанию</string>
     <string name="delete">Удалить</string>
     <string name="demo_mode">Деморежим</string>
     <string name="description_direction_left">Влево для %s</string>
@@ -598,7 +600,7 @@
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавление данных лица</string>
-    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед использованием этой функции требуется настроить блокировку экрана.</string>
+    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед использованием этой функции необходимо задать пароль блокировки экрана.</string>
     <string name="face_data_introduction_next">Далее</string>
     <string name="face_data_introduction_title">Распознавание лиц</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
@@ -626,7 +628,7 @@
     <string name="face_unlock_offset_top">Немного поднимите телефон</string>
     <string name="face_unlock_open_eye">Откройте глаза немного шире</string>
     <string name="face_unlock_passwork">Использовать пароль</string>
-    <string name="face_unlock_passwork_and_fingerprint">Использовать пароль или лицо</string>
+    <string name="face_unlock_passwork_and_fingerprint">Использовать пароль или отпечаток</string>
     <string name="face_unlock_quality">Невозможно четко увидеть ваше лицо</string>
     <string name="face_unlock_reenter_content">Алгоритм распознавания лиц обновлен. Добавьте данные лица заново.</string>
     <string name="face_unlock_reenter_title">Обновите данные лица</string>
@@ -635,6 +637,7 @@
     <string name="face_unlock_rise">Опустите голову</string>
     <string name="face_unlock_rotated_left">Поверните голову вправо</string>
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
+    <string name="face_unlock_sc_status">Коснитесь экрана для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки приложения %1$s</string>
     <string name="fingerprint_add_text">Интерфейс модуля отпечатков пальцев был обновлен. Добавьте ваш отпечаток заново.</string>
@@ -816,10 +819,10 @@
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Вчера %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">Последняя зарядка</string>
-    <string name="keyguard_charging_info_tip_text1">Для продления срока службы батареи поддерживайте ее заряд на уровне не менее 10%</string>
-    <string name="keyguard_charging_info_tip_text2">Не подвергайте батарею перезаряду. Несколько коротких подзарядок лучше, чем долгая ночная зарядка.</string>
-    <string name="keyguard_charging_info_tip_text3">Не рекомендуется заряжать устройство при температуре воздуха ниже 0℃.</string>
-    <string name="keyguard_charging_info_tip_text4">Во избежание перегрева не используйте устройство слишком активно во время зарядки.</string>
+    <string name="keyguard_charging_info_tip_text1">Для продления срока службы батареи держите ее заряд на уровне не менее 10%</string>
+    <string name="keyguard_charging_info_tip_text2">Не подвергайте батарею перезаряду. Несколько коротких подзарядок лучше, чем одна долгая.</string>
+    <string name="keyguard_charging_info_tip_text3">Не следует заряжать устройство при температуре воздуха ниже 0℃.</string>
+    <string name="keyguard_charging_info_tip_text4">Не следует активно использовать устройство во время зарядки во избежание перегрева.</string>
     <string name="keyguard_charging_info_tip_text5">Батарея будет заряжаться дольше при повышенной температуре.</string>
     <string name="keyguard_charging_info_tip_text6">Для охлаждения выключите экран и отложите устройство в сторону.</string>
     <string name="keyguard_indication_charging_time">Зарядка (%s до окончания)</string>
@@ -828,6 +831,8 @@
     <string name="keyguard_indication_trust_disabled">Устройство будет необходимо разблокировать вручную</string>
     <string name="keyguard_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+    <string name="keyguard_left_remotecentral">Mi пульт</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Фонарик</string>
     <string name="keyguard_left_view_lock_wallpaper">Карусель обоев</string>
     <string name="keyguard_low_battery">Батарея разряжена</string>
@@ -861,7 +866,7 @@
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_login">"Количество неудачных попыток ввода графического ключа: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью email.
 
-Повторите попытку через %3$d сек."</string>
+Повторите попытку через %3$d с."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_erasing_user">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Аккаунт этого пользователя и все его данные будут удалены.</string>
@@ -873,8 +878,8 @@
     <string name="kg_invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="kg_login_too_many_attempts">Слишком много попыток ввода</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_password_pin_failed">Не удалось разблокировать SIM-карту</string>
-    <string name="kg_password_puk_failed">Не удалось разблокировать SIM-карту</string>
+    <string name="kg_password_pin_failed">Разблокировка не удалась</string>
+    <string name="kg_password_puk_failed">Разблокировка не удалась</string>
     <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи для разблокировки SIM-карты.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
     <string name="kg_pattern_instructions">Введите графический ключ</string>
@@ -897,16 +902,16 @@
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
     <string name="kg_sim_pin_instructions_multi">Введите PIN SIM-карты \"%1$s\"</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Количество неудачных попыток ввода пароля: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода цифрового кода: %1$d.
 
-Повторите попытку через %2$d сек."</string>
+Повторите попытку через %2$d с."</string>
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pattern">Неверный графический ключ</string>
     <string name="kg_wrong_pin">Неверный цифровой код</string>
@@ -940,7 +945,7 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Количество неудачных попыток разблокировать телефон: %d. Осталось попыток: %d. Если они также будут неудачными, настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Количество неудачных попыток ввода пароля: %d. Осталось попыток: %d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью Mi аккаунта.
 
-Повторите попытку через %d сек."</string>
+Повторите попытку через %d с."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="lockscreen_none">Нет</string>
     <string name="lockscreen_shortcut_left">Левый ярлык</string>
@@ -976,19 +981,21 @@
     <string name="menu_ime">Переключение раскладки</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>
     <string name="miui_guide_dialog_button_positive_text">Понятно</string>
-    <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т. д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
+    <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т.д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
     <string name="miui_ringer_total_description">Отключение звука и вибрации для всех режимов, кроме будильника</string>
+    <string name="miui_screen_rotation_freeze_message">Автоповорот экрана отключен</string>
     <string name="miui_toast_zen_dnd_to_off">Звуки и вибрация включены</string>
     <string name="miui_toast_zen_standard_to_off">Мелодии звонков и уведомлений включены</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Мелодии звонков, звуки уведомлений и медиа будут включены</string>
     <string name="miui_toast_zen_to_dnd">Звуки и вибрация отключены</string>
     <string name="miui_toast_zen_to_standard">Мелодии звонков и уведомлений отключены</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Мелодии звонков, звуки уведомлений и медиа будут отключены</string>
+    <string name="mland">Земля зефира</string>
     <string name="mobile_data">Интернет</string>
     <string name="mobile_data_always_on">Не отключать мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
@@ -1059,6 +1066,7 @@
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
+    <string name="no_tiles_add">Нет плиток, чтобы добавить</string>
     <string name="no_weather_description">Получить информацию о погоде ></string>
     <string name="not_support_multi_window">Приложение не поддерживает разделение экрана</string>
     <string name="notification_all_categories">Все категории</string>
@@ -1135,7 +1143,7 @@
     <string name="phone_locked_foget_password">Забыли пароль?</string>
     <string name="phone_locked_foget_password_mehod_back">Назад</string>
     <string name="phone_locked_foget_password_method">Забыли пароль?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> на вашем устройстве, включая фото и контакты, а затем установить новый пароль блокировки экрана.</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>Вам придется &lt;font color=#a5220e>стереть все данные&lt;/font> на вашем устройстве, включая фото и контакты, а затем задать новый пароль блокировки экрана.</Data></string>
     <string name="phone_locked_foget_password_method_next">Далее</string>
     <string name="phone_locked_foget_password_ok">Понятно</string>
     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Выключите устройство, одновременно нажмите кнопки &lt;font color=#a5220e>[Питание]&lt;/font> и &lt;font color=#a5220e>[Громкость+]&lt;/font>, и удерживайте их, пока не увидите логотип Mi.</Data></string>
@@ -1159,8 +1167,14 @@
     <string name="pip_skip_to_next">Следующее</string>
     <string name="pip_skip_to_prev">Предыдущее</string>
     <string name="please_slide_agian">Повторите</string>
+	<string name="plugins">Дополнения</string>
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать в наложенном окне данные сенсора</string>
+    <string name="power_charging">%1$s - %2$s</string>
+    <string name="power_charging_duration">%1$s - %2$s до окончания</string>
+    <string name="power_charging_duration_short">%1$s - %2$s</string>
+    <string name="power_discharging_duration">%1$s - осталось примерно %2$s</string>
+    <string name="power_discharging_duration_short">%1$s - осталось %2$s</string>
     <string name="power_notification_controls_description">"С помощью этой функции вы можете устанавливать уровень важности уведомлений от 0 до 5 для каждого приложения. 
 
 "<b>Уровень 5</b>" 
@@ -1198,6 +1212,9 @@
     <string name="prompt_detecting">Обнаружение</string>
     <string name="prompt_safe">Безопасно</string>
     <string name="prompt_unknown">Неизвестно</string>
+	<string name="qs_customize">Разрешить настройку по долгому касанию в Быстрых настройках</string>
+	<string name="qs_customize_info">Инфо</string>
+	<string name="qs_customize_remove">Удалить</string>
     <string name="qs_customize_title">Сортировка</string>
     <string name="qs_dnd_keep">Оставить</string>
     <string name="qs_dnd_prompt_app">Режим \"Не беспокоить\" был включен приложением (%s).</string>
@@ -1206,6 +1223,7 @@
     <string name="qs_dnd_replace">Заменить</string>
     <string name="qs_dnd_until">До %s</string>
     <string name="qs_edit">Сортировка</string>
+	<string name="qs_paging">Использовать новые Быстрыу настройки</string>
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="quick_settings">Быстрые настройки</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
@@ -1343,6 +1361,7 @@
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove_from_settings">Удалить из Настроек</string>
     <string name="remove_from_settings_prompt">Убрать функцию System UI Tuner из меню настроек и прекратить ее работу?</string>
+    <string name="report_rejected_touch">Сообщать об отклоненых касаниях</string>
     <string name="reset">Сбросить</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
@@ -1498,6 +1517,8 @@ d MMMM"</string>
     <string name="stream_notification">Уведомления</string>
     <string name="stream_ring">Звонок</string>
     <string name="stream_system">Система</string>
+	<string name="stream_system_enforced">Принудительно системой</string>
+	<string name="stream_tts">Через динамик (TTS)</string>	
     <string name="stream_voice_call">Вызов</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
@@ -1565,8 +1586,8 @@ d MMMM"</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
     <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
+    <string name="theme">Тема</string>
     <string name="thermal_shutdown_dialog_message">"Ваш телефон выключился из-за перегрева. Сейчас он работает нормально.
-
 Возможные причины перегрева телефона:
 \u0009• Использование ресурсоемких игр и приложений, связанных с видео или навигацией
 \u0009• Скачивание или загрузка больших файлов
@@ -1612,6 +1633,8 @@ d MMMM"</string>
     <string name="tts_status_title">Язык по умолчанию</string>
     <string name="tuner_app">Приложение %1$s</string>
     <string name="tuner_circle">Круг</string>
+	<string name="tuner_doze">Ambient Display</string>
+	<string name="tuner_doze_always_on">Постоянно вкл.</string>
     <string name="tuner_full_importance_settings">Расширенное управление уведомлениями</string>
     <string name="tuner_full_importance_settings_off">Откл</string>
     <string name="tuner_full_importance_settings_on">Вкл</string>
@@ -1655,7 +1678,6 @@ d MMMM"</string>
     <string name="usb_debugging_title">Разрешить отладку по USB?</string>
     <string name="usb_device_confirm_prompt">Запустить %1$s при подключении этого USB устройства?</string>
     <string name="usb_device_permission_prompt">Разрешить приложению %1$s доступ к USB устройству?</string>
-    <string name="usb_function_charging_text">Подключено в режиме зарядки</string>
     <string name="usb_mode_dont_ask">Запомнить выбор</string>
     <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
     <string name="usb_mode_notification">USB накопитель</string>
@@ -1703,13 +1725,19 @@ d MMMM"</string>
     <string name="voice_hint">Голосовой помощник: проведите от значка</string>
     <string name="volume_and_do_not_disturb">Не беспокоить</string>
     <string name="volume_dialog_accessibility_dismissed_message">Регуляторы громкости скрыты</string>
-    <string name="volume_dialog_accessibility_shown_message">Показаны регуляторы громкости: %s. Проведите вверх для скрытия.</string>
+    <string name="volume_dialog_accessibility_shown_message">Показаны регуляторы громкости: %s. Проведите вверх, чтобы скрыть.</string>
     <string name="volume_dnd_silent">Кнопки регулировки громкости</string>
     <string name="volume_stream_content_description_mute">%1$s. Нажмите, чтобы отключить звук. Специальные возможности могут прекратить работу.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. Нажмите, чтобы отключить звук.</string>
     <string name="volume_stream_content_description_unmute">%1$s. Нажмите, чтобы включить звук.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. Нажмите, чтобы включить вибрацию. Специальные возможности могут прекратить работу.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Нажмите, чтобы включить вибрацию.</string>
+	<string name="volume_stream_limited_dnd">%s — только Приоритетные</string>
+	<string name="volume_stream_muted">%s без звука</string>
+	<string name="volume_stream_muted_dnd">%s без звука — Полная тишина</string>
+	<string name="volume_stream_suppressed">%1$s без звука — %2$s</string>
+	<string name="volume_stream_vibrate">%s вибрация</string>
+	<string name="volume_stream_vibrate_dnd">%s вибрация — только Приоритетные</string>
     <string name="volume_up_silent">Отключать режим \"Не беспокоить\" при увеличении громкости</string>
     <string name="volume_zen_end_now">Отключить</string>
     <string name="vpn_footer">Действия в сети могут отслеживаться</string>
@@ -1775,5 +1803,4 @@ d MMMM"</string>
     <string name="zen_priority_introduction">Вас не будут отвлекать звуки и вибрация, за исключением сигналов будильника, напоминаний, уведомлений о мероприятиях и звонков от помеченных контактов. Вы по-прежнему будете слышать включенную вами музыку, видео и игры.</string>
     <string name="zen_silence_introduction">В этом режиме будут отключены ВСЕ звуки и вибрация, в том числе для будильника, музыки, видео и игр.</string>
     <string name="zen_silence_introduction_voice">В этом режиме будут отключены ВСЕ звуки и вибрация, в том числе для будильника, музыки, видео и игр. Вы сможете разговаривать по телефону.</string>
-    <string name="notification_num_channels">Категорий оповещений: %d</string>
 </resources>

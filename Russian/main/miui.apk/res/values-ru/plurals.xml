@@ -79,27 +79,27 @@
         <item quantity="many">Через полчаса</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d мин. назад</item>
-        <item quantity="one">1 мин. назад</item>
-        <item quantity="few">%d мин. назад</item>
-        <item quantity="many">%d мин. назад</item>
+        <item quantity="other">%d мин назад</item>
+        <item quantity="one">1 мин назад</item>
+        <item quantity="few">%d мин назад</item>
+        <item quantity="many">%d мин назад</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d мин. назад</item>
-        <item quantity="one">1 мин. назад</item>
-        <item quantity="few">%d мин. назад</item>
-        <item quantity="many">%d мин. назад</item>
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">1 минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="many">%d минут назад</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">через %d мин.</item>
-        <item quantity="one">через 1 мин.</item>
-        <item quantity="few">через %d мин.</item>
-        <item quantity="many">через %d мин.</item>
+        <item quantity="other">через %d мин</item>
+        <item quantity="one">через 1 мин</item>
+        <item quantity="few">через %d мин</item>
+        <item quantity="many">через %d мин</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">через %d мин.</item>
-        <item quantity="one">через 1 мин.</item>
-        <item quantity="few">через %d мин.</item>
-        <item quantity="many">через %d мин.</item>
+        <item quantity="other">через %d минут</item>
+        <item quantity="one">через 1 минуту</item>
+        <item quantity="few">через %d минуты</item>
+        <item quantity="many">через %d минут</item>
     </plurals>
 </resources>

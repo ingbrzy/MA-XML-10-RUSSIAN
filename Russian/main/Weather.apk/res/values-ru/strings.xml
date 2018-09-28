@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="abrupt_weather_settings_summary_type_a">Переключатель предупреждений о необычной погоде</string>
+	<string name="abrupt_weather_settings_summary_type_b">Переключатель предупреждений о необычной погоде</string>
+	<string name="abrupt_weather_settings_title">Предупреждения о необычной погоде</string>
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
@@ -10,13 +13,11 @@
     <string name="act_weather_find_city_net_no_good">Не удается подключиться к сети</string>
     <string name="act_weather_find_city_no_result">Ничего не найдено</string>
     <string name="act_weather_find_city_searching">Поиск…</string>
-    <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Отмена</string>
     <string name="activity_find_city_dialog_message">Разрешите приложению \"Погода\" доступ к вашему местоположению</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Доступ к местоположению</string>
     <string name="activity_main_clickable">></string>
-    <string name="activity_main_one_alert" />
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Обновлено %1$s</string>
     <string name="activity_main_update_time_expire">Данные устарели</string>
@@ -50,6 +51,7 @@
     <string name="aqi_quality_so2_desc">Диоксид серы</string>
     <string name="aqi_station_best_quality_station">Лучшая станция</string>
     <string name="aqi_station_min_distance_station">Ближайшая станция</string>
+	<string name="aqi_sub_desc">ИКВ</string>										  
     <string name="aqi_top_pollution">Загрязняющие агенты</string>
     <string name="button_abandon">Отмена изменений</string>
     <string name="button_add_city">Добавить местоположение</string>
@@ -64,7 +66,7 @@
     <string name="button_sure_abandon">Отменить изменения?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Проверьте подключение и повторите попытку</string>
-    <string name="china_version_first_start_network_msg">Используя этот продукт, вы принимаете %1$s и %2$s Xiaomi. Чтобы помочь вам получить более точную информацию о погоде, приложение получит данные о вашем местоположении и обработает их, и ему также необходимо подключиться к сети. Вы согласны?</string>
+    <string name="china_version_first_start_network_msg">Для использования Погоды вы должны принять %1$s и %2$s Xiaomi. Для нормальной работы Погоде требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>
     <string name="city_exceeded_warning">Вы можете добавить до 10 городов</string>
     <string name="common_loading_text">Секунду…</string>
     <string name="connect_fail">Не удалось подключиться к сети, повторите попытку</string>
@@ -72,9 +74,10 @@
     <string name="content_desc_activity_main_add_city_manage">Управление городами</string>
     <string name="content_desc_activity_main_more_settings">Прочие настройки</string>
     <string name="content_desc_back_button">Назад</string>
+    <string name="content_desc_city_manage_del">Удалить</string>
+    <string name="content_desc_city_manage_edit">Управление городами</string>
     <string name="content_desc_close_button">Закрыть</string>
-    <string name="content_desc_edit_city_manage">Управление городами</string>
-    <string name="daily_forcast_no_stable_direction">Неустойчивый</string>
+	<string name="daily_forcast_no_stable_direction">Легкий ветер</string>
     <string name="daily_forcast_no_wind">Штиль</string>
     <string name="daily_forcast_weather_transfer">%1$s. Позже %2$s.</string>
     <string name="daily_forcast_whirl_wind">Ураган</string>
@@ -103,15 +106,13 @@
     <string name="hourly_forecast_title_24_hours_desc">Прогноз на 24 часа</string>
     <string name="hourly_forecast_title_hourly_desc">Почасовой прогноз</string>
     <string name="index_item_experience_now">Установить</string>
-    <string name="index_item_install_dialog" />
-    <string name="index_item_install_dialog_cancel" />
-    <string name="index_item_install_dialog_open" />
     <string name="index_item_install_now">Установить</string>
     <string name="index_item_installing">Установка</string>
     <string name="indices_desc_humidity">Влажность %1$s%%</string>
     <string name="indices_title_feel">Ощущается</string>
     <string name="indices_title_pressure">Давление</string>
-    <string name="install">Установить</string>
+	<string name="information_settings_title">Информация о погоде</string>
+	<string name="install">Установить</string>
     <string name="international_details_pressure_title">ДАВЛЕНИЕ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Подробности</string>
@@ -135,6 +136,7 @@
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">Потяните вниз для обновления</string>
     <string name="minute_rain_refreshing_now">Обновление…</string>
+	<string name="missing_required_permission">Вы отключили необходимое разрешение.</string>
     <string name="more_details">Подробнее</string>
     <string name="network_not_available">Не удается подключиться к сети</string>
     <string name="network_unavailable">Не удается подключиться к сети</string>
@@ -146,7 +148,8 @@
     <string name="open">Открыть</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="open_now">Открыть</string>
-    <string name="other_warning_settings">Прочие предупреждения</string>
+	<string name="other_settings">Прочие настройки</string>
+	<string name="other_warning_settings">Прочие предупреждения</string>
     <string name="particulate_matter_exceeded">Превышение</string>
     <string name="particulate_matter_not_exceeded">Норма</string>
     <string name="particulate_matter_serious_exceeded">Сильное превышение</string>
@@ -206,15 +209,6 @@
     <string name="traffic_control_today_numbers">Сегодня: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Завтра: %1$s</string>
     <string name="traffic_controls">Состояние дорог</string>
-    <string name="tts_report_aqi" />
-    <string name="tts_report_defautl_head" />
-    <string name="tts_report_split" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
-    <string name="tts_report_weather_desc" />
-    <string name="tts_report_wind" />
     <string name="unit">Единицы измерения</string>
     <string name="unit_temperature">Температура</string>
     <string name="unit_wind">Скорость ветра</string>
@@ -224,10 +218,6 @@
     <string name="updated_a_moment_ago">Обновлено только что</string>
     <string name="updating">Обновление…</string>
     <string name="user_agreement">Условия использования</string>
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>

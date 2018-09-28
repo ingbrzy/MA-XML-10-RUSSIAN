@@ -17,15 +17,6 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -221,6 +212,14 @@
         <item>1 МБ</item>
         <item>4 МБ</item>
         <item>16 МБ</item>
+    </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Откл.</item>
+        <item>Ошибка</item>
+        <item>Предупреждение</item>
+        <item>Информация</item>
+        <item>Отладка</item>
+        <item>Подробно</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Отключено</item>

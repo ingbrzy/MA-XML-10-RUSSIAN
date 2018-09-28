@@ -6,16 +6,6 @@
         <item>Другой</item>
         <item>Новый тип</item>
     </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другое</item>
@@ -37,8 +27,39 @@
         <item>Другой</item>
         <item>Новый тип</item>
     </string-array>
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
+    <string-array name="app_ops_labels">
+        <item>Пытаюсь включить WLAN</item>
+        <item>Пытаюсь включить Bluetooth</item>
+    </string-array>									   
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Попробуй еще раз</item>
+        <item></item>
+        <item></item>
+        <item>Полностью закройте сканер отпечатков пальцев и надавите</item>
+        <item></item>
+        <item>Полностью закройте сканер отпечатков пальцев и надавите</item>
+        <item>Полностью закройте сканер отпечатков пальцев и надавите</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Полностью закройте сканер отпечатков пальцев и надавите</item>
+        <item>Полностью закройте сканер отпечатков пальцев и надавите</item>
+        <item>"Слишком быстро! Не удалось распознать отпечаток"</item>
+        <item>Немного переместите свой палец и повторите попытку</item>
+        <item>Поднимите палец и снова верните его на сканер</item>
+        <item>Подержите палец на сканере немного дольше</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Немного переместите свой палец</item>
+        <item>Этот отпечаток был добавлен, используйте другой палец</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">HybridAccessory</string>
+  <string name="short_cut_dialog_cancel_button_text">Нет</string>
+  <string name="short_cut_dialog_cotent">Следующие приложения могут быть использованы без установки. Сохранить ярлыки?</string>
+  <string name="short_cut_dialog_create_button_text">Да</string>
+  <string name="short_cut_dialog_not_tip_check_box">"Не напоминать снова через 2 недели"</string>
+  <string name="short_cut_dialog_title">Создать ярлык</string>
+</resources>

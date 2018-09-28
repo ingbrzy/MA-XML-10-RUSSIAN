@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cancel">Отмена</string>
-    <string name="copy">Копировать</string>
-    <string name="copyUrl">Копировать URL</string>
-    <string name="cut">Вырезать</string>
-    <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-    <string name="emptyPhoneNumber">(Нет номера телефона)</string>
-    <string name="httpErrorBadUrl">Не удалось открыть страницу. URL недействителен.</string>
-    <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
-    <string name="no">Отмена</string>
-    <string name="ok">ОК</string>
-    <string name="paste">Вставить</string>
-    <string name="search_go">Поиск</string>
-    <string name="selectAll">Выбрать все</string>
-    <string name="unknownName">Неизвестно</string>
-    <string name="untitled">&lt;Без названия></string>
-    <string name="VideoView_error_button">ОК</string>
-    <string name="VideoView_error_text_unknown">Не удалось воспроизвести видео.</string>
-    <string name="VideoView_error_title">Ошибка</string>
-    <string name="yes">ОК</string>
-    <string name="dialog_alert_title">Внимание</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
-    <string name="selectTextMode">Выбрать текст</string>
-    <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
-    <string name="paste_as_plain_text">Вставить как обычный текст</string>
-    <string name="autofill">Автозаполнение</string>
     <string name="BaMmi">Запрет вызовов</string>
     <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
     <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
@@ -58,6 +32,10 @@
     <string name="RuacMmi">Отклонение нежелательных звонков</string>
     <string name="SetupCallDefault">Ответить?</string>
     <string name="ThreeWCMmi">Вызов с участием трех абонентов</string>
+    <string name="VideoView_error_button">ОК</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
+    <string name="VideoView_error_text_unknown">Не удалось воспроизвести видео.</string>
+    <string name="VideoView_error_title">Ошибка</string>
     <string name="accept">Принять</string>
     <string name="accessibility_binding_label">Спец. возможности</string>
     <string name="accessibility_button_instructional_text">Чтобы изменить функцию, удерживайте кнопку специальных возможностей.</string>
@@ -137,6 +115,7 @@
     <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные данные или выключить приложение.</string>
     <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
     <string name="app_upgrading_toast">Обновление приложения \"%1$s\"…</string>
+	<string name="autofill">Автозаполнение</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -185,6 +164,7 @@
     <string name="bugreport_option_interactive_title">Интерактивный отчет</string>
     <string name="bugreport_title">Отчет об ошибке</string>
     <string name="byteShort">Б</string>
+	<string name="cancel">Отмена</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Сохраняет жесты, выполненные на сканере отпечатков пальцев.</string>
     <string name="capability_desc_canControlMagnification">Управлять позиционированием и размером изображения на экране.</string>
     <string name="capability_desc_canPerformGestures">Может выполнять жесты нажатия, пролистывания, масштабирования и т. д.</string>
@@ -224,9 +204,12 @@
     <string name="contentServiceSyncNotificationTitle">Синхр.</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s.</string>
     <string name="content_description_sliding_handle">Перетаскиваемый значок блокировки. Нажмите и удерживайте.</string>
+	<string name="copy">Копировать</string>
+    <string name="copyUrl">Копировать URL</string>
     <string name="country_selection_title">Региональные настройки</string>
     <string name="create_contact_using">"Создать контакт
 с номером %s"</string>
+    <string name="cut">Вырезать</string>
     <string name="data_saver_description">В режиме экономии трафика фоновая передача для некоторых приложений отключена. Приложение, которым вы пользуетесь, может получать и отправлять данные, но реже, чем обычно. Например, изображения могут не загружаться, пока вы не нажмете на них.</string>
     <string name="data_saver_enable_button">Включить</string>
     <string name="data_saver_enable_title">Включить экономию трафика?</string>
@@ -260,7 +243,7 @@
     <string name="day">дн.</string>
     <string name="days">дн.</string>
     <string name="decline">Отклонить</string>
-    <string name="decline_remote_bugreport_action">ОТКЛОНИТЬ</string>
+    <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
     <string name="default_audio_route_category_name">Система</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_dock_speakers">Динамики док-станции</string>
@@ -278,6 +261,7 @@
     <string name="dial">Телефон</string>
     <string name="dial_number_using">"Набрать номер
 %s"</string>
+    <string name="dialog_alert_title">Внимание</string>
     <string name="disable_accessibility_shortcut">Деактивировать быстрое включение</string>
     <string name="display_manager_built_in_display_name">Встроенный экран</string>
     <string name="display_manager_hdmi_display_name">Экран HDMI</string>
@@ -302,6 +286,7 @@
     <string name="emailTypeWork">Рабочий</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="emergency_calls_only">Только экстренные вызовы</string>
+	<string name="emptyPhoneNumber">(Нет номера телефона)</string>
     <string name="enablePin">Произошла ошибка. Включите блокировку SIM-карты или карты R-UIM.</string>
     <string name="enable_explore_by_touch_warning_message">%1$s хочет включить Изучение касанием. Вы сможете прослушивать или просматривать описание элементов, которых касаетесь, и управлять телефоном с помощью жестов.</string>
     <string name="enable_explore_by_touch_warning_title">Включить Изучение касанием?</string>
@@ -386,6 +371,7 @@
     <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий.</string>
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>
+	<string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="fingerprint_name_template">Отпечаток %d</string>
     <string name="fingerprints">Отпечатки:</string>
     <string name="floating_toolbar_close_overflow_description">Закрыть дополнительное меню</string>
@@ -398,6 +384,7 @@
     <string name="forward_intent_to_owner">Это приложение используется в личном профиле</string>
     <string name="forward_intent_to_work">Вы перешли в рабочий профиль</string>
     <string name="gadget_host_error_inflating">Не удалось добавить виджет.</string>
+    <string name="gigabyteShort">ГБ</string>
     <string name="global_action_assist">Помощник</string>
     <string name="global_action_bug_report">Отчет об ошибке</string>
     <string name="global_action_emergency">Экстренный вызов</string>
@@ -435,6 +422,7 @@
     <string name="hours">ч.</string>
     <string name="httpError">Ошибка сети.</string>
     <string name="httpErrorAuth">Ошибка аутентификации.</string>
+    <string name="httpErrorBadUrl">Не удалось открыть страницу. URL недействителен.</string>
     <string name="httpErrorConnect">Не удалось подключиться к серверу.</string>
     <string name="httpErrorFailedSslHandshake">Не удалось установить защищенное соединение.</string>
     <string name="httpErrorFile">Не удалось получить доступ к файлу.</string>
@@ -447,6 +435,7 @@
     <string name="httpErrorTimeout">Время ожидания соединения с сервером истекло.</string>
     <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
     <string name="httpErrorUnsupportedAuthScheme">Схема аутентификации сайта не поддерживается.</string>
+    <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">Новый тип</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -568,6 +557,7 @@
     <string name="kg_wrong_password">Неправильный пароль</string>
     <string name="kg_wrong_pattern">Неправильный графический ключ</string>
     <string name="kg_wrong_pin">Неправильный PIN-код</string>
+    <string name="kilobyteShort">кБ</string>
     <string name="language_picker_section_all">Все языки</string>
     <string name="language_picker_section_suggested">Рекомендуемые</string>
     <string name="language_selection_title">Добавьте язык</string>
@@ -745,7 +735,7 @@
     <string name="mediasize_japanese_jis_b8">JIS B8</string>
     <string name="mediasize_japanese_jis_b9">JIS B9</string>
     <string name="mediasize_japanese_jis_exec">JIS Exec</string>
-    <string name="mediasize_japanese_kahu">Kaku</string>
+    <string name="mediasize_japanese_kahu">Kahu</string>
     <string name="mediasize_japanese_kaku2">Kaku2</string>
     <string name="mediasize_japanese_oufuku">Oufuku</string>
     <string name="mediasize_japanese_you4">You4</string>
@@ -763,6 +753,7 @@
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">Неизвестный горизонтальный формат</string>
     <string name="mediasize_unknown_portrait">Неизвестный вертикальный формат</string>
+    <string name="megabyteShort">МБ</string>
     <string name="meid">MEID</string>
     <string name="menu_delete_shortcut_label">удалить</string>
     <string name="menu_enter_shortcut_label">ввод</string>
@@ -798,6 +789,7 @@
     <string name="new_sms_notification_content">Чтобы просмотреть, откройте приложение для обмена SMS</string>
     <string name="new_sms_notification_title">Новые сообщения</string>
     <string name="next_button_label">Далее</string>
+	<string name="no">Отмена</string>
     <string name="noApplications">Действие не поддерживается ни в одном приложении.</string>
     <string name="no_file_chosen">Не выбран файл</string>
     <string name="no_matches">Нет совпадений</string>
@@ -812,6 +804,7 @@
     <string name="notification_channel_device_admin">Управление устройством</string>
     <string name="notification_channel_emergency_callback">Режим экстренных обратных вызовов</string>
     <string name="notification_channel_foreground_service">Приложения, расходующие заряд</string>
+	<string name="notification_channel_hotspot">Точки доступа Wi-Fi</string>
     <string name="notification_channel_mobile_data_status">Состояние мобильного Интернета</string>
     <string name="notification_channel_network_alert">Оповещения</string>
     <string name="notification_channel_network_alerts">Оповещения сети</string>
@@ -838,6 +831,7 @@
     <string name="number_picker_increment_button">Увеличить</string>
     <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его.</string>
     <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s.</string>
+    <string name="ok">ОК</string>
     <string name="old_app_action">Вернуться к приложению %1$s</string>
     <string name="old_app_description">Не запускать новое приложение.</string>
     <string name="older">Еще раньше</string>
@@ -856,6 +850,8 @@
     <string name="password_keyboard_label_alpha_key">АБВ</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="paste">Вставить</string>
+    <string name="paste_as_plain_text">Вставить как обычный текст</string>
     <string name="peerTtyModeFull">На устройстве абонента выбран режим телетайпа \"ВСЕ\"</string>
     <string name="peerTtyModeHco">На устройстве абонента выбран режим телетайпа HCO</string>
     <string name="peerTtyModeOff">На устройстве абонента выбран режим телетайпа \"ВЫКЛ.\"</string>
@@ -985,6 +981,7 @@
     <string name="permgrouplab_sensors">Нательные датчики</string>
     <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">Память</string>
+	<string name="permission">Разрешения</string>
     <string name="permission_request_notification_title">Разрешение запрошено</string>
     <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s."</string>
@@ -1236,6 +1233,7 @@
     <string name="screen_compat_mode_scale">Масштаб</string>
     <string name="screen_compat_mode_show">Всегда показывать</string>
     <string name="screen_lock">Блокировка экрана</string>
+    <string name="search_go">Поиск</string>
     <string name="search_hint">Поиск…</string>
     <string name="search_language_hint">Введите язык</string>
     <string name="searchview_description_clear">Удалить запрос</string>
@@ -1245,6 +1243,8 @@
     <string name="searchview_description_voice">Голосовой поиск</string>
     <string name="second">с.</string>
     <string name="seconds">с.</string>
+    <string name="selectAll">Выбрать все</string>
+    <string name="selectTextMode">Выбрать текст</string>
     <string name="select_character">Введите символ</string>
     <string name="select_day">Выберите месяц и число</string>
     <string name="select_hours">Выберите часы</string>
@@ -1321,9 +1321,11 @@
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="stk_cc_ss_to_dial">SS-запрос преобразован в DIAL-запрос.</string>
+    <string name="stk_cc_ss_to_dial_video">SS-запрос преобразован в видео DIAL-запрос.</string>
     <string name="stk_cc_ss_to_ss">SS-запрос преобразован в новый SS-запрос.</string>
     <string name="stk_cc_ss_to_ussd">SS-запрос преобразован в USSD-запрос.</string>
-    <string name="stk_cc_ussd_to_dial">USSD-запрос преобразован в DIAL-запрос</string>
+    <string name="stk_cc_ussd_to_dial">USSD-запрос преобразован в DIAL-запрос.</string>
+    <string name="stk_cc_ussd_to_dial_video">USSD-запрос преобразован в видео DIAL-запрос.</string>
     <string name="stk_cc_ussd_to_ss">USSD-запрос преобразован в SS-запрос.</string>
     <string name="stk_cc_ussd_to_ussd">USSD-запрос преобразован в новый USSD-запрос.</string>
     <string name="storage_internal">Внутренний общий накопитель</string>
@@ -1344,6 +1346,9 @@
     <string name="system_error_wipe_data">Произошла внутренняя ошибка, и устройство может работать нестабильно, пока вы не выполните сброс настроек.</string>
     <string name="taking_remote_bugreport_notification_title">Подготовка отчета об ошибке</string>
     <string name="tethered_notification_message">Нажмите, чтобы настроить.</string>
+	<string name="tethered_notification_multi_device_message">%1$s устройств подключено</string>
+	<string name="tethered_notification_no_device_message">Нет подключенных устройств</string>
+	<string name="tethered_notification_one_device_message">%1$s устройство подключено</string>	
     <string name="tethered_notification_title">Включен режим модема</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="text_copied">Текст скопирован в буфер обмена.</string>
@@ -1368,11 +1373,14 @@
     <string name="turn_on_radio">Включить беспроводную связь</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
     <string name="undo">Отменить</string>
+    <string name="unknownName">Неизвестно</string>
     <string name="unpin_target">Открепить</string>
     <string name="unsupported_display_size_message">Приложение \"%1$s\" не поддерживает выбранный масштаб изображения на экране и может работать некорректно.</string>
     <string name="unsupported_display_size_show">Всегда показывать</string>
+    <string name="untitled">&lt;Без названия></string>
     <string name="upload_file">Выбрать файл</string>
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
+	<string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_charging_notification_title">Зарядка через USB</string>
     <string name="usb_midi_notification_title">MIDI через USB</string>
     <string name="usb_midi_peripheral_manufacturer_name">Android</string>
@@ -1383,6 +1391,19 @@
     <string name="usb_mtp_notification_title">Передача файлов через USB</string>
     <string name="usb_notification_message">Нажмите, чтобы показать дополнительные параметры.</string>
     <string name="usb_ptp_notification_title">Передача фото через USB</string>
+	<string name="usb_storage_activity_title">USB-накопитель</string>
+	<string name="usb_storage_button_mount">Включить USB-накопитель</string>
+	<string name="usb_storage_error_message">"Проблема с использованием SD-карты как USB-накопителя."</string>
+	<string name="usb_storage_message">"Вы подключились к компьютеру через USB. Нажмите на кнопку ниже, если вы хотите копировать файлы между вашим компьютером и SD-картой Android."</string>
+	<string name="usb_storage_notification_message">Нажмите, чтобы скопировать файлы с/на компьютер.</string>
+	<string name="usb_storage_notification_title">USB подключено</string>
+	<string name="usb_storage_stop_button_mount">Отключить USB-накопитель</string>
+	<string name="usb_storage_stop_error_message">"Не удалось отключить USB-накопитель. Убедитесь, что вы отключили USB-хост, затем повторите попытку."</string>
+	<string name="usb_storage_stop_message">"Перед отключением USB-накопителя, отключите (\"извлечь\") вашу SD-карту Android на компьютере."</string>
+	<string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB-накопитель.</string>
+	<string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
+	<string name="usb_storage_stop_title">USB-накопитель используется</string>
+	<string name="usb_storage_title">Соединение по USB</string>
     <string name="usb_supplying_notification_title">Подача питания на подключенное устройство через USB</string>
     <string name="usb_unsupported_audio_accessory_message">Подсоединенное устройство несовместимо с этим телефоном. Нажмите, чтобы узнать подробности.</string>
     <string name="usb_unsupported_audio_accessory_title">Обнаружено аналоговое аудиоустройство</string>
@@ -1494,6 +1515,7 @@
     <string name="write_fail_reason_cannot_write">Ошибка записи</string>
     <string name="year">г.</string>
     <string name="years">г.</string>
+    <string name="yes">ОК</string>
     <string name="zen_mode_alarm">До %1$s (будильник)</string>
     <string name="zen_mode_default_events_name">Мероприятие</string>
     <string name="zen_mode_default_weekends_name">Выходные</string>

@@ -1,3 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_not_found">Не найдено ни одного приложения для выполнения данного действия.</string>
+  <string name="back_to_message_list">Вернуться к списку сообщений</string>
+  <string name="button_close">Закрыть</string>
+  <string name="confirm_delete_conversation">Удалить эту переписку?</string>
+  <string name="confirm_delete_group_message">Удалить групповые сообщения?</string>
+  <string name="confirm_delete_locked_message">Удалить это закрепленное сообщение?</string>
+  <string name="confirm_delete_message">Удалить это  сообщение?</string>
+  <string name="confirm_dialog_locked_title">Удалить  закрепленное сообщение?</string>
+  <string name="confirm_dialog_title">Удалить?</string>
+  <string name="copy_message_text">Скопировать</string>
+  <string name="copy_message_text_success">Скопировано успешно</string>
+  <string name="delete">Удалить</string>
+  <string name="delete_message">Удалить</string>
+  <string name="from_label">"От: "</string>
+  <string name="hybrid_check_network">Настройки сети</string>
+  <string name="hybrid_data_error">Произошла ошибка</string>
+  <string name="hybrid_locating_fail">"Не удалось найти ваше местоположение"</string>
+  <string name="hybrid_network_access_denied">Отказано в доступе к сети</string>
+  <string name="hybrid_network_unavaliable">"Не удается подключиться к сети"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз, чтобы обновить…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Секундочку…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Отпустите, чтобы обновить…</string>
+  <string name="hybrid_service_unavailiable">Услуга недоступна</string>
+  <string name="hybrid_try_again">Попробуйте еще раз</string>
+  <string name="imageview_ad">Реклама</string>
+  <string name="menu_forward">Вперед</string>
+  <string name="menu_lock">Выделить</string>
+  <string name="menu_unlock">Снять выделение</string>
+  <string name="message_details_title">Сведения о сообщении</string>
+  <string name="message_type_label">"Тип: "</string>
+  <string name="messaging">Сообщения</string>
+  <string name="packages_select_sim_cards_title">Выберите SIM-карту</string>
+  <string name="received_label">"Получено: "</string>
+  <string name="repayment_network_error">Что-то пошло не так с вашей сетью</string>
+  <string name="repayment_title">Оплата</string>
+  <string name="repayment_way">Тип оплаты</string>
+  <string name="sent_label">"Отправлено: "</string>
+  <string name="sim1">Sim 1</string>
+  <string name="sim2">Sim 2</string>
+  <string name="smart_messages_network_allow_message">Mi Message необходимо подключение к Интернету, чтобы работать. Разрешить сейчас?</string>
+  <string name="smart_messages_network_allow_title">Необходимо подключение к Интернету</string>
+  <string name="text_message">Текстовое сообщение</string>
+  <string name="view_message_details">Подробности</string>
 </resources>

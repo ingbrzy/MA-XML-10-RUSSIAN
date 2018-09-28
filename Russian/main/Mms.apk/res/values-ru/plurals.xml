@@ -42,6 +42,12 @@
         <item quantity="few">%d сообщения</item>
         <item quantity="many">%d сообщений</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Отмечен как %2$s %1$d людьми</item>
+        <item quantity="one">Отмечен как %2$s %1$d человеком</item>
+        <item quantity="few">Отмечен как %2$s %1$d людьми</item>
+        <item quantity="many">Отмечен как %2$s %1$d людьми</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s сообщений</item>
         <item quantity="one">%1$s сообщение</item>

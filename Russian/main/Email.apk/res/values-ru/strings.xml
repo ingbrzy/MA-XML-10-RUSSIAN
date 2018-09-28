@@ -8,10 +8,13 @@
     <string name="account_failure">Время сессии истекло</string>
     <string name="account_name_toast">Аккаунт с таким именем уже существует</string>
     <string name="account_options_sync_title">Синхронизация</string>
-    <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Многие серверы не поддерживают пароли с пробелами.</string>
-    <string name="account_security_dialog_content_fmt">%s требует обновления настроек безопасности.</string>
+    <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом.
+Многие серверы не поддерживают пароли с пробелами.</string>
+    <string name="account_security_dialog_content_fmt">%s требует обновления настроек
+ безопасности.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
-    <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства.</string>
+    <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление
+ некоторыми функциями безопасности устройства.</string>
     <string name="account_security_title">Безопасность устройства</string>
     <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP необходимо удалить аккаунт и настроить новый.</string>
     <string name="account_setting">Аккаунты</string>
@@ -31,7 +34,8 @@
     <string name="account_settings_enforced_label">Политика</string>
     <string name="account_settings_enforced_summary">Пусто</string>
     <string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера</string>
-    <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить сейчас?</string>
+    <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s.
+Обновить сейчас?</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не удалось выполнить вход в %s. Ответ сервера: %s</string>
     <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам нужно обновить почту вручную, чтобы синхронизировать ваши письма</string>
@@ -44,6 +48,7 @@
     <string name="account_settings_notify_summary">Показывать уведомления при получении новых писем</string>
     <string name="account_settings_param">Настройки аккаунта</string>
     <string name="account_settings_policies">Политика безопасности</string>
+    <string name="account_settings_preference_add_account">Новый аккаунт</string>
     <string name="account_settings_preference_att_save_path">Папка по умолчанию для вложений</string>
     <string name="account_settings_preference_head_icon">Фото контактов</string>
     <string name="account_settings_preference_notify">Уведомления</string>
@@ -83,13 +88,14 @@
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">ID мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
+    <string name="account_setup_failed_auth_required">"Этот метод проверки подлинности не поддерживается сервером."</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертификат недействителен или недоступен.</string>
     <string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
     <string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку.</string>
     <string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль</string>
     <string name="account_setup_failed_dlg_bar_title">Способы входа в %s</string>
     <string name="account_setup_failed_dlg_certificate_message">Не удалось установить безопасное подключение к серверу.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить безопасное подключение к серверу
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить безопасное подключение к серверу 
 (%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">Ваш аккаунт защищен. Подтвердите устройство с помощью QQ Security или снимите защиту.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Изменить параметры</string>
@@ -102,11 +108,9 @@
     <string name="account_setup_failed_dlg_todo2">Настройте аккаунт, как показано ниже</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Неизвестная ошибка.</string>
     <string name="account_setup_failed_ioerror">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_protocol_unsupported">"Введен неправильный адрес сервера или сервер запрашивает версию протокола,
- которая не поддерживается."</string>
+    <string name="account_setup_failed_protocol_unsupported">"Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается."</string>
     <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности.</string>
-    <string name="account_setup_failed_security_policies_unsupported">"Ваше устройство не поддерживает обязательные для сервера функции
- защиты: %s"</string>
+    <string name="account_setup_failed_security_policies_unsupported">"Ваше устройство не поддерживает обязательные для сервера функции защиты: %s"</string>
     <string name="account_setup_failed_tls_required">TLS не поддерживается сервером.</string>
     <string name="account_setup_failed_too_many_partnerships">Не удалось войти, слишком много соединений.</string>
     <string name="account_setup_incoming_delete_policy_delete_label">При удалении из входящих</string>
@@ -223,6 +227,7 @@
     <string name="battery_saver">Экономия энергии</string>
     <string name="battery_saver_keywords">экономия энергии;батарея почты</string>
     <string name="bcc">Скрытая копия</string>
+    <string name="bcc_heading">"Скрытая копия: "</string>
     <string name="bill_center_setting">Настройки счетов</string>
     <string name="bill_center_setting_head">Импорт информации из этих аккаунтов</string>
     <string name="bill_cycle_text">Периодичность выставления счетов</string>
@@ -243,6 +248,7 @@
     <string name="cancel_pop3_attchemt_downloading">Не удается отменить текущие загрузки для вложений в аккаунтах POP3</string>
     <string name="cant_move_or_change_labels">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
     <string name="cc">Копия</string>
+    <string name="cc_attribution">Копия: %1$s&lt;br></string>
     <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
     <string name="change_folders_selection_dialog_title">Изменить папки</string>
@@ -260,12 +266,15 @@
     <string name="click_download_all_content">[Нажмите для загрузки]</string>
     <string name="click_to_reload">Нажмите для обновления</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
+    <string name="colon">:</string>
     <string name="compose">Создать</string>
     <string name="compose_attachment_number_limit">Максимум 10 вложений</string>
     <string name="compose_paste_address_oob">Слишком много символов</string>
     <string name="compose_picturesexceedlimits">Не более 5 изображений в тексте сообщения</string>
     <string name="compose_send">Отправить</string>
     <string name="compose_sent">Письмо отправлено</string>
+    <string name="config_cancel">Отмена</string>
+    <string name="config_retry">Повторить</string>
     <string name="confirm">ОК</string>
     <string name="confirm_before_delete">Подтверждение перед удалением</string>
     <string name="confirm_before_delete_keywords">подтверждение перед удалением;удалить подтверждение</string>
@@ -359,9 +368,7 @@
     <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти.</string>
     <string name="dialog_system_auto_sync_account_no_open">Включите синхронизацию аккаунта для автоматической загрузки писем</string>
     <string name="dialog_system_auto_sync_master_no_open">Включите синхронизацию для автоматической загрузки писем</string>
-    <string name="disable_admin_warning">"ПРЕДУПРЕЖДЕНИЕ: Отключение прав на администрирование
- вашего устройства посредством почтового клиента приведет к удалению соответствующих почтовых аккаунтов,
- писем, контактов, событий в календаре и др."</string>
+    <string name="disable_admin_warning">"ПРЕДУПРЕЖДЕНИЕ: Отключение прав на администрирование вашего устройства посредством почтового клиента приведет к удалению соответствующих почтовых аккаунтов, писем, контактов, событий в календаре и др."</string>
     <string name="discard">Отменить</string>
     <string name="discard_drafts">Удалить черновики</string>
     <string name="dismiss_tip_hover_text">Не показывать</string>
@@ -409,7 +416,10 @@
     <string name="empty_trash_dialog_title">Очистить корзину?</string>
     <string name="enable_sync_in_account_settings">Включить в %1$s</string>
     <string name="error">Ошибка</string>
-    <string name="exception_cancel">Следующее событие было отменено: %s</string>
+    <string name="exception_cancel">
+	Следующее событие было отменено
+	: 
+%s</string>
     <string name="exception_updated">Детали этого события были изменены на: %s</string>
     <string name="exchange_name">Корпоративный</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -505,6 +515,7 @@
     <string name="login139">Войти с помощью China Mobile</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
+	<string name="login_mail">Войти</string>
     <string name="login_support_tip_text">Поддерживаются все основные сервисы</string>
     <string name="long_press_to_select_tip">Нажмите и удерживайте для выбора диалога, затем добавляйте диалоги нажатием.</string>
     <string name="mail">Почта</string>
@@ -514,6 +525,7 @@
     <string name="mail_header_network_not_available">Интернет недоступен</string>
     <string name="mailbox_list_account_selector_combined_view">Совмещенный аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
+    <string name="mailbox_name_display_add_account">Новый аккаунт</string>
     <string name="mailbox_name_display_circular">Уведомления</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
@@ -542,17 +554,40 @@
     <string name="mark_unread">Не прочитано</string>
     <string name="me_object_pronun">Я</string>
     <string name="me_subject_pronun">Я</string>
-    <string name="meeting_accepted">Принято: %s</string>
-    <string name="meeting_allday">Когда: %s (весь день)</string>
-    <string name="meeting_allday_recurring">Когда: %s (весь день, с повтором)</string>
-    <string name="meeting_canceled">Отменено: %s</string>
-    <string name="meeting_declined">Отклонено: %s</string>
-    <string name="meeting_recurring">Когда: %s (с повтором)</string>
+    <string name="meeting_accepted">
+	Принято: 
+%s</string>
+    <string name="meeting_allday">
+	Когда: 
+%s (весь день)
+</string>
+    <string name="meeting_allday_recurring">
+	Когда:
+%s (весь день, с повтором)
+</string>
+    <string name="meeting_canceled">
+	Отменено:
+%s</string>
+    <string name="meeting_declined">
+	Отклонено: 
+%s</string>
+    <string name="meeting_recurring">
+	Когда: 
+%s (с повтором)
+</string>
     <string name="meeting_responded_failed">Не отвечает</string>
-    <string name="meeting_tentative">Под вопросом: %s</string>
-    <string name="meeting_updated">Обновлено: %s</string>
-    <string name="meeting_when">Когда: %s</string>
-    <string name="meeting_where">Где: %s</string>
+    <string name="meeting_tentative">
+	Под вопросом:
+%s</string>
+    <string name="meeting_updated">
+	Обновлено:
+%s</string>
+    <string name="meeting_when">
+	Когда:
+%s</string>
+    <string name="meeting_where">
+	Где:
+%s</string>
     <string name="megabytes">%s МБ</string>
     <string name="menu_att_mgr">Вложения</string>
     <string name="menu_att_mgr_order_default">Недавно просмотренные</string>
@@ -585,8 +620,7 @@
     <string name="message_invite_tentative">Возможно</string>
     <string name="message_invite_title">Приглашение календаря</string>
     <string name="message_saved">Черновик сохранен.</string>
-    <string name="message_view_attachment_background_load">"Вложения в пересылаемом сообщении
- будут загружены перед отправкой."</string>
+    <string name="message_view_attachment_background_load">"Вложения в пересылаемом сообщении будут загружены перед отправкой."</string>
     <string name="mibill_privacy_policy_button1">Позже</string>
     <string name="mibill_privacy_policy_button2">Принять</string>
     <string name="mibill_privacy_policy_description">Разрешить Mi Wallet анализ и управление банковскими платежами. Это функция отключена по умолчанию для рабочих адресов электронной почты.</string>
@@ -601,6 +635,7 @@
     <string name="network_error">Нет соединения</string>
     <string name="network_invaild">Не удается подключиться к сети</string>
     <string name="network_not_available">Не удается подключиться к сети</string>
+    <string name="network_tip">Ошибка аутентификации, проверьте подключение к сети</string>
     <string name="network_try_again">Проверьте подключение и повторите попытку</string>
     <string name="network_unavailable">Сеть недоступна</string>
     <string name="new_incoming_messages_one">Новое сообщение от %s</string>
@@ -676,7 +711,8 @@
     <string name="password_expire_warning_content_title">Истекает срок действия пароля блокировки экрана</string>
     <string name="password_expire_warning_dialog_content_fmt">Необходимо сменить код или пароль блокировки экрана в ближайшее время, иначе данные аккаунта %s будут удалены. Изменить сейчас?</string>
     <string name="password_expire_warning_dialog_title">Истекает срок действия пароля блокировки экрана</string>
-    <string name="password_expire_warning_ticker_fmt">Аккаунт \"%s\" требует изменить код или пароль экрана блокировки.</string>
+    <string name="password_expire_warning_ticker_fmt">Аккаунт \"%s\" требует изменить код 
+или пароль экрана блокировки.</string>
     <string name="password_expired_content_title">Пароль блокировки экрана устарел</string>
     <string name="password_expired_dialog_content_fmt">Данные аккаунта %s были удалены с вашего устройства. Вы можете восстановить их путем изменения вашего PIN-кода или пароля. Изменить сейчас?</string>
     <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
@@ -700,6 +736,7 @@
     <string name="permission_access_provider_label">Доступ к данным пользователя</string>
     <string name="permission_read_attachment_desc">Разрешает приложению открывать вложения электронных писем</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
+	<string name="permission_tip">Конфигурация завершается с ошибкой, разрешите вызовы и текстовые сообщения во время разрешений конфигурации</string>
     <string name="phone">телефоном</string>
     <string name="photo_load_failed">Не удалось загрузить изображение</string>
     <string name="photo_view_count" formatted="false">%d из %d</string>
@@ -747,6 +784,7 @@
     <string name="preview_attachment">Просмотр</string>
     <string name="previous_action">Назад</string>
     <string name="print">Печать</string>
+	<string name="privacy_policy">Политика конфиденциальности</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol_setting_toast">Нажмите на правый верхний угол для перехода к настройкам</string>
     <string name="pull_to_refresh">Потяните вниз для обновления</string>
@@ -760,6 +798,9 @@
     <string name="push_wps_confirm_message">Попробуйте использовать WPS Office для открытия вложения.</string>
     <string name="push_wps_confirm_title">Попробовать WPS Office</string>
     <string name="push_wps_no_response_app">Нет приложения для выполнения этого действия</string>
+	<string name="qq_authorization_help_get">Получить код</string>
+	<string name="qq_authorization_know">О коде</string>
+	<string name="qq_authorization_tips">"Больше не показывать"</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Код скопирован. Вернитесь на страницу входа и вставьте код в форму пароля.</string>
     <string name="qq_auto_login_failed_dialog_message">Скопируйте код подтверждения, нажмите \"Ввести имя пользователя и пароль\" на странице входа и вставьте код в форму пароля.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Скопировать код</string>
@@ -773,6 +814,7 @@
     <string name="qq_login_webview">Авторизация в веб-клиенте QQ, нажмите Войти с помощью пароля.</string>
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
+	<string name="qq_verify_code">(Требуется код подтверждения от QQ)</string>
     <string name="qq_webview_loading">Секунду…</string>
     <string name="questionnair_body_invisibility">Сообщения не отображаются</string>
     <string name="questionnair_confirm_delete">Удалить аккаунт?</string>
@@ -840,9 +882,14 @@
     <string name="reply_all">Ответить всем</string>
     <string name="reply_attribution" formatted="false">%s | От: %s | Сообщение:</string>
     <string name="report_phishing">Сообщить о фишинге</string>
-    <string name="report_spam">Сообщить о спаме</string>
+	<string name="report_rendering_improvement">Выглядит хорошо</string>
+	<string name="report_rendering_improvement_desc">Это сообщение выглядит хорошо.</string>
+	<string name="report_rendering_problem">Выглядит плохо</string>
+	<string name="report_rendering_problem_desc">Это сообщение выглядит плохо.</string>
+	<string name="report_spam">Сообщить о спаме</string>
     <string name="request_copy_db_to_disk">Приложение Почта запрашивает разрешение на копирование базы данных в файл</string>
     <string name="request_entity_large">Файл слишком большой</string>
+	<string name="request_permission_activity">Запрос разрешения</string>
     <string name="respond_inline">Вставить в текст</string>
     <string name="retry_login">Войти повторно</string>
     <string name="save_action">Сохранить</string>
@@ -864,8 +911,10 @@
     <string name="search_txt_size_limit_prompt">Поисковой запрос должен содержать более 3 символов</string>
     <string name="security_changed_ticker_fmt">Аккаунт \"%s\" изменил настройки безопасности;никаких действий от пользователя не требуется.</string>
     <string name="security_needed_ticker_fmt">Аккаунт \"%s\" требует обновление настроек безопасности.</string>
-    <string name="security_notification_content_change_title">Политика безопасности изменена</string>
-    <string name="security_notification_content_unsupported_title">Политика безопасности не принята</string>
+    <string name="security_notification_content_change_title">Политика безопасности 
+изменена</string>
+    <string name="security_notification_content_unsupported_title">Политика безопасности 
+не принята</string>
     <string name="security_notification_content_update_title">Требуется обновление системы безопасности</string>
     <string name="security_unsupported_ticker_fmt">Аккаунт \"%s\" не может быть синхронизирован из-за требований системы безопасности.</string>
     <string name="see_more_content">Показать еще</string>
@@ -883,7 +932,7 @@
     <string name="sending_message">Отправка сообщения…</string>
     <string name="sending_quick_reply">Отправка \"%s\"</string>
     <string name="sent_folder_selection_title">Выберите папку \"Отправленные\" на сервере для \"%s\"</string>
-    <string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера
+    <string name="ser_resp_err_map_certificate_validator_err">"Не удается проверить сертификат сервера 
 \u0009 (проверьте, включена ли автосинхронизация)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Слишком много неудачных попыток входа</string>
     <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа</string>
@@ -906,13 +955,15 @@
     <string name="show_images">Загрузить и показать изображения</string>
     <string name="show_password">Показать пароль</string>
     <string name="signature">"
-
-
-
+	
+	
+	
 %s"</string>
     <string name="silent_ringtone">Без звука</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
+	<string name="sms_tip">Ошибка аутентификации, проверьте, не перехватывает ли антивирусное программное обеспечение SMS</string>
     <string name="smtp_password_error">Неверный пароль сервера исходящих сообщений</string>
     <string name="sort_attachment">Сортировка</string>
     <string name="storage">Память</string>
@@ -943,6 +994,7 @@
     <string name="tap_to_configure">Нажмите для настройки</string>
     <string name="tap_to_enable_sync">Нажмите для включения</string>
     <string name="three_day">3 дня</string>
+	<string name="title_activity_about">О программе</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
     <string name="toast_bar_fail_synchronization">Не удается подключиться к сети</string>
@@ -973,7 +1025,9 @@
     <string name="translation_technology_support">Техническая поддержка предоставляется iciba.com</string>
     <string name="trash_folder_selection_title">Выберите корзину на сервере для \"%s\"</string>
     <string name="try_exchange_login">Войти с помощью EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">Изменения, внесенные вами в приложения и аккаунты помимо Gmail будут синхронизированы с интернетом, остальными устройствами, и вашим %1$s.</string>
+    <string name="turn_auto_sync_on_dialog_body">Изменения, внесенные вами
+в приложения и аккаунты помимо Gmail будут синхронизированы с интернетом, 
+остальными устройствами, и вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включить</string>
     <string name="turn_auto_sync_on_dialog_title">Включить автоматическую синхронизацию?</string>
     <string name="unbind_dialog_text">"Ваши электронные письма больше не будут анализироваться.
@@ -983,6 +1037,7 @@
     <string name="unread_string">диалог не прочитан</string>
     <string name="unzip_file_failed">Не удалось распаковать файл</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+    <string name="update_to_wps_mail">Больше возможностей с WPS Mail</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="upload_log">Отправить отчет</string>
     <string name="upload_log_failed">Не удалось отправить</string>
@@ -998,6 +1053,8 @@
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
+	<string name="verify_code">Код подтверждения</string>
+	<string name="version_string">Version: %s</string>
     <string name="via_domain">через %1$s</string>
     <string name="view_more_conversations">Показать другие диалоги</string>
     <string name="wait_for_manual_sync_body">"Этот аккаунт не настроен для автоматической синхронизации.
@@ -1019,7 +1076,4 @@
     <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
     <string name="youfuli">Акция</string>
     <string name="zip_viewer_no_file">Нет файлов.</string>
-    <string name="account_settings_preference_add_account">Новый аккаунт</string>
-    <string name="mailbox_name_display_add_account">Новый аккаунт</string>
-    <string name="update_to_wps_mail">Больше возможностей с WPS Mail</string>
 </resources>

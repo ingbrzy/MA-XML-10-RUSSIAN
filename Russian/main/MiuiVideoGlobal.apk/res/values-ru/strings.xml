@@ -38,6 +38,12 @@
     <string name="lp_videoView_error_text_unknown">Невозможно воспроизвести видео.</string>
     <string name="lp_videoView_error_title">Не удается воспроизвести</string>
     <string name="lp_volume">Громкость</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">Потяните вверх, чтобы обновить Просмотры…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">Секундочку…</string>
+    <string name="pull_to_refresh_from_bottom_release_label">Отпустите, чтобы обновить Просмотры…</string>
+    <string name="pull_to_refresh_pull_label">Потяните вниз, чтобы обновить Просмотры…</string>
+    <string name="pull_to_refresh_refreshing_label">Секундочку…</string>
+    <string name="pull_to_refresh_release_label">Отпустите, чтобы обновить Просмотры…</string>
     <string name="screen_shot_failure">Не удалось сделать снимок</string>
     <string name="screen_shot_failure_tips">Обновите MIUI для снятия снимков экрана.</string>
     <string name="screen_shot_success">Снимок экрана сохранен</string>
@@ -93,11 +99,11 @@
     <string name="t_password_limit">Пароль должен содержать не менее 4 символов</string>
     <string name="t_password_null">Пароль не может быть пустым</string>
     <string name="t_password_wrong">Неверный пароль. Повторите попытку.</string>
-    <string name="t_search_null">Введите ключевые слова для поиска</string>
+    <string name="t_search_null">Введите ключевые слова</string>
     <string name="v_agree">Принять</string>
     <string name="v_app_check_failed">Не удалось проверить приложение</string>
     <string name="v_app_click_to_install">Нажмите для установки</string>
-    <string name="v_app_download_failed">Ошибка загрузки, нажмите, чтобы повторить.</string>
+    <string name="v_app_download_failed">Ошибка загрузки, нажмите для повтора.</string>
     <string name="v_app_downloaded">Загрузка Mi Видео завершена</string>
     <string name="v_app_downloading">Загрузка Mi Видео…</string>
     <string name="v_auto_update">Отложить</string>

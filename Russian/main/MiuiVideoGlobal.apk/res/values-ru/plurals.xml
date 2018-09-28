@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Ускорение субтитров на %.1f секунд</item>
-        <item quantity="one">Ускорение субтитров на %.1f секунду</item>
-        <item quantity="few">Ускорение субтитров на %.1f секунды</item>
+        <item quantity="other">Субтитры будут показаны на %.1f секунд раньше</item>
+        <item quantity="one">Субтитры будут показаны на %.1f секунду раньше</item>
+        <item quantity="few">Субтитры будут показаны на %.1f секунды раньше</item>
+        <item quantity="many">Субтитры будут показаны на %.1f секунд раньше</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Задержка субтитров на %.1f секунд</item>
-        <item quantity="one">Задержка субтитров на %.1f секунду</item>
-        <item quantity="few">Задержка субтитров на %.1f секунды</item>
+        <item quantity="other">Субтитры будут показаны на %.1f секунд позже</item>
+        <item quantity="one">Субтитры будут показаны на %.1f секунду позже</item>
+        <item quantity="few">Субтитры будут показаны на %.1f секунды позже</item>
+        <item quantity="many">Субтитры будут показаны на %.1f секунд позже</item>
     </plurals>
     <plurals name="subtitle_onlinesub_size_float_kb">
         <item quantity="other">Размер: %.2fКБ</item>
         <item quantity="one">Размер: %.2fКБ</item>
         <item quantity="few">Размер: %.2fКБ</item>
+        <item quantity="many">Размер: %.2fКБ</item>
     </plurals>
     <plurals name="v_video_count">
         <item quantity="other">%d видео</item>
         <item quantity="one">%d видео</item>
         <item quantity="few">%d видео</item>
+        <item quantity="many">%d видео</item>
     </plurals>
 </resources>

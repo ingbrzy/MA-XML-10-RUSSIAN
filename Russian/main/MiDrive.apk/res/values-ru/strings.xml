@@ -3,8 +3,8 @@
   <string name="account_logout">Выйти из аккаунта \"%1$s\"</string>
   <string name="action_mode_deselect_all">Снять выбор</string>
   <string name="action_mode_select_all">Выбрать все</string>
-  <string name="adding_upload_tasks">Добавление задач отправки#8230;</string>
   <string name="adding_download_tasks">Добавление задач загрузки#8230;</string>
+  <string name="adding_upload_tasks">Добавление задач отправки#8230;</string>
   <string name="agree">Разрешить</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">Скрыть</string>
@@ -64,7 +64,9 @@
   <string name="no_more_space">Недостаточно места.</string>
   <string name="no_network">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
   <string name="no_tasks">Нет задач</string>
-  <string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в Mi Cloud).</string>
+  <string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:
+1. Скачать (обновить локальный файл).
+2. Загрузить (обновить файл в Mi Cloud).</string>
   <string name="open_changed_file_title">Файл изменен.</string>
   <string name="operating">Обработка&#8230;</string>
   <string name="operation_cancel">Отмена</string>

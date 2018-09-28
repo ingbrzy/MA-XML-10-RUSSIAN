@@ -23,11 +23,82 @@
         <item>пи</item>
         <item>равно</item>
     </string-array>
-    <string-array name="unit_data_order_currency_">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>HKD</item>
-        <item>JPY</item>
-        <item>CNY</item>
+    <string-array name="unit_data_order_area_">
+        <item>кв.км</item>
+        <item>га</item>
+        <item>ар</item>
+        <item>кв.м</item>
+        <item>кв.дм</item>
+        <item>кв.см</item>
+        <item>кв.мм</item>
+        <item>кв.мкм</item>
+        <item>акр</item>
+        <item>кв.миля</item>
+        <item>кв.ярд</item>
+        <item>кв.фут</item>
+        <item>кв.дюйм</item>
+        <item>кв.род</item>
+    </string-array>
+    <string-array name="unit_data_order_length_">
+        <item>км</item>
+        <item>м</item>
+        <item>дм</item>
+        <item>см</item>
+        <item>мм</item>
+        <item>мкм</item>
+        <item>нм</item>
+        <item>пм</item>
+        <item>дм</item>
+        <item>морская миля</item>
+        <item>миля</item>
+        <item>ярды</item>
+        <item>футы</item>
+        <item>дюймы</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>год</item>
+        <item>неделя</item>
+        <item>день</item>
+        <item>ч</item>
+        <item>мин</item>
+        <item>с</item>
+        <item>мс</item>
+        <item>мкс</item>
+        <item>пс</item>
+    </string-array>
+    <string-array name="unit_data_order_velocity_">
+        <item>с</item>
+        <item>Mach</item>
+        <item>миль/с</item>
+        <item>км/ч</item>
+        <item>км/с</item>
+        <item>мор.миль/ч</item>
+        <item>миль/ч</item>
+        <item>к/c</item>
+        <item>дюйм/c</item>
+    </string-array>
+    <string-array name="unit_data_order_volume_">
+        <item>куб.м</item>
+        <item>куб.дм</item>
+        <item>куб.см</item>
+        <item>куб.мм</item>
+        <item>hl</item>
+        <item>л</item>
+        <item>dl</item>
+        <item>cl</item>
+        <item>мл</item>
+        <item>куб.фут</item>
+        <item>куб.дюйм</item>
+        <item>куб.ярд</item>
+    </string-array>
+    <string-array name="unit_data_order_weight_">
+        <item>т</item>
+        <item>кг</item>
+        <item>г</item>
+        <item>мг</item>
+        <item>мкг</item>
+        <item>q</item>
+        <item>фунт</item>
+        <item>унция</item>
     </string-array>
 </resources>

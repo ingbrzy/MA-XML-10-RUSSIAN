@@ -123,10 +123,10 @@
         <item quantity="many">%d приложений разряжают батарею</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d д "</item>
-        <item quantity="one">"%d д "</item>
-        <item quantity="few">"%d д "</item>
-        <item quantity="many">"%d д "</item>
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d д. "</item>
+        <item quantity="few">"%d дн. "</item>
+        <item quantity="many">"%d дн. "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ч "</item>
@@ -135,10 +135,10 @@
         <item quantity="many">"%d ч "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин "</item>
-        <item quantity="one">"%d мин "</item>
-        <item quantity="few">"%d мин "</item>
-        <item quantity="many">"%d мин "</item>
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+        <item quantity="few">"%d мин. "</item>
+        <item quantity="many">"%d мин. "</item>
     </plurals>
     <plurals name="power_center_battery_volume">
         <item quantity="other">%d мАч</item>
@@ -181,6 +181,18 @@
         <item quantity="one">Найдена %d проблема с батареей, решите ее</item>
         <item quantity="few">Найдено %d проблемы с батареей, решите их</item>
         <item quantity="many">Найдено %d проблем с батареей, решите их</item>
+    </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">проблем</item>
+        <item quantity="one">проблема</item>
+        <item quantity="few">проблемы</item>
+        <item quantity="many">проблем</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Добавить %d мин к автономности</item>
+        <item quantity="one">Добавить %d мин к автономности</item>
+        <item quantity="few">Добавить %d мин к автономности</item>
+        <item quantity="many">Добавить %d мин к автономности</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Загрузок: %1$d</item>
@@ -529,6 +541,12 @@
         <item quantity="one">Скрыто %d приложение</item>
         <item quantity="few">Скрыто %d приложения</item>
         <item quantity="many">Скрыто %d приложений</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d приложений могут отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="one">%d приложение может отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="few">%d приложения могут отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="many">%d приложений могут отображаться некорректно. Запретите всплывающие окна.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d проблем требуют решения</item>

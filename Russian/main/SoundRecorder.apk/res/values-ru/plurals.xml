@@ -7,10 +7,10 @@
         <item quantity="many">Мало памяти (менее %d минут)</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">%d записей загружено</item>
-        <item quantity="one">%d запись загружена</item>
-        <item quantity="few">%d записи загружено</item>
-        <item quantity="many">%d записей загружено</item>
+        <item quantity="other">Загружено %d записей</item>
+        <item quantity="one">Загружена %d запись</item>
+        <item quantity="few">Загружено %d записи</item>
+        <item quantity="many">Загружено %d записей</item>
     </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d записей</item>

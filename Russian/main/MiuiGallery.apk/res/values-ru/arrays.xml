@@ -4,20 +4,6 @@
         <item>Мальчик</item>
         <item>Девочка</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>Янв</item>
-        <item>Фев</item>
-        <item>Мар</item>
-        <item>Апр</item>
-        <item>Май</item>
-        <item>Июн</item>
-        <item>Июл</item>
-        <item>Авг</item>
-        <item>Сен</item>
-        <item>Окт</item>
-        <item>Ноя</item>
-        <item>Дек</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>
@@ -42,5 +28,90 @@
         <item>Бабушка по отцу</item>
         <item>Дедушка по матери</item>
         <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>В прошлый понедельник</item>
+        <item>В прошлый вторник</item>
+        <item>В прошлую среду</item>
+        <item>В прошлый четверг</item>
+        <item>В прошлую пятницу</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Прошлый Китайский Новый год"</item>
+        <item>Прошлый Китайский Новый год</item>
+        <item>Прошлый Фестиваль фонарей</item>
+        <item>Прошлый Праздник драконьих лодок</item>
+        <item>Прошлый Сорочий праздник</item>
+        <item>Прошлый Праздник середины осени</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Китайский Новый год на протяжении лет"</item>
+        <item>Китайский Новый год на протяжении лет</item>
+        <item>Фестиваль фонарей на протяжении лет</item>
+        <item>Праздник драконьих лодок на протяжении лет</item>
+        <item>Сорочий праздник на протяжении лет</item>
+        <item>Праздник середины осени на протяжении лет</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Прошлый Новый год"</item>
+        <item>"Прошлый день святого Валентина"</item>
+        <item>Прошлый День труда</item>
+        <item>"Прошлый День ребёнка"</item>
+        <item>Прошлый Праздник Двух Десяток</item>
+        <item>Прошлое Рождество Христово</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Новый год на протяжении лет"</item>
+        <item>"День святого Валентина на протяжении лет"</item>
+        <item>День труда на протяжении лет</item>
+        <item>"День ребёнка на протяжении лет"</item>
+        <item>Праздник Двух Десяток на протяжении лет</item>
+        <item>Рождество Христово на протяжении лет</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Прошлый январь</item>
+        <item>Прошлый февраль</item>
+        <item>Прошлый март</item>
+        <item>Прошлый апрель</item>
+        <item>Прошлый май</item>
+        <item>Прошлый июнь</item>
+        <item>Прошлый июль</item>
+        <item>Прошлый август</item>
+        <item>Прошлый сентябрь</item>
+        <item>Прошлый октябрь</item>
+        <item>Прошлый ноябрь</item>
+        <item>Прошлый декабрь</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Январьские воспоминания</item>
+        <item>Февральские воспоминания</item>
+        <item>Мартовские воспоминания</item>
+        <item>Апрельские воспоминания</item>
+        <item>Майские воспоминания</item>
+        <item>Июньские воспоминания</item>
+        <item>Июльские воспоминания</item>
+        <item>Августовские воспоминания</item>
+        <item>Сентябрьские воспоминания</item>
+        <item>Октябрьские воспоминания</item>
+        <item>Ноябрьские воспоминания</item>
+        <item>Декабрьские воспоминания</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Прошлая весна</item>
+        <item>Прошлое лето</item>
+        <item>Прошлая осень</item>
+        <item>Прошлая зима</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Весенние воспоминания</item>
+        <item>Летние воспоминания</item>
+        <item>Осенние воспоминания</item>
+        <item>Зимние воспоминания</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Резюме весны</item>
+        <item>Резюме лета</item>
+        <item>Резюме осени</item>
+        <item>Резюме зимы</item>
     </string-array>
 </resources>

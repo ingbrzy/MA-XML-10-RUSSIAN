@@ -71,6 +71,7 @@
     <string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
     <string name="incoming_file_confirm_timeout_ok">ОК</string>
     <string name="incoming_file_confirm_title">Передача файла</string>
+	<string name="incoming_file_toast_msg">Входящий файл от другого устройства. Подтвердите, что хотите получить этот файл.</string>
     <string name="incoming_line1">От</string>
     <string name="incoming_line2">Имя файла</string>
     <string name="incoming_line3">Размер</string>
@@ -102,8 +103,10 @@
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
     <string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
     <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести устройство Bluetooth в белый список и разрешит ему отправлять файлы на ваше устройство, не требуя от вас подтверждения</string>
+	<string name="permdesc_handoverStatus">Позволяет получать информацию о состоянии передачи по Bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки.</string>
     <string name="permlab_bluetoothWhitelist">Доступ для устройств Bluetooth из белого списка</string>
+	<string name="permlab_handoverStatus">Получать трансляции передачи по Bluetooth.</string>
     <string name="start_server">Запустить TCP-сервер</string>
     <string name="status_canceled">Передача отменена.</string>
     <string name="status_connection_error">Не удалось установить соединение.</string>
@@ -132,6 +135,7 @@
     <string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\".</string>
     <string name="upload_fail_line1_2">Файл: %1$s</string>
     <string name="upload_fail_ok">Повторить</string>
+	<string name="upload_fail_waiting">Подготовка отправки файлов, автоматическая передача после</string>
     <string name="upload_line1">Куда: \"%1$s\"</string>
     <string name="upload_line3">Тип файла: %1$s (%2$s)</string>
     <string name="upload_line5">Отправка файла...</string>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Вибрация при звонке</item>
+        <item>Вибрация при входящем сообщении</item>
+        <item>Вибрация при будильнике</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Сделать фото</item>
+        <item>Найти телефон</item>
+        <item>Найти Mi-key</item>
+    </string-array>
     <string-array name="ble_package_names">
         <item></item>
         <item>Mi Fit</item>

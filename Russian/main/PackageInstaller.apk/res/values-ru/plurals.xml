@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Еще %1$d разрешений</item>
+        <item quantity="one">Еще %1$d разрешение</item>
+        <item quantity="few">Еще %1$d разрешения</item>
+    </plurals>
+</resources>
