@@ -56,10 +56,11 @@
     <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
     <string name="toast_fm_recorder_storage_full">Ошибка записи. Память заполнена.</string>
     <string name="toast_fm_error_startfailed">Ошибка записи. Возможно, запись запущена в другом приложении.</string>
-    <string name="toast_fm_recorder_access_error">Невозможно записывать радио в режиме \"Гость\"</string>
+    <string name="toast_fm_recorder_access_error">Нельзя записывать радио в режиме \"Гость\"</string>
     <string name="fm_has_turned_off">Радио выключено</string>
     <string name="msg_fm_starting">Запуск…</string>
     <string name="txt_sleep_mode">Таймер сна</string>
+    <string name="txt_divider">" | "</string>
     <string name="group_favor">Избранные станции</string>
     <string name="group_other">Другие станции</string>
     <string name="using_recorder_dialog_title">Требуются разрешения</string>

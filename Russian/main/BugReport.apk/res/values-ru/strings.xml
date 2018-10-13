@@ -57,6 +57,7 @@
     <string name="save_pic_success">Изображение сохранено в %s</string>
     <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберите продукт</string>
     <string name="michat_skillset_business_type_title">Выберите сервис</string>
     <string name="michat_close_text">Чат завершен</string>
@@ -324,7 +325,7 @@
     <string name="toast_post_deleted">Эта тема не существует, была удалена или изменена</string>
     <string name="toast_log_not_exists">Необходимый журнал был удален или не существует</string>
     <string name="toast_pic_not_exists">Сохраненное изображение было удалено</string>
-    <string name="toast_screenshot_too_large">Невозможно отправить файл размером более 10 МБ</string>
+    <string name="toast_screenshot_too_large">Нельзя отправить файл размером более 10 МБ</string>
     <string name="toast_log_too_large">Файл слишком большой для отправки</string>
     <string name="title_customer_service">Обслуживание пользователей</string>
     <string name="customer_service_apply">Запросить обслуживание</string>

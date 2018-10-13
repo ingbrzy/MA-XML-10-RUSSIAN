@@ -363,16 +363,16 @@
         <item quantity="many">%d дней с момента последней проверки</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d угроз,</item>
-        <item quantity="one">%d угроза,</item>
-        <item quantity="few">%d угрозы,</item>
-        <item quantity="many">%d угроз,</item>
+        <item quantity="other">%d risks,</item>
+        <item quantity="one">%d risk,</item>
+        <item quantity="few">%d risks,</item>
+        <item quantity="many">%d risks,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d вирусов</item>
-        <item quantity="one">%d вирус</item>
-        <item quantity="few">%d вируса</item>
-        <item quantity="many">%d вирусов</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
+        <item quantity="few">%d trojans</item>
+        <item quantity="many">%d trojans</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасные приложения: %d</item>
@@ -543,10 +543,10 @@
         <item quantity="many">Скрыто %d приложений</item>
     </plurals>
     <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d приложений могут отображаться некорректно. Запретите всплывающие уведомления.</item>
-        <item quantity="one">%d приложение может отображаться некорректно. Запретите всплывающие уведомления.</item>
-        <item quantity="few">%d приложения могут отображаться некорректно. Запретите всплывающие уведомления.</item>
-        <item quantity="many">%d приложений могут отображаться некорректно. Запретите всплывающие уведомления.</item>
+        <item quantity="other">%d приложений могут отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="one">%d приложение может отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="few">%d приложения могут отображаться некорректно. Запретите всплывающие окна.</item>
+        <item quantity="many">%d приложений могут отображаться некорректно. Запретите всплывающие окна.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d проблем требуют решения</item>

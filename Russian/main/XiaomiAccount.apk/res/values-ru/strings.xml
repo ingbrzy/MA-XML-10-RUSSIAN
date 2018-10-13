@@ -9,7 +9,7 @@
     <string name="passport_login">Войти</string>
     <string name="passport_relogin">Войти повторно</string>
     <string name="passport_skip_login">Пропустить</string>
-    <string name="passport_skip_setup_account_title">Пропустить настройку?</string>
+    <string name="passport_skip_setup_account_title">Не использовать Mi Cloud?</string>
     <string name="passport_skip_setup_account_msg">Вы можете настроить Mi аккаунт позже.</string>
     <string name="passport_confirm_login">Продолжить</string>
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
@@ -316,7 +316,7 @@
     <string name="replace_binded_phone">Заменить телефон</string>
     <string name="delete_action">Удалить</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
-    <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Все равно начать сначала?</string>
+    <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_action">Начать сначала</string>
     <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi аккаунтом.</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
@@ -381,7 +381,7 @@
     <string name="completed">Настройка завершена!</string>
     <string name="no_network_title">Не удается подключиться к сети</string>
     <string name="no_network_btn">Обновить</string>
-    <string name="get_device_list_failed">Не удается получить список устройств</string>
+    <string name="get_device_list_failed">Не удается получить список</string>
     <string name="delete_device_failed">Ошибка удаления устройства</string>
     <string name="empty_device_list_notice">Нет устройств</string>
     <string name="device_name">Имя устройства</string>
@@ -421,7 +421,7 @@
     <string name="confirm_delete_device_message">После удаления этого устройства вам придется подтвердить свой номер телефона при следующем входе в Mi аккаунт с него.</string>
     <string name="confirm_delete_app_message">После удаления этого приложения вам придется подтвердить свой номер телефона при следующем входе в Mi аккаунт из него.</string>
     <string name="confirm_delete_browser_message">После удаления этого браузера вам придется подтвердить свой номер телефона при следующем входе в Mi аккаунт из него.</string>
-    <string name="delete_lock_device_success">Успешно удалено</string>
+    <string name="delete_lock_device_success">Удаление завершено</string>
     <string name="verify_phone_title">Подтвердите номер телефона</string>
     <string name="verify_phone_prompt">Выберите номер телефона для проверки</string>
     <string name="sms_send_success">Отправлено</string>
@@ -433,7 +433,7 @@
     <string name="login_check_find_device">Получение данных безопасности…</string>
     <string name="unlock_help_notice">"Справка:
 1. Если вы забыли свой пароль, перейдите на id.mi.com для его сброса.
-2. Если вы не можете сбросить пароль, перейдите на i.mi.com для разблокировки устройства
+2. Если вы не можете сбросить пароль, перейдите на i.mi.com для разблокировки устройства.
 3. Ваш код разблокировки: %s"</string>
     <string name="login_find_device_bind">Это устройство связано с существующим Mi аккаунтом (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, связанный номер телефона: %s</string>

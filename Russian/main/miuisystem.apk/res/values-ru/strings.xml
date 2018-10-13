@@ -6,7 +6,7 @@
     <string name="presentation_private">Скрытый номер</string>
     <string name="presentation_unknown">Неизвестный номер</string>
     <string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
-    <string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправлять сообщения в режиме \"Гость\"</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Нельзя отправлять сообщения в режиме \"Гость\"</string>
     <string name="yellow_page_sms_send_failed">Не удалось отправить сообщение</string>
     <string name="yellow_page_sms_sending">Отправка…</string>
     <string name="yellow_page_unable_send_sms">Не удалось отправить сообщение</string>

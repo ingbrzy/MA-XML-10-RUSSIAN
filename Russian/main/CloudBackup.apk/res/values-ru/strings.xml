@@ -31,10 +31,10 @@
     <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
     <string name="cloud_back_up_share_activity_confirm">Повысить</string>
     <string name="cloud_back_up_detail_discription">"При подключении к Wi-Fi в Mi Cloud будут созданы резервные копии следующих объектов: 
-*\u0009\u0009\u0009\u0009Приложения, рабочий стол, обои 
-*\u0009\u0009\u0009\u0009Настройки будильника, часов и времени 
-*\u0009\u0009\u0009\u0009Настройки уведомлений 
-*\u0009\u0009\u0009\u0009Настройки MIUI и системы 
+*  Приложения, рабочий стол и обои 
+*  Настройки будильника, часов и времени 
+*  Настройки уведомлений 
+*  Настройки MIUI и системы 
 Внимание: данные установленных приложений не будут сохранены в Mi Cloud."</string>
     <string name="cloud_app_no_data">Нет резервных копий</string>
     <string name="cloud_app_restore_error">Восстановление не удалось</string>
@@ -45,10 +45,13 @@
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настроить</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
-    <string name="self_phone">Это устройство</string>
-    <string name="self_phone_home">Это устройство: %s</string>
+    <string name="home_hint_other_launcher">Другой рабочий стол</string>
+    <string name="self_device">"Это устройство "</string>
+    <string name="main_space">Первое пространство</string>
+    <string name="second_space">Второе пространство</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
-    <string name="device_xiaomi">Mi Phone</string>
     <string name="size_unknown">Размер неизвестен</string>
     <string name="recovering">Восстановление %s</string>
     <string name="start_recover">Восстановить %s</string>
@@ -76,7 +79,6 @@
     <string name="open_wifi">Включите Wi-Fi</string>
     <string name="open_wifi_description">Для восстановления приложений подключитесь к Wi-Fi.</string>
     <string name="open_wifi_setting">Настройки Wi-Fi</string>
-    <string name="name_model">Устройство: %2$s (%1$s)</string>
     <string name="download_settings">Загрузка настроек рабочего стола: %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
@@ -129,12 +131,18 @@
     <string name="restore_data_title">Восстановление данных</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удается подключиться</string>
+    <string name="loading_user_backup">Загрузка резервных копий…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="no_account">Не выполнен вход в Mi аккаунт</string>
     <string name="no_backup">Нет резервных копий в Mi Cloud</string>
     <string name="download_meta_failed">Не удалось загрузить данные</string>
     <string name="home_restore_error">Не удалось восстановить рабочий стол</string>
     <string name="get_device_id_error">Не удалось получить ID устройства</string>
+    <string name="unsupported_home">Обновите ОС до последней версии.</string>
+    <string name="error_retry_later">Ошибка, повторите попытку позже.</string>
+    <string name="try_continue">Нажмите для продолжения</string>
     <string name="download_home_data">Загрузка данных рабочего стола…</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
     <string name="arrange_restore_order">Упорядочивание приложений…</string>
@@ -145,6 +153,7 @@
     <string name="download_meta_again">Не удалось загрузить, повторите попытку</string>
     <string name="cancel_restore_home">Отмена восстановления…</string>
     <string name="cancel_backup">Отмена резервирования…</string>
+    <string name="load_backup_failed">Ошибка загрузки копий</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_btn_next">Далее</string>

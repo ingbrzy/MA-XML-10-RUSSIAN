@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
@@ -16,7 +17,7 @@
     <string name="activity_title_contacts_filter">Фильтр контактов</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="addPeopleToGroup">Для добавления контактов отредактируйте группу</string>
-    <string name="add_2sec_pause">Добавить 2-сек. паузу</string>
+    <string name="add_2sec_pause">Добавить паузу 2 с</string>
     <string name="add_account">Добавить аккаунт</string>
     <string name="add_blacklist">Заблокировать</string>
     <string name="add_blacklist_dialog_message">Блокировать вызовы и сообщения от этого номера?</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -487,6 +489,7 @@
     <string name="force_touch_miprofile">Визитка</string>
     <string name="force_touch_new_contact">Новый контакт</string>
     <string name="frequentList">Часто вызываемые</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Ваши контакты будут в безопасности даже в случае потери телефона: синхронизация с онлайн-сервисом.</string>
@@ -667,6 +670,7 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
@@ -750,8 +754,8 @@
     <string name="noRecentContacts">Нет контактов</string>
     <string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
 
-• Всегда иметь под рукой обновленные данные – на любом устройстве
-• Синхронизировать все контакты – Вы никогда не потеряете их"</string>
+• Всегда иметь под рукой актуальные данные на любом устройстве.
+• Синхронизировать все контакты – вы никогда не потеряете их."</string>
     <string name="no_contact_details">Нет других данных об этом контакте</string>
     <string name="no_contact_in_other_phone">Нет контактов</string>
     <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно, контакты находятся на SIM карте. Для поиска импортируйте их во внутреннюю память.</string>
@@ -811,7 +815,10 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Управление контактами/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -1058,6 +1065,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1192,6 +1200,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
@@ -1218,5 +1227,4 @@
     <string name="yellowpage_search_the_yellowpage">Поиск в Справочнике</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="zero_items_selected">Выберите контакты</string>
-    <string name="button_my_center">Профиль</string>
 </resources>

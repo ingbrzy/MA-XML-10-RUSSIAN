@@ -114,6 +114,12 @@
         <item quantity="few">Можно ввести до %1$d дней</item>
         <item quantity="many">Можно ввести до %1$d дней</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Поддерживается до %d напоминаний</item>
+        <item quantity="one">Поддерживается до %d напоминания</item>
+        <item quantity="few">Поддерживается до %d напоминаний</item>
+        <item quantity="many">Поддерживается до %d напоминаний</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>

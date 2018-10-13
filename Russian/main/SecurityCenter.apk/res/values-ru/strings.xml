@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -204,7 +206,7 @@
     <string name="report_only">Выберите сообщение для отчета</string>
     <string name="report_success">Отчет отправлен</string>
     <string name="report_error">Не удалось отправить отчет</string>
-    <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
+    <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
     <string name="report_warning_title">Внимание</string>
     <string name="st_sub_title_customize_mode_name">Название</string>
     <string name="read_all_sms">Прочитать все</string>
@@ -239,10 +241,10 @@
     <string name="st_antispam_title_service_sms">Сервисные сообщения</string>
     <string name="st_summary_keywords_blacklist">Блокировать сообщения, содержащие указанные ключевые слова</string>
     <string name="st_summary_blacklist_numbers">Блокировать вызовы и сообщения с определенных номеров и регионов</string>
-    <string name="st_summary_whitelist_numbers">Не блокировать вызовы и сообщения с определенных номеров и регионов</string>
+    <string name="st_summary_whitelist_numbers">Разрешать вызовы и сообщения только с определенных номеров и регионов</string>
     <string name="st_summary_blacklist_numbers_international">Блокировать вызовы и сообщения с определенных номеров</string>
-    <string name="st_summary_whitelist_numbers_international">Не блокировать вызовы и сообщения с определенных номеров</string>
-    <string name="st_summary_special_numbers">Блокировать отмеченные телефонные номера</string>
+    <string name="st_summary_whitelist_numbers_international">Разрешать вызовы и сообщения только с определенных номеров</string>
+    <string name="st_summary_special_numbers">Блокировать отмеченные номера</string>
     <string name="st_antispam_mode_smart_sum">Блокировать вызовы и сообщения с номеров из черного списка и отмеченных пользователями</string>
     <string name="st_antispam_mode_blacklist_sum">Блокировать вызовы и сообщения с номеров из черного списка</string>
     <string name="st_antispam_mode_only_contacts_sum">Разрешать вызовы и сообщения только с номеров из списка контактов</string>
@@ -305,7 +307,7 @@
     <string name="antispam_notificaiton_type_show_except_blacklist">Кроме заблокированных</string>
     <string name="antispam_notificaiton_type_show_none">Не показывать</string>
     <string name="name">Имя</string>
-    <string name="nickname">Ник</string>
+    <string name="nickname">Псевдоним</string>
     <string name="phone">Телефон</string>
     <string name="email">Email</string>
     <string name="organization">Организация</string>
@@ -377,7 +379,6 @@
     <string name="main_month_used">Месячный лимит</string>
     <string name="main_leisure_remained">Остаток льготного трафика</string>
     <string name="main_bill_remained">Баланс</string>
-    <string name="main_used_bill">%s CNY</string>
     <string name="main_no_info">Данных нет</string>
     <string name="guide_quck_open">Включить</string>
     <string name="guide_wait_setting">Не сейчас</string>
@@ -385,13 +386,6 @@
     <string name="guide_second_text">После выбора оператора MIUI будет ежедневно отслеживать мобильный трафик путем отправки бесплатных SMS. Если MIUI обнаружит превышение лимита, мобильный интернет будет отключен, а вам направлено уведомление.</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Неверный оператор?&lt;/U>&lt;/font>"</string>
     <string name="card_tc_failed">Ошибка калибровки</string>
-    <string name="card_tc_failed_content">"Возможные причины:
- 1. Скорость реакции оператора уменьшается в начале и в конце месяца. Повторите попытку через пару дней.
- 2. Для первичной калибровки требуется шаблон сетевого запроса. Подключитесь к сети и повторите попытку.
- 3. Ваш оператор может не поддерживать отправку текстовых сообщений с информацией об остатке трафика и балансе. Свяжитесь с оператором для уточнения информации.
- 4. Возможна ошибка при передаче данных. Попробуйте использовать Диагностику сети.
- 5. Ничего не помогло? Нажмите \"Отчет по SMS\" для отправки отчета в Xiaomi в виде текстового сообщения."</string>
-    <string name="card_sms_report">Отчет по SMS</string>
     <string name="main_normal_data_usage">Использованный трафик</string>
     <string name="main_tc_send_sms">"Отправить SMS
 для калибровки"</string>
@@ -423,7 +417,7 @@
     <string name="firewall_network_restrict_notify_mobile">Мобильный трафик</string>
     <string name="firewall_network_restrict_notify_message">Нажмите для изменения настроек.</string>
     <string name="firewall_restrict_android_dialog_title">Внимание</string>
-    <string name="firewall_restrict_android_dialog_content">Некоторые приложения будут подключаться к интернету для обеспечения нормальной работы системы. Они будут использовать мобильный интернет и могут расходовать незначительное количество трафика.</string>
+    <string name="firewall_restrict_android_dialog_content">Для обеспечения нормальной работы вашего устройства некоторые приложения будут подключаться к интернету. Они будут использовать мобильный интернет и могут расходовать незначительное количество трафика.</string>
     <string name="background_restrict_app_dialog_message">Ограничение фонового подключения для этого приложения может привести к тому, что приложение не сможет нормально работать, получать сообщения, загружать данные и т.д. Ограничить подключение?</string>
     <string name="firewall_allow_network">Разрешить</string>
     <string name="app_bg_restrict_dialog_message">Ограничение фоновых подключений может помешать нормальной работе приложения. Например, оно больше не сможет получать сообщения или обновлять данные.</string>
@@ -462,6 +456,7 @@
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -556,7 +551,6 @@
     <string name="traffic_setting_fragment_send_num_tips">Введите номер телефона</string>
     <string name="traffic_setting_fragment_sms_content_tips">Введите сообщение</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Больше не показывать</string>
-    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Неверный оператор?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_body">Нажмите для просмотра.</string>
     <string name="data_usage_mobile_limit_title">Достигнут лимит трафика</string>
     <string name="data_usage_limit_body">Нажмите для включения интернета.</string>
@@ -566,7 +560,7 @@
     <string name="data_usage_leisure_warning_body">Нажмите для просмотра.</string>
     <string name="data_usage_correction_timeout_title">Превышено время синхронизации трафика</string>
     <string name="data_usage_no_total_package_title">Настройте лимит трафика</string>
-    <string name="data_usage_no_total_package_body">Нажмите для настройки</string>
+    <string name="data_usage_no_total_package_body">Нажмите для настройки.</string>
     <string name="data_usage_no_total_package_body_dual">Лимит трафика для %s не настроен</string>
     <string name="data_usage_warning_title_notify">Лимит трафика превышен</string>
     <string name="data_usage_warning_body_notify">Нажмите для просмотра.</string>
@@ -635,7 +629,6 @@
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_unicom">10010</string>
     <string name="operator_number_telcom">10000</string>
-    <string name="operator_mi_sim">Mi SIM</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
@@ -669,7 +662,7 @@
     <string name="tc_sms_report_notify_correction_body">Перейдите в модуль передачи данных и обновите данные вручную.</string>
     <string name="tc_sms_report_notify_get_failure_body">Не удалось отправить отчет о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS отчет о трафике</string>
-    <string name="tc_sms_report_tips_dialog_message">Для получения актуальной информации о трафике от вашего оператора было отправлено SMS. Если вы считаете, что информация неверна, пришлите нам отчет.</string>
+    <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
     <string name="tc_sms_report_get_sms_failure">Не удалось получить информацию о трафике</string>
     <string name="tc_sms_report_get_sms_timeout">Время ожидания истекло</string>
     <string name="tc_sms_report_get_sms_successs">Информация о трафике обновлена</string>
@@ -689,7 +682,6 @@
     <string name="pref_roaming_setting_gategory">Настройки</string>
     <string name="pref_allow_connect_network_title">Интернет в роуминге</string>
     <string name="pref_whitelist_setting">Исключения</string>
-    <string name="firewall_rule_group_title_roaming">Интернет в роуминге</string>
     <string name="dialog_roaming_title">Разрешить интернет в роуминге?</string>
     <string name="dialog_roaming_message">Ваш оператор связи может взимать дополнительную плату за использование данных в роуминге.</string>
     <string name="add_to_whitelist_button">Исключения</string>
@@ -697,13 +689,12 @@
     <string name="roaming_not_start_body">Нажмите для просмотра настроек роуминга.</string>
     <string name="roaming_start_title">Интернет в роуминге</string>
     <string name="roaming_start_body">Нажмите для просмотра списка исключений.</string>
-    <string name="dialog_app_roaming_title">%1$s не может использовать интернет в роуминге</string>
+    <string name="dialog_app_roaming_title">%1$s без доступа в интернет</string>
     <string name="dialog_app_roaming_message">%1$s не может использовать мобильный интернет в роуминге. Только приложения из списка исключений могут использовать мобильный интернет.</string>
     <string name="add_miservice_dialog_title">Xiaomi Service Framework</string>
     <string name="add_miservice_dialog_content">%s требует добавить Xiaomi Service Framework в список исключений. Вы можете получать уведомления от системных и сторонних приложений.</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Суточный лимит</string>
     <string name="pref_roaming_daily_limit_setting">Суточный лимит в роуминге</string>
-    <string name="mian_page_primary_txt">Интернет в роуминге</string>
     <string name="hints_input_roaming_daily_limit">Введите лимит трафика</string>
     <string name="roaming_limit_notification_title">Достигнут лимит трафика</string>
     <string name="roaming_limit_warning_notification_body">Нажмите для просмотра.</string>
@@ -741,9 +732,6 @@
     <string name="btn_start_diagnostic">Диагностика сети</string>
     <string name="btn_stop_diagnostic">Остановить</string>
     <string name="btn_finish_diagnostic">OK</string>
-    <string name="main_toolbar_internet_by_pc_brige">Интернет по USB</string>
-    <string name="main_toolbar_internet_by_wifi">Интернет по Wi-Fi</string>
-    <string name="main_toolbar_internet_by_mobiledata">Мобильный интернет</string>
     <string name="connect_internet_by_usbshare">Интернет по USB</string>
     <string name="connect_internet_by_mobiledata">Мобильный интернет</string>
     <string name="connect_internet_by_wifi">Wi-Fi</string>
@@ -751,7 +739,6 @@
     <string name="enable_network">Необходимо подключение к сети</string>
     <string name="disable_air_mode">Сначала отключите режим полета</string>
     <string name="repair">Исправить</string>
-    <string name="check_network_state">Диагностика сети</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
     <string name="apn_exception_title">Проверка настроек APN</string>
     <string name="apn_exception_summary">Диагностика конфигурации APN</string>
@@ -838,7 +825,7 @@
     <string name="network_speed_for_apps_title">Подключение</string>
     <string name="network_speed_for_apps_total">Скорость подключения</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Закрыть принудительно?</string>
-    <string name="network_speed_for_apps_close_system_app_dlg_msg">Невозможно принудительно закрыть системное приложение.</string>
+    <string name="network_speed_for_apps_close_system_app_dlg_msg">Нельзя принудительно закрыть системное приложение.</string>
     <string name="network_speed_for_apps_close">Закрыть</string>
     <string name="network_speed_for_apps_others">Другое</string>
     <string name="tc_diagnostic_title">Диагностика оператора</string>
@@ -873,16 +860,16 @@
     <string name="tc_diagnostic_location_error_notification_title">Неверное местоположение</string>
     <string name="tc_diagnostic_location_error_notification_summary">Нажмите для корректировки местоположения</string>
     <string name="tc_diagnostic_operator_error_notification_title">Неверный оператор</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Нажмите для изменения настроек</string>
+    <string name="tc_diagnostic_operator_error_notification_summary">Нажмите для изменения оператора.</string>
     <string name="tc_diagnostic_brand_error_notification_title">Неверный тип сети</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Нажмите для корректировки типа сети</string>
+    <string name="tc_diagnostic_brand_error_notification_summary">Нажмите для изменения типа сети.</string>
     <string name="tc_diagnostic_all_error_notification_title">Не удалось завершить диагностику</string>
     <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчета.</string>
     <string name="tc_diagnostic_success_notification_title">Сеть и бренд оператора установлены верно</string>
     <string name="tc_diagnostic_success_notification_summary">Отправьте отчет, чтобы помочь MIUI улучшить инструменты диагностики</string>
     <string name="tc_diagnostic_repair_success_toast">Изменения внесены</string>
     <string name="tc_diagnostic_complete">Готово</string>
-    <string name="tc_diagnostic_notification_sumarry">Нажмите для просмотра результатов</string>
+    <string name="tc_diagnostic_notification_sumarry">Нажмите для просмотра результатов.</string>
     <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Диагностика завершена, исправлено местоположение.&lt;/font>"</string>
     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Диагностика завершена, исправлено местоположение и данные оператора.&lt;/font>"</string>
     <string name="diagnostic_attention_dialog_message">Проводится диагностика %1$s. Дождитесь завершения и повторите попытку.</string>
@@ -913,7 +900,6 @@
     <string name="status_bar_network_flow_exceed_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Превышение: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Остаток: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;За месяц: %2$s</string>
-    <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Однократный лимит трафика</string>
     <string name="pref_key_tethering_title">Однократный лимит трафика</string>
@@ -952,7 +938,7 @@
     <string name="optimize_result_header_view_summary">Ускорение</string>
     <string name="optimize_result_available_memory_info">Доступная память</string>
     <string name="optimize_result_title_uninstall_apps">Приложения</string>
-    <string name="om_settings_title">Настройки</string>
+    <string name="om_settings_title">Настройки ускорения</string>
     <string name="om_settings_lock_app_manage">Закрепление приложений</string>
     <string name="om_settings_lock_app">Закрепленные приложения</string>
     <string name="om_settings_speed_up_auto">Автоматическое ускорение</string>
@@ -988,6 +974,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Это приложение замедляет
 работу вашего устройства"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Удалить %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Удалите это приложение для решения проблем с батареей.</string>
     <string name="om_ill_proc_type_wakelock_title">Приложение блокирует спящий режим и разряжает батарею</string>
@@ -1032,7 +1019,7 @@
     <string name="menu_item_force_stop">Закрыть</string>
     <string name="menu_item_uninstall">Удалить</string>
     <string name="menu_item_app_details">Сведения</string>
-    <string name="details_subtitle">Подробности</string>
+    <string name="details_subtitle">Usage details</string>
     <string name="packages_subtitle">Зависимые пакеты</string>
     <string name="battery_desc_standby">Потребление в режиме ожидания</string>
     <string name="battery_desc_radio">Потребление радиомодулем</string>
@@ -1046,6 +1033,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1096,7 +1084,7 @@
     <string name="power_analysis_consume_title">Потребление энергии</string>
     <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с батареей</string>
     <string name="power_optimize_save_on_lockscreen">Экономия заряда при блокировке устройства</string>
-    <string name="power_optimize_close_app">Закрытие приложений, чрезмерно потребляющих энергию</string>
+    <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
     <string name="power_optimize_disable_app_autostart">Запрет приложениям запускаться автоматически</string>
     <string name="power_optimize_disable_start_other_app">Запрет приложениям запускать другие приложения</string>
     <string name="power_optimize_brightness">Яркость экрана</string>
@@ -1273,6 +1261,8 @@
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
     <string name="power_center_list_item_deep_save_title">Расширенные настройки</string>
     <string name="power_center_list_item_battery_status_time">ч</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">мАч</string>
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="hide_mode_result_summary_text">Настройте параметры экономии для отдельных приложений</string>
     <string name="auto_task_result_summary_text">Настройте автоматические задачи для экономии энергии</string>
@@ -1432,11 +1422,13 @@
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
     <string name="menu_summary_networkassistants">Управляйте трафиком</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1449,12 +1441,14 @@
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
     <string name="menu_summary_power_manager_4">%sдо окончания</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Оптимизируйте несколько объектов</string>
@@ -1474,7 +1468,7 @@
     <string name="memory_clear_unused">Память очищена (%s)</string>
     <string name="activity_title_virus">Вирусы</string>
     <string name="btn_text_stop">Остановить</string>
-    <string name="hints_scan_result_no_finish">Проверка не завершена, начните сначала.</string>
+    <string name="hints_scan_result_no_finish">Проверка не завершена. Начните сначала.</string>
     <string name="suggest_scan_again">Повторите проверку во избежание угроз безопасности.</string>
     <string name="hints_handle_item_text_virus">Угроза</string>
     <string name="hints_scan_result_safe">Система защищена</string>
@@ -1610,20 +1604,20 @@
     <string name="reject_countdown">Запретить (%d)</string>
     <string name="reject_usb_install">Установка следующих приложений через USB отменена</string>
     <string name="adb_install_reject_notiy">Не допускается установка %s через USB</string>
-    <string name="adb_install_reject_notiy_desc">Вы можете разрешить установку с помощью USB в настройках разработчика</string>
+    <string name="adb_install_reject_notiy_desc">Вы можете разрешить установку через USB в настройках разработчика</string>
     <string name="adb_login_xiaomi_account">Сначала войдите в Mi аккаунт</string>
     <string name="adb_install_open">Разрешение…</string>
     <string name="adb_install_open_error">Не удалось разрешить, проверьте подключение к сети</string>
-    <string name="usb_adb_input_apply_step_1">Это может привести к утечке или потере личной информации. Не рекомендуем вам выполнять эти действия, только если вы не разработчик.</string>
-    <string name="usb_adb_input_apply_step_2">Разработчики могут использовать специальное программное обеспечение, чтобы имитировать жесты, изменять настройки, а также выдавать разрешения по USB.</string>
+    <string name="usb_adb_input_apply_step_1">Это может привести к утечке и потере личной информации. Мы не рекомендуем делать это, если вы не разработчик.</string>
+    <string name="usb_adb_input_apply_step_2">Разработчики могут использовать специальное программное обеспечение для имитации жестов, изменения настроек и предоставления разрешений через USB.</string>
     <string name="usb_adb_input_apply_step_3">Разрешить отладку?</string>
     <string name="adb_install_no_network">Подключитесь к сети и повторите попытку</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="monitor_requests_from_pc">Управление установкой через USB</string>
     <string name="app_install_intercept">Блокировать установку</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
-    <string name="recently_reject_message_one">Отклонено запросов на установку: %1$s</string>
-    <string name="recently_reject_message">Отклонена установка приложения \"%1$s\" и %2$d других</string>
+    <string name="recently_reject_message_one">Отклонен запрос на установку %1$s</string>
+    <string name="recently_reject_message">Отклонен запрос на установку %1$s и %2$d других</string>
     <string name="delete_from_manual_item_white_list">Удалить из списка</string>
     <string name="button_text_ignore">Игнорировать</string>
     <string name="button_text_ignore_alert_title">Игнорировать это предупреждение?</string>
@@ -1810,8 +1804,8 @@
     <string name="antivirus_monitor_virus_advice">Это приложение может содержать вирус, удалите его</string>
     <string name="security_scan_optimizing">Оптимизация…</string>
     <string name="preferred_app_entries_launcher">Рабочий стол</string>
-    <string name="preferred_app_entries_dial">Телефон</string>
-    <string name="preferred_app_entries_messaging">Сообщения</string>
+    <string name="preferred_app_entries_dial">Вызов</string>
+    <string name="preferred_app_entries_messaging">SMS</string>
     <string name="preferred_app_entries_browser">Браузер</string>
     <string name="preferred_app_entries_camera">Камера</string>
     <string name="preferred_app_entries_gallery">Галерея</string>
@@ -1828,6 +1822,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -1869,7 +1864,7 @@
     <string name="ac_notification_contentTitle">Защитите ваши приложения</string>
     <string name="ac_pre_notification_contentTitle">Защита приложений</string>
     <string name="ac_post_notification_contentTitle">Включите Защиту приложений</string>
-    <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
+    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
     <string name="notification_masked_item">Скрыть уведомления</string>
     <string name="lock_mode_title">Режим защиты</string>
     <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
@@ -1879,7 +1874,7 @@
     <string name="ac_notification_contentText">Нажмите для включения</string>
     <string name="ac_pre_notification_contentText">Защитите ваши личные данные</string>
     <string name="ac_post_notification_contentText">Защита на системном уровне</string>
-    <string name="midrop_post_notification_contentText">Попробуйте Mi Drop. Он быстрый и без рекламы.</string>
+    <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
     <string name="notification_masked_subtitle">Скрывать уведомления от защищенных приложений</string>
     <string name="ac_enter_applock">Введите пароль блокировки</string>
     <string name="ac_mask_all_apps">Скрыть для всех приложений</string>
@@ -1910,7 +1905,7 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много неудачных попыток</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Войти</string>
-    <string name="toast_lockscreen_glogin_empty_password">Необходимо ввести пароль</string>
+    <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
     <string name="passwordIncorrect">Неверное имя пользователя или пароль</string>
     <string name="access_control_app_is_launching">Приложение запускается</string>
@@ -1936,7 +1931,7 @@
     <string name="numeric_need_to_confirm">Введите цифровой код повторно</string>
     <string name="mixed_need_to_confirm">Введите пароль повторно</string>
     <string name="unlock_pattern_to_bind_fingerprint">Введите пароль для активации отпечатка</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Не удалось распознать отпечаток, повторите попытку.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Отпечаток не распознан, повторите попытку.</string>
     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Неверный пароль, повторите попытку.</string>
     <string name="lockpattern_need_to_unlock_wrong">Пароли не совпадают, повторите попытку</string>
     <string name="lockpattern_recording_inprogress">Уберите палец, когда закончите</string>
@@ -1961,7 +1956,7 @@
     <string name="fingerprint_remind_dialog_title">Разблокировка отпечатком</string>
     <string name="confirm_fingerprint_msg">Подтвердите отпечаток пальца</string>
     <string name="fingerprint_identify_msg">Разблокировка отпечатком</string>
-    <string name="fingerprint_not_identified_msg">Не удалось считать отпечаток. Введите свой пароль.</string>
+    <string name="fingerprint_not_identified_msg">Не удалось считать отпечаток. Введите пароль.</string>
     <string name="fod_button_password">Ввести пароль</string>
     <string name="fod_button_finger">Ввести отпечаток</string>
     <string name="fod_finger_notice_title">Приложите палец к экрану</string>
@@ -1974,7 +1969,7 @@
     <string name="lockscreen_access_pattern_detected">Ключ завершен</string>
     <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
     <string name="applock_add_account_info">Добавьте Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="applock_exit_account_info">После выхода аккаунт будет автоматически удален</string>
+    <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="applock_login_and_add_account">Войти и добавить</string>
     <string name="applock_not_add_account"><u>Не сейчас</u></string>
     <string name="applock_add_account">Добавить</string>
@@ -2054,7 +2049,7 @@
     <string name="bind_xiaomi_account_title">Добавить Mi аккаунт</string>
     <string name="bind_xiaomi_account_summary">Использовать Mi аккаунт для сброса пароля</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Добавление Mi аккаунта</string>
-    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь добавить Mi аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. После выхода аккаунт будет автоматически удален.</string>
+    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь добавить Mi аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. После выхода аккаунт будет автоматически отвязан.</string>
     <string name="bind_xiaomi_account_cancel">Отмена</string>
     <string name="bind_xiaomi_account_confirm">Добавить</string>
     <string name="password_promotion_title">Добавьте Mi аккаунт</string>
@@ -2084,9 +2079,9 @@
     <string name="app_manager_permission_manager_title">Разрешения</string>
     <string name="app_manager_permission_notify_title">Уведомления</string>
     <string name="app_manager_permission_power_saving_title">Контроль активности</string>
-    <string name="app_manager_default_open_title">Удалить настройки по умолчанию</string>
-    <string name="app_manager_default_close_summary">Настройки по умолчанию не установлены</string>
-    <string name="app_manager_default_open_summary">Вы выбрали запуск этого приложения для совершения некоторых действий по умолчанию</string>
+    <string name="app_manager_default_open_title">Сброс действий по умолчанию</string>
+    <string name="app_manager_default_close_summary">Действия по умолчанию не установлены</string>
+    <string name="app_manager_default_open_summary">Вы выбрали запуск этого приложения по умолчанию для совершения некоторых действий</string>
     <string name="app_manager_app_version_name">"Версия: "</string>
     <string name="app_manager_unstall_application">Удалить</string>
     <string name="app_manager_force_stop_dlg_title">Закрыть принудительно?</string>
@@ -2167,7 +2162,7 @@
     <string name="app_manager_memory">ОЗУ</string>
     <string name="app_manager_as_dlg_title">Внимание</string>
     <string name="app_manager_as_dlg_msg">Разрешение автозапуска приложений может потребовать дополнительных ресурсов ОЗУ и батареи. Разрешить?</string>
-    <string name="app_manager_default_cleared">Очищено</string>
+    <string name="app_manager_default_cleared">Действия по умолчанию сброшены</string>
     <string name="app_manager_not_allow">Нет</string>
     <string name="app_manager_allow">Да</string>
     <string name="app_manager_install_other_app">Установка из неизвестных источников</string>
@@ -2209,7 +2204,7 @@
     <string name="gs_call_handsfree">Отвечать по громкой связи</string>
     <string name="gs_call_handsfree_mute">Режим \"Без звука\"</string>
     <string name="gs_gamebox">Панель ярлыков</string>
-    <string name="gs_gamebox_detail">Показывать панель ярлыков во время игры</string>
+    <string name="gs_gamebox_detail">Отображение панели ярлыков во время игры</string>
     <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
     <string name="gs_app_back_self_start">Экономия энергии</string>
     <string name="gs_only_self_start_for_list">Ограничить фоновые процессы, чтобы сэкономить энергию для игр</string>
@@ -2293,7 +2288,7 @@
     <string name="do_clean">Очистка…</string>
     <string name="auto_clean_close">Автоочистка отключена</string>
     <string name="net_booster_title">Ускорение сети</string>
-    <string name="net_booster_tip">Включите ускорение сети, чтобы сделать Wi-Fi соединение более стабильным и уменьшить задержку сети</string>
+    <string name="net_booster_tip">Включите ускорение сети, чтобы сделать Wi-Fi соединение более стабильным и уменьшить задержки</string>
     <string name="wifi_optizition_title">Ускорение Wi-Fi</string>
     <string name="wifi_optizition_tip">Включите ускорение Wi-Fi, чтобы сделать Wi-Fi соединение более стабильным. Будет использован небольшой объем мобильного трафика.</string>
     <string name="wifi_optizition_loading">Включение ускорения сети Xunyou…</string>
@@ -2366,8 +2361,8 @@
     <string name="gamebox_type_gesture">Провести для показа</string>
     <string name="gb_first_window_title">Ускорение игр</string>
     <string name="gb_first_window_summary">Повышайте производительность на системном уровне</string>
-    <string name="gb_first_window_gamebox_summary_four">Используйте быстрые ответы, делайте записи и снимки экрана</string>
-    <string name="gb_first_window_gamebox_summary_six">Освобождайте память, делайте записи и снимки экрана</string>
+    <string name="gb_first_window_gamebox_summary_four">Освобождайте память, делайте записи и снимки экрана</string>
+    <string name="gb_first_window_gamebox_summary_six">Используйте быстрые ответы, делайте записи и снимки экрана</string>
     <string name="gb_first_window_handsfree_title">Свободные руки</string>
     <string name="gb_first_window_handsfree_summary">Динамик включается автоматически</string>
     <string name="gb_first_window_antimsg_title">Удобные уведомления</string>
@@ -2377,6 +2372,7 @@
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_like">Нравится</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
     <string name="video_repeat">Повторить</string>
@@ -2417,7 +2413,7 @@
     <string name="first_aid_card_system_root_title">Вы разрешили ROOT доступ</string>
     <string name="first_aid_card_system_root_summary">Запретите ROOT доступ во избежание угроз безопасности</string>
     <string name="first_aid_card_system_root_button">Запретить</string>
-    <string name="first_aid_card_float_window_title">Вы разрешили всплывающие уведомления</string>
+    <string name="first_aid_card_float_window_title">Вы разрешили всплывающие окна</string>
     <string name="first_aid_card_float_window_button">Запретить</string>
     <string name="first_aid_card_wifi_or_flow_title">Не удается подключиться к интернету</string>
     <string name="first_aid_card_wifi_or_flow_summary">Включите Wi-Fi или мобильный интернет</string>
@@ -2434,7 +2430,7 @@
     <string name="first_aid_result_summary_normal">Всё в порядке</string>
     <string name="first_aid_result_summary_not_finished">Проверка не завершена. Некоторые проблемы могли остаться незамеченными.</string>
     <string name="first_aid_result_feedback_title">Отчет</string>
-    <string name="first_aid_result_feedback_summary">Первая помощь не нашла никаких проблем. Однако, я заметил несколько.</string>
+    <string name="first_aid_result_feedback_summary">Первая помощь не нашла никаких проблем. Однако я заметил несколько.</string>
     <string name="first_aid_result_feedback_button">Отправить</string>
     <string name="first_aid_card_kadun_title">Устройство работает медленно</string>
     <string name="first_aid_card_kadun_summary1">Освободите место для нормальной работы устройства</string>

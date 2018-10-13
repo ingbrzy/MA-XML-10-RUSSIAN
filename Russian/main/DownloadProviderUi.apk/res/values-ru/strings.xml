@@ -197,7 +197,11 @@
     <string name="toast_only_wifi_download">Для загрузки этого объекта подключитесь к Wi-Fi</string>
     <string name="total_speedup">Ускорение (всего)</string>
     <string name="version">Версия %s</string>
+    <string name="check_new_downloaded_action">Просмотр</string>
+    <string name="check_new_downloaded_file">Найден новый файл</string>
     <string name="get_data_failed">Не удалось получить данные. Подождите немного и повторите попытку.</string>
+    <string name="info_download_details">Подробности</string>
+    <string name="info_download_progress">Показать прогресс загрузки</string>
     <string name="load_finish_hint">На данный момент это всё</string>
     <string name="loading">Секунду…</string>
     <string name="net_error">Подключитесь к сети и повторите попытку</string>

@@ -3,7 +3,7 @@
     <string name="app_name">Сервис активации Xiaomi SIM</string>
     <string name="accept">OK</string>
     <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>
-    <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Плата за отправку сообщения взимается оператором.</string>
+    <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="explain_send_sms_permission_button">Подтвердить</string>
     <string name="activate_phone_failed_notif_title">Не удалось активировать SIM-карту</string>
     <string name="activate_phone_failed_notif_title_msim">Не удалось активировать SIM-карту %d</string>

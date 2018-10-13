@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="tether_settings_title_usb">USB-модем</string>
@@ -406,11 +407,11 @@
     <string name="non_primary_user">Просматривать и изменять список заблокированных номеров может только владелец устройства.</string>
     <string name="delete_icon_description">Разблокировать</string>
     <string name="blocked_numbers_butter_bar_title">Блокировка временно снята</string>
-    <string name="blocked_numbers_butter_bar_body">После набора или отправки сообщения на номер экстренной службы блокировка будет выключена, чтобы специалисты могли связаться с вами.</string>
+    <string name="blocked_numbers_butter_bar_body">После набора или отправки сообщения на экстренный номер блокировка будет выключена, чтобы специалисты могли связаться с вами.</string>
     <string name="blocked_numbers_butter_bar_button">Включить блокировку</string>
     <string name="blocked_numbers_number_blocked_message">Номер %1$s заблокирован</string>
     <string name="blocked_numbers_number_unblocked_message">Номер %1$s разблокирован</string>
-    <string name="blocked_numbers_block_emergency_number_message">Невозможно заблокировать номер экстренной службы.</string>
+    <string name="blocked_numbers_block_emergency_number_message">Нельзя заблокировать экстренный номер.</string>
     <string name="blocked_numbers_number_already_blocked_message">Номер %1$s уже заблокирован</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
@@ -444,8 +445,8 @@
     <string name="notification_missedCall_call_back_miui">Вызов</string>
     <string name="dial_vt_fail_prompt">Текущая сеть не поддерживает VoLTE. Переключиться на обычный голосовой вызов?</string>
     <string name="dial_conference_fail_prompt">Невозможно набрать номер конференции напрямую, так как текущая сеть не поддерживает VoLTE.</string>
-    <string name="can_not_dial_while_vt_prompt">Невозможно набрать номер во время видеовызова</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Невозможно совершить видеовызов во время голосового вызова</string>
+    <string name="can_not_dial_while_vt_prompt">Нельзя набрать номер во время видеовызова</string>
+    <string name="can_not_dial_vt_while_voice_prompt">Нельзя совершить видеовызов во время голосового вызова</string>
     <string name="voice_dial_out">Голосовой вызов</string>
     <string name="notification_AllMissedCallTitle">Все пропущенные вызовы</string>
     <string name="close">Отключить</string>

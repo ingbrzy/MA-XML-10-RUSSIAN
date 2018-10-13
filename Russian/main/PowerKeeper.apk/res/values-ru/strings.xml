@@ -47,7 +47,7 @@
     <string name="config_restrict_function_title">Мягкое ограничение</string>
     <string name="config_restrict_running_title">Жесткое ограничение</string>
     <string name="config_restrict_running_warning">Фоновые приложения будут закрыты. Возможно нарушение их работы.</string>
-    <string name="config_description">MIUI может распознавать приложения с особыми видами фоновой активности (мессенджеры, навигаторы, плееры) и контролировать активность приложений без вреда для важных процессов</string>
+    <string name="config_description">MIUI может распознавать приложения с особыми видами фоновой активности (например, мессенджеры, навигаторы, плееры) и контролировать их активность без ущерба для важных фоновых процессов</string>
     <string name="config_suggest_description">"Распознавание приложений и действий для поддержания работы важных процессов.
 Контроль активности будет обрабатывать важные приложения избирательно."</string>
     <string name="config_no_restrict_description">Контроль активности не будет ограничивать работу приложений</string>
@@ -93,4 +93,6 @@
     <string name="active_classify">Сортировать по активности</string>
     <string name="extreme_mode_max_item_alert">Вы можете выбрать до 4 приложений для работы в фоновом режиме</string>
     <string name="message_i_know">Понятно</string>
+    <string name="high_temp_state">Высокая температура</string>
+    <string name="high_temp_state_message">Сработала защита от перегрева. Интернет, точка доступа, GPS, камера и т.д. будут отключены.</string>
 </resources>

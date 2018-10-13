@@ -45,9 +45,9 @@
     <string name="call_record_sample_prefix_miui">Вызов</string>
     <string name="call_record_or">" или "</string>
     <string name="caller_info_name_delimiter">" или "</string>
-    <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки > Расширенные настройки > Кнопки</string>
+    <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки > Расширенные настройки > Кнопки и жесты</string>
     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-    <string name="force_exit_skip_message">Невозможно закрыть приложение \"%1$s\", поскольку оно требуется системой</string>
+    <string name="force_exit_skip_message">Нельзя закрыть приложение \"%1$s\", поскольку оно требуется системой</string>
     <string name="fm_record_smaple_prefix_miui">Запись FM</string>
     <string name="global_actions_airplane_mode">Режим полета</string>
     <string name="global_actions_reboot">Перезагрузка</string>
@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Mi аккаунта</string>
     <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
+    <string name="security_permission_network_failed_text">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="xspace_resolver_activity_title">Выберите приложение</string>
     <string name="user_switching_dialog_text">Переключение…</string>
     <string name="activity_package_delete_confirm_title">Внимание</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">OK</string>
     <string name="miui_warning_button_cancel">Отмена</string>
     <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>
+    <string name="talk_back_water_mark_string1">TalkBack включен</string>
+    <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
 </resources>

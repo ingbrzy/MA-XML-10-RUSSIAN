@@ -132,6 +132,12 @@
         <item quantity="few">Ясно</item>
         <item quantity="many">Ясно</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">Всего %d голосов</item>
+        <item quantity="one">Всего %d голос</item>
+        <item quantity="few">Всего %d голоса</item>
+        <item quantity="many">Всего %d голосов</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Последние %d дней</item>
         <item quantity="one">Последний %d день</item>

@@ -27,7 +27,7 @@
     <string name="first_using_mic_dialog_message">Приложению требуется доступ к микрофону для записи звука. Разрешить?</string>
     <string name="first_using_mic_dialog_title">Требуются разрешения</string>
     <string name="fixed_frame_rate">Фиксированная частота кадров</string>
-    <string name="fixed_frame_rate_summary">Улучшает воспроизведение на платформах социальных сетей и продляет время работы от батареи</string>
+    <string name="fixed_frame_rate_summary">Улучшает воспроизведение на платформах социальных сетей и продлевает время работы от батареи</string>
     <string name="frames">Частота кадров</string>
     <string name="frames_summary">Влияет на размытие движения</string>
     <string name="frequently_click_toast">Секунду…</string>

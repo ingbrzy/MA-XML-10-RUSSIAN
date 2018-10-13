@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -68,9 +69,9 @@
     <string name="cancel_action">Отмена</string>
     <string name="cancel_btn_label">Отмена</string>
     <string name="cant_edit_lock_screen">Не удалось изменить экран блокировки</string>
-    <string name="cant_remove_folder">Невозможно удалить папку с приложениями</string>
-    <string name="cant_remove_retained_app">Невозможно удалить выбранное приложение</string>
-    <string name="cant_remove_system_app">Невозможно удалить системное приложение</string>
+    <string name="cant_remove_folder">Невозможно удалить папку</string>
+    <string name="cant_remove_retained_app">Нельзя удалить это приложение</string>
+    <string name="cant_remove_system_app">Нельзя удалить системное приложение</string>
     <string name="change_wallpaper">Изменить</string>
     <string name="choose_wallpaper">Выберите обои</string>
     <string name="chooser_wallpaper">Выберите новые обои</string>
@@ -162,7 +163,7 @@
     <string name="gadget_search_label">Поиск</string>
     <string name="gadget_weather_app_not_installed">Нажмите для загрузки приложения \"Погода\"</string>
     <string name="gadget_weather_aqi_title">Качество воздуха:</string>
-    <string name="gadget_weather_download_message">Необходимо скачать данные: %1$s. Размер: %2$s. Перезапустите приложение по окончании загрузки.</string>
+    <string name="gadget_weather_download_message">Необходимо скачать данные: %1$s (%2$s). Перезапустите приложение по окончании загрузки.</string>
     <string name="gadget_weather_download_start">Скачать</string>
     <string name="gadget_weather_download_title">Загрузить</string>
     <string name="gadget_weather_downloading">Идет загрузка приложения. Перезапустите его по окончании загрузки.</string>
@@ -186,7 +187,7 @@
     <string name="install">Установить</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
-    <string name="is_system_wallpaper_message">Невозможно удалить системные обои</string>
+    <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
     <string name="launcher_auto_fill_empty_title">Заполнять пустые ячейки</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_title">Рабочий стол и Недавние</string>

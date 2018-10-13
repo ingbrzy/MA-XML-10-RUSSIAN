@@ -113,6 +113,10 @@
     <string name="cleanup_power">Глубокая очистка</string>
     <string name="company">Работа</string>
     <string name="company_or_school">Работа или школа</string>
+    <string name="cricket_content_provider">Поставщик данных</string>
+    <string name="cricket_fixtures_label">Матчи</string>
+    <string name="cricket_news_label">Новости</string>
+    <string name="cricket_select_series">Выберите любимую серию</string>
     <string name="cta_desc">Объединяйте важные функции и информацию</string>
     <string name="cta_dialog_negative">Выход</string>
     <string name="cta_dialog_positive">Согласен</string>
@@ -181,7 +185,7 @@
     <string name="map_title_no_route_found">Маршрут не найден</string>
     <string name="map_title_office">Работа</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-    <string name="memory_clear_result">Очищено %1$s</string>
+    <string name="memory_clear_result">Очищено %1$s памяти</string>
     <string name="mi_agenda">Мероприятия</string>
     <string name="mi_function">Ярлыки</string>
     <string name="minus_screen_search_label">Поиск</string>
@@ -234,6 +238,7 @@
     <string name="scan_code">QR-код</string>
     <string name="scan_doc">Документ</string>
     <string name="scan_parent">Сканер</string>
+    <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Поиск…</string>
     <string name="security">Безопасность</string>
     <string name="service_unavailiable">Подключитесь к сети и повторите попытку.</string>

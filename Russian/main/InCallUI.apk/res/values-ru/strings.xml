@@ -43,7 +43,7 @@
     <string name="onscreen_audio_mode_headset">Гарнитура</string>
     <string name="onscreen_audio_mode_speaker">Динамик</string>
     <string name="onscreen_call_record">Запись</string>
-    <string name="sip_call_not_support_record">Невозможно записать SIP звонки</string>
+    <string name="sip_call_not_support_record">Нельзя записывать SIP звонки</string>
     <string name="onscreen_hold_text">Удержание</string>
     <string name="onscreen_merge_calls_text">Объединить</string>
     <string name="onscreen_mute_text">Без звука</string>
@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">Клавиатура</string>
     <string name="description_image_button_tools">Функции</string>
     <string name="description_target_answer">Ответить</string>
+    <string name="description_message_list_title">Список быстрых ответов</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
     <string name="wait_prompt_str">"Отправить следующие тоны?
@@ -131,7 +132,7 @@
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Запись…</string>
-    <string name="call_recording_error_privacy">Невозможно записывать вызовы в режиме \"Гость\"</string>
+    <string name="call_recording_error_privacy">Нельзя записывать вызовы в режиме \"Гость\"</string>
     <string name="call_recording_error_sd_access">Нет доступа к SD карте</string>
     <string name="call_recording_error_sd_unmounted">Запись остановлена: SD карта извлечена.</string>
     <string name="call_recording_error_low_storage">Недостаточно места на накопителе.</string>
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
+    <string name="volume_boost_text">Громкость увеличена</string>
 </resources>

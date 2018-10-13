@@ -36,7 +36,7 @@
     <string name="no_file">Нет записей</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Mi Cloud. Удалить запись?</string>
-    <string name="alert_message_delete_local_record">Удалить эту запись?</string>
+    <string name="alert_message_delete_local_record">Delete this recording?</string>
     <string name="share">Отправить</string>
     <string name="rename">Переименовать</string>
     <string name="delete">Удалить</string>
@@ -85,11 +85,11 @@
     <string name="record_downloading_notification_count">Загружается: %d</string>
     <string name="record_downloading_notification_complete">Загрузка завершена</string>
     <string name="wifi_recommended_title">Предупреждение о трафике</string>
-    <string name="wifi_recommended_body" formatted="false">При загрузке файла (%s) возможно чрезмерное потребление мобильного трафика, что может привести к взиманию дополнительной платы мобильным оператором. Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi.</string>
+    <string name="wifi_recommended_body" formatted="false">Использование мобильного интернета для загрузки этого файла (%s) увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату. Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi.</string>
     <string name="button_queue_for_wifi">В очередь</string>
     <string name="button_start_now">Продолжить</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
-    <string name="notification_message_all_paused">Ожидание сети Wi-Fi.</string>
+    <string name="notification_message_all_paused">Ожидание подключения Wi-Fi.</string>
     <string name="data_connection_title">Предупреждение о трафике</string>
     <string name="data_connection_body">Использование мобильного интернета для загрузки этого файла увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="data_connection_button_text">OK</string>
@@ -146,13 +146,13 @@
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="clear_records">Удаление записей из Mi Cloud</string>
     <string name="network_tip_dialog_title">Требуется подключение к интернету</string>
-    <string name="network_tip_dialog_content">Для нормальной работы Диктофону требуется подключение к интернету и доступ к контактам. Вы согласны?</string>
+    <string name="network_tip_dialog_content">Для нормальной работы Диктофону требуется подключение к интернету. Вы согласны?</string>
     <string name="network_tip_dialog_ok">Согласен</string>
     <string name="network_tip_dialog_cancel">Отмена</string>
     <string name="head_set_tip_dialog_title">Используйте встроенный микрофон</string>
     <string name="head_set_tip_dialog_msg">Отключите гарнитуру для возможности записи звука с заданными установками (например, Музыка или Голос)</string>
     <string name="head_set_tip_dialog_ok">Понятно</string>
-    <string name="rename_fail_tip">Не удалось переименовать. Запись с таким именем уже существует.</string>
+    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Mi Cloud.</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
 </resources>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="app_name">Резервирование</string>
     <string name="local_app_name">Резервирование</string>
@@ -180,7 +183,7 @@
     <string name="import_from_xiaomi_account_hint2">Если у вас уже есть резервная копия, нажмите Далее.</string>
     <string name="import_from_xiaomi_account_hint_title">Используйте Mi Talk для копирования контактов между устройствами</string>
     <string name="guarded_mode_dialog_title">Активен режим \"Гость\"</string>
-    <string name="guarded_mode_dialog_backup_message">Резервные копии в режиме \"Гость\" не разрешены.</string>
+    <string name="guarded_mode_dialog_backup_message">Нельзя использовать Резервирование в режиме \"Гость\".</string>
     <string name="guarded_mode_dialog_transfer_message">Нельзя использовать Mi Mover в режиме \"Гость\".</string>
     <string name="multi_user_mode_dialog_title">Вы в многопользовательском режиме</string>
     <string name="multi_user_mode_dialog_message">Нельзя использовать Mi Mover в многопользовательском режиме.</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Восстановление</string>
     <string name="enable_encrypt_description">Шифровать</string>
     <string name="disable_encrypt_description">Не шифровать</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="abort_backup_confirm">Резервирование не завершено. Отменить процесс?</string>
@@ -244,7 +248,7 @@
     <string name="err_unknown">Неизвестная ошибка</string>
     <string name="err_version_too_old">Файл резервной копии устарел.</string>
     <string name="err_version_unsupported">Версия резервной копии не поддерживается.</string>
-    <string name="err_bakfile_broken">Невозможно использовать резервную копию.</string>
+    <string name="err_bakfile_broken">Невозможно использовать эту копию.</string>
     <string name="err_filesystem_mount">Нет доступа к хранилищу роутера</string>
     <string name="err_router_disconnected">Проверьте подключение роутера и повторите попытку.</string>
     <string name="err_router_files_delete">Ошибка удаления резервных копий с роутера</string>
@@ -541,6 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 необходимо создать резервную копию iCloud"</string>
     <string name="list_footer_tip_title">Советы:</string>
     <string name="import_tip_summary">Из-за проблем с совместимостью вы можете передавать данные с устройств iOS только частично. Перед началом передачи убедитесь, что вы создали резервную копию iCloud.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Импорт</string>
     <string name="select_empty">Выберите объекты для импорта</string>
     <string name="select_item_summary_wait">Ожидание…</string>

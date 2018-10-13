@@ -466,6 +466,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -476,6 +477,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -544,6 +546,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
@@ -686,7 +689,7 @@
     <string name="onekey_portrait">Портрет</string>
     <string name="onekey_scene">Пейзаж</string>
     <string name="open">ОК</string>
-    <string name="open_public_message">Создать ссылку, чтобы поделиться с друзьями</string>
+    <string name="open_public_message">Создать ссылку для возможности поделиться с друзьями</string>
     <string name="open_public_title">Общий доступ</string>
     <string name="operate_processing_file_error">Дождитесь окончания обработки всех фото.</string>
     <string name="operation_add_album">В альбом</string>
@@ -741,6 +744,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -998,6 +1002,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1274,6 +1281,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>
@@ -1281,6 +1289,10 @@
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Для ребенка вы</string>
+    <string name="collage_select_image_range">Коллажи могут содержать 1-4 фото</string>
+    <string name="operation_produce">Творчество</string>
+    <string name="photo_editor_crop_auto_tips">Обрезано автоматически</string>
+    <string name="photo_movie_select_image_range">Клипы могут содержать 3-6 фото</string>
     <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
     <string name="refocus_discard_negative_btn">Не сохранять</string>
     <string name="refocus_discard_positive_btn">Сохранить</string>
@@ -1293,4 +1305,6 @@
     <string name="refocus_title">Размытие</string>
     <string name="refocus_type_static">Степень размытия</string>
     <string name="refocus_type_video">Световые следы</string>
+    <string name="select_image_operation">Добавление фото</string>
+    <string name="unsupport_video">%s не работает с видео</string>
 </resources>

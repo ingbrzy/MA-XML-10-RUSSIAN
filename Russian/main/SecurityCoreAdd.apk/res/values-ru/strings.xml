@@ -106,8 +106,8 @@
     <string name="setSuccess">Пароль успешно установлен</string>
     <string name="tryNow">Попробовать</string>
     <string name="spaceSetting">Настройки</string>
-    <string name="closePassword">Отключение пароля</string>
-    <string name="closePasswordGuide">После отключения блокировки экрана вы не сможете входить во второе пространство с экрана блокировки</string>
+    <string name="closePassword">Отключение защиты</string>
+    <string name="closePasswordGuide">После отключения защиты вы не сможете входить во второе пространство с экрана блокировки</string>
     <string name="cancelClosePassword">Не отключать</string>
     <string name="confirmClose">Отключить</string>
     <string name="opened">Вкл</string>
@@ -142,7 +142,7 @@
     <string name="transferFile">Выберите другие объекты вручную</string>
     <string name="continueButton">Далее</string>
     <string name="removingSpace">Удаление второго пространства…</string>
-    <string name="removeSuccess">Успешно удалено</string>
+    <string name="removeSuccess">Удаление завершено</string>
     <string name="confirmSecondSpacePassword">Подтвердите пароль второго пространства</string>
     <string name="secondSpace">Второе пространство</string>
     <string name="contactData">Контакты</string>
@@ -168,10 +168,10 @@
 эта функция будет добавлена во второе автоматически."</string>
     <string name="openSuccess">Включено</string>
     <string name="closeSuccess">Отключено</string>
-    <string name="settings_set_password_for_owner_space">Настройте блокировку экрана</string>
-    <string name="settings_set_password_for_owner_space_desc">Настройте блокировку экрана в первом пространстве для удаления ярлыка из Настроек.</string>
-    <string name="settings_set_password_for_sec_space">Настройте блокировку экрана</string>
-    <string name="settings_set_password_for_sec_space_desc">Настройте блокировку экрана во втором пространстве для удаления ярлыка из Настроек.</string>
+    <string name="settings_set_password_for_owner_space">Настройте защиту устройства</string>
+    <string name="settings_set_password_for_owner_space_desc">Настройте защиту устройства в первом пространстве для удаления ярлыка из Настроек.</string>
+    <string name="settings_set_password_for_sec_space">Настройте защиту устройства</string>
+    <string name="settings_set_password_for_sec_space_desc">Настройте защиту устройства во втором пространстве для удаления ярлыка из Настроек.</string>
     <string name="settings_notification_and_switch_owner_space">Настройки первого пространства</string>
     <string name="settings_second_space_entrance_title">Ярлык в Настройках</string>
     <string name="settings_second_space_entrance_summary">Показывать ярлык второго пространства в Настройках</string>
@@ -287,8 +287,8 @@
     <string name="xpsace_guide_button">Создать</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Приложения не найдены</string>
-    <string name="confirm_close_password_title">Отключение блокировки</string>
-    <string name="confirm_close_password_desc">После отключения блокировки экрана вы не сможете входить во второе пространство с экрана блокировки. Отключить её?</string>
+    <string name="confirm_close_password_title">Отключение защиты</string>
+    <string name="confirm_close_password_desc">После отключения защиты вы не сможете входить во второе пространство с экрана блокировки. Отключить её?</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Войти и поделиться</string>

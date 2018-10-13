@@ -25,6 +25,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Еще</string>
@@ -296,6 +297,7 @@
     <string name="exit">Выход</string>
     <string name="exit_browser_warning">Выйти из браузера?</string>
     <string name="exit_fullscreen">Выйти из полноэкранного режима</string>
+    <string name="external_app_restricted_access_error">Браузер не может получить доступ к этому объекту.</string>
     <string name="fast_search_title">Быстрый поиск</string>
     <string name="file_dir">Изменить папку</string>
     <string name="file_name">"Имя: "</string>
@@ -730,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
@@ -801,7 +805,7 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">Часто используемые сочетания символов можно вводить одним нажатием</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
     <string name="pref_adblock_title">Блокировка рекламы</string>
-    <string name="pref_auto_update">Обновлять автоматически</string>
+    <string name="pref_auto_update">Автоматическое обновление</string>
     <string name="pref_auto_update_under_wifi">Обновлять по Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Автовыбор поисковой системы</string>
     <string name="pref_card_setting">Категории сайтов</string>
@@ -818,7 +822,7 @@
     <string name="pref_clear_data_title">Очистка данных</string>
     <string name="pref_confirm_for_exit">Подтверждение выхода</string>
     <string name="pref_content_auto_light_mode">Автояркость</string>
-    <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
+    <string name="pref_content_block_popups">Запретить всплывающие окна</string>
     <string name="pref_content_cloud_speedup">Загружать контент быстрее с помощью прокси</string>
     <string name="pref_content_fontsize_setting">Настройки шрифта</string>
     <string name="pref_content_homepage">Главная страница</string>
@@ -853,7 +857,7 @@
     <string name="pref_nav_mode_summary_pad">Планшет</string>
     <string name="pref_nav_mode_summary_phone">Телефон</string>
     <string name="pref_nav_mode_title">Режим браузера</string>
-    <string name="pref_navscreen_layoutstate_title">Управление несколькими окнами</string>
+    <string name="pref_navscreen_layoutstate_title">Вкладки на экране навигации</string>
     <string name="pref_notifications_hint">Уведомления</string>
     <string name="pref_notifications_receive">Уведомления</string>
     <string name="pref_notifications_title">Уведомления</string>
@@ -1174,6 +1178,8 @@
     <string name="voice_title_listening">Прослушивание…</string>
     <string name="voice_title_please">Начните говорить…</string>
     <string name="voice_title_speech_again">Не удалось распознать команду</string>
+    <string name="vote_already">Вы уже проголосовали</string>
+    <string name="vote_fail">Не удалось проголосовать, попробуйте позже</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">Отключение этой функции может повлиять на работу браузера.</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
@@ -1217,7 +1223,6 @@
     <string name="date_picker_dialog_set">OK</string>
     <string name="date_picker_dialog_title">Установите дату</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="external_app_restricted_access_error">Mi Browser не имеет доступа к запрашиваемому ресурсу.</string>
     <string name="find_next">Следующий</string>
     <string name="find_previous">Предыдущий</string>
     <string name="js_dialog_before_unload">"%s

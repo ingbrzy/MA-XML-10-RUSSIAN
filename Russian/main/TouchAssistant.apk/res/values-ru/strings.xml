@@ -8,7 +8,6 @@
     <string name="close_panel">Выключить сенсорный помощник</string>
     <string name="customize_entries">Функции ярлыков</string>
     <string name="enable_touch_assistant">Включить сенсорный помощник</string>
-    <string name="enabled_for_pad_hint">Не отключать при блокировке кнопок навигации в альбомном режиме</string>
     <string name="function_settings">Настройки ярлыков</string>
     <string name="handy_mode_default_to_close_whether_open">Управление одной рукой по умолчанию отключено. Включить его?</string>
     <string name="hide_touch_assistant">Автоматическое скрытие</string>
