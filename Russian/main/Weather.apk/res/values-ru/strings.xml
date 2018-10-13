@@ -84,12 +84,10 @@
     <string name="daily_forecast_add_city_message">Подпишитесь на погоду в %1$s для подробного прогноза.</string>
     <string name="daily_forecast_add_city_title">Следите за погодой в %1$s</string>
     <string name="daily_forecast_detail_date">dd.MM</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Не удалось получить данные
 Потяните вниз для обновления или проверьте настройки сети"</string>
     <string name="data_provided_by">Данные предоставлены</string>
     <string name="edit_city">Выбор города</string>
-    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">Используя этот продукт, вы соглашаетесь с тем, что он будет подключаться к сети, собирать, обрабатывать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
     <string name="feedback_heavy_rain">Сильный дождь</string>
     <string name="feedback_heavy_snow">Снег</string>
@@ -102,8 +100,6 @@
     <string name="first_start_network_title">Интернет и местоположение</string>
     <string name="global_aqi">ИКВ: %1$s %2$s</string>
     <string name="hourly_forcast_now">Сейчас</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Прогноз на 24 часа</string>
     <string name="hourly_forecast_title_hourly_desc">Почасовой прогноз</string>
@@ -117,12 +113,10 @@
     <string name="indices_title_feel">Ощущается</string>
     <string name="indices_title_pressure">Давление</string>
     <string name="install">Установить</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ДАВЛЕНИЕ</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Подробности</string>
     <string name="international_details_uv_index_title">ИНДЕКС УФ</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">ВЕТЕР</string>
     <string name="it_is_going_to_rain">Собирается дождь</string>
     <string name="locate_fail_detail_err">"Местоположение не определено
@@ -195,7 +189,6 @@
     <string name="share_menu_title">Поделиться</string>
     <string name="share_subject">Поделиться</string>
     <string name="share_weather_desc">\#MIUI Weather#Сегодня %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Не удалось сделать снимок</string>
     <string name="some_where_on_earth">Где-то на Земле</string>

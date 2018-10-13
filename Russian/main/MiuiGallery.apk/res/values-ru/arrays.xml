@@ -29,9 +29,4 @@
         <item>Дедушка по матери</item>
         <item>Бабушка по матери</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Переместить</item>
-        <item>Копировать</item>
-        <item>@string/cancel</item>
-    </string-array>
 </resources>
