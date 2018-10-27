@@ -36,7 +36,7 @@
     <string name="no_file">Нет записей</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Mi Cloud. Удалить запись?</string>
-    <string name="alert_message_delete_local_record">Delete this recording?</string>
+    <string name="alert_message_delete_local_record">Удалить эту запись?</string>
     <string name="share">Отправить</string>
     <string name="rename">Переименовать</string>
     <string name="delete">Удалить</string>
@@ -75,8 +75,8 @@
     <string name="back">Назад</string>
     <string name="menu">Меню</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
-    <string name="record_download">Скачать запись из MiCloud?</string>
-    <string name="record_download_msg">Для воспроизведения записи необходимо ее скачать</string>
+    <string name="record_download">Загрузка из Mi Cloud</string>
+    <string name="record_download_msg">Записи можно воспроизводить только после окончания их загрузки.</string>
     <string name="record_download_msg_reload">Запись не существует</string>
     <string name="record_download_complete">Загружено</string>
     <string name="retry">Повторить</string>
@@ -128,7 +128,7 @@
     <string name="recording_quality_low">Низкое качество</string>
     <string name="share_dialog_title">Отправить с помощью</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="record_list_category_title_format">MMM yyyy</string>
+    <string name="record_list_category_title_format">MM.yyyy</string>
     <string name="recognition_error_stopped">Распознавание остановлено</string>
     <string name="recognition_error_cancel">Отменено</string>
     <string name="recognition_error_format">Неверный формат аудио</string>
@@ -152,7 +152,7 @@
     <string name="head_set_tip_dialog_title">Используйте встроенный микрофон</string>
     <string name="head_set_tip_dialog_msg">Отключите гарнитуру для возможности записи звука с заданными установками (например, Музыка или Голос)</string>
     <string name="head_set_tip_dialog_ok">Понятно</string>
-    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
+    <string name="rename_fail_tip">Не удалось переименовать. Запись с таким именем уже существует.</string>
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Mi Cloud.</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
 </resources>

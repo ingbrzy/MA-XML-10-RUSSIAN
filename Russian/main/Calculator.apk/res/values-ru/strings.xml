@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">Ссудный фонд</string>
     <string name="global_network_confirm_content">Для нормальной работы конвертеру валют требуется подключение к интернету.</string>
+    <string name="global_search_key_area_convertion">Площадь;Конвертер площади;Преобразование площади</string>
+    <string name="global_search_key_calculation">Вычисления;Калькулятор;Преобразование единиц;Конвертер;Конвертер единиц</string>
+    <string name="global_search_key_date_convertion">Конвертер времени;Единицы времени;Преобразование времени;Время</string>
+    <string name="global_search_key_exchange_rate">Курс валют;Преобразование курсов валют;Конвертер валют;Валюта;Курсы валют</string>
+    <string name="global_search_key_length_convertion">Длина;Конвертер длины;Преобразование длины</string>
+    <string name="global_search_key_mortgage">Расчет ипотеки;Ипотечный калькулятор;Ипотека</string>
+    <string name="global_search_key_personal_tax">Подоходный налог;Доход после уплаты налогов;Налоговый калькулятор;Расчет личного дохода;Расчет дохода;Расчет дохода после уплаты налогов;подоходный налог;налог;налоги</string>
+    <string name="global_search_key_scientific_convertion">Инженерный калькулятор;Вычисление функций;Математика;Алгебра</string>
+    <string name="global_search_key_speed_convertion">Преобразование единиц скорости;Преобразование скорости;Конвертер скорости;Скорость</string>
+    <string name="global_search_key_temperature_convertion">Преобразование единиц температуры;Преобразование температуры;Конвертер температуры;Фаренгейт;Цельсий</string>
+    <string name="global_search_key_volume_convertion">Преобразование единиц объема;Преобразование объема;Конвертер объема</string>
+    <string name="global_search_key_weight_convertion">Преобразование единиц массы;Преобразование массы;Конвертер массы;Кило;Кг;Килограммы;Фунт;Фунты</string>
+    <string name="global_search_key_word_figure">Финансовые иероглифы</string>
+    <string name="golbal_search_calculator_setting">Калькулятор;Настройки калькулятора;Настройки</string>
+    <string name="golbal_search_path_calculator_setting">Системные приложения/Калькулятор/Настройки</string>
     <string name="home_title_calculator">Калькулятор</string>
     <string name="income_type" />
     <string name="install">Установить</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">Переключение между температурами ниже и выше нуля</string>
     <string name="network_confirm_content">Для нормальной работы конвертеру валют, налоговому и ипотечному калькуляторам требуется подключение к интернету и доступ к местоположению.</string>
     <string name="network_confirm_title">Требуются разрешения</string>
+    <string name="not_supported_due_to_language">Эта функция доступна только для китайского языка</string>
     <string name="percent" />
     <string name="percentDesc">процент</string>
     <string name="piDesc">пи</string>
@@ -165,7 +181,7 @@
     <string name="preference_use_degress_summary">Использовать углы вместо радианов в тригонометрических функциях</string>
     <string name="preference_use_degress_title">Использовать углы</string>
     <string name="radDesc">Радиан</string>
-    <string name="rate_data_provider">Процентные ставки предоставлены сайтом hexun.com</string>
+    <string name="rate_data_provider">Процентные ставки предоставлены hexun.com</string>
     <string name="reciprocalDesc">Обратная величина</string>
     <string name="reverceDesc">арк</string>
     <string name="rightParen">)</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sБ</string>
+    <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
+    <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+    <string name="xiaomi_megabytes_unit">%1$sМБ</string>
+    <string name="xiaomi_update_dialog_message">"Доступна версия %1$s
+Размер: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
+Размер дельта обновления: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">Обновление %1$s!</string>
     <string name="year" />
 </resources>

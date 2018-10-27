@@ -21,7 +21,7 @@
     <string name="no_sim">Нет SIM карты</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="title_reg">Создание Mi аккаунта</string>
-    <string name="error_network">Не удается подключиться к сети</string>
+    <string name="error_network">Не удалось подключиться к сети</string>
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Ошибка авторизации</string>
     <string name="sync_dspt">Включить синхронизацию</string>
@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">Интернет телефония</string>
     <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
     <string name="sync_dspt_provision">"Синхронизируйте фото, контакты, заметки и другие данные на всех устройствах и просматривайте их на "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Отключить эту функцию можно в настройках.
 "</string>
     <string name="sync_dspt_entrance_provision">"Синхронизируйте фото, контакты, журналы вызовов и сообщения на всех устройствах. Просматривайте их в любом браузере на %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">Пропустить</string>
     <string name="sync_dspt_entrance_provision_network">Для нормальной работы приложению требуется подключение к интернету. Синхронизация возможна через мобильную сеть и Wi-Fi.</string>
     <string name="find_device_dspt_provision">При утере устройства вы можете перейти на %s для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="mx_dspt_provision">"Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI при подключении к Wi-Fi.
 
@@ -67,14 +71,14 @@
     <string name="user_agreement_title">Условия использования Mi Cloud</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="loading">Секунду…</string>
-    <string name="license_host_unreachable">Не удается подключиться к сети. Для просмотра информации посетите %s.</string>
+    <string name="license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s.</string>
     <string name="activating">Активация…</string>
     <string name="find_device">Поиск устройства</string>
     <string name="find_device_operation_failure_rpc">Не удалось выполнить операцию из-за ошибки RPC.</string>
     <string name="enable_find_device_success">Поиск устройства включен.</string>
     <string name="activate_find_device_success">Поиск устройства активирован.</string>
-    <string name="enable_find_device_error">Не удается включить поиск устройства. %1$s</string>
-    <string name="disable_find_device_error">Не удается отключить поиск устройства. %1$s</string>
+    <string name="enable_find_device_error">Не удалось включить Поиск устройства. %1$s</string>
+    <string name="disable_find_device_error">Не удалось отключить Поиск устройства. %1$s</string>
     <string name="find_device_error_network">Проверьте подключение и повторите попытку</string>
     <string name="find_device_error_server">Ошибка сервера</string>
     <string name="i_know">OK</string>
@@ -135,7 +139,7 @@
     <string name="micloud_main_sync_now">Синхронизировать</string>
     <string name="micloud_main_sync_on">Включить</string>
     <string name="micloud_main_master_sync_on">Включить</string>
-    <string name="micloud_main_network_error">Не удается подключиться к сети</string>
+    <string name="micloud_main_network_error">Не удалось подключиться к сети</string>
     <string name="micloud_main_sync_pending">Ожидание синхронизации</string>
     <string name="micloud_main_sync_pause">Синхронизация приостановлена</string>
     <string name="micloud_main_detail">Подробности</string>
@@ -201,7 +205,7 @@
     <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
     <string name="micloud_setting_antispam_summary">Номера черного и белого списков</string>
-    <string name="micloud_member_net_error_alert_title">Не удается подключиться к сети</string>
+    <string name="micloud_member_net_error_alert_title">Не удалось подключиться к сети</string>
     <string name="micloud_member_net_error_alert_message">Отсутствует подключение к интернету.</string>
     <string name="micloud_member_pay_order_error_toast">Ошибка данных</string>
     <string name="micloud_member_pay_miid_error_toast">Ошибка аккаунта</string>
@@ -238,7 +242,7 @@
     <string name="micloud_confusion_entrance_notify_title">Другое устройство изменяет ваш аккаунт</string>
     <string name="micloud_confusion_entrance_notify_text">Нажмите для просмотра.</string>
     <string name="micloud_confusion_account_notify_title">Проверьте аккаунт</string>
-    <string name="micloud_confusion_account_notify_text">Другое устройство изменяет ваш аккаунт. Проверьте ваш аккаунт сейчас.</string>
+    <string name="micloud_confusion_account_notify_text">Другое устройство изменяет ваш Mi аккаунт. Проверьте его.</string>
     <string name="micloud_confusion_setting_notify_title">Защитите ваш аккаунт</string>
     <string name="micloud_confusion_setting_notify_text">Отключите синхронизацию для других устройств, связанных с вашим аккаунтом.</string>
     <string name="micloud_confusion_setting_password_error">Введен неверный пароль</string>
@@ -275,8 +279,8 @@
     <string name="micloud_notif_content_privacy_reopen_failed">Нажмите для просмотра.</string>
     <string name="micloud_find_device_guide_title">Выполните вход на &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> для поиска, блокировки или очистки вашего устройства. Это может помочь вам найти ваше устройство.&lt;br/>При утере устройства вы можете обратиться в службу безопасности часто используемых приложений (например, Alipay, WeChat, QQ) для защиты ваших аккаунтов на &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.</string>
     <string name="micloud_find_device_sms_alert">Для активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
-    <string name="micloud_find_device_guide_button">Включить поиск устройства</string>
-    <string name="micloud_find_device_guide_progress">Включение поиска устройства…</string>
+    <string name="micloud_find_device_guide_button">Включить Поиск устройства</string>
+    <string name="micloud_find_device_guide_progress">Включение Поиска устройства…</string>
     <string name="micloud_find_device_verify_button">Включить Поиск устройства</string>
     <string name="micloud_find_device_verify_progress">Включение Поиска устройства…</string>
     <string name="micloud_find_device_verify_close">Отключить Поиск устройства</string>
@@ -284,26 +288,27 @@
     <string name="micloud_find_device_opened">Поиск устройства включен</string>
     <string name="micloud_find_device_open_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_opened_content">Найдите свое устройство на %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_close_fail">Не удалось отключить Поиск устройства</string>
     <string name="micloud_find_device_finish">Готово</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Синхронизируйте контакты, фото и многое другое с помощью Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_reopen">Вы можете включить Поиск устройства в Mi аккаунт - Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Проверьте подключение и повторите попытку.</string>
-    <string name="micloud_find_device_guide_noti_title">Включите поиск устройства</string>
+    <string name="micloud_find_device_guide_noti_title">Включите Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_content">Защитите свои данные в случае потери устройства</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat рекомендует включить поиск устройства</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Ваши данные WeChat будут в безопасности в случае потери устройства</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay рекомендует включить поиск устройства</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Ваши данные Alipay будут в безопасности в случае потери устройства</string>
-    <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ рекомендует включить поиск устройства</string>
+    <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Ваши данные QQ будут в безопасности в случае потери устройства</string>
     <string name="micloud_find_device_guide_alert_title">Запомните свой пароль</string>
     <string name="micloud_find_device_guide_alert_content">Поиск устройства связан с вашим аккаунтом Mi. Вам нужно задать пароль или ввести ранее заданный пароль. Убедитесь, что вы запомнили ID вашего аккаунта Mi и пароль.</string>
     <string name="micloud_find_device_guide_alert_positive">OK</string>
     <string name="micloud_find_device_guide_alert_negtive">Нет, спасибо</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Нет, спасибо</string>
-    <string name="micloud_find_device_close_alert_title">Отключить поиск устройства?</string>
+    <string name="micloud_find_device_close_alert_title">Отключить Поиск устройства?</string>
     <string name="micloud_find_device_close_alert_content">При отключении этой функции вы не сможете найти устройство в случае его утери.</string>
     <string name="micloud_find_device_close_alert_positive">Не отключать</string>
     <string name="micloud_find_device_close_alert_negtive">Отключить</string>
@@ -350,6 +355,8 @@
     <string name="micloud_main_head_menu_state_close">Отключено</string>
     <string name="micloud_main_head_menu_state_unavailable">Не поддерживается</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Поиск устройства недоступен из второго пространства</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Подтверждение платежей</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -376,8 +383,8 @@
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_mega">Мега</string>
     <string name="member_menu_vipname_ultra">Ультра</string>
-    <string name="micloud_storage_unit_mb">%sМБ</string>
-    <string name="micloud_storage_unit_gb">%sГБ</string>
+    <string name="micloud_storage_unit_mb">%s МБ</string>
+    <string name="micloud_storage_unit_gb">%s ГБ</string>
     <string name="micloud_main_memory_low_title">Память телефона почти заполнена</string>
     <string name="micloud_notif_title_memory_low">Ошибка синхронизации</string>
     <string name="find_device_service_title">Поиск устройства</string>

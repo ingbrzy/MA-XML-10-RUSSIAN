@@ -126,6 +126,12 @@
         <item quantity="few">Проверьте %1$d новых видео</item>
         <item quantity="many">Проверьте %1$d новых видео</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d просмотров</item>
+        <item quantity="one">%1$d просмотр</item>
+        <item quantity="few">%1$d просмотра</item>
+        <item quantity="many">%1$d просмотров</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>
         <item quantity="one">Ясно</item>

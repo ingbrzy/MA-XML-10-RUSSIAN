@@ -48,6 +48,10 @@
         <item>Это и будущие мероприятия</item>
         <item>Все мероприятия</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>близнецы</item>
         <item>Близнецы</item>

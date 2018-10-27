@@ -30,7 +30,11 @@
     <string name="cancel_alarm_description">Отменить напоминание</string>
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с Mi Cloud</string>
     <string name="cloud_trash_bin_title">Удаленные заметки в Mi Cloud</string>
-    <string name="cta_reminder">Для сохранения заметок в Mi Cloud, а также чтения контактов для маркировки заметок, сделанных во время вызовов, требуется подключение к интернету.</string>
+    <string name="cta_confirm_cancel">Не разрешать</string>
+    <string name="cta_confirm_ok">Разрешить</string>
+    <string name="cta_dialog_message">Для нормальной работы Заметкам требуется подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
+    <string name="cta_dialog_title">Требуются разрешения</string>
+    <string name="cta_reminder">Для нормальной работы Заметкам требуется подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
     <string name="date_time_picker_alarm_reminder">Напоминание</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_time_picker_has_not_set_alarm">Напоминание не установлено</string>
@@ -67,12 +71,12 @@
     <string name="enable_sync">Синхронизировать</string>
     <string name="enable_sync_desc">Синхронизировать заметки с Mi аккаунтом (%1$s)?</string>
     <string name="error_contact_not_exist">Контакт не существует</string>
-    <string name="error_hide_empty_note">Невозможно скрыть пустую заметку</string>
-    <string name="error_note_empty_for_clock">Невозможно установить напоминание для пустой заметки</string>
-    <string name="error_note_empty_for_send_to_desktop">Невозможно отправить на рабочий стол пустую заметку</string>
+    <string name="error_hide_empty_note">Нельзя скрыть пустую заметку</string>
+    <string name="error_note_empty_for_clock">Нельзя установить напоминание для пустой заметки</string>
+    <string name="error_note_empty_for_send_to_desktop">Нельзя отправить на рабочий стол пустую заметку</string>
     <string name="error_note_not_exist">Заметка не существует</string>
-    <string name="error_send_empty_note">Невозможно отправить пустую заметку</string>
-    <string name="error_send_empty_note_to_weibo">Невозможно отправить пустую заметку в Weibo</string>
+    <string name="error_send_empty_note">Нельзя отправить пустую заметку</string>
+    <string name="error_send_empty_note_to_weibo">Нельзя отправить пустую заметку в Weibo</string>
     <string name="error_unsupport_content">Заметка содержит неизвестные ресурсы, нажмите для обновления</string>
     <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
     <string name="first_enter_custom_folder_hint">Вы можете переименовать или удалить папки</string>
@@ -86,7 +90,7 @@
     <string name="format_move_notes_to_folder">Перемещено в %2$s: %1$s</string>
     <string name="hidden_notes_fragment_title">Скрытые заметки</string>
     <string name="hide_arrow_description">Скрыть</string>
-    <string name="hint_cannot_view_hidden_note_content">Невозможно просмотреть содержимое скрытых заметок</string>
+    <string name="hint_cannot_view_hidden_note_content">Нельзя просмотреть содержимое скрытой заметки</string>
     <string name="hint_foler_name">Введите имя папки</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
     <string name="loading_text">Секунду…</string>
@@ -114,6 +118,7 @@
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не сейчас</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Оно содержит встроенные напоминания и синхронизирует ваши объекты с Mi Cloud, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
@@ -125,6 +130,7 @@
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
@@ -177,7 +183,7 @@
     <string name="sns_message_disconnect">Не удается подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="sns_title_edit">Поделиться заметкой</string>
     <string name="sns_title_send">Отправить сообщение</string>
-    <string name="sns_toast_empty">Невозможно отправить пустое сообщение</string>
+    <string name="sns_toast_empty">Нельзя отправить пустое сообщение</string>
     <string name="sns_toast_over_limit">Отправлено как изображение</string>
     <string name="sync_tips">Нажмите для синхронизации заметок с Mi Cloud.</string>
     <string name="theme_blue_description">Синяя</string>
@@ -198,7 +204,7 @@
     <string name="theme_yellow_description">Желтая</string>
     <string name="toast_cancel_to_insert_image">Не удалось добавить изображение</string>
     <string name="toast_message_add_image_fail">Не удалось добавить изображение</string>
-    <string name="toast_notes_delete_success">Заметка удалена</string>
+    <string name="toast_notes_delete_success">Удаление завершено</string>
     <string name="toast_notes_hidden_count">Скрыто: %1$s</string>
     <string name="toast_notes_hidden_edit">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
     <string name="toast_notes_hidden_home">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>

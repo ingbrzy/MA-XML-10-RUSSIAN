@@ -108,6 +108,8 @@
     <string name="card_title_utilities">Утилиты</string>
     <string name="check_network">Настройки</string>
     <string name="check_network_retry">Проверьте настройки сети и повторите попытку</string>
+    <string name="clean_grabage">Очистка</string>
+    <string name="clean_now">Проверить</string>
     <string name="cleanup_garbage">Очистка</string>
     <string name="cleanup_memory">Очистка памяти</string>
     <string name="cleanup_power">Глубокая очистка</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">Закрыть</string>
     <string name="cta_positive">Подробнее</string>
     <string name="cta_title">Ваш личный помощник</string>
+    <string name="current_optimization_value">Угрозы снижают безопасность вашего устройства</string>
     <string name="data_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
     <string name="data_error_show">Заказ выполнен, невозможно посмотреть подробности</string>
     <string name="donnot_ask">Больше не спрашивать</string>
@@ -223,9 +226,13 @@
     <string name="ola_status_code_401">Сессия устарела. Войдите повторно.</string>
     <string name="ola_status_code_429">Серверы Ola заняты. Подождите немного и повторите попытку.</string>
     <string name="ola_trip">Вызов такси</string>
-    <string name="ola_trip_content">Оценить тариф и вызвать Ola</string>
+    <string name="ola_trip_content">Оцените тариф и вызовите Ola</string>
     <string name="ola_trip_content_detail">Оцените приблизительный тариф и вызовите Ola</string>
+    <string name="optimizate_now">Оптимизировать</string>
+    <string name="optimization">Уровень безопасности</string>
     <string name="phone_check">Оптимизация</string>
+    <string name="phone_has_garbage">Ненужные файлы могут замедлить ваше устройство</string>
+    <string name="phone_has_virus">Вредоносное ПО и вирусы угрожают безопасности</string>
     <string name="place_label">Недавние места</string>
     <string name="record_name">Запись</string>
     <string name="record_parent">Диктофон</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE d.M.y</string>
     <string name="search_tip">Поиск…</string>
     <string name="security">Безопасность</string>
+    <string name="security_brief">Защитите устройство и освободите память</string>
     <string name="service_unavailiable">Подключитесь к сети и повторите попытку.</string>
     <string name="set_home_failed">Не удалось добавить адрес, повторите попытку.</string>
     <string name="set_office_failed">Не удалось добавить адрес, повторите попытку.</string>
@@ -253,7 +261,7 @@
     <string name="setting_cards_more">Еще карточки</string>
     <string name="setting_common_private">Безопасность и конфиденциальность</string>
     <string name="setting_cricket_match">Крикет</string>
-    <string name="setting_cricket_match_brief">Получайте счет матчей и планируйте обновления</string>
+    <string name="setting_cricket_match_brief">Получайте счет матчей и расписание встреч</string>
     <string name="setting_cricket_match_detail">Не пропустите ни одного матча</string>
     <string name="setting_dialog_cancel">Отмена</string>
     <string name="setting_dialog_quit">Выход</string>
@@ -266,7 +274,7 @@
     <string name="setting_football_hupu">Sportskeeda</string>
     <string name="setting_football_loading">Секунду…</string>
     <string name="setting_football_select_title" formatted="false">Выберите команды (%d/%d)</string>
-    <string name="setting_football_toast_max">Вы можете выбрать до 4 команд</string>
+    <string name="setting_football_toast_max">Можно выбрать до 4 команд</string>
     <string name="setting_home_label">Добавить домашний адрес</string>
     <string name="setting_launch_all_added">Добавлены все объекты</string>
     <string name="setting_launch_select_other_app">Другие приложения</string>
@@ -291,7 +299,7 @@
     <string name="stock_search_empty">Ничего не найдено</string>
     <string name="stock_title">Акции</string>
     <string name="stock_title_schema">Отображение котировок</string>
-    <string name="stock_toast_add_max_count">Вы можете следить за 8 компаниями</string>
+    <string name="stock_toast_add_max_count">Можно следить за 8 компаниями</string>
     <string name="stock_web_lable">Акции</string>
     <string name="time_just_now">Только что</string>
     <string name="time_month">dd.MM</string>
@@ -305,7 +313,7 @@
     <string name="time_year">dd.MM.yyyy</string>
     <string name="title_schema_code">Выделять код</string>
     <string name="title_schema_title">Выделять имя</string>
-    <string name="toast_function_add_not_allowed">Вы можете добавить до 8 ярлыков</string>
+    <string name="toast_function_add_not_allowed">Можно добавить до 8 ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо оставить хотя бы 1 ярлык</string>
     <string name="today_apps">Рекомендации</string>
     <string name="today_apps_bref">Откройте для себя новые приложения</string>
@@ -328,8 +336,8 @@
     <string name="train_pnr_powered_by">Поддержка: %s</string>
     <string name="train_pnr_proceed">Перейти</string>
     <string name="train_pnr_recent_label">Недавние PNR:</string>
-    <string name="train_pnr_setting_brief">Проверка PNR для билетов на поезд</string>
-    <string name="train_pnr_setting_brief_detail">Проверяйте PNR для всех билетов на поезд</string>
+    <string name="train_pnr_setting_brief">Проверяйте PNR для билетов на поезд</string>
+    <string name="train_pnr_setting_brief_detail">Проверяйте PNR для всех своих поездок</string>
     <string name="transit_subway">Общественный транспорт</string>
     <string name="try_again">Повторить</string>
     <string name="uber_company">Работа</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">Обновить</string>
     <string name="user_id">ID пользователя: %s</string>
     <string name="utilities_apps_bref">Исследуйте сторонние сервисы</string>
+    <string name="virus_scan">Антивирус</string>
     <string name="walk">Пешком</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">Как вы обычно добираетесь до места назначения?</string>

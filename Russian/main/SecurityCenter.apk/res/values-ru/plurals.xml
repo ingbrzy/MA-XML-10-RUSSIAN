@@ -147,10 +147,10 @@
         <item quantity="many">%d мАч</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d℃</item>
-        <item quantity="one">%d℃</item>
-        <item quantity="few">%d℃</item>
-        <item quantity="many">%d℃</item>
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+        <item quantity="few">%d ℃</item>
+        <item quantity="many">%d ℃</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Через %1$d минут</item>
@@ -181,6 +181,12 @@
         <item quantity="one">Найдена %d проблема с батареей, решите ее</item>
         <item quantity="few">Найдено %d проблемы с батареей, решите их</item>
         <item quantity="many">Найдено %d проблем с батареей, решите их</item>
+    </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Разряд %2$d%% за последние %1$d минут</item>
+        <item quantity="one">Разряд %2$d%% за последнюю %1$d минуту</item>
+        <item quantity="few">Разряд %2$d%% за последние %1$d минуты</item>
+        <item quantity="many">Разряд %2$d%% за последние %1$d минут</item>
     </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">проблем</item>
@@ -363,16 +369,16 @@
         <item quantity="many">%d дней с момента последней проверки</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="one">%d risk,</item>
-        <item quantity="few">%d risks,</item>
-        <item quantity="many">%d risks,</item>
+        <item quantity="other">%d угроз,</item>
+        <item quantity="one">%d угроза,</item>
+        <item quantity="few">%d угрозы,</item>
+        <item quantity="many">%d угроз,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="one">%d trojan</item>
-        <item quantity="few">%d trojans</item>
-        <item quantity="many">%d trojans</item>
+        <item quantity="other">%d вирусов</item>
+        <item quantity="one">%d вирус</item>
+        <item quantity="few">%d вируса</item>
+        <item quantity="many">%d вирусов</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Опасные приложения: %d</item>
@@ -553,5 +559,17 @@
         <item quantity="one">%1$d проблема требует решения</item>
         <item quantity="few">%1$d проблемы требуют решения</item>
         <item quantity="many">%1$d проблем требуют решения</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
     </plurals>
 </resources>

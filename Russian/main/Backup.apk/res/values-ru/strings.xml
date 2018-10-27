@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_bytes_unit">%1$s Б</string>
+    <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
+    <string name="xiaomi_megabytes_unit">%1$s МБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="app_name">Резервирование</string>
     <string name="local_app_name">Резервирование</string>
@@ -165,7 +168,7 @@
     <string name="current_sim">Текущая SIM карта</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
-    <string name="no_network">Не удается подключиться к сети</string>
+    <string name="no_network">Не удалось подключиться к сети</string>
     <string name="retry">Повторить</string>
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Снять выбор</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Восстановление</string>
     <string name="enable_encrypt_description">Шифровать</string>
     <string name="disable_encrypt_description">Не шифровать</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="abort_backup_confirm">Резервирование не завершено. Отменить процесс?</string>
@@ -541,6 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 необходимо создать резервную копию iCloud"</string>
     <string name="list_footer_tip_title">Советы:</string>
     <string name="import_tip_summary">Из-за проблем с совместимостью вы можете передавать данные с устройств iOS только частично. Перед началом передачи убедитесь, что вы создали резервную копию iCloud.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Импорт</string>
     <string name="select_empty">Выберите объекты для импорта</string>
     <string name="select_item_summary_wait">Ожидание…</string>

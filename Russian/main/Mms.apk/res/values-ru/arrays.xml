@@ -2,7 +2,7 @@
 <resources>
     <string-array name="contact_entries">
         <item>Имя</item>
-        <item>Ник</item>
+        <item>Псевдоним</item>
         <item>Телефон</item>
         <item>Email</item>
         <item>Организация</item>
@@ -30,6 +30,11 @@
         <item>Всегда</item>
         <item>Только в режиме \"Без звука\"</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>接收并通知</item>
+        <item>只接收</item>
+        <item>拒收</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Через MMS</item>

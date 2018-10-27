@@ -114,6 +114,12 @@
         <item quantity="few">%d видео</item>
         <item quantity="many">%d видео</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Выберите до %d фото</item>
+        <item quantity="one">Выберите до %d фото</item>
+        <item quantity="few">Выберите до %d фото</item>
+        <item quantity="many">Выберите до %d фото</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
@@ -389,11 +395,5 @@
         <item quantity="one">%d объект</item>
         <item quantity="few">%d объекта</item>
         <item quantity="many">%d объектов</item>
-    </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">Выберите до %d фото</item>
-        <item quantity="one">Выберите до %d фото</item>
-        <item quantity="few">Выберите до %d фото</item>
-        <item quantity="many">Выберите до %d фото</item>
     </plurals>
 </resources>

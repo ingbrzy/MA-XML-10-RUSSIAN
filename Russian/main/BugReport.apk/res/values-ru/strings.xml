@@ -57,6 +57,7 @@
     <string name="save_pic_success">Изображение сохранено в %s</string>
     <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберите продукт</string>
     <string name="michat_skillset_business_type_title">Выберите сервис</string>
     <string name="michat_close_text">Чат завершен</string>
@@ -138,7 +139,7 @@
     <string name="toast_feedback_submitting">Отправка…</string>
     <string name="toast_feedback_collect_store">Сбор журналов…</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении к сети Wi-Fi</string>
-    <string name="toast_feedback_network_unavailable">Не удается подключиться к сети</string>
+    <string name="toast_feedback_network_unavailable">Не удалось подключиться к сети</string>
     <string name="toast_network_unavailable">Не удалось отправить отчет. Интернет недоступен.</string>
     <string name="discard_draft_dialog_title">Удалить черновик?</string>
     <string name="discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчет, будут потеряны.</string>
@@ -149,13 +150,13 @@
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="packaging_dialog_content">Создание отчета…</string>
     <string name="loading_apps">Загрузка списка приложений…</string>
-    <string name="network_err">Не удается подключиться к сети</string>
+    <string name="network_err">Не удалось подключиться к сети</string>
     <string name="refresh">Обновить</string>
     <string name="announcement">Внимание</string>
     <string name="app_empty">Приложения не найдены.</string>
     <string name="screen_lock">Блокировка экрана</string>
     <string name="systemui">Шторка уведомлений</string>
-    <string name="cta_dialog_title">Интернет-подключение</string>
+    <string name="cta_dialog_title">Доступ в интернет</string>
     <string name="cta_dialog_content">Для нормальной работы приложению требуется подключение к интернету.</string>
     <string name="cta_not_show_again">Больше не показывать</string>
     <string name="cta_cancel">Отмена</string>
@@ -289,8 +290,8 @@
     <string name="warning_field_invalid">Выберите действительный %1$s</string>
     <string name="min_error">Ваш %1$s слишком короткий.</string>
     <string name="max_error">Ваш %1$s слишком длинный.</string>
-    <string name="reply_option_log_hint">可选</string>
-    <string name="reply_select_log_hint">Выберите файл журнала</string>
+    <string name="reply_option_log_hint">Необязательно</string>
+    <string name="reply_select_log_hint">Выберите журнал</string>
     <string name="title_mi_family">Mi Homes поблизости</string>
     <string name="hint_feedback_main">Опишите проблему (на английском)</string>
     <string name="goon_feedback_main">Продолжить</string>
@@ -330,5 +331,34 @@
     <string name="customer_service_apply">Запросить обслуживание</string>
     <string name="customer_service_complain">Пожаловаться на обслуживание</string>
     <string name="customer_service_station">Места обслуживания</string>
+    <string name="title_catch_full_log">Журналы</string>
+    <string name="toast_catch_full_log_catching">Одновременно можно создать только один журнал</string>
+    <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобильные сети</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi и Mi Drop</string>
+    <string name="catch_full_log_item_title_gps">Службы местоположения</string>
+    <string name="catch_full_log_item_title_audio">Аудио, запись звука и вызовы</string>
+    <string name="catch_full_log_item_title_sensor">Датчики</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Задержки</string>
+    <string name="catch_full_log_item_content_need_open">"Шаги:
+1. Нажмите \"Создать журнал\".
+2. Вернитесь к функции, о которой вы хотите сообщить, и воспроизведите проблему.
+3. Вернитесь на эту страницу и нажмите \"Завершить и отправить\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">"Шаги:
+1. Вернитесь к функции, о которой вы хотите сообщить, и воспроизведите проблему.
+2. Вернитесь на эту страницу и нажмите \"Завершить и отправить\"."</string>
+    <string name="catch_full_log_action_start">Создать журнал</string>
+    <string name="catch_full_log_action_complete">Завершить и отправить</string>
+    <string name="catch_full_log_action_cancel">Отменить</string>
+    <string name="catch_full_log_dialog_content">MIUI создает журнал. Это может повлиять на общую производительность вашего устройства. Если вы не можете воспроизвести проблему, о которой хотите сообщить, вернитесь к журналам и нажмите \"Отменить\".</string>
+    <string name="catch_full_log_dialog_confirm_text">На рабочий стол</string>
+    <string name="catch_full_log_notification_title">Создание журнала…</string>
+    <string name="catch_full_log_notification_content">Нажмите для возврата</string>
+    <string name="catch_full_log_start_dump_hprof">Создание журнала задержек</string>
+    <string name="catch_full_log_dump_hprof_failed">Не удалось создать журнал задержек</string>
+    <string name="catch_full_log_add_original_photo">Добавить фото</string>
+    <string name="catch_full_log_add_photo_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
+    <string name="catch_full_log_submit_directly">Отправить</string>
+    <string name="catch_full_log_add_photo">Добавить фото</string>
     <string name="select_system_app_tag">Выберите проблему</string>
 </resources>

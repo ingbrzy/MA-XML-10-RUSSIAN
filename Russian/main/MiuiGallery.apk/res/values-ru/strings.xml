@@ -8,7 +8,7 @@
     <string name="add_secret_ensure_title">Скрытие</string>
     <string name="add_sharer">Добавить пользователя</string>
     <string name="add_to_album">Выберите альбом</string>
-    <string name="add_to_album_bulk_result">Ошибка %d</string>
+    <string name="add_to_album_bulk_result">Ошибка (%d)</string>
     <string name="add_to_album_exist">Фото уже существует в этом альбоме</string>
     <string name="add_to_album_failed">Ошибка добавления в альбом</string>
     <string name="add_to_album_failed_with_reason">Ошибка добавления в альбом. %1$s.</string>
@@ -131,7 +131,7 @@
     <string name="baby_name_cannot_start_with">Имя не может начинаться с \"%s\"</string>
     <string name="baby_name_contain_invalidate_char">Имя не может содержать \"%s\"</string>
     <string name="baby_name_reserved">Имя закреплено за другим альбомом</string>
-    <string name="baby_nick_name">Имя</string>
+    <string name="baby_nick_name">Прозвище</string>
     <string name="baby_sexy">Пол</string>
     <string name="baby_suffix">-малыш</string>
     <string name="back">Назад</string>
@@ -199,7 +199,7 @@
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Восстановить обои экрана блокировки по умолчанию?</string>
     <string name="cancel_download_btn_text">Остановить</string>
     <string name="cancel_hint">Действие отменено</string>
-    <string name="cannot_remove_creator">Невозможно удалить отправителя</string>
+    <string name="cannot_remove_creator">Нельзя удалить создателя</string>
     <string name="cannot_send_message">Не удалось отправить сообщение</string>
     <string name="cannot_send_message_reason">Получатели не указаны</string>
     <string name="cast_devices_unavailable_desc">Убедитесь, что устройство и проектор подключены к одной и той же сети Wi-Fi</string>
@@ -274,6 +274,7 @@
     <string name="collage_poster_global_summer_flower_text">ЛЕТО</string>
     <string name="collage_poster_global_tea_text">ЧАЙНАЯ ПАУЗА</string>
     <string name="collage_rotate">Повернуть</string>
+    <string name="collage_select_image_range">Коллажи могут содержать 1-4 фото</string>
     <string name="collage_title_layout">Макет</string>
     <string name="collage_title_poster">Плакат</string>
     <string name="collaps_people">Скрыть другие лица</string>
@@ -466,6 +467,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -476,6 +478,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -537,6 +540,7 @@
     <string name="finish_fill_baby">Создать</string>
     <string name="flash_off">Без вспышки</string>
     <string name="flash_on">Со вспышкой</string>
+    <string name="frame_not_support_image_ratio">Это соотношение не поддерживается</string>
     <string name="free_view_desc">3D просмотр</string>
     <string name="gallery_setting">Настройки</string>
     <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
@@ -544,6 +548,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
@@ -585,7 +590,7 @@
     <string name="initializing_cloud">Инициализация…</string>
     <string name="input_a_name">Введите имя</string>
     <string name="input_baby_name">Введите имя</string>
-    <string name="input_baby_nick_name">Введите имя</string>
+    <string name="input_baby_nick_name">Введите прозвище</string>
     <string name="input_nickname_toast">Введите имя ребенка</string>
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
@@ -709,6 +714,7 @@
     <string name="operation_in_process">Обработка…</string>
     <string name="operation_move_to_other_albums">Переместить в Другие альбомы</string>
     <string name="operation_not_show_in_photos_tab">Не показывать в Фото</string>
+    <string name="operation_produce">Творчество</string>
     <string name="operation_projection">Транслировать</string>
     <string name="operation_remove_face">Удалить</string>
     <string name="operation_remove_from_face_album">Удалить из альбома</string>
@@ -741,6 +747,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -751,10 +758,12 @@
     <string name="photo_editor_beauty_compare">Оригинал</string>
     <string name="photo_editor_crop_and_rotate">Обрезка</string>
     <string name="photo_editor_crop_auto">Авто</string>
+    <string name="photo_editor_crop_auto_tips">Обрезано автоматически</string>
     <string name="photo_editor_crop_reset">Сбросить</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Набросок</string>
     <string name="photo_editor_filter">Эффекты</string>
+    <string name="photo_editor_frame">Рамка</string>
     <string name="photo_editor_label">Изменить</string>
     <string name="photo_editor_long_crop">Обрезка</string>
     <string name="photo_editor_miui_beauty">Улучшение</string>
@@ -809,6 +818,7 @@
     <string name="photo_editor_talkback_redo">Вернуть</string>
     <string name="photo_editor_talkback_undo">Отменить</string>
     <string name="photo_editor_text">Текст</string>
+    <string name="photo_movie_select_image_range">Клипы могут содержать 3-6 фото</string>
     <string name="photo_page_save_uri_image_fail">Не удалось сохранить в Галерее</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в Галерее</string>
     <string name="photo_print_menu_loading">Загрузка плагина…</string>
@@ -962,7 +972,7 @@
     <string name="search_feedback_false_positive_text">Удалить фото из \"%s\"?</string>
     <string name="search_feedback_false_positive_title">Похоже, что это \"%s\"</string>
     <string name="search_feedback_likely_check_title">Проверить</string>
-    <string name="search_feedback_likely_title">Похоже, что эти фото могут быть \"%s\"</string>
+    <string name="search_feedback_likely_title">Похоже, что на этих фото может быть \"%s\"</string>
     <string name="search_feedback_task_complete">Все задачи выполнены</string>
     <string name="search_feedback_task_progress">Задачи %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">Не удалось получить приз. Повторите попытку позже.</string>
@@ -998,6 +1008,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1017,6 +1030,7 @@
     <string name="secret_reason_unknow_reasons">Неизвестная ошибка</string>
     <string name="secret_reason_video_not_support">Невозможно добавить видео в скрытый альбом</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>
+    <string name="select_image_operation">Добавление фото</string>
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
@@ -1157,6 +1171,7 @@
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="unpublish_succeeded">Общий доступ к альбому закрыт</string>
     <string name="unpublishing">Отмена…</string>
+    <string name="unsupport_video">%s не работает с видео</string>
     <string name="user_agree">Согласен</string>
     <string name="user_agreement2">Условия использования</string>
     <string name="user_agreement4">Политика конфиденциальности</string>
@@ -1274,6 +1289,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>
@@ -1281,10 +1297,7 @@
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Для ребенка вы</string>
-    <string name="collage_select_image_range">Коллажи могут содержать 1-4 фото</string>
-    <string name="operation_produce">Творчество</string>
-    <string name="photo_editor_crop_auto_tips">Обрезано автоматически</string>
-    <string name="photo_movie_select_image_range">Клипы могут содержать 3-6 фото</string>
+    <string name="operation_set_slide_wallpaper">Установить как обои слайд-шоу</string>
     <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
     <string name="refocus_discard_negative_btn">Не сохранять</string>
     <string name="refocus_discard_positive_btn">Сохранить</string>
@@ -1297,6 +1310,6 @@
     <string name="refocus_title">Размытие</string>
     <string name="refocus_type_static">Степень размытия</string>
     <string name="refocus_type_video">Световые следы</string>
-    <string name="select_image_operation">Добавление фото</string>
-    <string name="unsupport_video">%s не работает с видео</string>
+    <string name="set_as_slide_wallpaper_description">Это эскиз изображения, скачать оригинал?</string>
+    <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
 </resources>

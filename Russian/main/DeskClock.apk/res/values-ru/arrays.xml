@@ -70,7 +70,6 @@
         <item>Хараре</item>
         <item>Йоханнесбург</item>
         <item>Кампала</item>
-        <item>Хартум</item>
         <item>Кигали</item>
         <item>Киншаса</item>
         <item>Лагос</item>
@@ -83,9 +82,8 @@
         <item>Тунис</item>
         <item>Анкоридж</item>
         <item>Мендоса</item>
-        <item>Аруба</item>
         <item>Асунсьон</item>
-        <item>Барбадос</item>
+        <item>Бриджтаун</item>
         <item>Белиз</item>
         <item>Богота</item>
         <item>Буэнос-Айрес</item>
@@ -93,23 +91,22 @@
         <item>Каракас</item>
         <item>Джорджтаун</item>
         <item>Чикаго</item>
-        <item>Коста-Рика</item>
-        <item>Кюрасао</item>
+        <item>Сан-Хосе</item>
+        <item>Виллемстад</item>
         <item>Досон-Крик</item>
         <item>Денвер</item>
         <item>Детройт</item>
-        <item>Доминика</item>
+        <item>Санто-Доминго</item>
         <item>Эдмонтон</item>
         <item>Сальвадор</item>
         <item>Форталеза</item>
-        <item>Гранд-Терк</item>
-        <item>Гренада</item>
+        <item>Сент-Джорджес</item>
         <item>Гватемала</item>
-        <item>Гайана</item>
+        <item>Джорджтаун</item>
         <item>Галифакс</item>
         <item>Гавана</item>
         <item>Индианаполис</item>
-        <item>Ноксвилл</item>
+        <item>Нокс</item>
         <item>Маренго</item>
         <item>Питерсберг</item>
         <item>Телл-Сити</item>
@@ -122,7 +119,7 @@
         <item>Лос-Анджелес</item>
         <item>Луисвилл</item>
         <item>Манагуа</item>
-        <item>Мартиника</item>
+        <item>Фор-де-Франс</item>
         <item>Метлакатла</item>
         <item>Мехико</item>
         <item>Монтеррей</item>
@@ -137,25 +134,22 @@
         <item>Финикс</item>
         <item>Порт-оф-Спейн</item>
         <item>Порт-о-Пренс</item>
-        <item>Пуэрто-Рико</item>
-        <item>Санто-Доминго</item>
         <item>Сан-Паулу</item>
         <item>Сент-Джонс</item>
         <item>Сент-Китс</item>
-        <item>Сент-Люсия</item>
+        <item>Кастрис</item>
         <item>Сент-Томас</item>
         <item>Тихуана</item>
         <item>Торонто</item>
         <item>Ванкувер</item>
         <item>Виннипег</item>
-        <item>Южный полюс</item>
         <item>Лонгйир</item>
         <item>Алматы</item>
         <item>Амман</item>
         <item>Анадырь</item>
         <item>Актау</item>
         <item>Багдад</item>
-        <item>Бахрейн</item>
+        <item>Манама</item>
         <item>Баку</item>
         <item>Бангкок</item>
         <item>Бейрут</item>
@@ -163,7 +157,7 @@
         <item>Дамаск</item>
         <item>Дакка</item>
         <item>Дубай</item>
-        <item>Сектор Газа</item>
+        <item>Газа</item>
         <item>Хеврон</item>
         <item>Хошимин</item>
         <item>Гонконг</item>
@@ -179,10 +173,9 @@
         <item>Маскат</item>
         <item>Пномпень</item>
         <item>Пхеньян</item>
-        <item>Катар</item>
+        <item>Доха</item>
         <item>Янгон</item>
         <item>Эр-Рияд</item>
-        <item>Хошимин</item>
         <item>Сеул</item>
         <item>Шанхай</item>
         <item>Сингапур</item>
@@ -191,11 +184,11 @@
         <item>Тель-Авив</item>
         <item>Токио</item>
         <item>Улан-Батор</item>
-        <item>Бермудские Острова</item>
+        <item>Гамильтон</item>
         <item>Канарские острова</item>
-        <item>Кабо-Верде</item>
+        <item>Прая</item>
         <item>Рейкьявик</item>
-        <item>Порт-Сэнли</item>
+        <item>Порт-Стэнли</item>
         <item>Аделаида</item>
         <item>Брисбен</item>
         <item>Канберра</item>
@@ -210,7 +203,7 @@
         <item>Саскачеван</item>
         <item>Остров Пасхи</item>
         <item>Амстердам</item>
-        <item>Андорра</item>
+        <item>Андорра-ла-Велья</item>
         <item>Афины</item>
         <item>Белфаст</item>
         <item>Белград</item>
@@ -230,7 +223,7 @@
         <item>Лондон</item>
         <item>Люксембург</item>
         <item>Мадрид</item>
-        <item>Мальта</item>
+        <item>Валлетта</item>
         <item>Минск</item>
         <item>Монако</item>
         <item>Москва</item>
@@ -253,17 +246,14 @@
         <item>Загреб</item>
         <item>Цюрих</item>
         <item>Антананариву</item>
-        <item>Мальдивские острова</item>
-        <item>Маврикий</item>
+        <item>Мале</item>
+        <item>Порт-Луи</item>
         <item>Окленд</item>
-        <item>Фиджи</item>
+        <item>Сува</item>
         <item>Гуам</item>
         <item>Гонолулу</item>
-        <item>Киритимати</item>
         <item>Нумеа</item>
-        <item>Самоа</item>
         <item>Таити</item>
-        <item>Антигуа</item>
         <item>Остин</item>
         <item>Бостон</item>
         <item>Калгари</item>
@@ -362,13 +352,12 @@
         <item>Гвинея</item>
         <item>Сенегал</item>
         <item>Танзания</item>
-        <item>Республика Джибути</item>
+        <item>Джибути</item>
         <item>Сьерра-Леоне</item>
         <item>Ботсвана</item>
         <item>Зимбабве</item>
         <item>Южная Африка</item>
         <item>Уганда</item>
-        <item>Судан</item>
         <item>Руанда</item>
         <item>Демократическая Республика Конго</item>
         <item>Нигерия</item>
@@ -381,7 +370,6 @@
         <item>Тунис</item>
         <item>США</item>
         <item>Аргентина</item>
-        <item>Аруба</item>
         <item>Парагвай</item>
         <item>Барбадос</item>
         <item>Белиз</item>
@@ -400,7 +388,6 @@
         <item>Канада</item>
         <item>Сальвадор</item>
         <item>Бразилия</item>
-        <item>Теркс и Кайкос</item>
         <item>Гренада</item>
         <item>Гватемала</item>
         <item>Гайана</item>
@@ -435,8 +422,6 @@
         <item>США</item>
         <item>Тринидад и Тобаго</item>
         <item>Гаити</item>
-        <item>Пуэрто-Рико</item>
-        <item>Доминиканская Республика</item>
         <item>Бразилия</item>
         <item>Канада</item>
         <item>Сент-Китс и Невис</item>
@@ -446,7 +431,6 @@
         <item>Канада</item>
         <item>Канада</item>
         <item>Канада</item>
-        <item>Антарктида</item>
         <item>Шпицберген и Ян-Майен</item>
         <item>Казахстан</item>
         <item>Иордания</item>
@@ -466,7 +450,7 @@
         <item>Вьетнам</item>
         <item>Китай</item>
         <item>Индонезия</item>
-        <item>Израиль</item>
+        <item></item>
         <item>Афганистан</item>
         <item>Пакистан</item>
         <item>Непал</item>
@@ -480,7 +464,6 @@
         <item>Катар</item>
         <item>Мьянма</item>
         <item>Саудовская Аравия</item>
-        <item>Китай</item>
         <item>Южная Корея</item>
         <item>Китай</item>
         <item>Сингапур</item>
@@ -517,7 +500,7 @@
         <item>Бельгия</item>
         <item>Румыния</item>
         <item>Венгрия</item>
-        <item>Молдова</item>
+        <item>Молдавия</item>
         <item>Дания</item>
         <item>Ирландия</item>
         <item>Гибралтар</item>
@@ -537,31 +520,28 @@
         <item>Чехия</item>
         <item>Латвия</item>
         <item>Италия</item>
-        <item>Сан-Марино</item>
+        <item></item>
         <item>Босния и Герцеговина</item>
-        <item>Украина</item>
+        <item></item>
         <item>Македония</item>
         <item>Болгария</item>
         <item>Швеция</item>
         <item>Эстония</item>
-        <item>Ватикан</item>
+        <item></item>
         <item>Австрия</item>
         <item>Литва</item>
         <item>Польша</item>
         <item>Хорватия</item>
         <item>Швейцария</item>
         <item>Мадагаскар</item>
-        <item>Мальдивские острова</item>
+        <item>Мальдивы</item>
         <item>Маврикий</item>
         <item>Новая Зеландия</item>
         <item>Фиджи</item>
         <item>Гуам</item>
         <item>США</item>
-        <item>Австралия</item>
         <item>Новая Каледония</item>
-        <item>Самоа</item>
         <item>Французская Полинезия</item>
-        <item>Антигуа и Барбуда</item>
         <item>США</item>
         <item>США</item>
         <item>Канада</item>

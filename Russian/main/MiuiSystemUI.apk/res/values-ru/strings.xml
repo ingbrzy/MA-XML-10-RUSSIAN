@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -549,6 +550,8 @@
     <string name="empty_shade_text">Нет уведомлений</string>
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
+    <string name="enable_atrace">Включить ATrace</string>
+    <string name="enable_atrace_summary">Запись событий ядра с помощью ATrace</string>
     <string name="enable_bluetooth_confirmation_ok">Включить</string>
     <string name="enable_bluetooth_message">Чтобы подключить клавиатуру к планшету, включите Bluetooth.</string>
     <string name="enable_bluetooth_title">Подключение по Bluetooth</string>
@@ -592,29 +595,29 @@
     <string name="face_data_input_cancel_msg">Не удалось добавить данные лица</string>
     <string name="face_data_input_msg">Разместите лицо внутри рамки</string>
     <string name="face_data_input_ok">Готово</string>
-    <string name="face_data_input_ok_msg">Для разблокировки с помощью лица включите экран.</string>
-    <string name="face_data_input_ok_msg_angle">"Разблокируйте устройство с помощью лица, когда экран включен.
+    <string name="face_data_input_ok_msg">Для разблокировки по лицу включите экран.</string>
+    <string name="face_data_input_ok_msg_angle">"Разблокируйте устройство по лицу, когда экран включен.
 (Запишите данные лица под всеми требуемыми углами.)"</string>
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавление данных лица</string>
-    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица задайте пароль блокировки экрана.</string>
+    <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица настройте защиту устройства.</string>
     <string name="face_data_introduction_next">Далее</string>
     <string name="face_data_introduction_title">Распознавание лиц</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать их для разблокировки устройства.</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
-    <string name="face_data_manage_unlock_msg">Разблокировка устройства с помощью данных лица</string>
-    <string name="face_data_manage_unlock_title">Разблокировка данными лица</string>
+    <string name="face_data_manage_unlock_msg">Разблокировать устройство с помощью данных лица</string>
+    <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
-    <string name="face_data_suggesstion_first">Внимание: распознавание лиц менее безопасно, чем использование кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
+    <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство с помощью данных лица, когда экран включается при поступлении уведомлений. Возможен быстрый разряд батареи.</string>
-    <string name="face_unlock_by_notification_screen_on_title">Распознавать лица при включении экрана</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включен (например, при поступлении уведомлений). Возможен более быстрый разряд батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Распознавать лица при включенном экране</string>
     <string name="face_unlock_check_failed">Не удалось вас узнать</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
@@ -628,17 +631,17 @@
     <string name="face_unlock_passwork">Использовать пароль</string>
     <string name="face_unlock_passwork_and_fingerprint">Использовать пароль или отпечаток</string>
     <string name="face_unlock_quality">Невозможно четко увидеть ваше лицо</string>
-    <string name="face_unlock_reenter_content">Алгоритм распознавания лиц обновлен. Добавьте данные лица заново.</string>
+    <string name="face_unlock_reenter_content">Алгоритм разблокировки обновлен. Добавьте данные лица заново.</string>
     <string name="face_unlock_reenter_title">Обновите данные лица</string>
     <string name="face_unlock_reveal_eye">Ваши глаза должны быть видны</string>
     <string name="face_unlock_reveal_mouth">Ваши губы должны быть видны</string>
     <string name="face_unlock_rise">Опустите голову</string>
     <string name="face_unlock_rotated_left">Поверните голову вправо</string>
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
-    <string name="face_unlock_sc_status">Коснитесь экрана для запуска камеры</string>
+    <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
-    <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки приложения %1$s</string>
-    <string name="fingerprint_add_text">Интерфейс модуля отпечатков пальцев был обновлен. Добавьте ваш отпечаток заново.</string>
+    <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
+    <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
     <string name="fingerprint_again_identified_msg">Ваш отпечаток пальца снова активен. Используйте его или введите пароль.</string>
     <string name="fingerprint_dialog_touch_sensor">Коснитесь сканера отпечатков</string>
@@ -649,7 +652,7 @@
     <string name="fingerprint_not_identified_msg_lock">Слишком много неудачных попыток. Введите пароль.</string>
     <string name="fingerprint_not_identified_title">Введите пароль</string>
     <string name="fingerprint_not_recognized">Отпечаток не распознан</string>
-    <string name="fingerprint_try_again_msg">Не удалось проверить отпечаток, повторите попытку.</string>
+    <string name="fingerprint_try_again_msg">Отпечаток не распознан, повторите попытку</string>
     <string name="fingerprint_try_again_text">Повторите попытку</string>
     <string name="float_incall_ignore">Игнорировать</string>
     <string name="float_incall_message">Сообщение</string>
@@ -722,12 +725,12 @@
     <string name="immediately_destroy_activities">Не хранить activities</string>
     <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
     <string name="important_desc">Все важные уведомления будут появляться в шторке уведомлений.</string>
-    <string name="inactive_app_active_summary">Включено. Нажмите для отключения.</string>
-    <string name="inactive_app_inactive_summary">Отключено. Нажмите для включения.</string>
+    <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
+    <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="incorrect_pincode">Неверный PIN код</string>
     <string name="incorrect_pukcode">Неверный PUK код</string>
-    <string name="input_password_after_boot_msg">Для разблокировки устройства требуется пароль</string>
+    <string name="input_password_after_boot_msg">После перезагрузки необходимо ввести пароль</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Нельзя менять пространство во время вызова</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Нельзя менять пространство при включенном родительском контроле</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
@@ -810,8 +813,12 @@
     <string name="keyguard_carrier_default">Нет сети</string>
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
-    <string name="keyguard_charging_info_battery_used_time_text">Работа от батареи</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Без зарядки</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -836,6 +843,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
@@ -882,15 +890,15 @@
     <string name="kg_pin_accepted">Код принят</string>
     <string name="kg_pin_instructions">Введите цифровой код</string>
     <string name="kg_prompt_reason_device_admin">Устройство заблокировано администратором</string>
-    <string name="kg_prompt_reason_restart_password">Введите пароль</string>
-    <string name="kg_prompt_reason_restart_pattern">Введите графический ключ</string>
-    <string name="kg_prompt_reason_restart_pin">Введите цифровой код</string>
+    <string name="kg_prompt_reason_restart_password">После перезагрузки необходимо ввести пароль</string>
+    <string name="kg_prompt_reason_restart_pattern">После перезагрузки необходимо ввести графический ключ</string>
+    <string name="kg_prompt_reason_restart_pin">После перезагрузки необходимо ввести цифровой код</string>
     <string name="kg_prompt_reason_switch_profiles_password">После смены профиля необходимо ввести пароль</string>
     <string name="kg_prompt_reason_switch_profiles_pattern">После смены профиля необходимо ввести графический ключ</string>
     <string name="kg_prompt_reason_switch_profiles_pin">После смены профиля необходимо ввести цифровой код</string>
-    <string name="kg_prompt_reason_timeout_password">Для дополнительной защиты необходимо ввести пароль</string>
-    <string name="kg_prompt_reason_timeout_pattern">Для дополнительной защиты необходимо ввести графический ключ</string>
-    <string name="kg_prompt_reason_timeout_pin">Для дополнительной защиты необходимо ввести цифровой код</string>
+    <string name="kg_prompt_reason_timeout_password">В качестве дополнительной меры безопасности введите пароль</string>
+    <string name="kg_prompt_reason_timeout_pattern">В качестве дополнительной меры безопасности введите графический ключ</string>
+    <string name="kg_prompt_reason_timeout_pin">В качестве дополнительной меры безопасности введите цифровой код</string>
     <string name="kg_prompt_reason_user_request">Устройство заблокировано вручную</string>
     <string name="kg_puk_enter_pin_hint">Введите новый PIN</string>
     <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Для продолжения введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
@@ -919,6 +927,7 @@
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -982,6 +991,7 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т.д.) будут воспроизводиться в режиме \"Без звука\". Вы можете изменить это в Настройках.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
@@ -1009,12 +1019,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1046,6 +1058,7 @@
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1060,6 +1073,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1196,8 +1210,9 @@
 "<b>Уровень 0</b>" 
 - Блокировать все уведомления приложения"</string>
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
-    <string name="power_remaining_duration_only">Осталось примерно %1$s</string>
-    <string name="power_remaining_duration_only_short">Осталось %1$s</string>
+    <string name="power_remaining_duration_only">Заряда хватит примерно на %1$s</string>
+    <string name="power_remaining_duration_only_short">Заряда хватит на %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1399,7 +1414,7 @@
     <string name="screenshot_saving_ticker">Сохранение снимка экрана…</string>
     <string name="screenshot_saving_title">Сохранение снимка экрана…</string>
     <string name="screenshot_send">Отправить</string>
-    <string name="search_hint">Ищите сайты, приложения, контакты и видео 26</string>
+    <string name="search_hint">Поиск сайтов, приложений, контактов и видео…</string>
     <string name="search_menu_title">Поиск</string>
     <string name="select_application">Выберите приложение</string>
     <string name="select_logd_level">Уровень журнала</string>
@@ -1453,13 +1468,13 @@
     <string name="status_bar_airplane">Режим полета</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_clear_all_button">Очистить</string>
-    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-    <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+    <string name="status_bar_clock_date_format">E, d MMMM</string>
+    <string name="status_bar_clock_date_format_12">E, d MMMM</string>
     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mmaa d MMMM</string>
-    <string name="status_bar_date_format">"EEEE
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMMM</string>
+    <string name="status_bar_date_format">"E
 d MMMM"</string>
-    <string name="status_bar_date_format_12">"EEEE
+    <string name="status_bar_date_format_12">"E
 d MMMM"</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настроить способ ввода</string>
@@ -1529,9 +1544,9 @@ d MMMM"</string>
     <string name="structure_face_data_input_timeout_title">Повторите попытку</string>
     <string name="structure_face_data_input_up">Поднимите голову</string>
     <string name="structure_face_data_introduction_back">Назад</string>
-    <string name="structure_face_data_introduction_msg">3D данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица задайте пароль блокировки экрана.</string>
+    <string name="structure_face_data_introduction_msg">3D данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица настройте защиту устройства.</string>
     <string name="structure_face_data_introduction_next">Далее</string>
-    <string name="structure_face_data_introduction_settingpassword">Задать</string>
+    <string name="structure_face_data_introduction_settingpassword">Настроить</string>
     <string name="structure_face_data_introduction_title">Добавление 3D данных лица</string>
     <string name="structure_face_data_ir_input_face">Немного сместите голову</string>
     <string name="structure_face_data_manage_delete_msg">Удаление 3D данных лица</string>
@@ -1543,10 +1558,10 @@ d MMMM"</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Повторить</string>
     <string name="structure_face_delete_data_dialog_title">Не удалось запустить камеру</string>
     <string name="structure_face_hardware_abnormal_btn">Понятно</string>
-    <string name="structure_face_hardware_abnormal_msg">Не удается записать данные лица из-за ошибки лазера. Обратитесь в службу поддержки.</string>
-    <string name="structure_face_hardware_abnormal_title">Ошибка лазера</string>
+    <string name="structure_face_hardware_abnormal_msg">Произошла аппаратная ошибка. Перезагрузите устройство. Если это не поможет, наберите 400-100-5678, чтобы получить справку.</string>
+    <string name="structure_face_hardware_abnormal_title">Ошибка оборудования</string>
     <string name="structure_face_modules_abnormal_btn">Перезагрузить</string>
-    <string name="structure_face_modules_abnormal_msg">Не удается записать данные лица из-за ошибки оптического модуля. Перезагрузите устройство и повторите попытку.</string>
+    <string name="structure_face_modules_abnormal_msg">Не удалось записать данные лица из-за ошибки оптического модуля. Перезагрузите устройство и повторите попытку.</string>
     <string name="structure_face_modules_abnormal_title">Ошибка оптического модуля</string>
     <string name="structure_face_unlock_model2d_dialog_msg">3D распознавание будет отключено. 3D данные лица будут удалены. Вам также придется добавить 2D данные лица. Включить 2D распознавание?</string>
     <string name="structure_face_unlock_model2d_dialog_title">Включение 2D распознавания</string>
@@ -1562,6 +1577,7 @@ d MMMM"</string>
     <string name="structure_face_unlock_model_other_title">Распознавание лиц</string>
     <string name="structure_face_unlock_not_same_person">Вы должны выполнить все шаги самостоятельно. Не меняйтесь местами ни с кем.</string>
     <string name="structure_face_unlock_really_person">Похоже, что вы заменили лицо на неживой объект.</string>
+    <string name="structure_face_unlock_tof_covered">Не удалось добавить данные лица. Отодвиньтесь дальше от экрана.</string>
     <string name="switch_bar_off">Откл</string>
     <string name="switch_bar_on">Вкл</string>
     <string name="switch_system_user">Перейти в первое пространство</string>
@@ -1731,6 +1747,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1744,7 +1761,7 @@ d MMMM"</string>
     <string name="wifi_disabled_wifi_failure">Ошибка подключения Wi-Fi</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
-    <string name="wifi_fail_to_scan">Не удается выполнить поиск сетей</string>
+    <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_is_off">Wi-Fi отключен</string>
     <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_no_reconnect">Без доступа в интернет</string>
@@ -1755,9 +1772,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

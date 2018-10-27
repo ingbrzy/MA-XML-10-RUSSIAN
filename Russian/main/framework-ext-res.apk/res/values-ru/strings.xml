@@ -132,6 +132,7 @@
     <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
     <string name="security_permission_network_failed_text">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="security_permission_open_wifi_settings">Настройки Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Выберите приложение</string>
     <string name="user_switching_dialog_text">Переключение…</string>
     <string name="activity_package_delete_confirm_title">Внимание</string>

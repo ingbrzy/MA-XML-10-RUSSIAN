@@ -331,8 +331,8 @@
     <string name="simple_mode_button_text_face_beauty">Отключить режим улучшения</string>
     <string name="pref_face_beauty_title">Улучшение</string>
     <string name="pref_priority_storage_title">Сохранять на SD карту</string>
-    <string name="pref_camera_tilt_shift_entry_circle">Круговой</string>
-    <string name="pref_camera_tilt_shift_entry_parallel">Параллельный</string>
+    <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
+    <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
     <string name="pref_video_speed_fast_title">Ускорение</string>
     <string name="pref_video_speed_slow_title">Замедление</string>
     <string name="pref_camera_manual_mode_title">Ручной</string>
@@ -369,7 +369,7 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокусировка</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Серийная съемка</string>
     <string name="pref_camera_hdr_entry_auto">Авто</string>
-    <string name="pref_camera_hdr_entry_off">Отключен</string>
+    <string name="pref_camera_hdr_entry_off">Откл</string>
     <string name="pref_camera_hdr_entry_normal">Обычный</string>
     <string name="pref_camera_hdr_entry_live">Живой</string>
     <string name="pref_simple_hdr_entry_off">Откл</string>
@@ -390,8 +390,8 @@
     <string name="pref_camera_peak_title">Выделение области фокусировки</string>
     <string name="pref_camera_peak_entry_off">Откл</string>
     <string name="pref_camera_peak_entry_on">Вкл</string>
-    <string name="pref_camera_gradienter_title">Нивелир</string>
-    <string name="simple_mode_button_text_gradienter">Отключить режим Нивелир</string>
+    <string name="pref_camera_gradienter_title">Горизонт</string>
+    <string name="simple_mode_button_text_gradienter">Отключить режим Горизонт</string>
     <string name="confirm_recording_fail_title">Ошибка записи</string>
     <string name="confirm_recording_fail_calling_alert">Запись недоступна во время вызова.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Возможно, микрофон используется для записи другим приложением.</string>
@@ -435,6 +435,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -486,7 +488,7 @@
     <string name="config_name_setting">Настройки</string>
     <string name="config_name_timer">Таймер</string>
     <string name="config_name_sound">Звук</string>
-    <string name="config_name_straighten">Нивелир</string>
+    <string name="config_name_straighten">Горизонт</string>
     <string name="config_name_hht">Ночной</string>
     <string name="config_name_group">Групповое селфи</string>
     <string name="config_name_tilt">Tilt-shift</string>
@@ -566,4 +568,8 @@
     <string name="lighting_pattern_shutter">Шторки</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="fps960_toast">Съемка в режиме Замедление начнется, когда таймер достигнет белой точки</string>
+    <string name="portrait_bokeh_text">Режим \"Портрет\"</string>
+    <string name="portrait_bokeh_first_tips">"Используйте режим \"Портрет\"
+для размытия фона на ваших фото"</string>
+    <string name="portrait_bokeh_tips">Подойдите к объекту съемки на 1.5 метра</string>
 </resources>

@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Удалить</string>
     <string name="pref_category_title_cleanup_white_list">Исключения</string>
     <string name="pref_title_cleanup_white_list">Исключения</string>
-    <string name="pref_summary_cleanup_white_list">Приложения из списка исключений не будут очищаться</string>
+    <string name="pref_summary_cleanup_white_list">Приложения из списка исключений не будут очищены</string>
     <string name="pref_category_title_auto_update_cleanup_db">Дополнительные настройки</string>
     <string name="pref_title_auto_update_cleanup_db">Обновлять автоматически</string>
     <string name="pref_summary_auto_update_cleanup_db">Последнее обновление: %s</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -120,7 +121,7 @@
     <string name="white_list_large_file_header">Большие файлы и видео: %d</string>
     <string name="white_list_residual_header">Остатки данных: %d</string>
     <string name="white_list_title">Исключения</string>
-    <string name="toast_network_eror">Не удается подключиться к сети</string>
+    <string name="toast_network_eror">Не удалось подключиться к сети</string>
     <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
     <string name="sc_allow_network_dialog_button">Разрешить</string>
     <string name="auto_clean_switch_on">Включено</string>
@@ -129,7 +130,7 @@
     <string name="msg_update_error_code_success">Обновление завершено</string>
     <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
     <string name="msg_update_error_code_already_running">Обновление…</string>
-    <string name="msg_update_error_code_network_error">Не удается подключиться к сети</string>
+    <string name="msg_update_error_code_network_error">Не удалось подключиться к сети</string>
     <string name="msg_update_error_code_unknown_error">Серверы заняты. Подождите немного и повторите попытку.</string>
     <string name="msg_cleanup_db_update_time_unknown">Последнее обновление: неизвестно</string>
     <string name="item_title_process_mode">Режим очистки</string>
@@ -149,9 +150,9 @@
     <string name="hints_finish_quick_cleanup">Готово</string>
     <string name="hints_finish_quick_cleanup_title">Очищено %s мусора</string>
     <string name="dialog_title_load_cleanup_engine_error">Произошла ошибка</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Движок очистки был поврежден.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Модуль очистки был поврежден.</string>
     <string name="dialog_title_add_white_list_error">Внимание</string>
-    <string name="dialog_msg_add_white_list_error">Не удается добавить файл в исключения</string>
+    <string name="dialog_msg_add_white_list_error">Не удалось добавить файл в исключения</string>
     <string name="dialog_ok_add_white_list_error">Понятно</string>
     <string name="ok">OK</string>
     <string name="cancel">Отмена</string>
@@ -272,12 +273,12 @@
     <string name="mainbtn_text_quick_cleanup_default">Очистить</string>
     <string name="pref_title_open_optimizer_memory_scan">Проверять память</string>
     <string name="toast_select_white_need_remove">Выберите объекты для удаления</string>
-    <string name="network_not_available">Не удается подключиться к сети</string>
+    <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="no_network_btn">Повторить</string>
     <string name="name_debuglog_dir">Журнал отладки BSP</string>
     <string name="just_now">Только что</string>
     <string name="yesterday">Вчера</string>
-    <string name="month_day_format">dd MMM</string>
+    <string name="month_day_format">d MMMM</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
     <string name="go_to">Перейти</string>
     <string name="promotion">Реклама</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
@@ -558,13 +560,13 @@
     <string name="whatsapp_function_summery">Очищайте вложения WhatsApp</string>
     <string name="clean_summary">Очищено %1$s</string>
     <string name="onekeyclean_boosting_title">Ускорение</string>
-    <string name="onekeyclean_boosted_title">Очистка завершена</string>
+    <string name="onekeyclean_boosted_title">Успешно ускорено</string>
     <string name="onekeyclean_boost_cleaned">Очищено %s</string>
-    <string name="onekeyclean_boost_available">%s доступно</string>
+    <string name="onekeyclean_boost_available">Доступно %s</string>
     <string name="onekeyclean_card_summery">Удаляйте мусор для освобождения места</string>
     <string name="onekeyclean_card_btn">Очистить</string>
     <string name="memory_clean_icon_text">Очистка памяти</string>
-    <string name="pref_title_create_onekeyclean_shortcut">Добавить ярлык на рабочий стол</string>
+    <string name="pref_title_create_onekeyclean_shortcut">Создать ярлык на рабочем столе</string>
     <string name="memory_clean_no_trash_tip">Всё в порядке</string>
     <string name="toast_updater_open_4g_text">Обновление через мобильный интернет (4G) включено</string>
     <string name="toast_updater_close_4g_text">Обновление через мобильный интернет (4G) отключено</string>

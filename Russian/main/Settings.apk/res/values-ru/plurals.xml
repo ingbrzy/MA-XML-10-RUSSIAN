@@ -199,10 +199,10 @@
         <item quantity="many">Код должен содержать %d цифр</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">Вы можете ввести до %d цифр</item>
-        <item quantity="one">Вы можете ввести до %d цифры</item>
-        <item quantity="few">Вы можете ввести до %d цифр</item>
-        <item quantity="many">Вы можете ввести до %d цифр</item>
+        <item quantity="other">Можно ввести до %d цифр</item>
+        <item quantity="one">Можно ввести до %d цифры</item>
+        <item quantity="few">Можно ввести до %d цифр</item>
+        <item quantity="many">Можно ввести до %d цифр</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
         <item quantity="other">Введите не менее %d цифр</item>

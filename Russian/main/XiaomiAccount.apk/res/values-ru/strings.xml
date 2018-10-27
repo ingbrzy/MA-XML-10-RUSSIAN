@@ -143,7 +143,7 @@
     <string name="passport_user_agreement_p4">Политика конфиденциальности</string>
     <string name="passport_privacy_policy">Политика конфиденциальности</string>
     <string name="passport_user_agreement">Условия использования</string>
-    <string name="passport_license_host_unreachable">Не удается подключиться к сети. Для просмотра информации посетите %s</string>
+    <string name="passport_license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s</string>
     <string name="passport_login_failed">Ошибка авторизации</string>
     <string name="passport_reg_failed">Ошибка регистрации</string>
     <string name="passport_verification_failed">Не удалось проверить аккаунт</string>
@@ -159,7 +159,7 @@
     <string name="passport_error_invalid_dev_id">ID устройства неверен.</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_sim_not_ready">SIM карта не найдена</string>
-    <string name="passport_error_network">Не удается подключиться к сети</string>
+    <string name="passport_error_network">Не удалось подключиться к сети</string>
     <string name="passport_error_ssl_hand_shake">Не удалось подключиться к серверу</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
@@ -232,7 +232,7 @@
     <string name="search_account_security_path">Настройки/Mi аккаунт/Безопасность аккаунта</string>
     <string name="app_name">Mi аккаунт</string>
     <string name="account">Аккаунт</string>
-    <string name="logout_failed">Не удается выйти из аккаунта</string>
+    <string name="logout_failed">Не удалось выйти из аккаунта</string>
     <string name="turning_off_find_device">Отключение Поиска устройства…</string>
     <string name="turn_off_find_device_failed_title">Не удалось отключить Поиск устройства</string>
     <string name="no_response_retry">Нет ответа, повторите попытку.</string>
@@ -275,10 +275,10 @@
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, >, /</string>
     <string name="account_error_shorter_user_name">Имя должно содержать не менее 2 символов</string>
-    <string name="account_error_longer_user_name">Имя не должно содержать более 20 символов</string>
+    <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
     <string name="account_error_user_name">Неверное имя пользователя</string>
     <string name="account_error_user_birthday">Неверная дата рождения</string>
-    <string name="account_limit_update_birthday">Не удается изменить дату рождения</string>
+    <string name="account_limit_update_birthday">Нельзя изменить дату рождения</string>
     <string name="account_user_other_info">Другие сведения</string>
     <string name="account_user_region">Регион</string>
     <string name="account_global_region">За границей</string>
@@ -379,9 +379,9 @@
     <string name="device_delete_success_message">Если вы не входили в аккаунт с этого устройства, смените пароль!</string>
     <string name="change_password">Изменить пароль</string>
     <string name="completed">Настройка завершена!</string>
-    <string name="no_network_title">Не удается подключиться к сети</string>
+    <string name="no_network_title">Не удалось подключиться к сети</string>
     <string name="no_network_btn">Обновить</string>
-    <string name="get_device_list_failed">Не удается получить список</string>
+    <string name="get_device_list_failed">Не удалось получить список</string>
     <string name="delete_device_failed">Ошибка удаления устройства</string>
     <string name="empty_device_list_notice">Нет устройств</string>
     <string name="device_name">Имя устройства</string>
@@ -394,7 +394,7 @@
     <string name="find_device_request_prepare_error">Не удалось получить статус, повторите попытку позже</string>
     <string name="find_device_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
     <string name="find_device_bad_response_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
-    <string name="find_device_io_error">Не удается подключиться к сети</string>
+    <string name="find_device_io_error">Не удалось подключиться к сети</string>
     <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
     <string name="find_device_operation_failed_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
     <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>

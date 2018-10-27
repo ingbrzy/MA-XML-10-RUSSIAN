@@ -30,6 +30,12 @@
         <item quantity="few">Выбрано: %d</item>
         <item quantity="many">Выбрано: %d</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
+        <item quantity="one">Сообщение для %1$s и еще %2$d адресата доставлено</item>
+        <item quantity="few">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
+        <item quantity="many">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Не удалось отправить %d контактам</item>
         <item quantity="one">Не удалось отправить %d контакту</item>

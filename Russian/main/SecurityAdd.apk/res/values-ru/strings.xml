@@ -9,10 +9,11 @@
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="network_not_available">Не удается подключиться к сети</string>
+    <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="no_network_btn">Повторить</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
     <string name="usage_sorted_loading_text">Секунду…</string>
+    <string name="empty">" "</string>
     <string name="share">Поделиться</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>

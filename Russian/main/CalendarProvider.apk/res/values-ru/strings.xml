@@ -5,7 +5,7 @@
     <string name="holiday_data_updating">Обновление…</string>
     <string name="holiday_data_update_failed">Ошибка обновления. Проверьте подключение и повторите попытку.</string>
     <string name="holiday_data_update_succeed">Обновление завершено</string>
-    <string name="holiday_data_no_network">Не удается подключиться к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="holiday_data_no_network">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="calendar_storage">Память календаря</string>
     <string name="upgrade_msg">Обновление базы Календаря…</string>
     <string name="calendar_default_name">По умолчанию</string>

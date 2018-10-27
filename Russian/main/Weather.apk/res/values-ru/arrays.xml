@@ -127,13 +127,13 @@
     </string-array>
     <string-array name="wind_direction_simple">
         <item>С</item>
-        <item>С-В</item>
+        <item>СВ</item>
         <item>В</item>
-        <item>Ю-В</item>
+        <item>ЮВ</item>
         <item>Ю</item>
-        <item>Ю-З</item>
+        <item>ЮЗ</item>
         <item>З</item>
-        <item>С-З</item>
+        <item>СЗ</item>
     </string-array>
     <string-array name="wind_power">
         <item>0</item>

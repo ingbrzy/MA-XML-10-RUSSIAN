@@ -22,7 +22,7 @@
     <string name="cloud_backup_detail_manage">Управление резервными копиями</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
     <string name="cloud_back_up_opening">Секунду…</string>
-    <string name="cloud_back_up_no_network_warn">Не удается подключиться к Wi-Fi</string>
+    <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">Расписание резервирования</string>
     <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
@@ -41,7 +41,7 @@
     <string name="cloud_app_restore_success">Восстановление завершено</string>
     <string name="cloud_app_backup_success">Резервирование завершено</string>
     <string name="cloud_app_check_data">Запрос данных Mi Cloud…</string>
-    <string name="cloud_app_no_network">Не удается подключиться к сети</string>
+    <string name="cloud_app_no_network">Не удалось подключиться к сети</string>
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настроить</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
@@ -49,6 +49,8 @@
     <string name="self_device">"Это устройство "</string>
     <string name="main_space">Первое пространство</string>
     <string name="second_space">Второе пространство</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="size_unknown">Размер неизвестен</string>
     <string name="recovering">Восстановление %s</string>
@@ -117,8 +119,8 @@
     <string name="backup_finished_notification_content">Резервирование завершено</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
     <string name="backup_now">Начать</string>
-    <string name="restore_unfinished">Идет восстановление, повторите позже</string>
-    <string name="remove_unfinished">Идет удаление, повторите позже</string>
+    <string name="restore_unfinished">Идет восстановление, повторите попытку позже</string>
+    <string name="remove_unfinished">Идет удаление, повторите попытку позже</string>
     <string name="backup_successfully">Резервирование завершено</string>
     <string name="btn_back">Назад</string>
     <string name="btn_continue">Продолжить</string>
@@ -128,8 +130,10 @@
     <string name="can_not_backup_in_lite_mode">Невозможно резервирование в Простом режиме</string>
     <string name="restore_data_title">Восстановление данных</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
-    <string name="provision_error_connect_title">Не удается подключиться</string>
+    <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="loading_user_backup">Загрузка резервных копий…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="no_account">Не выполнен вход в Mi аккаунт</string>
     <string name="no_backup">Нет резервных копий в Mi Cloud</string>

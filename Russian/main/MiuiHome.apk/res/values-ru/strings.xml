@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -42,7 +43,7 @@
     <string name="app_category_lifestyle">Стиль жизни</string>
     <string name="app_category_music_movie">ТВ и музыка</string>
     <string name="app_category_news">Новости</string>
-    <string name="app_category_photos">Фото</string>
+    <string name="app_category_photos">Фотография</string>
     <string name="app_category_productivity">Производительность</string>
     <string name="app_category_shopping">Покупки</string>
     <string name="app_category_social">Общение</string>
@@ -134,7 +135,7 @@
     <string name="free_style_edit_bar_select_app">Выберите приложение</string>
     <string name="free_style_edit_bottom_empty_tip">Нажмите на прямоугольник для изменения</string>
     <string name="free_style_edit_drawer">Меню</string>
-    <string name="free_style_edit_move_tip">Нажмите и удерживайте объект для его перемещения</string>
+    <string name="free_style_edit_move_tip">Удерживайте объект для его перемещения</string>
     <string name="free_style_edit_tab_free_component">Компоненты</string>
     <string name="free_style_edit_tab_shortcut">Ярлыки</string>
     <string name="free_style_edit_tab_widget">Виджеты</string>
@@ -179,7 +180,7 @@
     <string name="group_shortcuts">Ярлыки</string>
     <string name="guide_install_app_msg">Это приложение не установлено на вашем устройстве. Найти и установить его?</string>
     <string name="guide_install_app_title">Установка приложения</string>
-    <string name="guide_tips_editing_mode">Нажмите и удерживайте виджет для перемещения</string>
+    <string name="guide_tips_editing_mode">Удерживайте виджет для его перемещения</string>
     <string name="home_screen">Рабочий стол</string>
     <string name="icon_reorganize_channel">Упорядочить значки</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>

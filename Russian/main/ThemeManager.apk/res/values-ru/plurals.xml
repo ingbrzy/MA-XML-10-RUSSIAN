@@ -12,6 +12,12 @@
         <item quantity="few">Доступны обновления для %1$d тем.</item>
         <item quantity="many">Доступны обновления для %1$d тем.</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s работ</item>
+        <item quantity="one">%1$s работа</item>
+        <item quantity="few">%1$s работы</item>
+        <item quantity="many">%1$s работ</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Доступны обновления для %1$d тем</item>
         <item quantity="one">Доступны обновления для %1$d темы</item>

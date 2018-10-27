@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Назад</string>
     <string name="more_string">ещё %1$s</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_add_attendee">Добавить участника</string>
     <string name="accessibility_all_day">Весь день</string>
     <string name="accessibility_pick_start_date">Дата начала</string>
@@ -73,19 +93,19 @@
     <string name="daily">Ежедневно</string>
     <string name="date_calculate">Расчет даты</string>
     <string name="date_calculate_days">Введите число дней</string>
-    <string name="date_calculate_description">Расчет даты через любое количество дней</string>
+    <string name="date_calculate_description">Вычисление даты через любое количество дней</string>
     <string name="date_calculate_direction">Направление</string>
     <string name="date_calculate_direction_content_description">Текущее направление: %1s.</string>
-    <string name="date_calculate_hint">Расчет даты через любое количество дней</string>
+    <string name="date_calculate_hint">Вычисление даты через любое количество дней</string>
     <string name="date_calculate_result">Результат</string>
     <string name="date_calculate_tab">Дата</string>
     <string name="date_calculate_today">0 дней</string>
     <string name="date_calculate_when">Начало</string>
-    <string name="date_interval_description">Расчет количества дней между двумя датами</string>
-    <string name="date_interval_end">До</string>
+    <string name="date_interval_description">Вычисление интервала между двумя датами</string>
+    <string name="date_interval_end">По</string>
     <string name="date_interval_start">С</string>
     <string name="date_interval_tab">Интервал</string>
-    <string name="date_interval_text_to">До %1$s</string>
+    <string name="date_interval_text_to">По %1$s</string>
     <string name="date_jump_hint">Немедленный переход к нужной дате</string>
     <string name="date_jump_title">Переход к дате</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>

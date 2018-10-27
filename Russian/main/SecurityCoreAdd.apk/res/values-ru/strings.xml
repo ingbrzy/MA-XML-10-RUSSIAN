@@ -175,7 +175,7 @@
     <string name="settings_notification_and_switch_owner_space">Настройки первого пространства</string>
     <string name="settings_second_space_entrance_title">Ярлык в Настройках</string>
     <string name="settings_second_space_entrance_summary">Показывать ярлык второго пространства в Настройках</string>
-    <string name="settings_switch_shortcut_title">Ярлык на рабочем столе</string>
+    <string name="settings_switch_shortcut_title">Создать ярлык на рабочем столе</string>
     <string name="settings_switch_space">Переход между пространствами</string>
     <string name="settings_notification_from_second_space_title">Показывать уведомления от второго пространства</string>
     <string name="settings_notification_and_switch_second_space">Настройки второго пространства</string>
@@ -184,7 +184,7 @@
     <string name="notification_from_second_user">Показывать уведомления от второго пространства</string>
     <string name="radio_button_icon_switch_title">Ярлык</string>
     <string name="radio_button_password_switch_title">Пароль</string>
-    <string name="reset_password_dialog_title">Не удается скрыть ярлык</string>
+    <string name="reset_password_dialog_title">Не удалось скрыть ярлык</string>
     <string name="reset_password_dialog_message">Вы используете разные типы защиты для первого и второго пространства. Для скрытия ярлыка второе пространство должно использовать тот же тип защиты, что и первое.</string>
     <string name="reset_password_dialog_positve_btn_title">Изменить</string>
     <string name="entrance_reopen_toast_msg">Ярлык второго пространства не скрыт из-за разных типов защиты</string>
@@ -356,7 +356,7 @@
     <string name="show_noti_from_owner_detail">Получать уведомления в текущем пространстве при их появлении в другом</string>
     <string name="show_noti_quick_switch_icon">Ярлык в шторке уведомлений</string>
     <string name="show_noti_quick_switch_icon_detail">Показывать ярлык для перехода между пространствами в шторке уведомлений</string>
-    <string name="show_decktop_quick_switch_icon">Ярлык на рабочем столе</string>
+    <string name="show_decktop_quick_switch_icon">Создать ярлык на рабочем столе</string>
     <string name="show_decktop_quick_switch_icon_detail">Показывать ярлык для перехода между пространствами на рабочем столе</string>
     <string name="has_created_second_space">"Вы можете открыть Второе пространство.
 Два пространства. Одно устройство."</string>

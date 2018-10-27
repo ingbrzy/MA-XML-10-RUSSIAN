@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">Открыть на телефоне</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_next_description">Следующий трек</string>
+    <string name="exo_controls_pause_description">Приостановить</string>
+    <string name="exo_controls_play_description">Воспроизвести</string>
+    <string name="exo_controls_previous_description">Предыдущий трек</string>
+    <string name="exo_controls_repeat_all_description">Повторять все</string>
+    <string name="exo_controls_repeat_off_description">Не повторять</string>
+    <string name="exo_controls_repeat_one_description">Повторять один элемент</string>
+    <string name="exo_controls_rewind_description">Перемотать назад</string>
+    <string name="exo_controls_shuffle_description">Перемешать</string>
+    <string name="exo_controls_stop_description">Остановить</string>
     <string name="s1">Сохранить изображение</string>
     <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
     <string name="s3">Разрешить</string>
@@ -25,6 +36,7 @@
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="abc_action_bar_home_description">На главную</string>
     <string name="abc_action_bar_up_description">Наверх</string>
     <string name="abc_action_menu_overflow_description">Еще</string>
@@ -147,6 +159,7 @@
     <string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
     <string name="card_setting_close_recommend">Получать рекомендации</string>
     <string name="cast_video">Транслировать видео</string>
+    <string name="change_news_language">Изменить язык новостей?</string>
     <string name="channels_edit">Изменить</string>
     <string name="channels_finish">Завершить</string>
     <string name="choosertitle_sharevia">Отправить с помощью</string>
@@ -240,6 +253,7 @@
     <string name="document_open_other">Другие приложения</string>
     <string name="document_open_title">Открыть с помощью</string>
     <string name="dont_remind_again">Запомнить выбор</string>
+    <string name="download_btn">Загрузить</string>
     <string name="download_btn_select_all">Выбрать все</string>
     <string name="download_btn_select_none">Снять выбор</string>
     <string name="download_complete">Загрузка завершена</string>
@@ -330,6 +344,7 @@
     <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Магазине</string>
     <string name="gold_medals">Золотые медали</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">Ярлык добавлен на рабочий стол</string>
     <string name="hint">Подсказка</string>
     <string name="history">История</string>
@@ -731,6 +746,8 @@
     <string name="mw_snippets_disabled_generic_prompt">Получайте персональный контент</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Для получения персонального контента от Google войдите в Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Установите время</string>
@@ -868,7 +885,7 @@
     <string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
     <string name="pref_privacy_clear_form_data">Очистить данные форм</string>
     <string name="pref_privacy_clear_form_data_dlg">Очистить данные форм?</string>
-    <string name="pref_privacy_clear_form_data_summary">Удалить все сохранённые данные форм</string>
+    <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
     <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к вашему местоположению</string>
@@ -964,6 +981,7 @@
     <string name="remove_snapshot">Удалить сохраненную страницу</string>
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="replace">Заменить</string>
+    <string name="replay">Повторить</string>
     <string name="reply_comment_title">Re: %s</string>
     <string name="resume_download">Пуск</string>
     <string name="retry_after_network_available">Не удается подключиться к сети</string>
@@ -1027,6 +1045,7 @@
     <string name="sendstartpage">Главная страница</string>
     <string name="share_image_text">Посмотрите, чем я поделился(-ась)! @MIUI</string>
     <string name="share_page_text">Посмотрите, чем я поделился(-ась): %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">Посмотрите, чем я поделился(-ась): %1$s</string>
     <string name="share_video">Отправить видео</string>
     <string name="sign_in_to" formatted="false">Войти в %s1 %s2\"</string>
     <string name="site_sort_des">Перетаскивайте объекты для изменения их порядка</string>
@@ -1163,6 +1182,9 @@
     <string name="video_unknown_duration">Неизвестная длительность</string>
     <string name="view_certificate">Просмотреть сертификат</string>
     <string name="view_document_downloaded_files">Просмотреть файлы в Загрузках</string>
+    <string name="view_source">Источник</string>
+    <string name="vmate_download_content">Наслаждайтесь шутками, комедиями, музыкой, танцами</string>
+    <string name="vmate_download_title">Лучшее приложение для развлечений</string>
     <string name="voice_check_network">Проверьте настройки сети и повторите попытку.</string>
     <string name="voice_connect_network">Не удалось подключиться к сети.</string>
     <string name="voice_description">Голосовой поиск</string>

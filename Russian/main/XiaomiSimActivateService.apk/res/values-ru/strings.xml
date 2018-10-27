@@ -14,8 +14,8 @@
     <string name="activate_status_title_activating">Активация SIM-карты…</string>
     <string name="activate_status_title_activating_msim">Активация SIM-карты %d…</string>
     <string name="activate_auto_sms_notification_title">Активация SIM-карты</string>
-    <string name="activate_auto_sms_notification_desc_2_cards">SMS для активации функции \"Поиск устройства\" отправлено с SIM-карты %s</string>
-    <string name="activate_auto_sms_notification_desc_1_card">SMS для активации функции \"Поиск устройства\" отправлено</string>
+    <string name="activate_auto_sms_notification_desc_2_cards">SMS для активации Поиска устройства отправлено с SIM-карты %s</string>
+    <string name="activate_auto_sms_notification_desc_1_card">SMS для активации Поиска устройства отправлено</string>
     <string name="activate_status_desc_query_activation_info">Получение данных активации…</string>
     <string name="activate_status_desc_query_activation_info_no_info">Не удалось найти данные об активации</string>
     <string name="activate_status_desc_query_activation_info_server_error">Ошибка сервера при получении данных активации</string>
