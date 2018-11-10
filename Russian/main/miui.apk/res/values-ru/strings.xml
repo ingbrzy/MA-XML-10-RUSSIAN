@@ -46,6 +46,7 @@
     <string name="size_giga_byte">ГБ</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="date_time_done">Готово</string>
     <string name="date_picker_dialog_title">Установите дату</string>
     <string name="time_picker_dialog_title">Установите время</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
     <string name="more">Еще</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Холод</string>
     <string name="solar_term_great_cold">Сильный холод</string>
     <string name="solar_term_spring_begins">Начало весны</string>
@@ -576,9 +578,9 @@
     <string name="country_name_kg">KG</string>
     <string name="country_name_uz">UZ</string>
     <string name="permlab_sendSmsNoConfirmation">Отправка SMS без подтверждения</string>
-    <string name="permdesc_sendSmsNoConfirmation">Позволяет приложению отправлять SMS без вашего разрешения. Мобильный оператор может взимать за них плату.</string>
+    <string name="permdesc_sendSmsNoConfirmation">Позволяет приложению отправлять SMS без вашего разрешения. Ваш оператор связи может взимать за них плату.</string>
     <string name="web_sso_login_message">Авторизация…</string>
-    <string name="web_sso_login_fail">Необходимо повторно выполнить вход</string>
+    <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="webview_reload">Повторить</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>

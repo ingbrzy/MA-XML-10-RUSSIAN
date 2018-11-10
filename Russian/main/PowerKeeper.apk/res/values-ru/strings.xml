@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Батарея и производительность</string>
+    <string name="app_name">Питание и производительность</string>
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
     <string name="power_config_select_apps_title">Приложения</string>
     <string name="power_config_event_delete">Удалить</string>
     <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для снижения расхода заряда батареи. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
     <string name="privacy">Политика конфиденциальности</string>
-    <string name="power_hide_mode_title">Батарея и производительность</string>
+    <string name="power_hide_mode_title">Питание и производительность</string>
     <string name="power_config_apps">Контроль активности</string>
     <string name="app_list_title">Контроль активности</string>
     <string name="power_hide_mode_app_list_summary">Список управляемых приложений</string>
@@ -95,4 +95,7 @@
     <string name="message_i_know">Понятно</string>
     <string name="high_temp_state">Высокая температура</string>
     <string name="high_temp_state_message">Сработала защита от перегрева. Интернет, точка доступа, GPS, камера и т.д. будут отключены.</string>
+    <string name="atrace_start">Создание журнала atrace…</string>
+    <string name="atrace_saving">Сохранение журнала atrace…</string>
+    <string name="atrace_saved">Сохранение завершено</string>
 </resources>

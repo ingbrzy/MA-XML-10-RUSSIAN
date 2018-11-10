@@ -18,6 +18,12 @@
         <item quantity="few">%d дня назад</item>
         <item quantity="many">%d дней назад</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Среднее из %1$s станций</item>
+        <item quantity="one">Среднее из %1$s станции</item>
+        <item quantity="few">Среднее из %1$s станций</item>
+        <item quantity="many">Среднее из %1$s станций</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Прогноз на %1$s дней</item>
         <item quantity="one">Прогноз на %1$s день</item>

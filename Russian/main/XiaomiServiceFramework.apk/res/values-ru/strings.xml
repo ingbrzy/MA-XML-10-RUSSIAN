@@ -4,7 +4,7 @@
     <string name="app_name">Xiaomi Service Framework</string>
     <string name="error_device_id_message">"Неверный ID устройства: %s
 ID устройства - это действительный IMEI или MAC адрес. Без ID устройства некоторые функции Mi аккаунта и Mi Cloud будут недоступны."</string>
-    <string name="error_device_id_title">Не удается получить ID устройства</string>
+    <string name="error_device_id_title">Не удалось получить ID устройства</string>
     <string name="explain_send_sms_permission_button">Подтвердить</string>
     <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>

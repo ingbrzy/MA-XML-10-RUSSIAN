@@ -116,11 +116,11 @@
         <item quantity="few">"Доступ к сети ограничен для &lt;font color='#ff0000'>%d&lt;/font> приложений"</item>
         <item quantity="many">"Доступ к сети ограничен для &lt;font color='#ff0000'>%d&lt;/font> приложений"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d приложений разряжают батарею</item>
-        <item quantity="one">%d приложение разряжает батарею</item>
-        <item quantity="few">%d приложения разряжают батарею</item>
-        <item quantity="many">%d приложений разряжают батарею</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">Закреплено %d приложений</item>
+        <item quantity="one">Закреплено %d приложение</item>
+        <item quantity="few">Закреплено %d приложения</item>
+        <item quantity="many">Закреплено %d приложений</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d д "</item>

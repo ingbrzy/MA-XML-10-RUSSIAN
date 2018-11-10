@@ -42,6 +42,18 @@
         <item quantity="few">Неверный PUK код, осталось %d попытки</item>
         <item quantity="many">Неверный PUK код, осталось %d попыток</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">После %d часов бездействия необходимо ввести пароль</item>
+        <item quantity="one">После %d часа бездействия необходимо ввести пароль</item>
+        <item quantity="few">После %d часов бездействия необходимо ввести пароль</item>
+        <item quantity="many">После %d часов бездействия необходимо ввести пароль</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">После %d часов бездействия необходимо ввести графический ключ</item>
+        <item quantity="one">После %d часа бездействия необходимо ввести графический ключ</item>
+        <item quantity="few">После %d часов бездействия необходимо ввести графический ключ</item>
+        <item quantity="many">После %d часов бездействия необходимо ввести графический ключ</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Осталось %d ч</item>
         <item quantity="one">Остался %d ч</item>

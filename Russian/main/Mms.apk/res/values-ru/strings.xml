@@ -144,7 +144,7 @@
     <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Для нормальной работы Сообщениям и Справочнику требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
     <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
-    <string name="dialog_message_sms_report">Сообщения со спамом и информация отправителя будут отправлены в MIUI. Они будут использоваться только для улучшения фильтров спама.</string>
+    <string name="dialog_message_sms_report">Сообщения со спамом и данные отправителя будут переданы в MIUI. Они будут использоваться только для улучшения фильтров спама.</string>
     <string name="dialog_title_fake_cell_detect_error">Корректировка</string>
     <string name="dialog_title_mx_rcs">Mi сообщения</string>
     <string name="dialog_title_networking">Условия использования</string>
@@ -202,6 +202,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_message_select_title">Переслать сообщение</string>
@@ -434,7 +435,7 @@
     <string name="pref_sms_storage_title">Хранение</string>
     <string name="pref_sms_theme_title">Отображение</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить сообщениям загружать содержимое с сайтов</string>
-    <string name="pref_summary_allow_upload_message_info">Сообщения со спамом и информация отправителя будут отправлены в MIUI</string>
+    <string name="pref_summary_allow_upload_message_info">Сообщения со спамом и данные отправителя будут переданы в MIUI</string>
     <string name="pref_summary_auto_delete">Удалять старые сообщения по мере достижения лимитов</string>
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
     <string name="pref_summary_delivery_reports">Показывать отчет о доставке для отправленных сообщений</string>
@@ -455,7 +456,7 @@
     <string name="pref_title_auto_delete">Удалять старые сообщения</string>
     <string name="pref_title_card_format">Формат обмена визитками</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
-    <string name="pref_title_fwd_sender_info">Информация об отправителе</string>
+    <string name="pref_title_fwd_sender_info">Данные отправителя</string>
     <string name="pref_title_manage_sim_messages">Сообщения на SIM карте</string>
     <string name="pref_title_miui_card">Отправлять как визитку MIUI</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
@@ -530,13 +531,14 @@
     <string name="rcs_summary_auto_resend_mms">Отправлять мультимедийные сообщения China Mobile в виде MMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="rcs_summary_auto_resend_sms">Отправлять текстовые сообщения China Mobile в виде SMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="rcs_summary_silence_message">Уведомления о сообщениях при запущенном клиенте будут поступать без звука</string>
+    <string name="rcs_unavailable">Невозможно использовать сообщения China Mobile. SIM-карта China Mobile не установлена по умолчанию для мобильного интернета.</string>
     <string name="rcs_wait_for_retry_text">Ожидание…</string>
     <string name="received_at_time">Получено: %1s</string>
     <string name="received_label">"Получено: "</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">"Получатель: "</string>
     <string name="recipients_over_size">Слишком много получателей.</string>
-    <string name="recommend_bar_cancel">Пропустить</string>
+    <string name="recommend_bar_cancel">Отмена</string>
     <string name="recommend_bar_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI.</string>
     <string name="recommend_bar_message_mx_rcs">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI и абонентам China Mobile в материковом Китае.</string>
     <string name="recommend_bar_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае.</string>
@@ -600,7 +602,7 @@
     <string name="search_setting_description">Текст в сообщениях</string>
     <string name="search_show_more_results">Показать еще</string>
     <string name="search_title_mms">Сообщения</string>
-    <string name="second_mms_introduction">Перейти во второе пространство</string>
+    <string name="second_mms_introduction">Перейдите во второе пространство</string>
     <string name="second_mms_switch">Перейти</string>
     <string name="secs">с</string>
     <string name="security_alert_desc"><font color="#7f000000">"Отправителя нет в списке ваших контактов.\"
@@ -633,6 +635,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -642,7 +645,7 @@
     <string name="share_img">Отправить</string>
     <string name="show_all_messages">Показать все сообщения</string>
     <string name="show_delivery_status">Показывать отчет о доставке</string>
-    <string name="show_sender">Показать информацию об отправителе</string>
+    <string name="show_sender">Показать данные отправителя</string>
     <string name="sim_card1">SIM карта 1</string>
     <string name="sim_card2">SIM карта 2</string>
     <string name="sim_card_cloud">%s (Mi сообщения)</string>
@@ -709,7 +712,7 @@
     <string name="text_message">Текстовое сообщение</string>
     <string name="timed_message_expired_title_2">Отправить их сейчас?</string>
     <string name="timed_message_to">для</string>
-    <string name="title_allow_network_access">Обновлять информацию автоматически</string>
+    <string name="title_allow_network_access">Обновлять данные автоматически</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>
     <string name="title_hide_verification_code">Скрывать одноразовые пароли</string>
     <string name="title_show_blocked_messages">Заблокированные SMS</string>
@@ -753,7 +756,7 @@
     <string name="url_fraud_title">Сайт может быть поддельным</string>
     <string name="url_fraud_visit"><u>Перейти</u></string>
     <string name="url_result_safe">Этот адрес безопасен</string>
-    <string name="url_scan_again">Проверить еще раз</string>
+    <string name="url_scan_again">Проверить снова</string>
     <string name="url_scanning">Проверка адреса…</string>
     <string name="user_agreement">Условия использования</string>
     <string name="verification_code_list_title">Коды подтверждения</string>

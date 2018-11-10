@@ -34,7 +34,7 @@
     <string name="michat_comment_submit">Оценить и вернуться</string>
     <string name="michat_comment_thx">Спасибо за ваш отчет!</string>
     <string name="michat_comment_net_error">Не удалось подключиться к сети, повторите попытку позже</string>
-    <string name="michat_net_error_info">Нет подключения к сети, нажмите здесь для перехода в Настройки</string>
+    <string name="michat_net_error_info">Нет сетевого подключения, нажмите для перехода в Настройки</string>
     <string name="michat_msg_input_info">Кратко опишите проблему</string>
     <string name="michat_msg_too_long_info">Вы ввели %1$d символов. Можно ввести до %2$d символов.</string>
     <string name="michat_msg_image_upload_error">Не удалось отправить изображение, повторите попытку позже</string>
@@ -57,6 +57,7 @@
     <string name="save_pic_success">Изображение сохранено в %s</string>
     <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберите продукт</string>
     <string name="michat_skillset_business_type_title">Выберите сервис</string>
     <string name="michat_close_text">Чат завершен</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Отмена</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Отправка отчета</string>
-    <string name="submit_dialog_content"><Data>Ваш отчет вместе с вложениями и журналами будет отправлен на серверы MIUI. Он может содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">" "<Data> Ваш отчет вместе с вложениями и журналами будет отправлен на серверы MIUI. Он может содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
+    <string name="submit_dialog_content_global">" "<Data> Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Согласен</string>
     <string name="tab_title_preferences">Настройки</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Журнал модема создан</string>
     <string name="modem_tool_log_finish_desc">Журнал сохранен как %s</string>
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
-    <string name="bugreport_dialog_submit_content"><Data>Журналы программного обеспечения сохраняются на этом устройстве. Они могут содержать личную информацию и данные о местоположении. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">" "<Data> Журналы программного обеспечения сохраняются на этом устройстве. Они могут содержать личную информацию и данные о местоположении. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
     <string name="bugreport_dump_start_notification_title">Создание отчета об ошибке…</string>
     <string name="bugreport_dump_start_notification_summary">Это может занять несколько минут.</string>
     <string name="bugreport_dump_complete_notification_title">Отчет создан</string>

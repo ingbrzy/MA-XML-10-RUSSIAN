@@ -30,6 +30,7 @@
     <string name="passport_register">Создать аккаунт</string>
     <string name="passport_new_user_register">Создать аккаунт</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код подтверждения на %s</string>
+    <string name="passport_input_phone_password">Введите пароль для номера %s</string>
     <string name="passport_get_verify_code">Получить код</string>
     <string name="passport_re_get_verify_code">Получить код снова</string>
     <string name="passport_getting_verify_code">Получение…</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">Забыли пароль?</string>
     <string name="passport_reg_type_email">Адрес Email</string>
     <string name="passport_register_by_email"><u>Создать аккаунт с помощью Email</u></string>
+    <string name="passport_international_register_by_email">Создать аккаунт с помощью Email</string>
     <string name="passport_account_not_actived">Ваш аккаунт не активирован</string>
     <string name="passport_active_email_visit">Проверьте вашу почту %s</string>
     <string name="passport_click_email_to_valid">"
@@ -168,15 +170,16 @@
     <string name="passport_imei_permission_denied_message">Требуется доступ к IMEI вашего устройства. Mi аккаунт использует IMEI для идентификации устройства, на котором вы регистрируетесь, для обеспечения безопасности Mi аккаунта.</string>
     <string name="passport_account_identity_title">Подтвердите вашу личность</string>
     <string name="passport_error_login">Ошибка авторизации</string>
-    <string name="passport_relogin_notice">Необходимо повторно выполнить вход</string>
+    <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
     <string name="passport_copy_message_text_success">Текст скопирован</string>
     <string name="passport_copy_message_vcode">Скопировать код</string>
     <string name="passport_message_dialog_title">SMS с кодами подтверждения</string>
     <string name="passport_trust_device">Доверять этому устройству</string>
-    <string name="passport_barcode_add_account_prompt">Для добавления аккаунта отсканируйте QR-код после авторизации.</string>
+    <string name="passport_barcode_add_account_prompt">Для подключения аккаунта отсканируйте QR-код после авторизации.</string>
     <string name="passport_quick_register_notice"><u>Нет Mi аккаунта? Создайте его сейчас.</u></string>
     <string name="passport_password_phone_login">Войти через Mi аккаунт</string>
-    <string name="passport_sms_verification_code_login">Войти с помощью SMS</string>
+    <string name="passport_sms_verification_code_login">Войти через SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Войти или зарегистрироваться через SMS</string>
     <string name="passport_login_other_account">Другой аккаунт</string>
     <string name="passport_reg_new_account">Создать аккаунт</string>
     <string name="passport_select_the_login_account">Выберите аккаунт для входа</string>
@@ -188,7 +191,7 @@
     <string name="passport_error_verify_activator_phone_title">Не удалось проверить номер телефона</string>
     <string name="passport_error_verify_activator_phone_message">Убедитесь, что SIM-карта активирована и устройство подключено к сети.</string>
     <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
-    <string name="passport_phone_ticket_login">Войти с помощью SMS</string>
+    <string name="passport_phone_ticket_login">Войти через SMS</string>
     <string name="passport_quick_register">Регистрация</string>
     <string name="passport_account_set_password">Задать пароль</string>
     <string name="passport_account_set_password_title">Задайте пароль</string>
@@ -199,7 +202,7 @@
     <string name="passport_user_id_notice">ID вашего Mi аккаунта %s.</string>
     <string name="passport_user_reg_region_warning">Вы не сможете изменить свою страну/регион после создания аккаунта.</string>
     <string name="passport_sync_account_data">Синхронизация данных аккаунта…</string>
-    <string name="passport_sync_account_data_failed_warning">Данные вашего аккаунта синхронизируются, вы можете войти с помощью ID Mi аккаунта. Если вы хотите войти с помощью номера телефона или электронной почты, дождитесь окончания синхронизации.</string>
+    <string name="passport_sync_account_data_failed_warning">Данные вашего аккаунта синхронизируются, вы можете войти по ID Mi аккаунта. Если вы хотите войти по номеру телефона или адресу Email, дождитесь окончания синхронизации.</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Похоже,&lt;/font> что номер %s был перевыпущен оператором, но с ним связан Mi аккаунт. Это ваш аккаунт?</string>
     <string name="passport_login_recycle_account_yes">Да</string>
     <string name="passport_login_recycle_account_no">Нет</string>
@@ -241,14 +244,14 @@
     <string name="delete_bank_card_message">После выхода банковские карты Mi Pay и карты NFC будут удалены.</string>
     <string name="bind_settings">Дополнительные аккаунты</string>
     <string name="sina_weibo">Sina Weibo</string>
-    <string name="bind_sina_weibo">Подключить аккаунт Sina Weibo</string>
-    <string name="bind_weibo_description">Добавить друзей из Sina Weibo</string>
-    <string name="bind_sns_description">Дополните свой профиль личной информацией из %s</string>
+    <string name="bind_sina_weibo">Подключите аккаунт Sina Weibo</string>
+    <string name="bind_weibo_description">Добавьте друзей из Sina Weibo</string>
+    <string name="bind_sns_description">Входите в Mi аккаунт с помощью %s</string>
     <string name="add_account">Подключить аккаунт</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">QQ</string>
     <string name="facebook">Facebook</string>
-    <string name="bind_facebook">Подключить аккаунт Facebook</string>
+    <string name="bind_facebook">Подключите аккаунт Facebook</string>
     <string name="binded">Подключено</string>
     <string name="nobind">Не подключено</string>
     <string name="button_unbind">Отключить</string>
@@ -469,10 +472,10 @@
     <string name="account_token_expired_title">Ошибка аутентификации</string>
     <string name="account_token_expired_msg">"Код устарел, начните сначала или выйдите
 ID вашего аккаунта: %s"</string>
-    <string name="bind_safe_phone_msg">Добавьте номер телефона, чтобы в следующий раз войти в свой Mi аккаунт.</string>
+    <string name="bind_safe_phone_msg">Добавьте номер телефона, чтобы в следующий раз иметь возможность войти в свой Mi аккаунт.</string>
     <string name="account_notification_message">Сессия устарела. Войдите повторно.</string>
     <string name="sim_changed_notification_title">Номер телефона изменен?</string>
     <string name="sim_changed_notification_msg">Нажмите, чтобы обновить ваш номер для восстановления.</string>
     <string name="recycle_phone_notification_title">Угроза безопасности</string>
-    <string name="recycle_phone_notification_msg">Номер телефона был перевыпущен. Нажмите для обновления.</string>
+    <string name="recycle_phone_notification_msg">Похоже, что ваш номер был перевыпущен. Нажмите для обновления.</string>
 </resources>

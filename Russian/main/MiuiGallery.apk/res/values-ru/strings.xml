@@ -33,7 +33,7 @@
     <string name="adjust_sharpen">Резкость</string>
     <string name="adjust_vignette">Виньетка</string>
     <string name="ai_album_open_switch_button_title">Начать анализ фото</string>
-    <string name="ai_album_requesting_title">Алгоритм ИИ все еще обрабатывает ваши фото. Вернитесь через пару минут.</string>
+    <string name="ai_album_requesting_title">Алгоритм ИИ всё еще обрабатывает ваши фото. Вернитесь через пару минут.</string>
     <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли быстрее их находить</string>
     <string name="ai_album_setting_title">Определять объекты на фото</string>
     <string name="album_already_exists_check">Просмотреть</string>
@@ -98,7 +98,6 @@
     <string name="app_name">Галерея</string>
     <string name="app_name_view_picture">Просмотреть фото</string>
     <string name="app_name_view_video">Просмотреть видео</string>
-    <string name="apply">Применить</string>
     <string name="associate_face_album">Выбрать альбом</string>
     <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
     <string name="auto_download_media_title">Автозагрузка фото из Mi Cloud</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">Поделиться с семьей</string>
     <string name="baby_birthday">День рождения</string>
     <string name="baby_face_desc">Детский альбом</string>
-    <string name="baby_lock_wallpaper">Обои экрана блокировки</string>
-    <string name="baby_lock_wallpaper_cancelled">Восстановлены обои экрана блокировки по умолчанию</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">Применить текущие настройки?</string>
-    <string name="baby_lock_wallpaper_title">Использовать детские фото как обои экрана блокировки</string>
     <string name="baby_name_cannot_empty">Введите имя</string>
     <string name="baby_name_cannot_start_with">Имя не может начинаться с \"%s\"</string>
     <string name="baby_name_contain_invalidate_char">Имя не может содержать \"%s\"</string>
@@ -161,13 +156,13 @@
     <string name="backup_no_network_title">Нет связи с Mi Cloud</string>
     <string name="backup_no_wifi_btn_text">Продолжить</string>
     <string name="backup_no_wifi_desc">Также можно выгружать объекты через мобильный интернет</string>
-    <string name="backup_no_wifi_title">Синхронизация возобновится после подключения к Wi-Fi</string>
+    <string name="backup_no_wifi_title">Выгрузка возобновится после подключения к Wi-Fi</string>
     <string name="backup_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="backup_only_in_wifi_summary">Никогда не использовать мобильный интернет для выгрузки фото или видео</string>
     <string name="backup_only_wifi_dialog_message">Использовать мобильный интернет для выгрузки фото и видео?</string>
     <string name="backup_pause">Приостановить</string>
     <string name="backup_pause_title">Выгрузка через %s</string>
-    <string name="backup_pending">Будет выгружено автоматически</string>
+    <string name="backup_pending">Ожидание выгрузки</string>
     <string name="backup_stop">Остановить</string>
     <string name="backup_sync_dialog_confirm">Включить</string>
     <string name="backup_sync_dialog_tips">Включите синхронизацию с Mi Cloud для изменения настроек.</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">Б</string>
     <string name="camera_needs_auto_backup_tip">Нельзя отключить синхронизацию альбома Камера</string>
     <string name="cancel">Отмена</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">Восстановить обои экрана блокировки по умолчанию?</string>
     <string name="cancel_download_btn_text">Остановить</string>
     <string name="cancel_hint">Действие отменено</string>
     <string name="cannot_remove_creator">Нельзя удалить создателя</string>
@@ -242,7 +236,7 @@
     <string name="cloud_guide_login_title">Автоматическая выгрузка фото и видео</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
     <string name="cloud_screenshots_display_name">Снимки экрана</string>
-    <string name="cloud_settings">Mi Cloud</string>
+    <string name="cloud_settings">Синхронизация</string>
     <string name="cloud_storage_extend">Получить больше места</string>
     <string name="cloud_storage_ok_append_desc">Доступно %s</string>
     <string name="cloud_storage_ok_desc">Всего %s</string>
@@ -284,14 +278,14 @@
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Моменты WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">OK</string>
-    <string name="confirm_download_video_message">Для просмотра видео необходимо полностью загрузить его. Загрузка будет продолжена при подключении к сети Wi-Fi.</string>
+    <string name="confirm_download_video_message">Для просмотра видео необходимо полностью загрузить его. Загрузка возобновится после подключения к Wi-Fi.</string>
     <string name="confirm_download_video_title">Загрузка видео</string>
     <string name="confirm_face">Совпадение</string>
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Еще похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
-    <string name="confirm_merge_face_albums"><Data>Объединить этот альбом с %s?</Data></string>
-    <string name="confirm_merge_many_face_albums"><Data>Объединить эти альбомы с %s?</Data></string>
+    <string name="confirm_merge_face_albums">" "<Data> Объединить этот альбом с %s? </Data>" "</string>
+    <string name="confirm_merge_many_face_albums">" "<Data> Объединить эти альбомы с %s? </Data>" "</string>
     <string name="confirm_not_face">Нет совпадений</string>
     <string name="confirm_recommandation_face_is">" "<Data> Уверены, что это &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Это фото будет перемещено в альбом \"%2$s\". </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Уверены, что это не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -310,7 +304,7 @@
     <string name="create_new_album">Новый альбом</string>
     <string name="create_new_album_failed">Не удалось создать альбом</string>
     <string name="create_new_face">Новое лицо</string>
-    <string name="create_quick_icon_on_desk">Создать значок</string>
+    <string name="create_quick_icon_on_desk">Создать ярлык</string>
     <string name="creating_baby_album">Создание альбома…</string>
     <string name="crop_label">Кадрированные фото</string>
     <string name="custom_select_title_deselect_all">Снять выбор</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">Отключить синхронизацию с Mi Cloud для этого альбома?</string>
     <string name="disable_auto_upload_title">Отключение синхронизации</string>
     <string name="do_not_remind_me">Больше не показывать</string>
+    <string name="document_provider_guide_step_1">1. Нажмите кнопку \"Еще\".</string>
+    <string name="document_provider_guide_step_2">2. Нажмите \"Показать внутреннюю память\".</string>
+    <string name="document_provider_guide_step_3">3. Нажмите кнопку бокового меню.</string>
+    <string name="document_provider_guide_step_4">4. Выберите \"SD карта\".</string>
+    <string name="document_provider_guide_step_5">5. Нажмите \"Выбрать\".</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
     <string name="download_canceled">Загрузка отменена</string>
     <string name="download_error_format">Не удалось загрузить %s</string>
@@ -360,7 +359,7 @@
     <string name="download_type_origin_desc">Исходные файлы</string>
     <string name="download_type_thumbnail">Высокое качество</string>
     <string name="download_type_thumbnail_desc">Высокое качество</string>
-    <string name="download_type_title">Качество загрузки</string>
+    <string name="download_type_title">Качество загрузок</string>
     <string name="download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="download_without_wifi_title">Предупреждение о трафике</string>
     <string name="downloading_desc">%1$d/%2$d</string>
@@ -381,8 +380,8 @@
     <string name="enter_choice_mode">Диалог общего доступа открыт</string>
     <string name="enter_email_hint">Введите адрес Email</string>
     <string name="error_album_not_exist">Альбом не существует</string>
-    <string name="error_build_thumbnail_action">Скачать оригинал</string>
-    <string name="error_build_thumbnail_msg">Не удалось загрузить эскиз. Попробуйте скачать исходный файл.</string>
+    <string name="error_build_thumbnail_action">Загрузить оригинал</string>
+    <string name="error_build_thumbnail_msg">Не удалось загрузить эскиз. Попробуйте загрузить исходный файл.</string>
     <string name="error_build_thumbnail_tip">Не удалось загрузить эскиз.</string>
     <string name="error_change_storage_action">Сменить хранилище</string>
     <string name="error_change_storage_msg">Перейдите в Настройки > Хранилище, смените хранилище и повторите попытку.</string>
@@ -404,7 +403,7 @@
     <string name="error_link_has_expired">Ссылка устарела</string>
     <string name="error_network_restrict_action">Подробности</string>
     <string name="error_network_restrict_msg">Разрешите Галерее подключаться к сети.</string>
-    <string name="error_network_restrict_tip">Не удается подключиться к сети.</string>
+    <string name="error_network_restrict_tip">Не удалось подключиться к сети.</string>
     <string name="error_no_account_action">Войти</string>
     <string name="error_no_account_msg">Войдите в Mi аккаунт и повторите попытку.</string>
     <string name="error_no_account_tip">Войдите в Mi аккаунт</string>
@@ -438,7 +437,7 @@
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему.</string>
     <string name="error_unknown_action">Отчет</string>
-    <string name="error_unknown_host">Не удается подключиться к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="error_unknown_host">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="error_unknown_msg">Произошла ошибка. Пришлите нам отчет.</string>
     <string name="error_unknown_tip">Произошла ошибка.</string>
     <string name="exit">Выход</string>
@@ -450,11 +449,23 @@
     <string name="exit_video_play">Выход</string>
     <string name="expand_desc">Еще</string>
     <string name="expand_people">Показать другие лица</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">Галерея будет сохранять объекты во внутреннюю память. Для изменения перейдите в Настройки > Хранилище > Настройки памяти.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">Не удалось дать разрешения.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">Далее</string>
+    <string name="ext_sdcard_guide_last_page_button_text">Дать разрешения</string>
+    <string name="ext_sdcard_guide_text">Галерее требуется разрешение на доступ к SD карте. Вот что вы можете сделать:</string>
+    <string name="ext_sdcard_operation_failed_text">Галерее требуется разрешение на доступ к SD карте.</string>
+    <string name="ext_sdcard_operation_failed_title">Не удалось завершить операцию</string>
+    <string name="ext_sdcard_permission_request_button_text">Понятно</string>
+    <string name="ext_sdcard_permission_request_reason">Галерее требуется разрешение на доступ к SD карте. Это позволит вам удалять и редактировать фото и видео, хранящиеся на SD карте.</string>
+    <string name="ext_sdcard_permission_request_title">Разрешите Галерее доступ к SD карте</string>
+    <string name="ext_sdcard_request_failed_button_text">OK</string>
+    <string name="ext_sdcard_request_succeed_toast_text">Всё готово!</string>
     <string name="face_album_empty">"Недостаточно фото для распознавания лиц.
 Делайте больше фото ваших друзей!"</string>
     <string name="face_album_empty_syncing">Синхронизация данных, возвращайтесь позже</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Подключитесь к сети для синхронизации</string>
-    <string name="face_album_long_tap_tip">Для выбора нескольких людей или изменения настроек группы, нажмите и удерживайте фото профиля</string>
+    <string name="face_album_long_tap_tip">Для выбора нескольких людей или изменения настроек группы нажмите и удерживайте фото профиля</string>
     <string name="face_album_new_name_hint">Новое имя</string>
     <string name="face_album_not_named">Без имени</string>
     <string name="face_album_rename_hint">Введите имя</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -545,10 +558,11 @@
     <string name="get_album_info_in_process">Получение данных облачного альбома…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
-    <string name="grant_permission_go_and_set">Установить</string>
+    <string name="grant_permission_go_and_set">Настроить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
- для нормальной работы, нажмите \"Установить\" для перехода к разрешениям."</string>
+ для нормальной работы, нажмите \"Настроить\" для перехода к разрешениям."</string>
     <string name="grant_permission_title">Требуются разрешения</string>
     <string name="grant_permission_unlock_and_set">Разблокировать</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
@@ -565,7 +579,7 @@
     <string name="hybrid_data_error">Произошла ошибка</string>
     <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
-    <string name="hybrid_network_unavaliable">Не удается подключиться к сети</string>
+    <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз для обновления…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Секунду…</string>
     <string name="hybrid_pull_to_refresh_release_label">Отпустите для обновления…</string>
@@ -582,7 +596,7 @@
     <string name="image_quota_fulfiled">Слишком много изображений. Удалите часть изображений и повторите попытку.</string>
     <string name="image_with_time">Фото снято в %s</string>
     <string name="image_with_time_and_location">Фото снято в %1$s. Место: %2$s.</string>
-    <string name="impunity_declaration_settings">Запрашивать доступ к интернету</string>
+    <string name="impunity_declaration_settings">Запрашивать доступ в интернет</string>
     <string name="impunity_declaration_summary">Запрос доступа к интернету при каждом запуске приложения</string>
     <string name="initializing_cloud">Инициализация…</string>
     <string name="input_a_name">Введите имя</string>
@@ -609,7 +623,7 @@
     <string name="limit_height">Высота должна быть > 0</string>
     <string name="limit_width">Ширина должна быть > 0</string>
     <string name="load_complete">Больше нет объектов</string>
-    <string name="load_failed">Ошибка загрузки, нажмите для повтора</string>
+    <string name="load_failed">Не удалось загрузить данные, нажмите для повтора</string>
     <string name="load_relations">Секунду…</string>
     <string name="loading">Секунду…</string>
     <string name="loading_dots">Секунду…</string>
@@ -625,13 +639,13 @@
     <string name="loading_image_thumbnail">Загрузка эскиза фото…</string>
     <string name="loading_members">Загрузка пользователей…</string>
     <string name="loading_processing_tip">Обработка фото…</string>
-    <string name="loading_suspend">Загрузка будет продолжена при подключении к сети Wi-Fi</string>
+    <string name="loading_suspend">Загрузка возобновится после подключения к Wi-Fi</string>
     <string name="loading_video">Загрузка видео…</string>
     <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки данных</string>
     <string name="loading_video_fail_syncing">Дождитесь окончания загрузки данных и повторите попытку</string>
     <string name="loading_video_thumbnail">Загрузка эскиза видео…</string>
     <string name="login_and_enable_service">Войти в Mi аккаунт</string>
-    <string name="long_press_to_refocus">Нажмите и удерживайте для перефокусировки</string>
+    <string name="long_press_to_refocus">Удерживайте для перефокусировки</string>
     <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
     <string name="main_discard_negative_btn">Не сохранять</string>
     <string name="main_discard_positive_btn">Сохранить и выйти</string>
@@ -665,7 +679,7 @@
     <string name="need_to_turn_on_sync">Включите синхронизацию с Mi Cloud</string>
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с Mi Cloud</string>
     <string name="need_to_turn_on_wlan">Подключитесь к Wi-Fi</string>
-    <string name="network_connected_rescan">Не удается подключиться к сети</string>
+    <string name="network_connected_rescan">Не удалось подключиться к сети</string>
     <string name="new_album_invalid_char">Имя альбома не может содержать \"%s\", введите букву или цифру.</string>
     <string name="new_album_invalid_name">Альбом \"%s\" является системным, введите другое имя.</string>
     <string name="new_album_invalid_prefix">Имя альбома не может начинаться с \".\" или \"_\"</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">Сохранить</string>
     <string name="operation_send">Отправить</string>
     <string name="operation_set_contact_photo">Установить как фото контакта</string>
+    <string name="operation_set_slide_wallpaper">Установить как обои слайд-шоу</string>
     <string name="operation_set_wallpaper">Установить как обои</string>
     <string name="operation_share">Поделиться</string>
     <string name="operation_show_in_photos_tab">Показывать в Фото</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -862,11 +878,12 @@
     <string name="picker_continue_with_exists">Продолжить с фото на устройстве</string>
     <string name="picker_download">Загрузить</string>
     <string name="picker_download_progress_message">Загрузка %1$d/%2$d</string>
-    <string name="picker_full_format">Вы можете выбрать до %d фото</string>
+    <string name="picker_full_format">Можно выбрать до %d фото</string>
     <string name="picker_image_need_download">%d из выбранных фото нет на устройстве. Загрузить через мобильный интернет?</string>
     <string name="picker_image_will_download">%d из выбранных фото нет на устройстве. Они будут загружены.</string>
     <string name="picker_no_network_message">Подключитесь к сети для загрузки</string>
     <string name="picker_origin_need_download">%1$d из выбранных фото (%2$d МБ) нет на устройстве. Загрузить через мобильный интернет?</string>
+    <string name="picker_origin_request_progress_fail">Не удалось загрузить исходное изображение из-за ошибки сети.</string>
     <string name="picker_origin_request_progress_message">Подготовка исходных файлов (%1$d/%2$d)…</string>
     <string name="picker_title_format">Выберите от %1$d до %2$d фото</string>
     <string name="picker_title_selection_format">Выбрано фото: %d</string>
@@ -945,7 +962,7 @@
     <string name="request_sms_url_title">Предупреждение</string>
     <string name="retry_to_create_album">Повторить</string>
     <string name="retry_to_request_qr_code">Повторить</string>
-    <string name="runtime_permission_ungranted">Галерея закрыта, нет необходимых разрешений</string>
+    <string name="runtime_permission_ungranted">Невозможно использовать Галерею без необходимых разрешений</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="scan_barcode_guide">Для получения QR-кода альбома нажмите на значок \"Поделиться\".</string>
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1032,8 +1052,9 @@
     <string name="send_secret_file_failed">Не удалось отправить</string>
     <string name="send_secret_file_space_low">Недостаточно места</string>
     <string name="send_too_many_files_error">За один раз можно отправить %d объектов</string>
-    <string name="set_as_baby_lock_wallpaper">Установить на экран блокировки</string>
-    <string name="set_as_wallpaper_description">Это эскиз изображения, скачать оригинал?</string>
+    <string name="set_as_slide_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
+    <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
+    <string name="set_as_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_wallpaper_title">Установить как обои</string>
     <string name="set_face_group_toast_msg_new_user">Нажмите и удерживайте фото человека для пропуска или совмещения.</string>
     <string name="set_face_group_toast_msg_old_user">Нажмите и удерживайте фото человека для создания групп (семья, друзья, одноклассники и т.д.)</string>
@@ -1099,7 +1120,7 @@
     <string name="sub_discard_confirm_message">Сохранить изменения?</string>
     <string name="sub_discard_negative_btn">Не сохранять</string>
     <string name="sub_discard_positive_btn">Сохранить</string>
-    <string name="success_create_quick_icon_on_desk">Значок успешно создан</string>
+    <string name="success_create_quick_icon_on_desk">Ярлык создан</string>
     <string name="sync_album_in_proecess">Синхронизация альбома…</string>
     <string name="sync_battery_low">Батарея разряжена</string>
     <string name="sync_cloud_space_full">Недостаточно места в Mi Cloud</string>
@@ -1107,7 +1128,7 @@
     <string name="sync_metatata_wait_title">Ожидание синхронизации</string>
     <string name="sync_not_allow_cta_title">Сеть недоступна</string>
     <string name="sync_off_title">Включите синхронизацию с Mi Cloud для автоматической выгрузки фото и видео</string>
-    <string name="sync_pending_title">Будет синхронизировано автоматически</string>
+    <string name="sync_pending_title">Ожидание синхронизации</string>
     <string name="sync_state_unknow">Получение данных…</string>
     <string name="synced_title">Фото и видео успешно выгружены</string>
     <string name="syncing_gprs_title">Выгрузка через мобильный интернет</string>
@@ -1251,7 +1272,7 @@
     <string name="video_editor_smart_effect_rhythm">Пульс</string>
     <string name="video_editor_smart_effect_street">Мегаполис</string>
     <string name="video_editor_smart_effect_time_limit_txt_40">Вы можете применить этот эффект к видео не длиннее 40 секунд. Длительность исправлена автоматически.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_6">Вы можете применить этот эффект к видео длиной не менее 6 секунд.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_6">Этот эффект можно применить к видео длиной не менее 6 секунд.</string>
     <string name="video_editor_smart_effect_time_limit_txt_60">Вы можете применить этот эффект к видео не длиннее 60 секунд. Длительность исправлена автоматически.</string>
     <string name="video_editor_template_family">Семья</string>
     <string name="video_editor_template_forbidden_tips">Нельзя сделать это при помощи шаблона</string>
@@ -1274,7 +1295,7 @@
     <string name="video_editor_video_is_short">Редактирование этого видео невозможно.</string>
     <string name="video_editor_video_loading">Подготовка видео… Подождите немного и повторите попытку.</string>
     <string name="video_editor_watermark">Водяной знак</string>
-    <string name="video_err">Не удается воспроизвести видео</string>
+    <string name="video_err">Не удалось воспроизвести видео</string>
     <string name="video_not_exist">Видео не существует</string>
     <string name="video_with_time">Видео снято в %s</string>
     <string name="video_with_time_and_location">Видео снято в %1$s. Место: %2$s.</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Для ребенка вы</string>
-    <string name="operation_set_slide_wallpaper">Установить как обои слайд-шоу</string>
+    <string name="photo_editor_talkback_crop_screen">Полноэкранное соотношение сторон</string>
     <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
     <string name="refocus_discard_negative_btn">Не сохранять</string>
     <string name="refocus_discard_positive_btn">Сохранить</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">Размытие</string>
     <string name="refocus_type_static">Степень размытия</string>
     <string name="refocus_type_video">Световые следы</string>
-    <string name="set_as_slide_wallpaper_description">Это эскиз изображения, скачать оригинал?</string>
-    <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
 </resources>

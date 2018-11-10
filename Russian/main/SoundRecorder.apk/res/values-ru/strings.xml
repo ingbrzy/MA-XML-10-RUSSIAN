@@ -86,7 +86,7 @@
     <string name="record_downloading_notification_complete">Загрузка завершена</string>
     <string name="wifi_recommended_title">Предупреждение о трафике</string>
     <string name="wifi_recommended_body" formatted="false">Использование мобильного интернета для загрузки этого файла (%s) увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату. Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi.</string>
-    <string name="button_queue_for_wifi">В очередь</string>
+    <string name="button_queue_for_wifi">Отложить</string>
     <string name="button_start_now">Продолжить</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
     <string name="notification_message_all_paused">Ожидание подключения Wi-Fi.</string>

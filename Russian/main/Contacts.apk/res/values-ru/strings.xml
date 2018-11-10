@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -188,7 +190,7 @@
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
-    <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с устройства не поддерживается поставщиком услуг передачи данных.</string>
+    <string name="composer_has_no_exportable_contact">Нет контактов для экспорта. Некоторые поставщики данных могут не разрешать экспорт контактов с устройства.</string>
     <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
     <string name="conference_call_disable_tip">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
     <string name="confirm_delete_contact_all_call_logs">Удалить все записи для контакта %s?</string>
@@ -231,7 +233,7 @@
     <string name="contact_detail_miprofile_save_success_toast">Визитка получена</string>
     <string name="contact_detail_miprofile_settings_header">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
     <string name="contact_detail_miprofile_subtitle">Обмен уже состоялся</string>
-    <string name="contact_detail_profile_switch_fail_network_toast">Не удается подключиться к сети</string>
+    <string name="contact_detail_profile_switch_fail_network_toast">Не удалось подключиться к сети</string>
     <string name="contact_detail_profile_switch_fail_toast">Что-то не так с нашим сервером</string>
     <string name="contact_detail_profile_switch_off">Отключить визитки</string>
     <string name="contact_detail_profile_switch_off_fail_toast">Не удалось отключить визитки</string>
@@ -275,12 +277,12 @@
     <string name="copy_number">Копировать</string>
     <string name="copy_text">Копировать в буфер обмена</string>
     <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабочий стол</string>
-    <string name="create_group_dialog_title">Создание новой группы</string>
+    <string name="create_group_dialog_title">Новая группа</string>
     <string name="create_group_item_label">Создать новую группу</string>
     <string name="create_qrcode_fail_message">Ошибка создания QR-кода</string>
     <string name="customLabelPickerTitle">Название ярлыка</string>
     <string name="custom_list_filter">Настройка отображения</string>
-    <string name="custom_nickname_hint">Введите ник</string>
+    <string name="custom_nickname_hint">Введите псевдоним</string>
     <string name="data_already_used">Использованный трафик</string>
     <string name="data_charge">Пополнение трафика</string>
     <string name="data_left">Остаток трафика</string>
@@ -289,7 +291,7 @@
     <string name="date_time_set">Настроить</string>
     <string name="date_year_toggle">Указать год</string>
     <string name="default_ringtone">Мелодия по умолчанию</string>
-    <string name="deleteConfirmation">Этот контакт будет удален</string>
+    <string name="deleteConfirmation">Этот контакт будет удален.</string>
     <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
     <string name="deleteConfirmation_title">Удаление контактов</string>
     <string name="delete_call_log_message">Удалить запись журнала вызовов?</string>
@@ -333,8 +335,8 @@
     <string name="description_image_button_plus">Плюс</string>
     <string name="description_image_button_pound">решетка</string>
     <string name="description_image_button_seven">семь</string>
-    <string name="description_image_button_sim1_dial">Вызов с помощью SIM1</string>
-    <string name="description_image_button_sim2_dial">Вызов с помощью SIM2</string>
+    <string name="description_image_button_sim1_named_dial">Вызов через SIM1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Вызов через SIM2 %s</string>
     <string name="description_image_button_six">шесть</string>
     <string name="description_image_button_star">В избранные</string>
     <string name="description_image_button_three">три</string>
@@ -441,7 +443,7 @@
     <string name="email_other">Написать письмо</string>
     <string name="email_work">Написать на рабочий адрес</string>
     <string name="emergency_number_label">Экстренный номер</string>
-    <string name="emptyGroup">Нет людей в этой группе</string>
+    <string name="emptyGroup">Нет контактов в группе</string>
     <string name="empty_divider_title" />
     <string name="enter_contact_name">Имя контакта</string>
     <string name="eventLabelsGroup">День рождения</string>
@@ -487,6 +489,7 @@
     <string name="force_touch_miprofile">Визитка</string>
     <string name="force_touch_new_contact">Новый контакт</string>
     <string name="frequentList">Часто вызываемые</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Ваши контакты будут в безопасности даже в случае потери телефона: синхронизация с онлайн-сервисом.</string>
@@ -519,7 +522,7 @@
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
     <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
-    <string name="hybrid_network_unavaliable">Не удается подключиться к сети</string>
+    <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
     <string name="hybrid_webpage_not_available">Страница недоступна</string>
@@ -531,9 +534,9 @@
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_all_vcard_string">Импорт всех vCard</string>
     <string name="import_contact_card_aggregate_suggestion_button">Объединить контакты</string>
-    <string name="import_contact_card_button">Импорт</string>
+    <string name="import_contact_card_button">Импортировать контакт</string>
     <string name="import_failure_no_vcard_file">Файлы vCard в памяти не найдены.</string>
-    <string name="import_from_onekey_migrate">Импортировать с помощью Mi Mover</string>
+    <string name="import_from_onekey_migrate">Импорт с помощью Mi Mover</string>
     <string name="import_from_other_device">Импорт с другого устройства</string>
     <string name="import_from_sdcard">Импорт из памяти</string>
     <string name="import_from_sim">Импорт с SIM карты</string>
@@ -667,6 +670,7 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
@@ -683,9 +687,9 @@
     <string name="miprofile_name">Мой профиль</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">Изменить имя контакта</string>
-    <string name="miprofile_nick_name_edit_dialog_hint">Введите ник</string>
-    <string name="miprofile_nick_name_edit_dialog_message">Ник будет отображаться в журнале вызовов и профиле</string>
-    <string name="miprofile_nick_name_edit_dialog_title">Изменение ника</string>
+    <string name="miprofile_nick_name_edit_dialog_hint">Введите псевдоним</string>
+    <string name="miprofile_nick_name_edit_dialog_message">Псевдоним будет отображаться в журнале вызовов и профиле</string>
+    <string name="miprofile_nick_name_edit_dialog_title">Изменение псевдонима</string>
     <string name="miprofile_notice_close">Закрыть</string>
     <string name="miprofile_notice_text">Нажмите для просмотра фото профиля</string>
     <string name="miprofile_request_agenda_date">Этот человек хочет обменяться визитками [%1$s]</string>
@@ -720,7 +724,7 @@
     <string name="multi_number_menu_group">Новая группа</string>
     <string name="multi_number_menu_message">Сообщение</string>
     <string name="multi_number_title">Конференц-вызов</string>
-    <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
+    <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к удалению данных из нескольких аккаунтов.</string>
     <string name="my_phone_not_provider_bluetooth">Нет</string>
     <string name="my_phone_provider_bluetooth">Да</string>
     <string name="nameLabelsGroup">Имя</string>
@@ -736,8 +740,8 @@
     <string name="next">Далее</string>
     <string name="next_birthday">Следующий день рождения: %s</string>
     <string name="nfc_vcard_file_name">Контакт получен по NFC</string>
-    <string name="nicknameLabelsGroup">Ник</string>
-    <string name="nickname_editor_title">Изменить ник</string>
+    <string name="nicknameLabelsGroup">Псевдоним</string>
+    <string name="nickname_editor_title">Изменить псевдоним</string>
     <string name="nickname_picker_name_column">Имя контакта</string>
     <string name="nickname_picker_nickname_column">Имя</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
@@ -799,8 +803,8 @@
     <string name="path_import_from_sdcard">Системные приложения/Контакты/Импорт и экспорт/Импорт из памяти</string>
     <string name="path_import_from_sim">Системные приложения/Контакты/Импорт и экспорт/Импорт с SIM карты</string>
     <string name="path_key_photo_word">Системные приложения/Контакты/Значки для контактов без фото</string>
-    <string name="path_key_rebuild_t9_index_title">Системные приложения/Контакты/Управление контактами/Обновление индекса</string>
-    <string name="path_key_sim_manage">Системные приложения/Контакты/Управление контактами/Контакты SIM карты</string>
+    <string name="path_key_rebuild_t9_index_title">Системные приложения/Контакты/Дополнительные функции/Перестроение индекса T9</string>
+    <string name="path_key_sim_manage">Системные приложения/Контакты/Дополнительные функции/Контакты SIM карты</string>
     <string name="path_preference_contacts_filter">Системные приложения/Контакты/Настройки отображения/Фильтр контактов</string>
     <string name="path_quick_dial_setting">Системные приложения/Телефон/Расширенные настройки/Быстрый набор</string>
     <string name="path_remove_duplicate">Системные приложения/Контакты/Управление контактами/Объединение дубликатов</string>
@@ -808,10 +812,13 @@
     <string name="path_sim_capacity">Системные приложения/Контакты/Емкость SIM карты</string>
     <string name="path_simple_mode">Системные приложения/Контакты/Фото контактов</string>
     <string name="path_smart_group_title">Системные приложения/Контакты/Настройки отображения/Умная группировка</string>
-    <string name="path_wipe_data">Системные приложения/Контакты/Управление контактами/Очистка данных</string>
+    <string name="path_wipe_data">Системные приложения/Контакты/Дополнительные функции/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -830,7 +837,7 @@
     <string name="picker_number_title">Выберите номер</string>
     <string name="picker_postal_title">Выберите почтовый индекс</string>
     <string name="picker_recent_list_empty">Нет недавних контактов</string>
-    <string name="pkgLabel">Контакты и телефон</string>
+    <string name="pkgLabel">Контакты и вызовы</string>
     <string name="play_add_incall_show_entry">Воспроизвести или добавить видео</string>
     <string name="play_incall_show_entry">Воспроизвести видео</string>
     <string name="postalLabelsGroup">Адрес</string>
@@ -845,7 +852,7 @@
     <string name="pref_key_photo">Фото</string>
     <string name="pref_key_photo_word_summary">Автоматически назначать изображение контактам без фото</string>
     <string name="pref_key_photo_word_title">Значки для контактов без фото</string>
-    <string name="pref_key_rebuild_t9_index_message">Перестроение индекса T9 для решения проблем с поиском.</string>
+    <string name="pref_key_rebuild_t9_index_message">Индекс T9 будет перестроен для решения проблем с поиском.</string>
     <string name="pref_key_rebuild_t9_index_title">Перестроение индекса T9</string>
     <string name="pref_key_sdn_manage">Просмотр SDN</string>
     <string name="pref_key_sdn_manage1">Просмотр SDN карты 1</string>
@@ -866,7 +873,7 @@
     <string name="preference_contacts_moresetting">Дополнительные функции</string>
     <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
     <string name="preference_dial_pad_touch_tone_human">Голос</string>
-    <string name="preference_dial_pad_touch_tone_piano">Пианино</string>
+    <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
     <string name="preference_dial_pad_touch_tone_switch">Звук при наборе номера</string>
     <string name="preference_dial_pad_touch_tone_title">Звук при наборе номера</string>
     <string name="preference_display">Отображение</string>
@@ -920,7 +927,7 @@
     <string name="qrcode_card_title">QR-код</string>
     <string name="quick_dial_setting_delete_dialog_message">Удалить назначенный номер быстрого набора?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Удалить</string>
-    <string name="quick_dial_setting_hint">Нажмите кнопку для назначения или удаления номера. Нажмите и удерживайте кнопку с назначенным номером для набора.</string>
+    <string name="quick_dial_setting_hint">Нажмите кнопку для назначения или удаления номера. Удерживайте кнопку с назначенным номером для набора.</string>
     <string name="quick_dial_setting_set_dialog_message">Назначить номер быстрого набора на эту кнопку?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Да</string>
     <string name="quick_dial_setting_title">Быстрый набор</string>
@@ -928,12 +935,12 @@
     <string name="quit_dialog_confirm_message">Вы не объединили ни одного контакта.</string>
     <string name="quit_dialog_confirm_title">Отмена объединения контактов</string>
     <string name="rcs_app_name">Мини-приложение</string>
-    <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
-    <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
+    <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит данные из нескольких аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
+    <string name="readOnlyContactWarning">Нельзя удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
     <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
     <string name="reading_vcard_failed_title">Ошибка чтения vCard</string>
-    <string name="rebuild_t9_index_dialog_message">Переиндексация базы T9…</string>
+    <string name="rebuild_t9_index_dialog_message">Перестроение индекса…</string>
     <string name="recent">Недавние</string>
     <string name="recentCallsIconLabel">Журнал вызовов</string>
     <string name="recentCalls_addToContact">Добавить к контакту</string>
@@ -968,6 +975,8 @@
     <string name="savingContact">Сохранение контакта…</string>
     <string name="savingDisplayGroups">Сохранение настроек отображения…</string>
     <string name="scan">Поиск устройств</string>
+    <string name="scan_business_card">Сканировать визитку</string>
+    <string name="scan_bussiness_card_merge_tip">Противоречивые данные были заменены</string>
     <string name="scan_duplicate_message">Контактов с идентичными данными: %1$d</string>
     <string name="scan_merge">Поиск возможных дубликатов контактов…</string>
     <string name="scan_qrcode_card_hint1">Отсканируйте этот QR-код</string>
@@ -1058,6 +1067,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1140,7 +1150,7 @@
     <string name="type_mx_msg">Mi сообщение</string>
     <string name="type_outgoing">Исходящий вызов</string>
     <string name="type_voicemail">Голосовая почта</string>
-    <string name="unable_get_device_id">Не удается прочитать IMEI</string>
+    <string name="unable_get_device_id">Не удалось получить IMEI</string>
     <string name="unfold_all">Показать все</string>
     <string name="unknow_phone_number_call_failed">Нельзя набрать неизвестный номер</string>
     <string name="unknow_phone_number_mms_failed">Нельзя отправить сообщение на неизвестный номер</string>
@@ -1192,6 +1202,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
@@ -1207,13 +1218,13 @@
     <string name="yellowpage_navigation_search_history">История</string>
     <string name="yellowpage_navigation_search_offline_hint">Интернет недоступен</string>
     <string name="yellowpage_navigation_search_result_average_price">В среднем %d Ұ</string>
-    <string name="yellowpage_navigation_search_result_network_error">Не удается подключиться к сети</string>
+    <string name="yellowpage_navigation_search_result_network_error">Не удалось подключиться к сети</string>
     <string name="yellowpage_navigation_search_result_no_more">Больше результатов нет</string>
     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
     <string name="yellowpage_navigation_search_select_city">Выберите город</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка…</string>
-    <string name="yellowpage_navigation_send_to_desktop_failed">Не удается подключиться к сети</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Не удалось подключиться к сети</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Ярлык добавлен на рабочий стол</string>
     <string name="yellowpage_search_the_yellowpage">Поиск в Справочнике</string>
     <string name="yellowpage_user_profile">Профиль</string>

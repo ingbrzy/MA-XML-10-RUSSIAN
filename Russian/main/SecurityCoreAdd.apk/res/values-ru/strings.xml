@@ -67,10 +67,11 @@
     <string name="xspace_label">Клонирование приложений</string>
     <string name="xspace_setting_label">Настройки клонирования</string>
     <string name="xspace_account">Аккаунты клонов</string>
+    <string name="xspace_remove">Удалить аккаунты клонов</string>
     <string name="declare_dialog_title">О клонах приложений</string>
     <string name="menu_item_about_privacy_title">Политика конфиденциальности</string>
     <string name="stop_xspace_alert_title">Удаление аккаунтов клонов</string>
-    <string name="stop_xspace_alert_content">Вы удалили все клоны приложений. Удалить аккаунты клонов и данные приложений? После этого вам придется клонировать приложения заново.</string>
+    <string name="stop_xspace_alert_content">Все клоны приложений и их данные будут удалены навсегда. Для применения изменений потребуется перезагрузка. Удалить аккаунты?</string>
     <string name="xspace_loading_msg">Загрузка приложений…</string>
     <string name="xspace_header">Клонированные</string>
     <string name="xspace_introduce">Рекомендуемые</string>

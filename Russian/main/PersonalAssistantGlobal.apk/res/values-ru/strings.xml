@@ -55,7 +55,7 @@
     <string name="ball_dialog_confirm">Установить</string>
     <string name="ball_dialog_content">Для использования этой функции установите HuPu Sports. Установить?</string>
     <string name="ball_dialog_tip">Больше не показывать</string>
-    <string name="ball_dialog_title">Установите приложение</string>
+    <string name="ball_dialog_title">Приложение не найдено</string>
     <string name="ball_football_brief">Вся информация о ваших любимых командах</string>
     <string name="ball_football_brief_detail">Просматривайте информацию, изучайте результаты и следите за 4 футбольными командами</string>
     <string name="ball_football_check_full_schedule">Посмотреть все матчи</string>
@@ -201,7 +201,7 @@
     <string name="navigation_network_location_enabled">Службы определения местоположения включены. Вы можете изменить это в Настройках.</string>
     <string name="navigation_network_location_not_enabled_summary">Подключитесь к сети и включите службы определения местоположения. Включить?</string>
     <string name="navigation_network_location_not_enabled_title">Службы местоположения</string>
-    <string name="network_access_denied">Не удается подключиться к сети. Сначала примите Условия использования.</string>
+    <string name="network_access_denied">Не удалось подключиться к сети. Сначала примите Условия использования.</string>
     <string name="network_error">Ошибка сети</string>
     <string name="network_tip">Не удалось подключиться к сети.</string>
     <string name="network_unavaliable">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>

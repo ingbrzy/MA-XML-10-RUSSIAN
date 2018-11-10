@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">Интерфейс вызовов</string>
+    <string name="inCallLabel">Телефон</string>
     <string name="unknown">Неизвестный абонент</string>
     <string name="private_num">Скрытый номер</string>
     <string name="payphone">Таксофон</string>
@@ -144,7 +144,7 @@
     <string name="call_recording_notification_message_low_storage">SD карта заполнена.</string>
     <string name="call_recording_notification_message_sd_unmounted">SD карта извлечена.</string>
     <string name="call_recording_deny_permission_msg">Отсутствует разрешение, запись невозможна.</string>
-    <string name="call_contacts_deny_permission_msg">Вы не дали разрешения на доступ к контактам, невозможно просмотреть информацию.</string>
+    <string name="call_contacts_deny_permission_msg">Отсутствует разрешение на чтение контактов, невозможно просмотреть информацию.</string>
     <string name="conference_call_recorder_title">Конференц-вызов</string>
     <string name="antispam_marked_count">Сообщило пользователей MIUI: %1$d</string>
     <string name="antispam_local_marked">Отмечено локально</string>

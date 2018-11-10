@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
@@ -162,8 +163,8 @@
     <string name="gadget_search_label">Поиск</string>
     <string name="gadget_weather_app_not_installed">Нажмите для загрузки приложения \"Погода\"</string>
     <string name="gadget_weather_aqi_title">Качество воздуха:</string>
-    <string name="gadget_weather_download_message">Необходимо скачать данные: %1$s (%2$s). Перезапустите приложение по окончании загрузки.</string>
-    <string name="gadget_weather_download_start">Скачать</string>
+    <string name="gadget_weather_download_message">Необходимо загрузить данные: %1$s (%2$s). Перезапустите приложение по окончании загрузки.</string>
+    <string name="gadget_weather_download_start">Загрузить</string>
     <string name="gadget_weather_download_title">Загрузить</string>
     <string name="gadget_weather_downloading">Идет загрузка приложения. Перезапустите его по окончании загрузки.</string>
     <string name="gadget_weather_loading">Данных нет</string>
@@ -279,7 +280,6 @@
     <string name="recommend_apps_switch_title">Рекомендации</string>
     <string name="recommend_apps_tips">Для нормальной работы этой функции требуется подключение к интернету. Для отключения этой функции нажмите на имя папки.</string>
     <string name="recommend_loading">Загрузка…</string>
-    <string name="refresh">Обновить</string>
     <string name="reset_description_first_time">Вы можете восстановить макет с %1$s в течение 2 часов</string>
     <string name="reset_description_others">Вы можете восстановить макет с %1$s</string>
     <string name="reset_fail">Восстановление не удалось</string>
@@ -344,4 +344,10 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
+    <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
+    <string name="announce_for_create_folder_with_app">Создана папка с %1$s</string>
+    <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
+    <string name="recommend_apps_no_data_toast">Пока нет рекомендаций</string>
+    <string name="recommend_refresh">Обновить</string>
+    <string name="recommend_xout">Не показывать</string>
 </resources>

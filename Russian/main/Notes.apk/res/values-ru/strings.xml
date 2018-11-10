@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">Выберите папку</string>
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Не сейчас</string>
     <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Оно содержит встроенные напоминания и синхронизирует ваши объекты с Mi Cloud, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
@@ -129,6 +130,7 @@
     <string name="note_sort_way">Сортировка заметок</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
@@ -178,7 +180,7 @@
     <string name="sns_footer_text">Создано с помощью заметок MIUI</string>
     <string name="sns_hint_content">Введите сообщение</string>
     <string name="sns_hint_title">Тема (необязательно)</string>
-    <string name="sns_message_disconnect">Не удается подключиться к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="sns_message_disconnect">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="sns_title_edit">Поделиться заметкой</string>
     <string name="sns_title_send">Отправить сообщение</string>
     <string name="sns_toast_empty">Нельзя отправить пустое сообщение</string>
@@ -211,8 +213,8 @@
     <string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке.</string>
     <string name="toast_reach_text_limit_checkbox">Невозможно добавить флажок. Нет свободного места в заметке.</string>
     <string name="toast_reach_text_limit_truncate">Заметка слишком длинная. Текст в конце был обрезан.</string>
-    <string name="toast_refuse_to_record_when_in_call">Эту функцию нельзя использовать во время вызова</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">Эту функцию нельзя использовать с разделением экрана</string>
+    <string name="toast_refuse_to_record_when_in_call">Нельзя использовать эту функцию во время вызова</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">Нельзя использовать эту функцию с разделением экрана</string>
     <string name="toolbar_check_description">Флажок</string>
     <string name="toolbar_delete_description">Удалить заметку</string>
     <string name="toolbar_gallery_description">Изображение</string>

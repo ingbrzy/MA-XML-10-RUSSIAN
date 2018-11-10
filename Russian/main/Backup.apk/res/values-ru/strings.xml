@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s
 Размер дельта обновления: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_bytes_unit">%1$s Б</string>
+    <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
+    <string name="xiaomi_megabytes_unit">%1$s МБ</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="app_name">Резервирование</string>
     <string name="local_app_name">Резервирование</string>
@@ -41,7 +44,7 @@
     <string name="restore_finished">Восстановление завершено</string>
     <string name="restore_report">Журнал восстановления</string>
     <string name="restore_progress">Восстановление…</string>
-    <string name="restore_contacts_hit">Для просмотра восстановленных контактов необходимо повторно выполнить вход.</string>
+    <string name="restore_contacts_hit">Для просмотра восстановленных контактов необходимо выполнить вход повторно.</string>
     <string name="restore_telephony_hit">Процесс восстановления перезагрузит приложение \"Телефон\"</string>
     <string name="restore_launcher_layout_hit">Восстановить настройки рабочего стола</string>
     <string name="settings_summary">Настройки телефона и сообщений</string>
@@ -65,7 +68,7 @@
     <string name="local_backup_window_title">Локальное резервирование</string>
     <string name="local_restore_window_title">Локальное восстановление</string>
     <string name="account_login">Войти</string>
-    <string name="miliao_account_login">Войти с помощью Mi Talk</string>
+    <string name="miliao_account_login">Войти через Mi Talk</string>
     <string name="miliao_account_guide">Создайте Mi аккаунт и наслаждайтесь всеми сервисами Xiaomi</string>
     <string name="auto_backup">Авторезервирование</string>
     <string name="contact_title">Контакты</string>
@@ -99,8 +102,8 @@
     <string name="task_running_dialog">Задача работает в фоновом режиме. Для просмотра нажмите OK.</string>
     <string name="task_running_backup_hint">Задача уже работает в фоновом режиме</string>
     <string name="task_running_restore_hint">Задача уже работает в фоновом режиме</string>
-    <string name="task_running_backup_dialog">Выполняется резервирование. Для просмотра нажмите ОК.</string>
-    <string name="task_running_restore_dialog">Выполняется восстановление. Для просмотра нажмите ОК.</string>
+    <string name="task_running_backup_dialog">Идет резервирование. Для просмотра нажмите ОК.</string>
+    <string name="task_running_restore_dialog">Идет восстановление. Для просмотра нажмите ОК.</string>
     <string name="task_service_not_launched">Задача еще не запущена</string>
     <string name="task_local_backup_cancel_dialog">Резервирование не завершено. Отменить процесс?</string>
     <string name="task_cloud_backup_cancel_dialog">Резервирование не завершено. Отменить процесс?</string>
@@ -164,7 +167,7 @@
     <string name="current_account">Аккаунт %s</string>
     <string name="current_sim">Текущая SIM карта</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="retry">Повторить</string>
     <string name="select_all">Выбрать все</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">Восстановление</string>
     <string name="enable_encrypt_description">Шифровать</string>
     <string name="disable_encrypt_description">Не шифровать</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Секунду…</string>
     <string name="state_mounting">Получение доступа к хранилищу роутера…</string>
     <string name="abort_backup_confirm">Резервирование не завершено. Отменить процесс?</string>
@@ -343,7 +347,7 @@
     <string name="trans_connecting_toast">Подключение…</string>
     <string name="trans_switching_5g">Переключение на 5 ГГц Wi-Fi…</string>
     <string name="trans_connect_failed_toast">Не удалось подключиться</string>
-    <string name="trans_open_camera_failed_title">Не удалось подключиться к камере</string>
+    <string name="trans_open_camera_failed_title">Не удалось подключиться к Камере</string>
     <string name="trans_open_camera_failed_message">Перезагрузите устройство или проверьте, разрешен ли Mi Mover доступ к &lt;b>Камере&lt;/b>.</string>
     <string name="trans_generate_qr_code_failed">Не удалось создать QR-код</string>
     <string name="trans_scan_invalid_qrcode">Неверный QR-код</string>
@@ -359,7 +363,7 @@
 3. Отсканируйте QR-код старым устройством"</string>
     <string name="trans_operate_old_phone_tips2">"Настройки > Расширенные настройки > Mi Mover
 Нажмите [Я отправитель]"</string>
-    <string name="trans_operate_tip_for_other_android">Запустите Mi Mover на старом устройстве, нажмите \"Начать\" и отсканируйте этот QR-код.</string>
+    <string name="trans_operate_tip_for_other_android">Откройте Mi Mover на старом устройстве, нажмите \"Начать\" и отсканируйте этот QR-код.</string>
     <string name="trans_operate_reconnect_new_tips">"Дождитесь, когда на новом устройстве появится сообщение \"Соединение прервано\".
 Затем нажмите \"Подключиться заново\" для создания QR-кода."</string>
     <string name="trans_operate_reconnect_old_tips">"Дождитесь, когда на старом устройстве появится сообщение \"Соединение прервано\".
@@ -485,7 +489,7 @@
     <string name="close_twice_auth_operation">"Ссылка для отключения:
 https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="platform_chooser_title">Выберите старое устройство</string>
-    <string name="platform_chooser_item_ios">Импорт с устройства iOS</string>
+    <string name="platform_chooser_item_ios">Устройство iOS</string>
     <string name="platform_chooser_item_android_mi">Mi Phone</string>
     <string name="platform_chooser_item_android_others">Другие марки</string>
     <string name="icloud_need_wifi_title">Подключитесь к Wi-Fi</string>
@@ -541,6 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 необходимо создать резервную копию iCloud"</string>
     <string name="list_footer_tip_title">Советы:</string>
     <string name="import_tip_summary">Из-за проблем с совместимостью вы можете передавать данные с устройств iOS только частично. Перед началом передачи убедитесь, что вы создали резервную копию iCloud.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Импорт</string>
     <string name="select_empty">Выберите объекты для импорта</string>
     <string name="select_item_summary_wait">Ожидание…</string>

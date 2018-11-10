@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Пакеты</string>
     <string name="hints_residual_header_left">Остатки данных</string>
     <string name="hints_memory_header_left">Память</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
@@ -300,6 +301,7 @@
     <string name="downloading">Загрузка</string>
     <string name="installing">Установка</string>
     <string name="start_install">Установить</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="title_share_link">Поделиться ссылкой</string>
     <string name="connecting">Подключение…</string>
@@ -468,9 +470,9 @@
     <string name="file_not_found">Файл не найден</string>
     <string name="app_usage_never">Работало давно</string>
     <string name="app_usage_recently">Работало недавно</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> данных</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> кэша WeChat</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> кэша QQ</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data> Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> данных </Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> кэша WeChat </Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> Вы можете очистить &lt;font color=#ff0000 >%1$s&lt;/font> кэша QQ </Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">О приложении</string>
@@ -499,19 +501,6 @@
     <string name="auto_clean_time_three_day">Каждые 3 дня</string>
     <string name="auto_clean_time_seven_day">Каждые 7 дней</string>
     <string name="auto_clean_time_fifteen_day">Каждые 15 дней</string>
-    <string name="pref_category_title_auto_clean_config_settings">Автоматическая очистка</string>
-    <string name="pref_title_auto_clean">Очищать автоматически</string>
-    <string name="pref_title_auto_clean_operation">Способ очистки</string>
-    <string name="pref_title_auto_clean_trigger">Очистка хранилища</string>
-    <string name="auto_clean_operation_dialog_title">Способ очистки</string>
-    <string name="auto_clean_operation_clean_and_alert">Напоминание и очистка</string>
-    <string name="auto_clean_operation_just_clean">Только очистка</string>
-    <string name="auto_clean_trigger_dialog_title">Очистка хранилища</string>
-    <string name="auto_clean_trigger_percent_ninety">При заполнении на 90%</string>
-    <string name="auto_clean_trigger_percent_eighty">При заполнении на 80%</string>
-    <string name="auto_clean_trigger_percent_sixty">При заполнении на 60%</string>
-    <string name="auto_clean_notification_title">Очистка завершена</string>
-    <string name="auto_clean_notification_content">Очищено %s мусора</string>
     <string name="guide_secure_dialog_title">Оптимизация устройства</string>
     <string name="guide_secure_dialog_message">Оценка оптимизации вашего устройства ниже 80 баллов. Оптимизировать его?</string>
     <string name="guide_secure_dialog_positive">Оптимизировать</string>
@@ -539,10 +528,6 @@
     <string name="whatsapp_group_gif">GIF</string>
     <string name="whatsapp_group_document">Документы</string>
     <string name="whatsapp_btn_quick_cleanup">Удалить выбранные объекты (%s)</string>
-    <string name="whatsapp_type_image_send">Отправленные</string>
-    <string name="whatsapp_type_image_recv">Полученные</string>
-    <string name="whatsapp_type_document_send">Отправленные</string>
-    <string name="whatsapp_type_document_recv">Полученные</string>
     <string name="whatsapp_file_show_order">Сегодня</string>
     <string name="whatsapp_clean_exit_confirm_title">Остановить проверку?</string>
     <string name="whatsapp_clean_exit_confirm_msg">Проверка WhatsApp не завершена. Остановить проверку и выйти?</string>
@@ -568,4 +553,17 @@
     <string name="memory_clean_no_trash_tip">Всё в порядке</string>
     <string name="toast_updater_open_4g_text">Обновление через мобильный интернет (4G) включено</string>
     <string name="toast_updater_close_4g_text">Обновление через мобильный интернет (4G) отключено</string>
+    <string name="facebook_cleaner">Очистка Facebook</string>
+    <string name="facebook_group_image">Изображения</string>
+    <string name="facebook_group_video">Видео</string>
+    <string name="facebook_group_gif">GIF</string>
+    <string name="facebook_group_cache">Файлы данных</string>
+    <string name="app_clean_group_image_send">Отправленные</string>
+    <string name="app_clean_group_image_recv">Полученные</string>
+    <string name="app_clean_group_document_send">Отправленные</string>
+    <string name="app_clean_group_document_recv">Полученные</string>
+    <string name="facebook_clean_exit_confirm_title">Остановить проверку?</string>
+    <string name="facebook_clean_exit_confirm_msg">Проверка Facebook не завершена. Остановить проверку и выйти?</string>
+    <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
+    <string name="facebook_clean_exit_confirm_ok">Остановить</string>
 </resources>

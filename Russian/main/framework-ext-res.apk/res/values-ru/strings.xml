@@ -47,7 +47,7 @@
     <string name="caller_info_name_delimiter">" или "</string>
     <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки > Расширенные настройки > Кнопки и жесты</string>
     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
-    <string name="force_exit_skip_message">Нельзя закрыть приложение \"%1$s\", поскольку оно требуется системой</string>
+    <string name="force_exit_skip_message">Нельзя принудительно закрыть системное приложение %1$s.</string>
     <string name="fm_record_smaple_prefix_miui">Запись FM</string>
     <string name="global_actions_airplane_mode">Режим полета</string>
     <string name="global_actions_reboot">Перезагрузка</string>
@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">Настройки Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Выберите приложение</string>
     <string name="user_switching_dialog_text">Переключение…</string>
+    <string name="xspace_head">Клон приложения</string>
     <string name="activity_package_delete_confirm_title">Внимание</string>
     <string name="button_text_cancel">Отмена</string>
     <string name="button_text_delete">Удалить</string>

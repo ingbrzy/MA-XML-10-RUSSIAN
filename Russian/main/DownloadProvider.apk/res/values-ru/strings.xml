@@ -22,7 +22,7 @@
     <string name="download_unknown_title">&lt;Без названия></string>
     <string name="notification_download_complete">Загрузка завершена.</string>
     <string name="notification_download_failed">Ошибка загрузки.</string>
-    <string name="notification_need_wifi_for_size">Требуется Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">Для загрузки требуется Wi-Fi.</string>
     <string name="notification_paused_in_background">Загрузка приостановлена.</string>
     <string name="wifi_required_title">Файл слишком большой</string>
     <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
@@ -32,7 +32,7 @@
     <string name="wifi_recommended_body" formatted="false">"Запуск этой загрузки (%s) может сократить время автономной работы и/или привести к чрезмерному потреблению мобильного трафика.
 
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
-    <string name="button_queue_for_wifi">В очередь</string>
+    <string name="button_queue_for_wifi">Отложить</string>
     <string name="button_cancel_download">Отменить</string>
     <string name="button_start_now">Продолжить</string>
     <string name="download_remaining">Осталось %s</string>

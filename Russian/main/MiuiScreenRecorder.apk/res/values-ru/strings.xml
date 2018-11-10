@@ -15,7 +15,7 @@
     <string name="cancel_edit">Отмена</string>
     <string name="cannot_change_frames">Частоту кадров можно настроить только для записей с фиксированной частотой кадров.</string>
     <string name="cannot_change_parames">Нельзя менять параметры во время записи</string>
-    <string name="cannot_record">Ошибка записи, повторите позже</string>
+    <string name="cannot_record">Ошибка записи, повторите попытку позже</string>
     <string name="close_screen_record">Запись остановлена</string>
     <string name="date_day" />
     <string name="date_month">.</string>
@@ -73,8 +73,9 @@
     <string name="show_screen_touch">Показывать касания и жесты</string>
     <string name="show_screen_touch_summary">Отображать касания и жесты с помощью белого кружка</string>
     <string name="sound_source">Источник звука</string>
-    <string name="sound_source_summary">Источник звука при записи</string>
-    <string name="start">Старт</string>
+    <string name="sound_source_summary">Системные звуки или микрофон</string>
+    <string name="sound_source_summary_without_system_sounds">Микрофон или без звука</string>
+    <string name="start">Пуск</string>
     <string name="start_recording">Начать запись</string>
     <string name="stop_by_second_space">При смене пространства запись остановится</string>
     <string name="stop_record_while_locking">Завершать запись при блокировке экрана</string>

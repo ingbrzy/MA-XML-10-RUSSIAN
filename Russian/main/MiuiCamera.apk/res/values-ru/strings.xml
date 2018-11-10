@@ -215,8 +215,8 @@
     <string name="accessibility_flash_torch">Вспышка включена, режим фонарика</string>
     <string name="accessibility_hdr_off">Режим HDR отключен</string>
     <string name="accessibility_hdr_auto">Режим HDR Авто включен</string>
-    <string name="accessibility_hdr_normal">Режим HDR Pro включен</string>
-    <string name="accessibility_hdr_live">Режим HDR Live включен</string>
+    <string name="accessibility_hdr_normal">Режим HDR Обычный включен</string>
+    <string name="accessibility_hdr_live">Режим HDR Живой включен</string>
     <string name="accessibility_hdr_on">Режим HDR включен</string>
     <string name="accessibility_filter_open_panel">Меню эффектов открыто</string>
     <string name="accessibility_filter_close_panel">Меню эффектов закрыто</string>
@@ -435,6 +435,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
