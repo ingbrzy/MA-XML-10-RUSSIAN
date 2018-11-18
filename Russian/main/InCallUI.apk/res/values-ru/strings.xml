@@ -51,14 +51,12 @@
     <string name="onscreen_note_calls_text">Заметка</string>
     <string name="call_record_wait_label">Ожидание</string>
     <string name="contacts_icon_label">Контакты</string>
-    <string name="conference_call_number">Участников: %s</string>
     <string name="conference_call_description" formatted="false">%s,%s и др. (всего %s)</string>
     <string name="conference_call_single_description" formatted="false">%s и др. (всего %s)</string>
     <string name="separate_from_conference">Разделить вызов</string>
     <string name="caller_manage_header">Конференц-вызов %s</string>
     <string name="incall_call_type_label_sip">SIP вызов</string>
     <string name="incoming_call_forwarded_title">Переадресация вызовов</string>
-    <string name="call_title_redialing_with_times">Повторных вызовов: %d</string>
     <string name="card_title_dialing">Соединение…</string>
     <string name="card_title_conf_call">Конференц-вызов</string>
     <string name="card_title_video_conf_call">Видео конференц-вызов</string>
@@ -146,7 +144,6 @@
     <string name="call_recording_deny_permission_msg">Отсутствует разрешение, запись невозможна.</string>
     <string name="call_contacts_deny_permission_msg">Отсутствует разрешение на чтение контактов, невозможно просмотреть информацию.</string>
     <string name="conference_call_recorder_title">Конференц-вызов</string>
-    <string name="antispam_marked_count">Сообщило пользователей MIUI: %1$d</string>
     <string name="antispam_local_marked">Отмечено локально</string>
     <string name="antispam_provider">Определено %s</string>
     <string name="antispam_notification_title">Неизвестный номер</string>

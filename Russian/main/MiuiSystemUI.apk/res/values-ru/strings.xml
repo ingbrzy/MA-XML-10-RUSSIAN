@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -588,7 +589,7 @@
     <string name="ext_media_unmountable_notification_message">SD карта повреждена. Требуется форматирование.</string>
     <string name="ext_media_unmountable_notification_title">Накопитель поврежден</string>
     <string name="external_source_trusted">Разрешено</string>
-    <string name="external_source_untrusted">Запрещено</string>
+    <string name="external_source_untrusted">Не разрешено</string>
     <string name="face_data_input_camera_fail">Не удалось запустить камеру</string>
     <string name="face_data_input_camera_ok">Запуск камеры…</string>
     <string name="face_data_input_cancel">Отмена</string>
@@ -738,7 +739,7 @@
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_pin_code">Введите PIN</string>
     <string name="input_puk_code">Введите PUK код</string>
-    <string name="install_other_apps">Установка неизвестных приложений</string>
+    <string name="install_other_apps">Ненадежные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
     <string name="instant_apps_message">Приложения с мгновенным запуском не требуют установки.</string>
@@ -814,6 +815,10 @@
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
     <string name="keyguard_charging_info_battery_used_time_text">Без подзарядки</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -838,6 +843,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
@@ -921,6 +927,7 @@
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -984,6 +991,7 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т.д.) будут воспроизводиться в режиме \"Без звука\". Для изменения перейдите в Настройки.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
@@ -1011,12 +1019,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1048,6 +1058,7 @@
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1062,6 +1073,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1200,6 +1212,7 @@
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Заряда хватит примерно на %1$s</string>
     <string name="power_remaining_duration_only_short">Заряда хватит на %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1444,7 +1457,7 @@
     <string name="snooze_option_30_min">30 минут</string>
     <string name="snooze_undo">ОТМЕНИТЬ</string>
     <string name="snoozed_for_time">Отложено на %1$s</string>
-    <string name="sos_status_bar_summary">нажмите для выхода</string>
+    <string name="sos_status_bar_summary">Нажмите для выхода</string>
     <string name="sos_status_bar_title">SOS</string>
     <string name="speed_bump_explanation">Показать менее важные уведомления</string>
     <string name="ssl_ca_cert_warning">"Действия в сети
@@ -1467,9 +1480,7 @@ d MMMM"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настроить способ ввода</string>
     <string name="status_bar_latest_events_title">Уведомления</string>
     <string name="status_bar_network_flow_content">"Сегодня: %1$s  |  Остаток: %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">"Сегодня: %1$s
-        &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Превышение: &lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Превышение: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_limit">"   Месячный лимит: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Купить >"</string>
     <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
@@ -1649,7 +1660,7 @@ d MMMM"</string>
     <string name="unimportant_desc">Все неважные уведомления будут появляться в отдельной папке.</string>
     <string name="unimportant_title">Неважное</string>
     <string name="unknown">Неизвестно</string>
-    <string name="unlock_camera_steady">Сохраняйте неподвижность</string>
+    <string name="unlock_camera_steady">Не перемещайте телефон</string>
     <string name="unlock_failed">Внутренняя ошибка</string>
     <string name="unlock_failed_face_not_found">Обнаружение</string>
     <string name="unlock_label">Разблокировать</string>
@@ -1736,6 +1747,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1760,9 +1772,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

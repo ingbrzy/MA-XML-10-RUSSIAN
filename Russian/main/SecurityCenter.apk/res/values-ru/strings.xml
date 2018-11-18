@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -49,7 +51,7 @@
     <string name="blacklist_prefix_add_hint">Все номера с этим префиксом будут добавлены в черный список</string>
     <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
     <string name="customizer_mode_user_define_name">Мой профиль</string>
-    <string name="all_address_choose_hint">Все номера в этом регионе</string>
+    <string name="all_address_choose_hint">Все номера в этой провинции</string>
     <string name="address_choose_hint">%1$s, %2$s и %3$d других</string>
     <string name="two_address_choose_hint">%1$s и %2$s</string>
     <string name="one_address_choose_hint">%s1</string>
@@ -155,7 +157,7 @@
     <string name="st_title_call_wait">Сигнал ожидания вызова</string>
     <string name="st_title_sim_card">%1$s - SIM %2$s</string>
     <string name="st_title_not_sim">Пусто</string>
-    <string name="st_sum_call_wait">Сообщение об отсутствии также будет воспроизводиться как сигнал \"Занято\".</string>
+    <string name="st_sum_call_wait">Сообщение об отсутствии также будет воспроизводиться как сигнал \"Занято\"</string>
     <string name="sim_not_ready_toast">SIM карта не готова</string>
     <string name="st_antispam_bw_man_add">Добавить номер телефона</string>
     <string name="st_antispam_bw_head_add">Добавить префикс</string>
@@ -277,11 +279,11 @@
     <string name="dlg_message_not_open_stranger_identify">Для включения этой функции перейдите в Настройки > Телефон.</string>
     <string name="button_to_setting">Настройки</string>
     <string name="special_number_group">Блокировать специальные номера</string>
-    <string name="st_title_markednumber_group">Блокировать отмеченные номера</string>
+    <string name="st_title_markednumber_group">Отмеченные номера</string>
     <string name="st_title_other_group">Другие</string>
     <string name="call_transfer_info">Блокировать переадресованные вызовы с неизвестных номеров</string>
     <string name="button_text_delete">Удалить</string>
-    <string name="repeated_marked_number_title">Не блокировать повторные вызовы с отмеченных номеров</string>
+    <string name="repeated_marked_number_title">Не блокировать повторные вызовы</string>
     <string name="repeated_marked_number_summary">Не блокировать повторный вызов с того же отмеченного номера в течение 3 минут</string>
     <string name="mark_fraud_time_setting">Блокировать номера, отмеченные как мошеннические определенное количество раз</string>
     <string name="mark_agent_time_setting">Блокировать номера, отмеченные как агентства определенное количество раз</string>
@@ -344,7 +346,7 @@
     <string name="cta_dialog_title">Доступ в интернет</string>
     <string name="cta_dialog_msg">Приложению Безопасность требуется подключение к интернету для получения обновлений, а также доступ к местоположению для нормальной работы.</string>
     <string name="cta_settings">Разрешить доступ в интернет</string>
-    <string name="gdpr_msg">" "<Data> Для использования основных функций Безопасности вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об использовании функций (например, статистика мобильного трафика, информация о вредоносном ПО, а также базовая информация о вашем устройстве) и другие типы данных, которые определяет наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика конфиденциальности&lt;/a>. </Data>" "</string>
+    <string name="gdpr_msg"><Data>Для использования основных функций Безопасности вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об использовании функций (например, статистика мобильного трафика, информация о вредоносном ПО, а также базовая информация о вашем устройстве) и другие типы данных, которые определяет наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика конфиденциальности&lt;/a>.</Data></string>
     <string name="app_name_na">Передача данных</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="dialog_title_attention">Внимание</string>
@@ -356,6 +358,7 @@
     <string name="byteShort">Б</string>
     <string name="yuan">CNY</string>
     <string name="percent_text_formatted">%s%%</string>
+    <string name="main_traffic_detail">Передача данных</string>
     <string name="main_toolbar_firewall">Сетевые подключения</string>
     <string name="main_toolbar_statistic">Потребление трафика</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
@@ -385,7 +388,7 @@
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Неверный оператор?&lt;/U>&lt;/font>"</string>
     <string name="card_tc_failed">Ошибка калибровки</string>
     <string name="main_normal_data_usage">Использованный трафик</string>
-    <string name="main_tc_send_sms">"Отправить SMS
+    <string name="main_tc_send_sms">"Отправка SMS
 для калибровки"</string>
     <string name="main_tc_wait_result">"Ожидание ответа
 оператора"</string>
@@ -405,6 +408,9 @@
     <string name="tc_parse_error">Не удалось разобрать SMS</string>
     <string name="tc_get_cmd_error">Не удалось получить шаблон</string>
     <string name="tc_web_correct_error">Ошибка калибровки</string>
+    <string name="main_daily_card_guide_dialog_title">Выберите тип тарифа</string>
+    <string name="main_daily_card_guide_dialog_summary">Вы можете выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?</string>
+    <string name="main_daily_card_guide_dialog_ok">Выбрать</string>
     <string name="firewall_activity_lable">Ограничение трафика</string>
     <string name="firewall_applist">Приложения</string>
     <string name="firewall_mobile">3G/4G</string>
@@ -452,8 +458,10 @@
     <string name="background_traffic">Фоновый: %s</string>
     <string name="detail_app_button">Сведения</string>
     <string name="managed_user_title">Корпоративные приложения</string>
+    <string name="not_limited_brand">Без ограничений</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -463,19 +471,19 @@
     <string name="pref_title_declaration">Отказ от ответственности</string>
     <string name="pref_new_installed_preconfig_title">Настройки новых приложений</string>
     <string name="pref_bg_network_title">Фоновые подключения</string>
-    <string name="pref_mi_sim_settings">Настройки пакета %s</string>
+    <string name="pref_mi_sim_settings">Настройки трафика %s</string>
     <string name="pref_title_upload_data_usage">Отправлять отчеты о трафике</string>
     <string name="pref_summary_upload_data_usage">Отправляйте отчеты о трафике, чтобы помочь нам улучшить MIUI. Отчетность осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
     <string name="pref_manual_adjust">Ввод расхода трафика</string>
-    <string name="pref_daily_adjust">Ввод дневного трафика</string>
+    <string name="pref_daily_adjust">Ввод обычного трафика</string>
     <string name="pref_free_adjust">Ввод льготного трафика</string>
     <string name="pref_automatic_adjust">Синхронизация трафика с оператором</string>
     <string name="pref_open_adjust_traffic">Обновлять статистику трафика ежедневно на основе данных оператора</string>
     <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
-    <string name="pref_auto_adjust_settings">Настройки автообновления статистики</string>
+    <string name="pref_auto_adjust_settings">Настройки автообновления</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
-    <string name="pref_adjust_data_usage_value">Изменение шаблона</string>
+    <string name="pref_adjust_data_usage_value">Изменен</string>
     <string name="pref_confirm_operator_setting">Убедитесь в правильности введенной информации</string>
     <string name="pref_correction_setting">Настройки шаблона калибровки</string>
     <string name="pref_correction_setting_switch">Использовать особый шаблон калибровки</string>
@@ -489,12 +497,19 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">Обновлено более месяца назад</string>
     <string name="left_precent">60%</string>
     <string name="right_precent">100%</string>
+    <string name="pref_category_package_type_title">Тип тарифного плана</string>
+    <string name="pref_title_traffic_package_type">Тип тарифа</string>
+    <string name="pref_traffic_package_type_summary">Суточный/Месячный/Безлимитный</string>
+    <string name="pref_traffic_daily_package">Суточный тариф</string>
+    <string name="pref_traffic_monthly_package">Месячный тариф</string>
+    <string name="pref_traffic_unlimited_package">Безлимитный тариф</string>
+    <string name="pref_traffic_daily_package_brand">Оператор суточного тарифа</string>
     <string name="pref_avaible_traffic">Месячный лимит</string>
     <string name="pref_daily_traffic">Лимит трафика</string>
     <string name="pref_special_package_setting">Особый тариф</string>
     <string name="pref_data_usage_not_set">Не настроен</string>
     <string name="pref_operator_not_set">Оператор не задан</string>
-    <string name="pref_special_package_setting_summary">Управление льготным трафиком, пакетами пополнения, суточными лимитами и целевым трафиком</string>
+    <string name="pref_special_package_setting_summary">Управление льготным трафиком, пакетами пополнения и целевым трафиком</string>
     <string name="pref_warning_values">Порог предупреждения</string>
     <string name="pref_pkg_begin_date">Дата начала учета</string>
     <string name="pref_more_settings">Дополнительные настройки</string>
@@ -507,7 +522,9 @@
     <string name="daily_pkg_traffic">Лимит трафика</string>
     <string name="input_aviable_traffic">Лимит трафика</string>
     <string name="pkg_traffic">Лимит трафика</string>
-    <string name="free_traffic_settings">Настройки льготного трафика</string>
+    <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
+    <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
+    <string name="free_traffic_settings">Льготный трафик</string>
     <string name="free_time_traffic">Лимит льготного трафика</string>
     <string name="power_save_on_time_start_time_summary_na">Начало</string>
     <string name="power_save_on_time_end_time_summary_na">Окончание</string>
@@ -521,11 +538,11 @@
     <string name="settings">Настройки передачи данных</string>
     <string name="adjust_traffic_data">Расход трафика</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
-    <string name="free_time_traffic_settings">Лимит льготного трафика</string>
+    <string name="free_time_traffic_settings">Льготный трафик</string>
     <string name="pref_category_extra_package_tile">Пакет пополнения баланса</string>
     <string name="pref_key_extra_package_value">Размер пакета</string>
-    <string name="pref_category_half_year_package_tile">Полугодовой пакет трафика</string>
-    <string name="pref_key_half_year_package_switch">Полугодовой пакет трафика</string>
+    <string name="pref_category_half_year_package_tile">Полугодовой лимит</string>
+    <string name="pref_key_half_year_package_switch">Полугодовой лимит</string>
     <string name="pref_key_half_year_package_value">Размер пакета</string>
     <string name="pref_key_half_year_package_start">Начальная дата</string>
     <string name="pref_category_daily_package_tile">Суточный лимит</string>
@@ -536,7 +553,7 @@
     <string name="traffic_setting_fragment_title">Настройки запросов трафика</string>
     <string name="traffic_setting_fragment_button1_text">Отмена</string>
     <string name="traffic_setting_fragment_button2_text">Сохранить</string>
-    <string name="traffic_setting_fragment_area">Локальный</string>
+    <string name="traffic_setting_fragment_area">Местоположение</string>
     <string name="traffic_setting_fragment_province">Провинция</string>
     <string name="traffic_setting_fragment_city">Город</string>
     <string name="traffic_setting_fragment_operator_setting">Настройки оператора</string>
@@ -548,6 +565,21 @@
     <string name="traffic_setting_fragment_send_num_tips">Введите номер телефона</string>
     <string name="traffic_setting_fragment_sms_content_tips">Введите сообщение</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Больше не показывать</string>
+    <string name="traffic_setting_fragment_packege_type">Настройки тарифа</string>
+    <string name="traffic_setting_fragment_month_title">Месячный тариф</string>
+    <string name="traffic_setting_fragment_month_summary">Пакеты трафика и минут обновляются ежемесячно</string>
+    <string name="traffic_setting_fragment_daily_title">Суточный тариф</string>
+    <string name="traffic_setting_fragment_daily_summary">Пакеты трафика обновляются ежедневно</string>
+    <string name="traffic_setting_fragment_not_limited_title">Безлимитный тариф</string>
+    <string name="traffic_setting_fragment_not_limited_summary">Мобильный трафик неограничен</string>
+    <string name="traffic_setting_fragment_next">Далее</string>
+    <string name="daily_card_setting_fragment_daily_card_setting">Настройки суточного тарифа</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">Оператор</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">Выбрать оператора</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">MIUI установит лимиты трафика в соответствии с выбранным оператором. Если ваш оператор отсутствует в списке, выберите \"Другой\" и настройте суточный тариф вручную.</string>
+    <string name="daily_card_setting_fragment_daily_package">Суточный лимит</string>
+    <string name="daily_card_setting_fragment_month_package">Месячный лимит</string>
+    <string name="daily_card_setting_fragment_package_summary">Если ваш суточный тариф включает в себя месячный пакет, он будет использован до суточного пакета</string>
     <string name="data_usage_warning_body">Нажмите для просмотра.</string>
     <string name="data_usage_mobile_limit_title">Достигнут лимит трафика</string>
     <string name="data_usage_limit_body">Нажмите для включения интернета.</string>
@@ -600,15 +632,15 @@
 
 Вы согласны с этим?"</string>
     <string name="traffic_config_alert_body_normal">"
-Ваш месячный лимит обычного трафика составляет %1$s. Это не совпадает с лимитом %2$s, введенным вручную."</string>
+Ваш месячный лимит обычного трафика составляет %1$s. Это не совпадает с лимитом %2$s, заданным вручную."</string>
     <string name="traffic_config_alert_body_leisure">"
-Ваш месячный лимит льготного трафика составляет %1$s. Это не совпадает с лимитом %2$s, введенным вручную."</string>
+Ваш месячный лимит льготного трафика составляет %1$s. Это не совпадает с лимитом %2$s, заданным вручную."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
 Ваш месячный лимит льготного трафика составляет %1$s. Вы не вводили вручную лимит льготного трафика."</string>
     <string name="traffic_config_alert_body_extra">"
 Вы приобрели %1$s дополнительного трафика в этом месяце. Это отличается от значения %2$s, введенного вручную."</string>
     <string name="traffic_config_alert_body_extra_notset">"
-Вы приобрели %s дополнительного трафика в этом месяце. Это не отражено в месячном лимите трафика, введенном вручную."</string>
+Вы приобрели %s дополнительного трафика в этом месяце. Это не отражено в месячном лимите трафика, заданном вручную."</string>
     <string name="traffic_config_alert_setted">Настройки сохранены</string>
     <string name="traffic_config_alert_package">"
 Остаток трафика перемещен"</string>
@@ -894,20 +926,10 @@
     <string name="status_bar_network_flow_purchase">"   Купить >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Настроить тариф >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Баланс: %1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">"Сегодня: %1$s
-        &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Превышение: &lt;font color=%2$s>%3$s&lt;/font>
-        "</string>
-    <string name="status_bar_network_flow_content">"Сегодня: %1$s
-        &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;
-        Остаток: %2$s"</string>
-    <string name="status_bar_network_flow_content_not_setting">"Сегодня: %1$s
-        &amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;
-        За месяц: %2$s"</string>
-    <string name="status_bar_network_flow_content_virtual_card">"%1$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        %2$s
-        &amp;nbsp;&amp;nbsp;&amp;nbsp;
-        "</string>
+    <string name="status_bar_network_flow_exceed_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Превышение: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;Остаток: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Сегодня: %1$s&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;За месяц: %2$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">Однократный лимит трафика</string>
     <string name="pref_key_tethering_title">Однократный лимит трафика</string>
     <string name="tether_limit_value_custom">Особый</string>
@@ -934,13 +956,14 @@
     <string name="om_settings_speed_up_auto">Автоматическое ускорение</string>
     <string name="om_settings_memory_clean_lock_screen">Очищать память</string>
     <string name="om_settings_notify_manage">Уведомления</string>
-    <string name="om_settings_memory_occupy_notify">Уведомлять о перегрузке памяти</string>
+    <string name="om_settings_memory_occupy_notify">Перегрузка памяти</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Получать уведомления о чрезмерной загрузке памяти</string>
-    <string name="om_settings_cpu_over_load_notify">Уведомлять о перегрузке ЦП</string>
+    <string name="om_settings_cpu_over_load_notify">Перегрузка ЦП</string>
     <string name="om_settings_cpu_over_load_summary">Получать уведомления о чрезмерной загрузке ЦП</string>
     <string name="om_settings_memory_occupy_notify_never">Не уведомлять</string>
     <string name="om_lock_app_locked_app">Закрепленные</string>
     <string name="om_lock_app_unlocked_app">Незакрепленные</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Требуется ускорение</string>
     <string name="om_running_locked_apps">Работающие (закрепленные)</string>
     <string name="om_running_system_apps">Работающие (системные)</string>
@@ -977,7 +1000,7 @@
     <string name="menu_item_uninstall">Удалить</string>
     <string name="menu_item_app_details">Сведения</string>
     <string name="details_subtitle">Подробности</string>
-    <string name="packages_subtitle">Зависимые пакеты</string>
+    <string name="packages_subtitle">Зависимости</string>
     <string name="battery_desc_standby">Потребление в режиме ожидания</string>
     <string name="battery_desc_radio">Потребление радиомодулем</string>
     <string name="battery_desc_voice">Потребление голосовыми вызовами</string>
@@ -990,6 +1013,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1206,12 +1230,17 @@
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
     <string name="power_center_list_item_deep_save_title">Расширенные настройки</string>
     <string name="power_center_list_item_battery_status_time">ч</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">мАч</string>
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="hide_mode_result_summary_text">Настройте параметры экономии энергии для отдельных приложений</string>
     <string name="auto_task_result_summary_text">Настройте автоматические задачи для экономии энергии</string>
     <string name="pc_settings_title">Настройки питания</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Включите Максимальную экономию при низком заряде батареи</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>
     <string name="handle_bar_title_system">Система</string>
     <string name="apps_list_header_title_sms">Приложение обмена сообщениями</string>
     <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
@@ -1365,11 +1394,13 @@
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
     <string name="menu_summary_networkassistants">Управляйте трафиком</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1382,12 +1413,14 @@
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
     <string name="menu_summary_power_manager_4">%sдо окончания</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Оптимизируйте несколько объектов</string>
@@ -1763,6 +1796,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -1835,7 +1869,7 @@
     <string name="showpattern">Отображать ключ при вводе</string>
     <string name="notification_mask_title">Скрытие содержимого</string>
     <string name="notification_mask_summary">Скрывать содержимое уведомлений на экране блокировки и в шторке уведомлений</string>
-    <string name="convenient_mode">Разблокировать все приложения сразу</string>
+    <string name="convenient_mode">Облегченная разблокировка</string>
     <string name="convenient_summary">Введите пароль один раз для разблокировки всех приложений</string>
     <string name="suggest_app_tolock">Предложения</string>
     <string name="suggest_app_tolock_masked">Скрытые</string>
@@ -2081,12 +2115,12 @@
     <string name="app_manager_reset_app_preferences_title">Сбросить настройки приложений?</string>
     <string name="app_manager_reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
- "<li>отключенные приложения</li>"
- "<li>отключенные уведомления</li>"
- "<li>приложения по умолчанию</li>"
- "<li>ограничения фоновых подключений</li>"
+"<li>Отключенные приложения</li>"
+"<li>Отключенные уведомления</li>"
+"<li>Приложения по умолчанию</li>"
+"<li>Ограничения фонового трафика</li>"
 
- Данные приложений удалены не будут."</string>
+Данные приложений удалены не будут."</string>
     <string name="app_manager_reset_app_preferences_button">Сбросить</string>
     <string name="app_manager_disable_text">Отключить</string>
     <string name="app_manager_enable_text">Включить</string>
@@ -2238,7 +2272,7 @@
     <string name="free_send_net_booster">Бесплатное ускорение сети</string>
     <string name="free_send_net_booster_tip">Наслаждайтесь плавным игровым процессом с бесплатным ускорением сети</string>
     <string name="free_send_net_booster_busniess">Получите бесплатное ускорение Xunlei</string>
-    <string name="free_send_net_booster_busniess_tip">Нажмите для получения</string>
+    <string name="free_send_net_booster_busniess_tip">Получить</string>
     <string name="net_booster_overdue_notification">Сеанс ускорения сети скоро завершится</string>
     <string name="net_booster_overdue_notification_tip">Сеанс ускорения сети скоро завершится. Продлить сеанс?</string>
     <string name="net_booster_expire_notification">Сеанс ускорения сети скоро завершится</string>
@@ -2316,6 +2350,7 @@
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_like">Нравится</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
     <string name="video_repeat">Повторить</string>

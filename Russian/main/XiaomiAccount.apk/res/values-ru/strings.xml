@@ -18,7 +18,7 @@
     <string name="passport_uplink_reg">Использовать номер телефона</string>
     <string name="passport_uplink_slot1_reg">Использовать SIM 1</string>
     <string name="passport_uplink_slot2_reg">Использовать SIM 2</string>
-    <string name="passport_reg_via_sms_alert">Для активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
+    <string name="passport_reg_via_sms_alert">Для активации данного сервиса может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="passport_reg_using_other_phone"><u>Использовать другой номер</u></string>
     <string name="passport_reg_btn_using_other_phone">Использовать другой номер</string>
     <string name="passport_downlink_reg">Номер телефона</string>
@@ -395,11 +395,11 @@
     <string name="find_device_account_error">Не удалось получить статус из-за ошибки аккаунта</string>
     <string name="find_device_null_credential_error">Не удалось получить данные устройства, обратитесь в поддержку Xiaomi</string>
     <string name="find_device_request_prepare_error">Не удалось получить статус, повторите попытку позже</string>
-    <string name="find_device_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
-    <string name="find_device_bad_response_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="find_device_request_error">Ошибка сервера, подождите немного и повторите попытку</string>
+    <string name="find_device_bad_response_error">Ошибка сервера, подождите немного и повторите попытку</string>
     <string name="find_device_io_error">Не удалось подключиться к сети</string>
     <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
-    <string name="find_device_operation_failed_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="find_device_operation_failed_error">Ошибка сервера, подождите немного и повторите попытку</string>
     <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
     <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних 3 дней. Невозможно отключить Поиск устройства по соображениям безопасности.</string>
     <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля Mi аккаунта.</string>
@@ -411,7 +411,7 @@
     <string name="notify_network_restricted_content_hidden_state">Фоновая активность Mi аккаунта ограничена. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_bg_network">Доступ Mi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_mobile_network">Доступ Mi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
-    <string name="login_guard_prompt">Требуется проверка номера телефона при первом входе в Mi Аккаунт на неизвестном устройстве или из неизвестного приложения.</string>
+    <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в Mi Аккаунт на неизвестном устройстве или из неизвестного приложения.</string>
     <string name="verified_devices">Проверенные устройства</string>
     <string name="verified_apps">Проверенные приложения</string>
     <string name="trusted_browsers">Надежные браузеры</string>
@@ -448,7 +448,7 @@
     <string name="guest_account_label">Гостевой Mi аккаунт</string>
     <string name="push_notification_title">Вы вошли в Mi аккаунт с неизвестного устройства</string>
     <string name="push_notification_content">Получить код</string>
-    <string name="push_notify_dialog_title">Подтверждение аккаунта</string>
+    <string name="push_notify_dialog_title">Проверка аккаунта</string>
     <string name="push_notify_dialog_message">Произведен вход в ваш Mi аккаунт с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего Mi аккаунта. Не показывайте код подтверждения посторонним лицам.</string>
     <string name="account_secure_info_pref_title">Основная информация</string>
     <string name="account_user_email">Email</string>
@@ -478,4 +478,14 @@ ID вашего аккаунта: %s"</string>
     <string name="sim_changed_notification_msg">Нажмите, чтобы обновить ваш номер для восстановления.</string>
     <string name="recycle_phone_notification_title">Угроза безопасности</string>
     <string name="recycle_phone_notification_msg">Похоже, что ваш номер был перевыпущен. Нажмите для обновления.</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="for_diagnosis_usage_only">Использовать эти данные только для диагностики.</string>
+    <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
+    <string name="sending">Отправка...</string>
+    <string name="diagnosis_log_sent_format">"Журнал диагностики отправлен.
+ID: %s
+Отправьте этот код специалисту."</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал</string>
+    <string name="temporary_not_available">временно недоступно</string>
+    <string name="ok">OK</string>
 </resources>

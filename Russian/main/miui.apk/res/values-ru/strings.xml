@@ -46,6 +46,7 @@
     <string name="size_giga_byte">ГБ</string>
     <string name="size_tera_byte">ТБ</string>
     <string name="size_peta_byte">ПБ</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="date_time_done">Готово</string>
     <string name="date_picker_dialog_title">Установите дату</string>
     <string name="time_picker_dialog_title">Установите время</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
     <string name="more">Еще</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Холод</string>
     <string name="solar_term_great_cold">Сильный холод</string>
     <string name="solar_term_spring_begins">Начало весны</string>

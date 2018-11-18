@@ -552,8 +552,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s Б</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте SD карту.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s КБ</string>
+    <string name="xiaomi_megabytes_unit">%1$s МБ</string>
     <string name="xiaomi_update_dialog_message">"Доступна версия %1$s
 Размер: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Доступна версия %1$s

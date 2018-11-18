@@ -49,6 +49,8 @@
     <string name="self_device">"Это устройство "</string>
     <string name="main_space">Первое пространство</string>
     <string name="second_space">Второе пространство</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="size_unknown">Размер неизвестен</string>
     <string name="recovering">Восстановление %s</string>
@@ -130,14 +132,16 @@
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="loading_user_backup">Загрузка резервных копий…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="no_account">Не выполнен вход в Mi аккаунт</string>
     <string name="no_backup">Нет резервных копий в Mi Cloud</string>
     <string name="download_meta_failed">Не удалось загрузить данные</string>
     <string name="home_restore_error">Не удалось восстановить рабочий стол</string>
     <string name="get_device_id_error">Не удалось получить ID устройства</string>
-    <string name="unsupported_home">Обновите ОС до последней версии.</string>
-    <string name="error_retry_later">Произошла ошибка, повторите попытку позже</string>
+    <string name="unsupported_home">Обновите MIUI до последней версии.</string>
+    <string name="error_retry_later">Действие не выполнено. Подождите немного и повторите попытку.</string>
     <string name="try_continue">Нажмите для продолжения</string>
     <string name="download_home_data">Загрузка данных рабочего стола…</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>

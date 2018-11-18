@@ -219,7 +219,7 @@
     <string name="cleaner_scan_title">Проверка альбомов…</string>
     <string name="cleaner_screen_shot_action">Очистить</string>
     <string name="cleaner_screen_shot_description">Удаляйте ненужные вам снимки экрана</string>
-    <string name="cleaner_screen_shot_title">Удаление снимков экрана</string>
+    <string name="cleaner_screen_shot_title">Снимки экрана</string>
     <string name="cleaner_slim_action">Начать оптимизацию</string>
     <string name="cleaner_slim_description">Храните на своем устройстве сжатые фото. Исходные файлы будут храниться в Mi Cloud.</string>
     <string name="cleaner_slim_start">Оптимизировать</string>
@@ -284,8 +284,8 @@
     <string name="confirm_hidden_recommend_group">OK</string>
     <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Еще похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
-    <string name="confirm_merge_face_albums">" "<Data> Объединить этот альбом с %s? </Data>" "</string>
-    <string name="confirm_merge_many_face_albums">" "<Data> Объединить эти альбомы с %s? </Data>" "</string>
+    <string name="confirm_merge_face_albums"><Data>Объединить этот альбом с %s?</Data></string>
+    <string name="confirm_merge_many_face_albums"><Data>Объединить эти альбомы с %s?</Data></string>
     <string name="confirm_not_face">Нет совпадений</string>
     <string name="confirm_recommandation_face_is">" "<Data> Уверены, что это &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Это фото будет перемещено в альбом \"%2$s\". </Data>" "</string>
     <string name="confirm_recommandation_face_not">" "<Data> Уверены, что это не &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
@@ -478,6 +478,7 @@
     <string name="face_name_edit">Изменить</string>
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
@@ -488,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="filter_bi_memory">Память</string>
     <string name="filter_bi_mono">Моно</string>
     <string name="filter_bi_pink">Розовый</string>
@@ -557,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="grant_permission_go_and_set">Настроить</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Галерее требуется доступ к 
 %s
  для нормальной работы, нажмите \"Настроить\" для перехода к разрешениям."</string>
@@ -756,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
     <string name="people_page_unname">Без имени</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Фото питомцев</string>
     <string name="petabyteShort">ПБ</string>
     <string name="photo">Фото</string>
@@ -1017,6 +1021,9 @@
     <string name="search_title_recommend">Рекомендуемые</string>
     <string name="search_title_suggestion">Предложения</string>
     <string name="search_title_tag">Объекты</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Поиск проектора…</string>
     <string name="secret_album_card_description">Лучшее место для ваших маленьких секретов</string>
     <string name="secret_album_card_title">Испытайте скрытые альбомы</string>
@@ -1296,6 +1303,7 @@
     <string name="view_face_album">Просмотреть альбом</string>
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>

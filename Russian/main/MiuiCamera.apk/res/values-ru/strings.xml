@@ -435,6 +435,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -525,7 +527,7 @@
     <string name="user_notice_title">Условия использования</string>
     <string name="install_confirmed">Установить</string>
     <string name="confirm_install_scanner_title">Установите Сканер</string>
-    <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т. д. Для его установки не требуется подключение к интернету.</string>
+    <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т.д. Для его установки не требуется подключение к интернету.</string>
     <string name="pref_camera_focus_shoot_title">Фокус и снимок</string>
     <string name="pref_camera_focus_shoot_summary">Коснитесь экрана для фокусировки, затем еще раз, чтобы сделать снимок</string>
     <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>

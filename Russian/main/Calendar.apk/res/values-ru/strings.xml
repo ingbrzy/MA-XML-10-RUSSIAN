@@ -395,7 +395,7 @@
     <string name="subscribe_channel_footer_desc">Проверьте или отмените подписки</string>
     <string name="subscribe_channel_footer_title">Вы подписаны</string>
     <string name="subscribe_channel_footer_view">Проверить</string>
-    <string name="subscribe_channel_hint">"Подписывайтесь на сервисы, которые вам нравятся, и получайте ежедневные обновления на своей домашней странице.
+    <string name="subscribe_channel_hint">"Подписывайтесь на сервисы, которые вам нравятся, и получайте ежедневные обновления на главной странице.
 Вы также можете добавить напоминания, чтобы не пропустить ничего важного."</string>
     <string name="subscribe_channel_subscribe">Подписаться</string>
     <string name="subscribe_channel_subscribing">Подписка</string>

@@ -57,6 +57,7 @@
     <string name="save_pic_success">Изображение сохранено в %s</string>
     <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберите продукт</string>
     <string name="michat_skillset_business_type_title">Выберите сервис</string>
     <string name="michat_close_text">Чат завершен</string>
@@ -161,8 +162,8 @@
     <string name="cta_cancel">Отмена</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Отправка отчета</string>
-    <string name="submit_dialog_content">" "<Data> Ваш отчет вместе с вложениями и журналами будет отправлен на серверы MIUI. Он может содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
-    <string name="submit_dialog_content_global">" "<Data> Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
+    <string name="submit_dialog_content"><Data>Ваш отчет вместе с вложениями и журналами будет отправлен на серверы MIUI. Он может содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Согласен</string>
     <string name="tab_title_preferences">Настройки</string>
@@ -180,7 +181,7 @@
     <string name="modem_tool_log_finish_title">Журнал модема создан</string>
     <string name="modem_tool_log_finish_desc">Журнал сохранен как %s</string>
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
-    <string name="bugreport_dialog_submit_content">" "<Data> Журналы программного обеспечения сохраняются на этом устройстве. Они могут содержать личную информацию и данные о местоположении. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>. </Data>" "</string>
+    <string name="bugreport_dialog_submit_content"><Data>Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные о местоположении. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Создание отчета об ошибке…</string>
     <string name="bugreport_dump_start_notification_summary">Это может занять несколько минут.</string>
     <string name="bugreport_dump_complete_notification_title">Отчет создан</string>
@@ -210,7 +211,7 @@
     <string name="feedback_submit_succ_button">Отправить</string>
     <string name="feedback_title">Заголовок</string>
     <string name="feedback_description">Описание</string>
-    <string name="feedback_select_images">Добавить изображения</string>
+    <string name="feedback_select_images">Добавить фото или видео</string>
     <string name="feedback_delete_images">Удалить изображения</string>
     <string name="feedback_select_upload_log">Добавить журналы</string>
     <string name="feedback_select_modem_log">Добавить журнал модема</string>
@@ -325,8 +326,9 @@
     <string name="toast_log_not_exists">Необходимый журнал был удален или не существует</string>
     <string name="toast_pic_not_exists">Сохраненное изображение было удалено</string>
     <string name="toast_screenshot_too_large">Нельзя отправить файл размером более 10 МБ</string>
-    <string name="toast_log_too_large">Файл слишком большой для отправки</string>
+    <string name="toast_log_too_large">Журнал слишком большой для отправки</string>
     <string name="title_customer_service">Обслуживание пользователей</string>
+    <string name="title_first_aid">Первая помощь</string>
     <string name="customer_service_apply">Запросить обслуживание</string>
     <string name="customer_service_complain">Пожаловаться на обслуживание</string>
     <string name="customer_service_station">Места обслуживания</string>
@@ -355,7 +357,7 @@
     <string name="catch_full_log_notification_content">Нажмите для возврата</string>
     <string name="catch_full_log_start_dump_hprof">Создание журнала задержек</string>
     <string name="catch_full_log_dump_hprof_failed">Не удалось создать журнал задержек</string>
-    <string name="catch_full_log_add_original_photo">Добавить фото</string>
+    <string name="catch_full_log_add_original_photo">Добавить оригинал фото или видео</string>
     <string name="catch_full_log_add_photo_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
     <string name="catch_full_log_submit_directly">Отправить</string>
     <string name="catch_full_log_add_photo">Добавить фото</string>
