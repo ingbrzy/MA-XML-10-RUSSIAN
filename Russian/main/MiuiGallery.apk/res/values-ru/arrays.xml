@@ -4,11 +4,6 @@
         <item>Мальчик</item>
         <item>Девочка</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Переместить</item>
-        <item>Копировать</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>
