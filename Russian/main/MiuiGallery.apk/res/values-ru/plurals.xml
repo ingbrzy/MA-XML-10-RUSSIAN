@@ -396,4 +396,16 @@
         <item quantity="few">%d объекта</item>
         <item quantity="many">%d объектов</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d слишком больших объектов</item>
+        <item quantity="one">%d слишком большой объект</item>
+        <item quantity="few">%d слишком больших объекта</item>
+        <item quantity="many">%d слишком больших объектов</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d слишком больших объектов</item>
+        <item quantity="one">%d слишком большой объект</item>
+        <item quantity="few">%d слишком больших объекта</item>
+        <item quantity="many">%d слишком больших объектов</item>
+    </plurals>
 </resources>

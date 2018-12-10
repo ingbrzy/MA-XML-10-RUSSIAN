@@ -8,6 +8,8 @@ ID устройства - это действительный IMEI или MAC а
     <string name="explain_send_sms_permission_button">Подтвердить</string>
     <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>
+    <string name="pop_up_allow_notify_dialog">Разрешить</string>
+    <string name="pop_up_deny_notify_dialog">Запретить</string>
     <string name="sync_notification_title_format">Синхронизация: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Информация активации XMSF</string>

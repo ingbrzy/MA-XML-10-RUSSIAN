@@ -74,7 +74,7 @@
     <string name="birthday_notification_title_today">%3$s у %1$s</string>
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">День рождения сохранен</string>
-    <string name="birthday_term">день рождения</string>
+    <string name="birthday_term">День рождения</string>
     <string name="button_day">День</string>
     <string name="button_month">Месяц</string>
     <string name="button_week">Неделя</string>
@@ -94,7 +94,7 @@
     <string name="card_manager_no_data">Нет подписок</string>
     <string name="card_title_change">Еще</string>
     <string name="change_response_title">Изменить ответ</string>
-    <string name="click_to_share">Нажмите для отправки</string>
+    <string name="click_to_share">Поделиться</string>
     <string name="countdown_event_title">Событие: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Событие: %1$s через 3 дня</string>
     <string name="countdown_notify_title">Событие: %1$s</string>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_calllog_detail">Журнал вызовов</string>
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
     <string name="account_default">По умолчанию</string>
     <string name="account_phone">Только устройство</string>
     <string name="account_sdn">SDN</string>
-    <string name="account_sdn2">SDN %d</string>
+    <string name="account_sdn2">SDN карты %d</string>
     <string name="account_sim">SIM карта</string>
     <string name="account_sim2">SIM карта %d</string>
     <string name="account_type_format">Контакт %1$s</string>
@@ -47,7 +48,7 @@
     <string name="auto_set_nickname">Авто</string>
     <string name="back_description">Назад</string>
     <string name="back_view_description">Назад</string>
-    <string name="batch_delete">Массовое удаление</string>
+    <string name="batch_delete">Групповое удаление</string>
     <string name="blacklist">Заблокировать</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
     <string name="blurbJoinContactDataWith">Выберите контакт для объединения с \"%s\":</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Основная)</string>
     <string name="call_telex">Телекс</string>
     <string name="call_tty_tdd">Телетайп</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Рабочий телефон</string>
     <string name="call_work_mobile">Рабочий мобильный</string>
@@ -117,19 +119,19 @@
     <string name="callrecordview_item_op_time_short_outgoing">"Исходящий | "</string>
     <string name="callrecordview_item_op_video">Видео</string>
     <string name="callrecordview_menu_add_call_note">Добавить заметку</string>
-    <string name="callrecordview_menu_batch_delete">Массовое удаление</string>
+    <string name="callrecordview_menu_batch_delete">Групповое удаление</string>
     <string name="callrecordview_menu_blocklist">Антиспам</string>
     <string name="callrecordview_menu_conference">Конференц-вызов</string>
     <string name="callrecordview_menu_delete">Удалить записи</string>
-    <string name="callrecordview_menu_delete_accepted">Очистить журнал принятых вызовов</string>
+    <string name="callrecordview_menu_delete_accepted">Удалить принятые вызовы</string>
     <string name="callrecordview_menu_delete_all">Очистить журнал вызовов</string>
-    <string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
+    <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
-    <string name="callrecordview_menu_delete_missed">Очистить журнал пропущенных вызовов</string>
-    <string name="callrecordview_menu_delete_new">Очистить журнал вызовов для новых контактов</string>
+    <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
+    <string name="callrecordview_menu_delete_new">Удалить записи о новых контактах</string>
     <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
     <string name="callrecordview_menu_delete_sim">Удалить записи журнала вызовов (%s)</string>
-    <string name="callrecordview_menu_delete_stranger">Очистить неизвестные номера</string>
+    <string name="callrecordview_menu_delete_stranger">Удалить неизвестные номера</string>
     <string name="callrecordview_menu_edit_call_note">Изменить заметку</string>
     <string name="callrecordview_menu_ip">Автонабор IP</string>
     <string name="callrecordview_menu_livetalk">Пакет пополнения баланса</string>
@@ -346,7 +348,7 @@
     <string name="description_quick_dial_button">Быстрый набор</string>
     <string name="description_search_button">поиск</string>
     <string name="description_send_message">Отправить сообщение %1$s</string>
-    <string name="description_send_text_message">Отправить SMS %1$s</string>
+    <string name="description_send_text_message">Отправить текстовое сообщение %1$s</string>
     <string name="description_star">избранное</string>
     <string name="description_view_contact">Просмотреть данные: %1$s</string>
     <string name="description_view_contact_detail">Данные контакта</string>
@@ -354,7 +356,7 @@
     <string name="deselect_all">Снять выбор</string>
     <string name="details_list_group_header_other">ПРОЧЕЕ</string>
     <string name="device_bluetooth_title">Передача контактов</string>
-    <string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
+    <string name="device_import_account_dialog_title">Выберите аккаунт</string>
     <string name="device_import_account_dialog_title_suffix">"
 (найдено контактов: %1$s)"</string>
     <string name="device_import_failed_message">Ошибка импорта</string>
@@ -418,10 +420,10 @@
     <string name="display_only_phones">Скрыть контакты без номера</string>
     <string name="display_options_sort_by_family_name">По фамилии</string>
     <string name="display_options_sort_by_given_name">По имени</string>
-    <string name="display_options_sort_list_by">Сортировка контактов</string>
+    <string name="display_options_sort_list_by">Порядок сортировки</string>
     <string name="display_options_view_family_name_first">Сначала фамилия</string>
     <string name="display_options_view_given_name_first">Сначала имя</string>
-    <string name="display_options_view_names_as">Отображение контактов</string>
+    <string name="display_options_view_names_as">Порядок отображения</string>
     <string name="display_sim_contacts">Контакты SIM карты</string>
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы.</string>
@@ -480,13 +482,14 @@
     <string name="fail_reason_too_many_vcard">Слишком много файлов vCard в памяти.</string>
     <string name="fail_reason_unknown">Неизвестная ошибка</string>
     <string name="fail_reason_vcard_parse_error">Не удалось открыть vCard по неизвестным причинам</string>
-    <string name="favoritesFrequentCalled">Часто вызываемые</string>
-    <string name="favoritesFrequentContacted">Часто набираемые</string>
+    <string name="favoritesFrequentCalled">Популярные</string>
+    <string name="favoritesFrequentContacted">Популярные</string>
     <string name="favorites_list_empty">Нет избранных</string>
     <string name="firewall_setting">Антиспам</string>
     <string name="force_touch_miprofile">Визитка</string>
     <string name="force_touch_new_contact">Новый контакт</string>
-    <string name="frequentList">Часто вызываемые</string>
+    <string name="frequentList">Популярные</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Полное имя</string>
     <string name="gallery">Галерея</string>
     <string name="generic_no_account_prompt">Ваши контакты будут в безопасности даже в случае потери телефона: синхронизация с онлайн-сервисом.</string>
@@ -613,7 +616,7 @@
     <string name="menu_call">Вызвать</string>
     <string name="menu_callNumber">Вызвать %s</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
-    <string name="menu_clear_frequents">Очистить частые</string>
+    <string name="menu_clear_frequents">Очистить популярные</string>
     <string name="menu_contacts_filter">Фильтр контактов</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_copyContact">Копировать в \"Мои контакты\"</string>
@@ -667,13 +670,14 @@
     <string name="miprofile_contact_header">Контакты с визитками</string>
     <string name="miprofile_contact_meaasge">Контакты на устройстве</string>
     <string name="miprofile_contact_verifying">Проверка</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
     <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
     <string name="miprofile_error_not_opened">Отключить визитки</string>
     <string name="miprofile_error_not_set">Ваша визитка не синхронизирована с сервером</string>
     <string name="miprofile_error_unknown">Неизвестная ошибка</string>
-    <string name="miprofile_find_miprofile_title">Добавить для просмотра всей информации</string>
+    <string name="miprofile_find_miprofile_title">Добавьте для просмотра всей информации</string>
     <string name="miprofile_find_profile_batch_add">Добавить все</string>
     <string name="miprofile_find_profile_batch_finish">Готово</string>
     <string name="miprofile_find_profile_batch_request_failed">Не удалось добавить профиль</string>
@@ -697,7 +701,7 @@
     <string name="miprofile_request_alertdialog_message">Ваша визитка будет отправлена автоматически после принятия собеседником.</string>
     <string name="miprofile_request_alertdialog_title">Обмен визитками</string>
     <string name="miprofile_request_deleted_or_not_added">Визитка удалена или не добавлена</string>
-    <string name="miprofile_request_empty_request">Нет запросов</string>
+    <string name="miprofile_request_empty_request">Нет запросов на обмен</string>
     <string name="miprofile_request_header">Запросы на обмен (исчезнут автоматически через неделю)</string>
     <string name="miprofile_request_menu_clear_request">Очистить историю</string>
     <string name="miprofile_request_message">Запросов на обмен визитками: %1$s</string>
@@ -742,7 +746,7 @@
     <string name="nickname_picker_nickname_column">Имя</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить данные контакта с помощью Mi аккаунта</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi аккаунта</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
     <string name="noGroups">Нет групп</string>
@@ -770,7 +774,7 @@
     <string name="openDialKeyboard">Клавиатура</string>
     <string name="open_contact">Открыть контакт</string>
     <string name="open_dial_pad_description">Открыть клавиатуру</string>
-    <string name="option_delete_batch_contacts">Массовое удаление</string>
+    <string name="option_delete_batch_contacts">Групповое удаление</string>
     <string name="option_delete_contact">Удалить</string>
     <string name="option_delete_group">Удалить</string>
     <string name="option_edit_contact">Изменить</string>
@@ -785,7 +789,7 @@
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="other_contacts">Другие</string>
     <string name="other_phone">Другие устройства</string>
-    <string name="path_batch_delete">Системные приложения/Контакты/Управление контактами/Массовое удаление</string>
+    <string name="path_batch_delete">Системные приложения/Контакты/Управление контактами/Групповое удаление</string>
     <string name="path_contacts_display">Системные приложения/Контакты/Настройки отображения</string>
     <string name="path_contacts_more">Системные приложения/Контакты/Управление контактами</string>
     <string name="path_contacts_recovery">Системные приложения/Контакты/Восстановление контактов</string>
@@ -811,7 +815,10 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Дополнительные функции/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Телефон</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
     <string name="photoPickerNotFoundText">На устройстве нет изображений</string>
@@ -983,7 +990,7 @@
     <string name="search_contacts_display">Контакты;Отображение</string>
     <string name="search_contacts_more">Управление;Контакты</string>
     <string name="search_contacts_recovery">Контакты</string>
-    <string name="search_contacts_setting">Настройки контактов;Фото контактов;Значки для контактов без фото;Импорт и экспорт;Отправить; Импорт из памяти;Импорт с SIM-карты;Импорт из другого телефона;Экспорт в память;Экспорт на SIM-карту;Отправить контакты; Отображение;Скрыть контакты без номера;Контакты SIM карты;Фильтр контактов;Умная группировка;Дополнительно; Объединение дубликатов;Массовое удаление;Очистить данные;Обновить индекс Т9;Т9;SIM-карты;Память SIM-карты;Восстановление контактов;Фото контактов</string>
+    <string name="search_contacts_setting">Настройки контактов;Фото контактов;Значки для контактов без фото;Импорт и экспорт;Отправить; Импорт из памяти;Импорт с SIM-карты;Импорт из другого телефона;Экспорт в память;Экспорт на SIM-карту;Отправить контакты; Отображение;Скрыть контакты без номера;Контакты SIM карты;Фильтр контактов;Умная группировка;Дополнительно; Объединение дубликатов;Групповое удаление;Очистить данные;Обновить индекс Т9;Т9;SIM-карты;Память SIM-карты;Восстановление контактов;Фото контактов</string>
     <string name="search_display_only_phones">Контакты;Отображение</string>
     <string name="search_display_sim_contacts">Контакты;Отображение</string>
     <string name="search_export_to_sdcard">Контакты;Экспорт;память</string>
@@ -1060,6 +1067,7 @@
     <string name="sim_unloaded">SIM-карта не установлена</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Нет контактов в группе</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
@@ -1194,6 +1202,7 @@
     <string name="voip_audio_description">Вызов VoIP</string>
     <string name="voip_video_description">Видеовызов VoIP</string>
     <string name="websiteLabelsGroup">Сайт</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>

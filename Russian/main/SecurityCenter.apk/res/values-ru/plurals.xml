@@ -398,6 +398,24 @@
         <item quantity="few">"Подождите %d с и повторите попытку. "</item>
         <item quantity="many">"Подождите %d с и повторите попытку. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Соедините не менее %d точек</item>
+        <item quantity="one">Соедините не менее %d точки</item>
+        <item quantity="few">Соедините не менее %d точек</item>
+        <item quantity="many">Соедините не менее %d точек</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Введите не менее %d цифр</item>
+        <item quantity="one">Введите не менее %d цифры</item>
+        <item quantity="few">Введите не менее %d цифр</item>
+        <item quantity="many">Введите не менее %d цифр</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Введите не менее %d символов</item>
+        <item quantity="one">Введите не менее %d символа</item>
+        <item quantity="few">Введите не менее %d символов</item>
+        <item quantity="many">Введите не менее %d символов</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>

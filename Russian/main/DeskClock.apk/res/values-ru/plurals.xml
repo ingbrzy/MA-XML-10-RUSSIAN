@@ -8,13 +8,13 @@
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Удалить выбранные будильники?</item>
-        <item quantity="one">Удалить выбранные будильники?</item>
+        <item quantity="one">Удалить этот будильник?</item>
         <item quantity="few">Удалить выбранные будильники?</item>
         <item quantity="many">Удалить выбранные будильники?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">Удалить выбранные часовые пояса?</item>
-        <item quantity="one">Удалить выбранные часовые пояса?</item>
+        <item quantity="one">Удалить этот часовой пояс?</item>
         <item quantity="few">Удалить выбранные часовые пояса?</item>
         <item quantity="many">Удалить выбранные часовые пояса?</item>
     </plurals>

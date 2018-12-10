@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">Не удалось подключиться из-за ошибки сети</string>
     <string name="michat_lose_artificial">Произошла ошибка сети, вы покинули чат</string>
     <string name="michat_transfer_message">Поиск человека, готового помочь вам…</string>
-    <string name="michat_queue_pos_update">%1$d человек(а) перед вами, подождите минуту…</string>
     <string name="michat_in_artificial_customer_state">В данный момент занят, помогаю другому человеку</string>
     <string name="michat_pull_to_refresh_pull_label">Потяните вниз для просмотра истории</string>
     <string name="michat_pull_to_refresh_release_label">Отпустите для просмотра истории</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">Изображение сохранено в %s</string>
     <string name="save_pic_fail">Не удалось сохранить изображение, проверьте SD карту</string>
     <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Выберите продукт</string>
     <string name="michat_skillset_business_type_title">Выберите сервис</string>
     <string name="michat_close_text">Чат завершен</string>
@@ -105,7 +105,7 @@
     <string name="err_type_signal">Сеть</string>
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_bluetooth">Bluetooth</string>
-    <string name="err_type_appstore">Магазин</string>
+    <string name="err_type_appstore">Mi Apps</string>
     <string name="err_type_translate">Перевод</string>
     <string name="err_type_camera">Камера</string>
     <string name="err_type_systemapp">Система</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">Не удалось отправить отчет</string>
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
     <string name="toast_description_required">Отчет не может быть пустым</string>
-    <string name="toast_feedbackservice_in_submit">Отправка предыдущего отчета…</string>
     <string name="toast_pending_log_collection">Идет сбор журналов…</string>
     <string name="toast_feedback_submitted">Отчет успешно отправлен</string>
     <string name="toast_feedback_submitting">Отправка…</string>
@@ -161,8 +160,8 @@
     <string name="cta_cancel">Отмена</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Отправка отчета</string>
-    <string name="submit_dialog_content"><Data>Ваш отчет вместе с вложениями и журналами будет отправлен на серверы MIUI. Он может содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные о местоположении. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
+    <string name="submit_dialog_content"><Data>Вы должны принять наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a> для использования Отчета. Проблемы, о которых вы сообщаете, вместе с прикрепленными вами объектами (могут содержать личные данные, а также информацию о вашем устройстве и сети) будут загружены на серверы MIUI. Это поможет нам найти и решить проблемы, о которых вы сообщаете.</Data></string>
+    <string name="submit_dialog_content_global"><Data>Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Согласен</string>
     <string name="tab_title_preferences">Настройки</string>
@@ -180,7 +179,7 @@
     <string name="modem_tool_log_finish_title">Журнал модема создан</string>
     <string name="modem_tool_log_finish_desc">Журнал сохранен как %s</string>
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
-    <string name="bugreport_dialog_submit_content"><Data>Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные о местоположении. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные вашего местоположения. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">Создание отчета об ошибке…</string>
     <string name="bugreport_dump_start_notification_summary">Это может занять несколько минут.</string>
     <string name="bugreport_dump_complete_notification_title">Отчет создан</string>
@@ -247,6 +246,7 @@
     <string name="feedback_contact_info_hint">Телефон/Email</string>
     <string name="toast_loading_app_id">Получение данных…</string>
     <string name="feedback_status_commit_succ_title">Отправлено</string>
+    <string name="feedback_status_commit_in_queue_title">Ожидание…</string>
     <string name="feedback_status_commit_uploading_title">Отправка…</string>
     <string name="feedback_status_commit_failed_title">Не удалось отправить отчет</string>
     <string name="feedback_status_processing">Обработка…</string>
@@ -333,6 +333,7 @@
     <string name="customer_service_station">Места обслуживания</string>
     <string name="title_catch_full_log">Журналы</string>
     <string name="toast_catch_full_log_catching">Одновременно можно создать только один журнал</string>
+    <string name="toast_catch_full_log_open_failed">Не удалось начать создание журнала</string>
     <string name="catch_full_log_item_title_signal">Телефон, сигнал и мобильные сети</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi и Mi Drop</string>
     <string name="catch_full_log_item_title_gps">Службы местоположения</string>

@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">Нажмите для ручной настройки экспозиции</string>
     <string name="accessibility_shutter_button">Кнопка затвора</string>
     <string name="accessibility_intent_done_apply">Готово</string>
-    <string name="accessibility_intent_done_retry">Переснять</string>
+    <string name="accessibility_intent_done_retry">Повторить</string>
     <string name="accessibility_review_thumbnail">Недавние фото</string>
     <string name="accessibility_camera_picker">Переключение камеры</string>
     <string name="accessibility_stereo_button">Стерео</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">Линии сетки</string>
     <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
+    <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Приближение</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">Выдержка</string>
     <string name="pref_camera_volumekey_function_title">Функция кнопок громкости</string>
     <string name="error_fail_to_start_audio_capture">Не удалось включить звуковое управление</string>
     <string name="toast_start_audio_capture">Издайте звук, чтобы сделать снимок</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
-    <string name="toast_burst_snap_finished_summary">Серийная съемка завершена, снято %1$s фото</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съемка недоступна при включенном звуковом управлении</string>
     <string name="time_lapse_error">Нельзя снять ускоренное видео в данном разрешении</string>
     <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
@@ -430,11 +429,12 @@
     <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключен</string>
     <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включен</string>
     <string name="portrait_mode_lowlight_hint">Сейчас слишком темно</string>
-    <string name="portrait_mode_too_close_hint">Отойдите дальше от объекта съемки</string>
-    <string name="portrait_mode_too_far_hint">Подойдите к объекту съемки на 2 метра</string>
+    <string name="portrait_mode_too_close_hint">Отойдите дальше от объекта</string>
+    <string name="portrait_mode_too_far_hint">Разместите объект в пределах 2 метров</string>
     <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
     <string name="portrait_mode_use_hint">"Режим \"Портрет\" размывает фон
 и увеличивает резкость переднего плана"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
     <string name="pref_camera_square_mode_title">Квадрат</string>
@@ -451,6 +451,7 @@
     <string name="pref_camera_beautify_entry_low">Низкий</string>
     <string name="pref_camera_beautify_entry_normal">Средний</string>
     <string name="pref_camera_beautify_entry_high">Высокий</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Режимы</string>
     <string name="button_front_camera_title">Сделать селфи</string>
     <string name="button_normal_video_title">Записать видео</string>
@@ -569,5 +570,5 @@
     <string name="portrait_bokeh_text">Режим \"Портрет\"</string>
     <string name="portrait_bokeh_first_tips">"Используйте режим \"Портрет\"
 для размытия фона на ваших фото"</string>
-    <string name="portrait_bokeh_tips">Подойдите к объекту съемки на 1.5 метра</string>
+    <string name="portrait_bokeh_tips">Разместите объект в пределах 1.5 метров</string>
 </resources>

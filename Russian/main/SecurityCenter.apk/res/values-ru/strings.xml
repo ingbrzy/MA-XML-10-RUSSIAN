@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -376,7 +378,7 @@
     <string name="main_open_traffic_ctrl_button">Включить контроль</string>
     <string name="main_today_used">Расход за сегодня</string>
     <string name="main_month_used">Месячный лимит</string>
-    <string name="main_leisure_remained">Остаток льготного трафика</string>
+    <string name="main_leisure_remained">Льготный трафик</string>
     <string name="main_bill_remained">Баланс</string>
     <string name="main_no_info">Данных нет</string>
     <string name="guide_quck_open">Включить</string>
@@ -459,6 +461,7 @@
     <string name="not_limited_brand">Без ограничений</string>
     <string name="pref_about_traffic_title">Общие настройки</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Тарифный план</string>
     <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
@@ -477,11 +480,8 @@
     <string name="pref_automatic_adjust">Синхронизация трафика с оператором</string>
     <string name="pref_open_adjust_traffic">Обновлять статистику трафика ежедневно на основе данных оператора</string>
     <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
-    <string name="pref_auto_adjust_settings">Настройки автообновления</string>
     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
-    <string name="pref_adjust_data_usage_value">Изменен</string>
-    <string name="pref_confirm_operator_setting">Убедитесь в правильности введенной информации</string>
     <string name="pref_correction_setting">Настройки шаблона калибровки</string>
     <string name="pref_correction_setting_switch">Использовать особый шаблон калибровки</string>
     <string name="pref_correction_sms_number">Отправить SMS для калибровки на номер</string>
@@ -521,7 +521,7 @@
     <string name="pkg_traffic">Лимит трафика</string>
     <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
     <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
-    <string name="free_traffic_settings">Льготный трафик</string>
+    <string name="free_traffic_settings">Контроль льготного трафика</string>
     <string name="free_time_traffic">Лимит льготного трафика</string>
     <string name="power_save_on_time_start_time_summary_na">Начало</string>
     <string name="power_save_on_time_end_time_summary_na">Окончание</string>
@@ -817,7 +817,7 @@
 
 2. Если вы только что пополнили баланс, перезагрузите устройство и повторите попытку.
 
-3. Сигнал сети может быть слаб в текущем местоположении."</string>
+3. Сигнал сети может быть слабым в текущем расположении."</string>
     <string name="network_sim_exception_detail">"Возможно, проблема связана с SIM картой:
 
 1. Убедитесь, что карта совместима с мобильным оператором. Попробуйте использовать SIM карту друга для проверки подключения.
@@ -960,6 +960,7 @@
     <string name="om_settings_memory_occupy_notify_never">Не уведомлять</string>
     <string name="om_lock_app_locked_app">Закрепленные</string>
     <string name="om_lock_app_unlocked_app">Незакрепленные</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Требуется ускорение</string>
     <string name="om_running_locked_apps">Работающие (закрепленные)</string>
     <string name="om_running_system_apps">Работающие (системные)</string>
@@ -1009,6 +1010,7 @@
     <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Медиа-сервер</string>
     <string name="power_screen">Экран</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1104,6 +1106,12 @@
     <string name="btn_text_quick_save_power">Охладить</string>
     <string name="notification_battery_consume_abnormal_title">Быстрый разряд батареи</string>
     <string name="app_check_no_issue">Проблемы с батареей не найдены. Отлично!</string>
+    <string name="deep_power_save_item_title_auto_brightness">Включить автояркость</string>
+    <string name="deep_power_save_item_summary_auto_brightness">Автоматически регулировать яркость для экономии энергии</string>
+    <string name="deep_power_save_item_title_bluetooth">Отключить Bluetooth</string>
+    <string name="deep_power_save_item_summary_bluetooth">Отключить Bluetooth для экономии энергии</string>
+    <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Отключить экран через 30 секунд бездействия для экономии энергии</string>
     <string name="power_save_mode_enable">Экономия энергии</string>
     <string name="power_save_mode_summary">Ограничивать фоновую активность и отключать синхронизацию</string>
     <string name="power_optimize_save_mode_not_opened">Отключение экономии энергии</string>
@@ -1223,14 +1231,19 @@
     <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
     <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 с бездействия</string>
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
-    <string name="power_center_list_item_deep_save_title">Расширенные настройки</string>
+    <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
     <string name="power_center_list_item_battery_status_time">ч</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">мАч</string>
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="hide_mode_result_summary_text">Настройте параметры экономии энергии для отдельных приложений</string>
     <string name="auto_task_result_summary_text">Настройте автоматические задачи для экономии энергии</string>
     <string name="pc_settings_title">Настройки питания</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Включите Максимальную экономию при низком заряде батареи</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s мАч</string>
     <string name="handle_bar_title_system">Система</string>
     <string name="apps_list_header_title_sms">Приложение обмена сообщениями</string>
     <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
@@ -1252,7 +1265,7 @@
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_item_sign_install_button_text">Заменить</string>
     <string name="apps_item_sign_dialog_title">Установите официальное приложение</string>
-    <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Магазине. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
+    <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Mi Apps. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
     <string name="wifi_item_title_connection">Подключение Wi-Fi</string>
     <string name="wifi_item_title_encryption">Шифрование Wi-Fi</string>
     <string name="wifi_item_title_fake">Обнаружение поддельных сетей Wi-Fi</string>
@@ -1384,11 +1397,13 @@
     <string name="menu_text_optimize_manage">Ускорение</string>
     <string name="menu_text_networkassistants">Передача данных</string>
     <string name="menu_summary_networkassistants">Управляйте трафиком</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
     <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
     <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">ГБ</string>
     <string name="menu_text_networkassistants_unit_mb">МБ</string>
     <string name="menu_text_networkassistants_unit_kb">КБ</string>
@@ -1401,12 +1416,14 @@
     <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
     <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
     <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">Питание</string>
     <string name="menu_summary_power_manager">Экономия энергии увеличивает время между зарядками</string>
     <string name="menu_summary_power_manager_1">Батарея заряжена</string>
     <string name="menu_summary_power_manager_2">Осталось %s</string>
     <string name="menu_summary_power_manager_3">Батарея разряжена</string>
     <string name="menu_summary_power_manager_4">%sдо окончания</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_80_100">Оптимизируйте несколько объектов</string>
@@ -1782,6 +1799,7 @@
     <string name="card_main_deepclean_wechat_action">Очистить</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
     <string name="card_main_netcheck_summary">Протестируйте сеть на наличие проблем</string>
     <string name="card_main_netcheck_action">Тестировать</string>
@@ -1828,7 +1846,7 @@
     <string name="lock_mode_title">Режим защиты</string>
     <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
     <string name="set_applock_password">Задать пароль</string>
-    <string name="ac_firstUseApplock_title">Установите пароль для защиты приложений</string>
+    <string name="ac_firstUseApplock_title">Задайте пароль для защиты приложений</string>
     <string name="ac_firstUseApplock_subTitle">Используйте лучшие средства безопасности</string>
     <string name="ac_notification_contentText">Нажмите для включения</string>
     <string name="ac_pre_notification_contentText">Защитите ваши личные данные</string>
@@ -1849,12 +1867,12 @@
     <string name="mixed_retry_button_text">Отмена</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_confirm_button_text">OK</string>
-    <string name="modifypassword">Способ защиты</string>
-    <string name="back_modifypassword">Вернуться к изменению пароля</string>
+    <string name="modifypassword">Изменить способ защиты</string>
+    <string name="back_modifypassword">Вернуться к изменению способа защиты</string>
     <string name="showpattern">Отображать ключ при вводе</string>
     <string name="notification_mask_title">Скрытие содержимого</string>
     <string name="notification_mask_summary">Скрывать содержимое уведомлений на экране блокировки и в шторке уведомлений</string>
-    <string name="convenient_mode">Облегченная разблокировка</string>
+    <string name="convenient_mode">Групповая разблокировка</string>
     <string name="convenient_summary">Введите пароль один раз для разблокировки всех приложений</string>
     <string name="suggest_app_tolock">Предложения</string>
     <string name="suggest_app_tolock_masked">Скрытые</string>
@@ -1877,9 +1895,6 @@
     <string name="lockpattern_settings_help_how_to_record">Как задать графический ключ</string>
     <string name="numeric_settings_help_how_to_record">Как задать цифровой код</string>
     <string name="mixed_settings_help_how_to_record">Как задать пароль</string>
-    <string name="lockpattern_recording_incorrect_too_short">Соедините не менее %d точек</string>
-    <string name="numeric_recording_incorrect_too_short">Введите не менее %d цифр</string>
-    <string name="mixed_recording_incorrect_too_short">Введите не менее %d символов</string>
     <string name="lockpattern_recording_intro_header">Соедините не менее 4 точек для создания ключа</string>
     <string name="numeric_recording_intro_header">Введите не менее 4 цифр</string>
     <string name="mixed_recording_intro_header">Введите не менее 4 символов</string>
@@ -1953,7 +1968,7 @@
     <string name="reset_data_title">Невозможно восстановить пароль</string>
     <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
     <string name="reset_data_dialog_ok">Сброс настроек</string>
-    <string name="ad_split_screen_title">Для разблокировки перейдите в полноэкранный режим</string>
+    <string name="ad_split_screen_title">Выйдите из режима разделения экрана</string>
     <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="toast_network_eror">Не удалось подключиться к сети</string>
@@ -2020,7 +2035,7 @@
     <string name="password_forget_pattern_confirm">Понятно</string>
     <string name="password_xspace_forget_pattern_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Привяжите Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="password_promotion_postbutton_text">Добавить</string>
+    <string name="password_promotion_postbutton_text">Привязать</string>
     <string name="bind_xiaomi_account_success">Mi аккаунт успешно привязан</string>
     <string name="sys_app_prot_cracked_confirm">Понятно</string>
     <string name="confirmSecondSpacePassword">Подтвердите пароль второго пространства</string>
@@ -2335,6 +2350,7 @@
     <string name="gb_create_icon_summary">Создать ярлык на рабочем столе</string>
     <string name="title_reply">Отзыв</string>
     <string name="title_like">Нравится</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
     <string name="video_repeat">Повторить</string>

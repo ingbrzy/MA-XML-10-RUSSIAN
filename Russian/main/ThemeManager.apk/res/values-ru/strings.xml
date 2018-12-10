@@ -38,7 +38,9 @@
     <string name="exo_download_notification_channel_name">Скачивания</string>
     <string name="exo_download_removing">Удаление скачанных файлов…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Авто</string>
     <string name="exo_track_selection_none">Нет</string>
     <string name="exo_track_selection_title_audio">Аудио</string>
@@ -50,6 +52,7 @@
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibiliy_description_content_account">Профиль</string>
     <string name="accessibiliy_description_content_ad">Реклама</string>
     <string name="accessibiliy_description_content_add_resource">Добавить объекты</string>
@@ -172,6 +175,7 @@
     <string name="incompatible_dialog_ok">Понятно</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
@@ -248,7 +252,7 @@
     <string name="purchased_list_legacy">Устаревшие</string>
     <string name="recently_used">Недавние</string>
     <string name="refresh_footer_all_loaded">На данный момент это всё</string>
-    <string name="refresh_footer_failed">Ошибка загрузки</string>
+    <string name="refresh_footer_failed">Не удалось загрузить данные</string>
     <string name="refresh_footer_finish">Загрузка завершена</string>
     <string name="refresh_footer_loading">Секунду…</string>
     <string name="refresh_footer_pullup">Потяните вверх для загрузки</string>
@@ -393,17 +397,22 @@
     <string name="resource_pack_price_info">Стоимость: %1$s</string>
     <string name="resource_pack_warning">Вы уже купили %1$d компонентов. Будет дешевле докупить остальные компоненты по отдельности.</string>
     <string name="resource_present">Подарок</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit"> Mi Credits</string>
     <string name="resource_purchase_common_error">Произошла ошибка, повторите попытку</string>
     <string name="resource_purchase_continue_to_pay">Продолжить оплату %s</string>
     <string name="resource_purchase_getting_order">Получение данных заказа…</string>
-    <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
+    <string name="resource_purchase_verifying_payment">Проверка данных платежа…</string>
     <string name="resource_purchase_vip_pay_failed">Не удалось оплатить VIP</string>
-    <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
+    <string name="resource_purchase_waiting_payment">Ожидание данных платежа…</string>
     <string name="resource_ranking">Популярные</string>
     <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_ringtone_playing_error">Ошибка</string>
     <string name="resource_ringtone_volume_mute">Звук отключен</string>
@@ -479,7 +488,7 @@
     <string name="shortcut_title">Нравятся наши обои?</string>
     <string name="show_free">Показать бесплатные %1$s</string>
     <string name="show_incompatible">Показать несовместимые %1$s</string>
-    <string name="swipe_find_more">Проведите вверх</string>
+    <string name="swipe_find_more">Проведите вверх для просмотра</string>
     <string name="system_precust">Предустановленные</string>
     <string name="the_picture_is_not_support">Изображение не поддерживается</string>
     <string name="the_picture_is_too_small">Изображение слишком маленькое</string>
@@ -524,7 +533,7 @@
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_detail_tab_comment">Отзывы</string>
     <string name="theme_detail_tab_recommend">Рекомендуемые</string>
-    <string name="theme_detail_tab_theme">Темы</string>
+    <string name="theme_detail_tab_theme">Подробности</string>
     <string name="theme_empty_redirect">Вернуться в Темы</string>
     <string name="theme_favorite_add_fail">Ошибка добавления в Избранные</string>
     <string name="theme_favorite_add_success">Добавлено в избранные</string>
@@ -539,6 +548,7 @@
     <string name="theme_is_external_priority_storage">Сохранять на SD карту</string>
     <string name="theme_is_external_priority_storage_summary">Приложение \"Темы\" будет перезапущено для применения изменений</string>
     <string name="theme_multiple_button_title_customize">Компоненты</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_purchased_list_empty">Нет приобретенных тем</string>
     <string name="theme_purchased_non_local">Не локально</string>

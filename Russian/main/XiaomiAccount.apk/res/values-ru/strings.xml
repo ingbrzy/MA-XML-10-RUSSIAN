@@ -30,7 +30,7 @@
     <string name="passport_register">Создать аккаунт</string>
     <string name="passport_new_user_register">Создать аккаунт</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код подтверждения на %s</string>
-    <string name="passport_input_phone_password">Введите пароль для номера %s</string>
+    <string name="passport_input_phone_password">Введите пароль для %s</string>
     <string name="passport_get_verify_code">Получить код</string>
     <string name="passport_re_get_verify_code">Получить код снова</string>
     <string name="passport_getting_verify_code">Получение…</string>
@@ -92,7 +92,7 @@
     <string name="passport_account_name">Аккаунт: %1$s</string>
     <string name="passport_account_hint_text">Email/Телефон/ID Mi аккаунта</string>
     <string name="passport_email_or_id_hint_text">Email/ID Mi аккаунта</string>
-    <string name="passport_phone_num_hint_text">Введите номер телефона</string>
+    <string name="passport_phone_num_hint_text">Номер телефона</string>
     <string name="passport_input_password_hint">Введите пароль</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_vcode_hint">Введите код подтверждения</string>
@@ -179,7 +179,7 @@
     <string name="passport_quick_register_notice"><u>Нет Mi аккаунта? Создайте его сейчас.</u></string>
     <string name="passport_password_phone_login">Войти через Mi аккаунт</string>
     <string name="passport_sms_verification_code_login">Войти через SMS</string>
-    <string name="passport_sms_verification_code_login_or_register">Войти или зарегистрироваться через SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Войти или создать аккаунт через SMS</string>
     <string name="passport_login_other_account">Другой аккаунт</string>
     <string name="passport_reg_new_account">Создать аккаунт</string>
     <string name="passport_select_the_login_account">Выберите аккаунт для входа</string>
@@ -291,7 +291,7 @@
     <string name="account_user_income">Доход</string>
     <string name="current_location_title">Текущее местоположение</string>
     <string name="locating_current_location">Поиск местоположения…</string>
-    <string name="location_service_not_working">Сервисы местоположения недоступны</string>
+    <string name="location_service_not_working">Службы местоположения недоступны</string>
     <string name="select_location_title">Выберите местоположение</string>
     <string name="account_user_using_weibo_avatar">Использовать фото из Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Использовать фото из QQ</string>
@@ -411,7 +411,7 @@
     <string name="notify_network_restricted_content_hidden_state">Фоновая активность Mi аккаунта ограничена. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_bg_network">Доступ Mi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
     <string name="notify_network_restricted_content_mobile_network">Доступ Mi аккаунта в интернет ограничен. Нажмите, чтобы разрешить.</string>
-    <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в Mi Аккаунт на неизвестном устройстве или из неизвестного приложения.</string>
+    <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в Mi аккаунт на неизвестном устройстве или из неизвестного приложения</string>
     <string name="verified_devices">Проверенные устройства</string>
     <string name="verified_apps">Проверенные приложения</string>
     <string name="trusted_browsers">Надежные браузеры</string>
@@ -479,13 +479,13 @@ ID вашего аккаунта: %s"</string>
     <string name="recycle_phone_notification_title">Угроза безопасности</string>
     <string name="recycle_phone_notification_msg">Похоже, что ваш номер был перевыпущен. Нажмите для обновления.</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
-    <string name="for_diagnosis_usage_only">Использовать эти данные только для диагностики.</string>
-    <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
-    <string name="sending">Отправка...</string>
-    <string name="diagnosis_log_sent_format">"Журнал диагностики отправлен.
-ID: %s
-Отправьте этот код специалисту."</string>
-    <string name="diagnosis_log_send_failed">Не удалось отправить журнал</string>
-    <string name="temporary_not_available">временно недоступно</string>
+    <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
+    <string name="collect_diagnosis_log">Создать журнал диагностики</string>
+    <string name="sending">Отправка…</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID:%s
+Отправьте этот код руководителю."</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
+    <string name="temporary_not_available">Эта функция пока недоступна.</string>
     <string name="ok">OK</string>
 </resources>

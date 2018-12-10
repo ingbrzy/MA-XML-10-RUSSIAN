@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi: надежный сигнал</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
     <string name="accessibility_wifi_security_type_secured">Защищенная сеть</string>
+    <string name="process_kernel_label">ОС Android</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="tether_settings_title_usb">USB-модем</string>
@@ -384,7 +385,7 @@
     <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
     <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
     <string name="enable_account_preference_title">Аккаунты для вызовов</string>
-    <string name="outgoing_call_not_allowed_user_restriction">Только экстренные вызовы</string>
+    <string name="outgoing_call_not_allowed_user_restriction">Разрешены только экстренные вызовы.</string>
     <string name="outgoing_call_not_allowed_no_permission">Приложение не может совершать вызовы без соответствующего разрешения.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Введен неверный номер телефона.</string>
     <string name="duplicate_video_call_not_allowed">Не удается совершить вызов</string>
@@ -433,8 +434,8 @@
     <string name="answer_incoming_call">Ответить</string>
     <string name="decline_incoming_call">Отклонить</string>
     <string name="cant_call_due_to_ongoing_call">Вы не можете совершить новый вызов, пока не завершите текущий в приложении %1$s</string>
-    <string name="cant_call_due_to_ongoing_calls">Вы не можете совершить новый вызов, пока не завершите текущие в приложении %1$s</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">Вы не можете совершить новый вызов, пока не завершите текущий в другом приложении</string>
+    <string name="cant_call_due_to_ongoing_calls">Вы не можете совершить новый вызов, пока не завершите текущие в приложении %1$s.</string>
+    <string name="cant_call_due_to_ongoing_unknown_call">Вы не можете совершить новый вызов, пока не завершите текущий в другом приложении.</string>
     <string name="notification_channel_incoming_call">Входящие вызовы</string>
     <string name="notification_channel_missed_call">Пропущенные вызовы</string>
     <string name="alert_outgoing_call">Если вы начнете этот звонок, вызов в %1$s будет завершен.</string>

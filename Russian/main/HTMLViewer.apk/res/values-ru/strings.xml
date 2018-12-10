@@ -13,11 +13,11 @@
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
     <string name="open_wifi_connect_and_use_data_summary">Используется мобильный интернет. Нажмите для переключения на Wi-Fi.</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
-    <string name="settings_license_activity_title">Лицензии открытого ПО</string>
+    <string name="settings_license_activity_title">Лицензии третьих сторон</string>
     <string name="settings_license_activity_loading">Секунду…</string>
     <string name="settings_license_activity_unavailable">Не удалось загрузить лицензии.</string>
-    <string name="settings_safetylegal_title">Информация о безопасности</string>
-    <string name="settings_safetylegal_activity_title">Информация о безопасности</string>
+    <string name="settings_safetylegal_title">Сведения о безопасности</string>
+    <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого компьютера, подключенного к Интернету.</string>
     <string name="settings_safetylegal_activity_loading">Секунду…</string>
     <string name="ime_privacy_policy">Выберите способ ввода</string>

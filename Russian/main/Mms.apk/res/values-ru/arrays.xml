@@ -31,6 +31,13 @@
         <item>Только в режиме \"Без звука\"</item>
         <item>Никогда</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>Мошенничество</item>
+        <item>Нецензурное содержимое</item>
+        <item>Спам</item>
+        <item>Другое</item>
+        <item>Отмена</item>
+    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

@@ -46,9 +46,12 @@
     <string name="customization"><u>Настроить</u></string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Другой рабочий стол</string>
-    <string name="self_device">"Это устройство "</string>
-    <string name="main_space">Первое пространство</string>
-    <string name="second_space">Второе пространство</string>
+    <string name="self_device_main_space">Первое пространство этого устройства</string>
+    <string name="self_device_second_space">Второе пространство этого устройства</string>
+    <string name="other_device_main_space">Первое пространство</string>
+    <string name="other_device_second_space">Второе пространство</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="size_unknown">Размер неизвестен</string>
     <string name="recovering">Восстановление %s</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="loading_user_backup">Загрузка резервных копий…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="no_account">Не выполнен вход в Mi аккаунт</string>
     <string name="no_backup">Нет резервных копий в Mi Cloud</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">Не удалось восстановить рабочий стол</string>
     <string name="get_device_id_error">Не удалось получить ID устройства</string>
     <string name="unsupported_home">Обновите MIUI до последней версии.</string>
-    <string name="error_retry_later">Действие не выполнено. Подождите немного и повторите попытку.</string>
+    <string name="error_retry_later">Действие не выполнено. Подождите немного и повторите попытку…</string>
     <string name="try_continue">Нажмите для продолжения</string>
     <string name="download_home_data">Загрузка данных рабочего стола…</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_btn_next">Далее</string>
     <string name="dialog_btn_restore_skip">Пропустить</string>
+    <string name="dialog_btn_cancel_backup">Отмена</string>
+    <string name="dialog_btn_overwrite_backup">Перезаписать</string>
+    <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Mi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="cloud_backup">Резервирование в Mi Cloud</string>
     <string name="open_backup_switch">Включите резервирование</string>
     <string name="restore_cloud_backup_to_phone">Восстановить из Mi Cloud</string>
@@ -170,10 +178,12 @@
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
     <string name="title_alert_cancel_restore">Предупреждение</string>
     <string name="msg_alert_cancel_restore">Идет восстановление. Остановить его?</string>
-    <string name="btn_restore_cancel">Отменить</string>
+    <string name="btn_restore_cancel">Отмена</string>
     <string name="btn_restore_resume">Продолжить</string>
     <string name="title_alert_restore_error">Восстановление не удалось</string>
     <string name="msg_alert_restore_error">Не удалось восстановить объекты из Mi Cloud. Повторите попытку.</string>
     <string name="btn_restore_retry">Повторить</string>
-    <string name="btn_restore_abort">Отменить</string>
+    <string name="btn_restore_abort">Прервать</string>
+    <string name="backup_stopped_title">Резервирование остановлено</string>
+    <string name="backup_stopped_msg">Текущая резервная копия перезапишет предыдущую. Нажмите для просмотра.</string>
 </resources>

@@ -82,6 +82,16 @@
     <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
     <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
+    <string name="complain_input_number">Введите номер телефона</string>
+    <string name="complain_jump">Пропустить</string>
+    <string name="complain_message_title">Пожаловаться</string>
+    <string name="complain_ok">OK</string>
+    <string name="complain_phone_number">номер телефона</string>
+    <string name="complain_reason">Почему вы жалуетесь на это сообщение?</string>
+    <string name="complain_success">Спасибо за ваш отчет. Он помогает сделать Сообщения лучше!</string>
+    <string name="complain_tips">"Содержимое самого последнего сообщения, на которое вы жалуетесь, будет загружено на наши серверы вместе с предоставленным вами номером телефона. Наши поставщики услуг рассмотрят его.
+"</string>
+    <string name="complain_upload">Жалоба отправлена</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
@@ -144,7 +154,6 @@
     <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Для нормальной работы Сообщениям и Справочнику требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
     <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
-    <string name="dialog_message_sms_report">Сообщения со спамом и данные отправителя будут переданы в MIUI. Они будут использоваться только для улучшения фильтров спама.</string>
     <string name="dialog_title_fake_cell_detect_error">Корректировка</string>
     <string name="dialog_title_mx_rcs">Mi сообщения</string>
     <string name="dialog_title_networking">Условия использования</string>
@@ -179,7 +188,6 @@
     <string name="error_timed_msg">Нельзя запланировать время ранее текущего</string>
     <string name="ex_type_mx">Mi сообщение</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">Достигнут лимит размера сообщения</string>
     <string name="exceed_message_size_limitation_add_slide">Сообщение слишком велико для добавления слайда</string>
     <string name="exceed_message_text_limitation">Достигнут лимит длины сообщения.</string>
@@ -202,6 +210,7 @@
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="file_width_height">Размер:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Новое сообщение</string>
     <string name="forward_from">От:</string>
     <string name="forward_message_select_title">Переслать сообщение</string>
@@ -214,15 +223,15 @@
     <string name="found_wild_messages_title">Синхронизация с Mi Cloud</string>
     <string name="from_label">"От: "</string>
     <string name="from_pkg_name">От приложения:</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">Отправка невозможна. Вы не являетесь участником этого чата.</string>
     <string name="group_message">Групповое сообщение</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">Групповые чаты</string>
+    <string name="group_not_exist_hint">Отправка невозможна. Этот чат был удален.</string>
+    <string name="group_notify_message_title">Уведомления групповых чатов</string>
+    <string name="group_rejoin_failed">Не удалось присоединиться к чату</string>
     <string name="group_resend_message">Повторить (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">Просмотр невозможен. Этот чат был удален.</string>
+    <string name="group_view_settings_not_memeber">Просмотр невозможен. Вы не являетесь участником этого чата.</string>
     <string name="guild_add_attachments">Нажмите для добавления смайликов и вложений</string>
     <string name="guild_add_recipients">Нажмите для добавления получателей из списка контактов</string>
     <string name="guild_msim_switcher">Нажмите для смены SIM карты</string>
@@ -300,7 +309,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">Переместить вниз</string>
     <string name="move_up">Переместить вверх</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">Выберите хотя бы 1 контакт</string>
     <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Mi сообщение</string>
@@ -434,7 +443,6 @@
     <string name="pref_sms_storage_title">Хранение</string>
     <string name="pref_sms_theme_title">Отображение</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить сообщениям загружать содержимое с сайтов</string>
-    <string name="pref_summary_allow_upload_message_info">Сообщения со спамом и данные отправителя будут переданы в MIUI</string>
     <string name="pref_summary_auto_delete">Удалять старые сообщения по мере достижения лимитов</string>
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
     <string name="pref_summary_delivery_reports">Показывать отчет о доставке для отправленных сообщений</string>
@@ -451,7 +459,6 @@
     <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
     <string name="pref_system_title">Система</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">Сообщать о спаме</string>
     <string name="pref_title_auto_delete">Удалять старые сообщения</string>
     <string name="pref_title_card_format">Формат обмена визитками</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
@@ -505,19 +512,19 @@
     <string name="rcs_auto_resend_sms">Отправлять как SMS</string>
     <string name="rcs_auto_resume">Возобновлять отправку автоматически</string>
     <string name="rcs_auto_resume_only_by_wifi">Возобновлять отправку только при подключении к Wi-Fi</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">Создать групповой чат</string>
     <string name="rcs_dspt">Отправляйте и получайте сообщения через Wi-Fi или сеть China Mobile</string>
     <string name="rcs_dspt_unavailable">Услуга недоступна. SIM-карта China Mobile не установлена по умолчанию для мобильного интернета.</string>
     <string name="rcs_forward_faild">Ошибка пересылки</string>
     <string name="rcs_forward_successful">Пересылка завершена</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">Приглашение в групповой чат</string>
     <string name="rcs_message">Сообщения China Mobile</string>
     <string name="rcs_message_disable">Нельзя просмотреть это сообщение во втором пространстве</string>
     <string name="rcs_msg">Сообщения China Mobile</string>
     <string name="rcs_not_online">Невозможно использовать сообщения China Mobile. Проверьте настройки сети и повторите попытку.</string>
     <string name="rcs_offline_hint">Сообщения China Mobile не в сети. Пересылка невозможна.</string>
     <string name="rcs_recipient_type_contact">Переслать контакту</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">Переслать в групповой чат</string>
     <string name="rcs_recipient_type_pc">Переслать на компьютер</string>
     <string name="rcs_resend_not_online">Невозможно использовать сообщения China Mobile</string>
     <string name="rcs_resend_sim_card_not_insert">SIM-карта не установлена</string>
@@ -634,6 +641,7 @@
     <string name="send_signature_confirm_dialog_title">Отправка сообщения</string>
     <string name="send_sms">Отправить сообщение</string>
     <string name="send_to">Кому:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Отправлено: %1s</string>
     <string name="sent_label">"Отправлено: "</string>
     <string name="service_message_not_found">Сообщение просрочено или недоступно</string>
@@ -665,7 +673,6 @@
     <string name="sms_full_title">Память сообщений заполнена</string>
     <string name="sms_rejected_body">Входящее сообщение отклонено.</string>
     <string name="sms_rejected_title">Сообщение отклонено</string>
-    <string name="sms_report">Сообщать о спаме</string>
     <string name="sms_report_dialog_content">Не удалось отправить отчет, повторите попытку.</string>
     <string name="sms_report_dialog_retry">Повторить</string>
     <string name="sms_report_dialog_title">Повторите попытку</string>

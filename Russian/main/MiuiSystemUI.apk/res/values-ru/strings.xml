@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_carrier_network_change_mode">Сменить сеть оператора.</string>
     <string name="accessibility_cast_name">Подключено к %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
@@ -106,7 +107,8 @@
     <string name="accessibility_home">Домой</string>
     <string name="accessibility_ime_switch_button">Переключение способа ввода.</string>
     <string name="accessibility_key">Пользовательская кнопка навигации</string>
-    <string name="accessibility_left_button">Ярлык</string>
+    <string name="accessibility_left_control_center_button">Ярлык</string>
+    <string name="accessibility_left_lock_screen_magazine_button">Карусель обоев</string>
     <string name="accessibility_location_active">Есть активные запросы на определение местоположения</string>
     <string name="accessibility_managed_profile">Рабочий профиль</string>
     <string name="accessibility_menu">Меню</string>
@@ -356,7 +358,7 @@
     <string name="bluetooth_pairing_will_share_phonebook">Подключение обеспечивает доступ к вашим контактам и журналу звонков.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа в интернет</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Используется подключение другого устройства</string>
     <string name="bluetooth_profile_a2dp">Мультимедийное аудиоустройство</string>
     <string name="bluetooth_profile_a2dp_high_quality">HD Audio: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD Audio</string>
@@ -431,6 +433,7 @@
     <string name="click_to_return_multi_window_of_notch">Назад к разделенному экрану</string>
     <string name="clipboard">Буфер обмена</string>
     <string name="clock">Часы</string>
+    <string name="clock_city_name_local">Местное</string>
     <string name="clock_seconds">Показывать секунды</string>
     <string name="clock_seconds_desc">Показывать в строке состояния время с точностью до секунды (заряд батареи может расходоваться быстрее)</string>
     <string name="compat_mode_off">Растянуть на весь экран</string>
@@ -459,7 +462,7 @@
     <string name="daltonizer_type_overridden">Новая настройка: %1$s</string>
     <string name="data_connection_no_internet">Нет подключения к интернету</string>
     <string name="data_saver">Экономия трафика</string>
-    <string name="data_saver_description">Для экономии трафика эта функция не позволяет некоторым приложениям отправлять или получать данные в фоновом режиме. Приложение сможет обращаться к данным, но будет делать это реже. Это может означать, например, что изображения не будут отображаться, пока вы не нажмете на них.</string>
+    <string name="data_saver_description">В режиме экономии трафика фоновая передача данных для некоторых приложений отключена. Приложение, которым вы пользуетесь, может получать и отправлять данные, но реже, чем обычно. Например, изображения могут не загружаться, пока вы не нажмете на них.</string>
     <string name="data_saver_enable_button">Включить</string>
     <string name="data_saver_enable_title">Включить экономию трафика?</string>
     <string name="data_usage_disabled_dialog">"Вы достигли лимита трафика. Передача данных остановлена.
@@ -505,7 +508,7 @@
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
     <string name="digital_clock_dot">:</string>
-    <string name="direct_boot_unaware_dialog_message">Примечание. Чтобы запустить это приложение после перезагрузки, разблокируйте экран.</string>
+    <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
     <string name="disable_notification_summary">Никогда не показывать уведомления от выбранных приложений</string>
     <string name="disable_notification_title">Скрыть уведомления</string>
     <string name="disable_overlays">Отключить наложение</string>
@@ -603,12 +606,13 @@
     <string name="face_data_input_title">Добавление данных лица</string>
     <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица настройте защиту устройства.</string>
     <string name="face_data_introduction_next">Далее</string>
-    <string name="face_data_introduction_title">Распознавание лиц</string>
+    <string name="face_data_introduction_title">Добавление данных лица</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать их для разблокировки устройства.</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
     <string name="face_data_manage_unlock_msg">Разблокировать устройство с помощью данных лица</string>
+    <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
@@ -814,6 +818,10 @@
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
     <string name="keyguard_charging_info_battery_used_time_text">Без подзарядки</string>
     <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -838,6 +846,7 @@
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="keyguard_missing_sim_message">SIM карта не установлена</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
@@ -921,6 +930,7 @@
     <string name="left_keycode">Код левой кнопки</string>
     <string name="left_nav_bar_button_type">Дополнительный тип левой кнопки</string>
     <string name="legacy_vpn_name">Сеть VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
@@ -930,6 +940,8 @@
     <string name="lock_screen_carrier_airplane_mode_on">Режим полета</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_screen_magazine_default_content">Ежедневная порция свежих обоев</string>
+    <string name="lock_screen_magazine_default_title">Карусель обоев</string>
     <string name="lock_screen_no_sim_card_emergency_only">Только экстренные вызовы</string>
     <string name="lock_screen_no_sim_card_no_service">Нет сети</string>
     <string name="lock_wallpaper_enter">Вход</string>
@@ -984,6 +996,7 @@
     <string name="miui_guide_dialog_message">Звуки медиа (музыка, видео и т.д.) будут воспроизводиться в режиме \"Без звука\". Для изменения перейдите в Настройки.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_ringer_count_down">Таймер</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="miui_ringer_total">Не беспокоить</string>
@@ -1011,12 +1024,14 @@
 
 Для получения подробной информации обращайтесь к администратору."</string>
     <string name="monitoring_description_ca_cert_settings">Открыть надежные сертификаты</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">На устройстве установлен сертификат ЦС. Ваш защищенный сетевой трафик могут отслеживать и изменять.</string>
     <string name="monitoring_description_do_body">Администратор контролирует настройки, приложения, доступ к ресурсам компании, связанные с устройством данные и передачу геоданных.</string>
     <string name="monitoring_description_do_body_vpn">Запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_do_header_generic">Ваше устройство управляется %1$s.</string>
     <string name="monitoring_description_do_header_with_name">Компания %1$s использует %2$s для управления вашим устройством.</string>
     <string name="monitoring_description_do_learn_more">Подробнее</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ваша организация установила сертификат ЦС в рабочем профиле. Она может отслеживать и изменять защищенный сетевой трафик.</string>
     <string name="monitoring_description_managed_profile_named_vpn">В рабочем профиле запущено приложение %1$s, которое может отслеживать ваши действия в сети, включая работу с электронной почтой, приложениями и сайтами.</string>
     <string name="monitoring_description_management">"Этим устройством управляет ваша организация.
@@ -1042,12 +1057,13 @@
 Оно может отслеживать ваши действия на устройстве и в Интернете, включая работу с электронной почтой, приложениями и веб-сайтами."</string>
     <string name="monitoring_description_vpn_profile_owned">"Ваш рабочий профиль управляется %1$s.
 
-Администратор может отслеживать ваши действия в сети, в том числе работу с электронной почтой, приложениями и веб-сайтами.
+Администратор может отслеживать ваши действия в корпоративной сети, включая работу с электронной почтой, приложениями и сайтами.
 
 Для получения подробной информации обращайтесь к администратору.
 
 Вы также подключены к сети VPN, в которой можно отслеживать ваши действия."</string>
     <string name="monitoring_description_vpn_settings">Открыть настройки VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">Сертификаты ЦС</string>
     <string name="monitoring_subtitle_network_logging">Сетевой журнал</string>
     <string name="monitoring_subtitle_vpn">Настройки VPN</string>
@@ -1062,6 +1078,7 @@
     <string name="nav_guide_message">Используйте жесты для скрытия/показа экранных кнопок.</string>
     <string name="nav_guide_ok">Настроить</string>
     <string name="nav_guide_title">Скрытие экранных кнопок</string>
+    <string name="network_speed_suffix">%1$s %2$s</string>
     <string name="no_application">Нет</string>
     <string name="no_multi_window_app">Нет приложений, поддерживающих разделение экрана</string>
     <string name="no_notification_tips">Нет уведомлений</string>
@@ -1133,7 +1150,8 @@
     <string name="oldman_incall_text">Назад к разговору</string>
     <string name="open_camera_hint_text">Проведите влево для запуска камеры</string>
     <string name="open_extreme_power_save_mode_title">Включите Максимальную экономию</string>
-    <string name="open_remote_center_hint_text">Проведите вправо для запуска Mi пульта</string>
+    <string name="open_lock_screen_magazine_hint_text">Проведите вправо для запуска Карусели</string>
+    <string name="open_remote_center_hint_text">Проведите вправо для запуска Центра управления</string>
     <string name="other">Другое</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overview">Обзор</string>
@@ -1200,6 +1218,7 @@
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Заряда хватит примерно на %1$s</string>
     <string name="power_remaining_duration_only_short">Заряда хватит на %1$s</string>
+    <string name="process_kernel_label">Ядро Android</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
@@ -1346,6 +1365,12 @@
     <string name="recents_multistack_add_stack_dialog_split_vertical">Разделить по вертикали</string>
     <string name="recents_search_bar_label">Поиск</string>
     <string name="recents_stack_action_button_label">Закрыть все</string>
+    <string name="recents_title_app_manager">Приложения</string>
+    <string name="recents_title_game">Игры</string>
+    <string name="recents_title_garbage_cleanup">Очистка</string>
+    <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
+    <string name="recents_title_market">Mi Apps</string>
+    <string name="recents_title_security_scan">Антивирус</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">Отклонить</string>
     <string name="remaining_length_format">Осталось %1$s</string>
@@ -1734,6 +1759,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Обновлено %1$s</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
@@ -1758,9 +1784,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Без защиты</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

@@ -198,4 +198,5 @@
     <string name="dialpad_nine">9</string>
     <string name="prompt_no_volte_when_failed">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
     <string name="volume_boost_text">Громкость увеличена</string>
+    <string name="supp_service_notification_call_waiting">Набранный номер занят. Ждите ответа…</string>
 </resources>

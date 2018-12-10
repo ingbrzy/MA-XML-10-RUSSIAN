@@ -427,7 +427,7 @@
         <item>Могадишо</item>
         <item>Найроби</item>
         <item>Сан-Томе</item>
-        <item>Тимбукту</item>
+        <item>Томбукту</item>
         <item>Триполи</item>
         <item>Тунис</item>
         <item>Анкоридж</item>
@@ -461,14 +461,14 @@
         <item>Нокс-Сити</item>
         <item>Питерсберг</item>
         <item>Телл-Сити</item>
-        <item>Веве</item>
+        <item>Вевей</item>
         <item>Венсен</item>
-        <item>Винамак</item>
+        <item>Уинамак</item>
         <item>Кингстон</item>
         <item>Ла-Пас</item>
         <item>Лима</item>
         <item>Лос-Анджелес</item>
-        <item>Луисвилль</item>
+        <item>Луисвилл</item>
         <item>Манагуа</item>
         <item>Мартиника</item>
         <item>Метлакатла</item>
@@ -478,7 +478,7 @@
         <item>Монреаль</item>
         <item>Нассау</item>
         <item>Нью-Йорк</item>
-        <item>Беула</item>
+        <item>Бойла</item>
         <item>Нью-Сейлем</item>
         <item>Панама</item>
         <item>Финикс</item>
@@ -692,6 +692,31 @@
         <item>Парамарибо</item>
         <item>Кито</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Улучшенные цвета</item>
         <item>Натуральные цвета, привычные глазу</item>
@@ -805,6 +830,15 @@
         <item>Проверять только DRM-контент</item>
         <item>Всегда проверять</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Включать экран</item>
         <item>Показывать анимацию</item>
@@ -848,6 +882,43 @@
         <item>Через 5 минут</item>
         <item>Никогда</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom05</item>
+        <item>@drawable/longpressbottom06</item>
+        <item>@drawable/longpressbottom07</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom09</item>
+        <item>@drawable/longpressbottom10</item>
+        <item>@drawable/longpressbottom11</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
         <item>Средняя</item>
@@ -916,9 +987,17 @@
         <item>"Удалите устройство: fusermount -u /media/mtp
 Только для Ubuntu 8.04!"</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
-        <item>Переустановите MiPhoneManager</item>
+        <item>Переустановите Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Нет</item>
@@ -1007,6 +1086,62 @@
         <item>Подавление шума (1 микрофон)</item>
         <item>Подавление шума (2 микрофона)</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>
@@ -1094,10 +1229,15 @@
         <item>Повышенная</item>
         <item>Стандартная</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
-        <item>1080P</item>
-        <item>720P</item>
+        <item>1080p</item>
+        <item>720p</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Яркая</item>
@@ -1156,6 +1296,10 @@
         <item>Рисовать область усечения синим</item>
         <item>Подсвечивать команды рисования зеленым</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Всегда</item>
         <item>30 минут</item>
@@ -1186,6 +1330,31 @@
         <item>MIUI</item>
         <item>Android</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="timezone_filters">
         <item>Америка</item>
         <item>Европа</item>

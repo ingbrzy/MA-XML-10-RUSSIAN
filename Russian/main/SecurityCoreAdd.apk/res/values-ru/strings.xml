@@ -99,7 +99,7 @@
     <string name="setSpacePasswordGuide">Используйте разные пароли для входа в оба пространства с экрана блокировки</string>
     <string name="startSet">Задать</string>
     <string name="needSetKeyguardFirst">Сначала задайте пароль</string>
-    <string name="needSetKeyguardFirstDes">Задайте пароль первого пространства, прежде чем устанавливать пароль второго.</string>
+    <string name="needSetKeyguardFirstDes">Задайте пароль первого пространства, прежде чем задать пароль второго.</string>
     <string name="confirm">OK</string>
     <string name="setSecondSpacePassword">Задайте пароль второго пространства</string>
     <string name="setSecondSpacePasswordGuide">Задайте пароль второго пространства</string>
@@ -435,4 +435,26 @@
     <string name="install_error">Ошибка установки. Повторите попытку.</string>
     <string name="ent_install_dialog_content">Установить приложения и перезагрузить устройство?</string>
     <string name="ent_disallow_running">Запуск приложения запрещен</string>
+    <string name="greenguard_child_des_title">Мне нужна помощь друзей и семьи</string>
+    <string name="greenguard_child_des">Используйте наше приложение, чтобы быть на связи</string>
+    <string name="greenguard_parent_des_title">Мне нужно помочь друзьям и семье</string>
+    <string name="greenguard_parent_des">Загрузите наше приложение и добавьте другие устройства</string>
+    <string name="cta_declaration_title">Условия использования</string>
+    <string name="cta_declaration_message_format" formatted="false">Вы должны прочитать и принять наши &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> перед активацией режима предприятия. Для активации требуется подключение к интернету. Вы согласны?</string>
+    <string name="cta_declaration_agree_and_continue">Согласен</string>
+    <string name="undo_activated_dialog_message">Отзыв разрешения отключит режим предприятия и выполнит сброс вашего устройства к заводским настройкам. Все связанные функции больше не будут доступны. Кроме того, Xiaomi прекратит сбор данных, требуемых для режима предприятия (IMEI, ID устройства, версия системы, регион и т.д.). Напоминаем, что Xiaomi не управляет данными, собираемыми для режима предприятия. Мы сделаем все возможное, чтобы уведомить заинтересованные стороны, однако рекомендуем вам связаться с руководителем, чтобы одобрить этот отзыв. Отозвать разрешение и выполнить сброс к заводским настройкам?</string>
+    <string name="undo_activated_dialog_ok">Отозвать</string>
+    <string name="undo_grant_dialog_message">После отзыва разрешения Xiaomi прекратит сбор данных, требуемых для этой функции (IMEI, ID устройства, версия системы, регион и т.д.). Отозвать разрешение?</string>
+    <string name="undo_privacy_menu">Отозвать разрешение</string>
+    <string name="more_settings">Еще</string>
+    <string name="undo_success">Разрешение отозвано</string>
+    <string name="master_clear_apply_title">Внимание</string>
+    <string name="master_clear_apply_step_1">Для отзыва разрешения требуется выполнить сброс вашего устройства к заводским настройкам. При этом будут навсегда удалены все файлы и данные, включая аккаунты, контакты, фото и приложения. До отзыва разрешения создайте резервную копию всех важных данных на вашем компьютере.</string>
+    <string name="master_clear_apply_step_2">Убедитесь, что все важные объекты сохранены на вашем компьютере. После нажатия \"OK\" будет выполнен сброс вашего устройства к заводским настройкам с удалением всех файлов и данных, включая аккаунты, контакты, фото и приложения.</string>
+    <string name="button_text_next_step">Далее</string>
+    <string name="button_text_next_step_timer">Далее (%d)</string>
+    <string name="dialog_tip_need_network">Для отзыва разрешения устройству требуется подключение к интернету.</string>
+    <string name="dialog_undo_negative">Не отзывать</string>
+    <string name="dialog_title_service_error">Ошибка сервера</string>
+    <string name="dialog_message_service_error">Не удалось отозвать разрешение и выполнить сброс к заводским настройкам. Повторите попытку.</string>
 </resources>

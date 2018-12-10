@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="add_screen">Добавить экран</string>
+    <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
     <string name="announce_for_checked">%1$s, выбрано</string>
     <string name="announce_for_choose_default_screen">Установить экран %1$d в качестве основного</string>
     <string name="announce_for_close_default_preview">Настройки выбора основного экрана закрыты</string>
     <string name="announce_for_close_folder">Папка закрыта</string>
     <string name="announce_for_close_launcher_menu">Меню закрыто</string>
+    <string name="announce_for_create_folder_with_app">Создана папка с %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Виджет</string>
     <string name="announce_for_delete_item">Объект %1$s был удален</string>
     <string name="announce_for_drag_enter_delete_zone">Вы перетащили объекты в область удаления</string>
@@ -30,6 +33,7 @@
     <string name="announce_for_open_launcher_menu">Меню открыто</string>
     <string name="announce_for_show_uninstall_dialog">Появился диалог удаления. Отмените или подтвердите.</string>
     <string name="announce_for_unchecked">%1$s, выбор отменен</string>
+    <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
     <string name="app_already_exist">Приложение уже существует</string>
     <string name="app_being_backup_message">Приложение резервируется</string>
     <string name="app_being_restored_message">Приложение восстанавливается</string>
@@ -296,6 +300,7 @@
     <string name="share">Поделиться</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
+    <string name="show_recents_recommend_title">Показывать предложения</string>
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_not_defined">По порядку</string>
@@ -343,9 +348,6 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
-    <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
-    <string name="announce_for_create_folder_with_app">Создана папка с %1$s</string>
-    <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
     <string name="recommend_apps_no_data_toast">Пока нет рекомендаций</string>
     <string name="recommend_refresh">Обновить</string>
     <string name="recommend_xout">Не показывать</string>

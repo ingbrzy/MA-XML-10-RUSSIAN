@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">В приложении %1$s произошла ошибка. Закрыть его?</string>
     <string name="talk_back_water_mark_string1">TalkBack включен</string>
     <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
+    <string name="start_dump_log">Начать сбор журналов проблем</string>
 </resources>
