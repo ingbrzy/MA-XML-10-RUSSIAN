@@ -133,7 +133,6 @@
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="loading_user_backup">Загрузка резервных копий…</string>
-    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="no_account">Не выполнен вход в Mi аккаунт</string>
