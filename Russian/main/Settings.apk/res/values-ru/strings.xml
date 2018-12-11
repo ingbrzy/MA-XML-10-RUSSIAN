@@ -1432,6 +1432,7 @@
     <string name="default_spell_checker">Правописание по умолчанию</string>
     <string name="default_theme">По умолчанию</string>
     <string name="default_usb_mode">Режим USB</string>
+    <string name="default_vol_stream_title">Управление громкостью по умолчанию</string>
     <string name="delete">Удалить</string>
     <string name="delete_fingerprint_confirm_msg">Удалить отпечаток?</string>
     <string name="delete_fingerprint_text">Удалить отпечаток</string>
@@ -1834,6 +1835,7 @@
     <string name="every_day">Ежедневно</string>
     <string name="experimental_category_title">Экспериментальная функция</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
+    <string name="extended_power_menu">Расширенное меню питания</string>
     <string name="external_code_size_label">На USB-накопителе</string>
     <string name="external_data_size_label">SD-карта</string>
     <string name="external_source_switch_title">Разрешить установку из этого источника</string>
@@ -2436,7 +2438,7 @@
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
     <string name="location_no_recent_apps">В последнее время приложения не запрашивали геоданные</string>
     <string name="location_off_summary">ВЫКЛ.</string>
-    <string name="location_on_summary">ВКЛ./%1$s</string>
+    <string name="location_on_summary">ВКЛ. / %1$s</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Точнее определять местоположение, разрешив системным приложениям и сервисам постоянно искать Bluetooth-устройства поблизости</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Поиск Bluetooth-устройств</string>
     <string name="location_scanning_screen_title">Поиск</string>
@@ -4556,6 +4558,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_custom_wifi_name">Изменить имя Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">Отчет</string>
     <string name="status_bar_settings_enable_notification">Показывать уведомления</string>
+    <string name="status_bar_settings_expand_top_notification">Разворачивать верхнее уведомление</string>
     <string name="status_bar_settings_expandable_under_keyguard">Доступ с экрана блокировки</string>
     <string name="status_bar_settings_function_description">Об этой функции</string>
     <string name="status_bar_settings_long_click_sort">Удерживайте значок для его перемещения</string>
@@ -4568,6 +4571,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_notification_shade_shortcut">Ярлык в шторке уведомлений</string>
     <string name="status_bar_settings_notification_sound">Звук</string>
     <string name="status_bar_settings_notification_style">Стиль уведомлений</string>
+    <string name="status_bar_settings_notification_use_app_icon">Использовать иконки приложений</string>
     <string name="status_bar_settings_notification_vibrate">Вибрация</string>
     <string name="status_bar_settings_peek_notification_icon">Значки предстоящих уведомлений</string>
     <string name="status_bar_settings_show_carrier">Имя оператора</string>
@@ -4575,6 +4579,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">Имя оператора на экране блокировки</string>
     <string name="status_bar_settings_show_floating_notification">Всплывающие уведомления</string>
     <string name="status_bar_settings_show_floating_notification_summary">Разрешить важные уведомления в верхней части экрана</string>
+    <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
     <string name="status_bar_settings_show_flow_info">Расход трафика</string>
     <string name="status_bar_settings_show_home_message">Метка на значке приложения</string>
     <string name="status_bar_settings_show_keyguard_notification">Экран блокировки</string>
@@ -5131,6 +5136,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">Включив блокировку экрана, выберите \"Настройки > Безопасность\", чтобы отсканировать и сохранить отпечаток пальца.</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
+    <string name="unmute_sound_title">Звук отключения режима "Без звука"</string>
     <string name="unrestrict_max_aspect_ratio_title">Оптимизированы для полноэкранного режима</string>
     <string name="unrestricted_app_summary">Разрешить в режиме экономии трафика</string>
     <string name="unrestricted_app_title">Неогранич. передача данных</string>

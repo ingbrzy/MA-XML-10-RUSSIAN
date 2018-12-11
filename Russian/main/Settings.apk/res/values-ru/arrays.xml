@@ -1460,4 +1460,8 @@
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Рингтон</item>
+        <item>Мультимедиа</item>
+    </string-array>
 </resources>
