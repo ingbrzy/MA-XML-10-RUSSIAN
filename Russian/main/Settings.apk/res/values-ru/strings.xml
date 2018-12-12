@@ -42,11 +42,15 @@
     <string name="access_control_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
+    <string name="accessibility_autoclick_description">Если вы используете мышь, вы можете настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определенное время.</string>
     <string name="accessibility_autoclick_preference_title">Нажатие после остановки указателя</string>
     <string name="accessibility_captioning_title">Субтитры</string>
     <string name="accessibility_category_personal">Аккаунты в личном профиле</string>
     <string name="accessibility_category_work">Аккаунты в рабочем профиле – %s</string>
     <string name="accessibility_close_tab">Закрыть текущую вкладку</string>
+    <string name="accessibility_daltonizer_master_switch_title">Использовать коррекцию цвета</string>
+    <string name="accessibility_description_state_stopped">Эта служба не работает.</string>
+    <string name="accessibility_disable_animations">Отключить анимацию</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства</string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
@@ -62,6 +66,7 @@
     <string name="accessibility_no_service_selected">Сервис не выбран</string>
     <string name="accessibility_no_services_installed">Службы не установлены</string>
     <string name="accessibility_no_wifi">Сигнал Wi-Fi отсутствует.</string>
+    <string name="accessibility_notification_vibration_title">Вибрация при звонке и оповещении</string>
     <string name="accessibility_personal_account_title">Личный аккаунт – %s</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">ВЫКЛ завершает вызов</string>
     <string name="accessibility_preference_magnification_summary">Экранная лупа</string>
@@ -114,6 +119,17 @@
     <string name="accessibility_toggle_master_mono_title">Монофонический звук</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
+    <string name="accessibility_touch_vibration_title">Вибрация при касании</string>
+    <string name="accessibility_vibration_intensity_high">Высокая</string>
+    <string name="accessibility_vibration_intensity_low">Низкая</string>
+    <string name="accessibility_vibration_intensity_medium">Средняя</string>
+    <string name="accessibility_vibration_intensity_off">Выключена</string>
+    <string name="accessibility_vibration_settings_title">Вибрация</string>
+    <string name="accessibility_vibration_summary">Звонок %1$s, касание %2$s</string>
+    <string name="accessibility_vibration_summary_high">Высокий уровень звонка и уведомления</string>
+    <string name="accessibility_vibration_summary_low">Низкий уровень звонка и уведомления</string>
+    <string name="accessibility_vibration_summary_medium">Средний уровень звонка и уведомления</string>
+    <string name="accessibility_vibration_summary_off">Звонок и уведомление отключены</string>
     <string name="accessibility_vpn_settings_info">Конфигурация VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi выключен.</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
@@ -699,6 +715,11 @@
     <string name="bluetooth_device_name">Имя устройства:</string>
     <string name="bluetooth_device_searchable">Видимость</string>
     <string name="bluetooth_devices">Устройства Bluetooth</string>
+    <string name="bluetooth_disable_a2dp_hw_offload">Отключить аппаратную разгрузку Bluetooth A2DP</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">Отмена</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Перезагрузка</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Чтобы изменить этот параметр, необходимо перезагрузить устройство.</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Перезагрузить устройство?</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
     <string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -745,6 +766,8 @@
     <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
     <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
     <string name="bluetooth_map_request">Запрос на доступ к сообщениям</string>
+    <string name="bluetooth_max_connected_audio_devices_dialog_title">Выберите максимальное число подключенных Bluetooth аудиоустройств</string>
+    <string name="bluetooth_max_connected_audio_devices_string">Максимальное число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
@@ -838,6 +861,8 @@
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
+    <string name="bluetooth_show_devices_without_names">Показывать Bluetooth устройства без имен</string>
+    <string name="bluetooth_show_devices_without_names_summary">Bluetooth устройства будут отображены без имен (только MAC-адреса)</string>
     <string name="bluetooth_show_received_files">Полученные файлы</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Компьютер</string>
@@ -1274,6 +1299,8 @@
     <string name="dangerous_option_hint">Включена функция %1$s. Нажмите для изменения настроек.</string>
     <string name="dangerous_option_hint_title">Включена опасная функция</string>
     <string name="dangerous_option_switch_title">Уведомлять об опасных функциях</string>
+    <string name="dark_ui_mode">Ночной режим</string>
+    <string name="dark_ui_mode_title">Установить ночной режим</string>
     <string name="dashboard_title">Настройки</string>
     <string name="data_limit">Лимит трафика</string>
     <string name="data_saver_off">Отключено</string>
@@ -1380,6 +1407,8 @@
     <string name="date_and_time_settings_title_setup_wizard">Установить дату и время</string>
     <string name="date_picker_title">Дата</string>
     <string name="date_time_24hour">24-часовой формат</string>
+    <string name="date_time_24hour_auto">Автоматический 24-часовой формат</string>
+    <string name="date_time_24hour_auto_summary">Использовать по умолчанию</string>
     <string name="date_time_24hour_title">24-часовой формат</string>
     <string name="date_time_auto">Дата и время сети</string>
     <string name="date_time_auto_summaryOff">Использовать время сети</string>
@@ -1408,6 +1437,7 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="decline_remote_bugreport_action">Отклонить</string>
+    <string name="decryption_settings_summary">Данные не зашифрованы</string>
     <string name="defalut_launcher_title">Рабочий стол</string>
     <string name="default_admin_support_msg">Это действие отключено. За дополнительной информацией обратитесь к администратору организации.</string>
     <string name="default_app">(по умолчанию)</string>
@@ -1479,7 +1509,7 @@
     <string name="device_cpu4_info">"Четыре ядра "</string>
     <string name="device_cpu6_info">"Шесть ядер "</string>
     <string name="device_cpu8_info">"Восемь ядер "</string>
-    <string name="device_display_layout_title">Возможности Mi 5</string>
+    <string name="device_display_layout_title">Возможности телефона</string>
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
     <string name="device_id">Идентификатор устройства</string>
@@ -1554,6 +1584,9 @@
     <string name="display_auto_rotate_stay_in_portrait">Книжная ориентация</string>
     <string name="display_auto_rotate_title">Автоповорот экрана</string>
     <string name="display_category_title">Экран</string>
+    <string name="display_cutout_emulation">Имитация дисплея с вырезом</string>
+    <string name="display_cutout_emulation_keywords">Вырез дисплея</string>
+    <string name="display_cutout_emulation_none">Нет</string>
     <string name="display_dashboard_summary">Обои, спящий режим, размер шрифта</string>
     <string name="display_label">Экран</string>
     <string name="display_order_text">Упорядочить по:</string>
@@ -1699,6 +1732,10 @@
     <string name="enable_compatibility">Масштабировать приложения</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
     <string name="enable_freeform_support_summary">Включить поддержку экспериментальных окон произвольной формы</string>
+    <string name="enable_gnss_raw_meas_full_tracking">Принудительные полные измерения GNSS</string>
+    <string name="enable_gnss_raw_meas_full_tracking_summary">Отслеживать все GNSS группировки и частоты вне дежурного цикла</string>
+    <string name="enable_gpu_debug_layers">Включить отладочный слой GPU</string>
+    <string name="enable_gpu_debug_layers_summary">Разрешить загрузку отладочных слоев GPU для приложений отладки</string>
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_quick_setting">Показывать в быстрых настройках</string>
@@ -1855,6 +1892,7 @@
     <string name="failed_to_shut_down_find_device_title">Не удалось отключить</string>
     <string name="fallback_home_title">Секунду…</string>
     <string name="fcc_equipment_id">Идентификатор оборудования</string>
+    <string name="feature_flags_dashboard_title">Флаги функций</string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
@@ -3241,6 +3279,7 @@
     <string name="operator_warning">Статистика оператора связи может отличаться от статистики устройства</string>
     <string name="optimization_cancel">Отмена</string>
     <string name="ota_disable_automatic_update">Автоматические обновления системы</string>
+    <string name="ota_disable_automatic_update_summary">Применить обновления при перезагрузке устройства</string>
     <string name="other_advanced_settings">Расширенные настройки</string>
     <string name="other_device_info">Прочее</string>
     <string name="other_personal_settings">Личные настройки</string>
@@ -4929,6 +4968,8 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
     <string name="tether_share_qrcode_title">Код для подключения к точке</string>
     <string name="tethering_footer_info">Используйте точку доступа и режим модема, чтобы подключать другие устройства к Интернету по мобильной сети.</string>
+    <string name="tethering_hardware_offload">Аппаратное ускорение модема</string>
+    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение модема, если доступно</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="tethering_settings_not_available">Измените настройки модема в первом пространстве</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Удерживайте кнопку питания в течение 0.5 с для запуска голосового помощника в режиме управления жестами (без экранных кнопок)</string>
@@ -5183,6 +5224,11 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_charging_summary">Отключить все прочие функции USB для ускорения зарядки</string>
     <string name="usb_charging_title">Быстрая зарядка</string>
     <string name="usb_connection_category">Подключить как</string>
+    <string name="usb_control_device">Это устройство</string>
+    <string name="usb_control_host">Подключенное устройство</string>
+    <string name="usb_control_title">USB контролируется</string>
+    <string name="usb_default_info">Эти настройки будут применены, когда подключено другое устройство и ваш телефон разблокирован. Подключайтесь только к доверенным устройствам.</string>
+    <string name="usb_default_label">Конфигурация USB по умолчанию</string>
     <string name="usb_eject">Извлечь USB накопитель</string>
     <string name="usb_eject_summary">Извлеките USB накопитель для безопасного отсоединения</string>
     <string name="usb_format">Очистить USB накопитель</string>
@@ -5210,6 +5256,8 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_summary_file_transfers">Передача файлов</string>
     <string name="usb_summary_photo_transfers">Передача фото (PTP)</string>
     <string name="usb_summary_power_only">Подача питания на подключенное устройство</string>
+    <string name="usb_summary_tether">USB модем</string>
+    <string name="usb_summary_tether_power">USB модем и питание</string>
     <string name="usb_tethering_active_subtext">Подключено</string>
     <string name="usb_tethering_available_subtext">Устройство USB подключено, включите передачу данных</string>
     <string name="usb_tethering_button_text">USB-модем</string>
@@ -5639,6 +5687,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="wifi_context_menu_connect">Подключиться</string>
     <string name="wifi_context_menu_forget">Удалить</string>
+    <string name="wifi_coverage_extend">Включить расширение покрытия WLAN</string>
+    <string name="wifi_coverage_extend_summary">Расширение покрытия WLAN с помощью точки доступа</string>
     <string name="wifi_data_template">^1 (Wi-Fi)</string>
     <string name="wifi_data_usage">Трафик Wi-Fi</string>
     <string name="wifi_datanetwork_switch_not_remind">Больше не показывать</string>
