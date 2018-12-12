@@ -42,6 +42,7 @@
     <string name="access_control_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
+    <string name="accessibility_autoclick_description">Если вы используете мышь, вы можете настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определенное время.</string>
     <string name="accessibility_autoclick_preference_title">Нажатие после остановки указателя</string>
     <string name="accessibility_captioning_title">Субтитры</string>
     <string name="accessibility_category_personal">Аккаунты в личном профиле</string>
@@ -49,7 +50,7 @@
     <string name="accessibility_close_tab">Закрыть текущую вкладку</string>
     <string name="accessibility_daltonizer_master_switch_title">Использовать коррекцию цвета</string>
     <string name="accessibility_description_state_stopped">Эта служба не работает.</string>
-    <string name="accessibility_disable_animations">Не отображать анимацию</string>
+    <string name="accessibility_disable_animations">Отключить анимацию</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства</string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
@@ -124,7 +125,7 @@
     <string name="accessibility_vibration_intensity_medium">Средняя</string>
     <string name="accessibility_vibration_intensity_off">Выключена</string>
     <string name="accessibility_vibration_settings_title">Вибрация</string>
-    <string name="accessibility_vibration_summary">Ring %1$s, touch %2$s</string>
+    <string name="accessibility_vibration_summary">Звонок %1$s, касание %2$s</string>
     <string name="accessibility_vibration_summary_high">Высокий уровень звонка и уведомления</string>
     <string name="accessibility_vibration_summary_low">Низкий уровень звонка и уведомления</string>
     <string name="accessibility_vibration_summary_medium">Средний уровень звонка и уведомления</string>
