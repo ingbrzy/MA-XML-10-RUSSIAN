@@ -1437,6 +1437,7 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="decline_remote_bugreport_action">Отклонить</string>
+    <string name="decryption_settings_summary">Данные не зашифрованы</string>
     <string name="defalut_launcher_title">Рабочий стол</string>
     <string name="default_admin_support_msg">Это действие отключено. За дополнительной информацией обратитесь к администратору организации.</string>
     <string name="default_app">(по умолчанию)</string>
