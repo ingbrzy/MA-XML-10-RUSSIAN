@@ -747,8 +747,8 @@
     </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>Автоматически (в зависимости от времени суток)</item>
-        <item>Всегда включено</item>
-        <item>Всегда выключено</item>
+        <item>Всегда включен</item>
+        <item>Всегда выключен</item>
     </string-array>
     <string-array name="dark_ui_mode_values">
         <item>автоматически</item>
