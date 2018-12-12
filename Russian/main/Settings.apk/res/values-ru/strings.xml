@@ -2211,8 +2211,12 @@
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="imei_information_summary">Сведения, касающиеся IMEI-кода</string>
     <string name="imei_information_title">Данные IMEI-кода</string>
+    <string name="imei_multi_sim">IMEI (слот %1$d)</string>
     <string name="immediately_destroy_activities">Не хранить activities</string>
     <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
+    <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
+    <string name="ims_reg_status_registered">Зарегистрирована</string>
+    <string name="ims_reg_title">Состояние регистрации IMS</string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -2732,6 +2736,7 @@
     <string name="media_volume_title">Мультимедиа</string>
     <string name="megabyteShort">МБ</string>
     <string name="megabyte_per_second">МБ/с</string>
+    <string name="meid_multi_sim">MEID (слот %1$d)</string>
     <string name="mem_details_title">Подробности</string>
     <string name="mem_state_subtitle">Состояние памяти</string>
     <string name="mem_use_free_type">Свободно</string>
@@ -2903,6 +2908,7 @@
     <string name="model_info">Модель</string>
     <string name="model_name">Название модели</string>
     <string name="model_number">Модель</string>
+    <string name="model_summary">Модель: %1$s</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
     <string name="modify_privacy_password">Изменение пароля</string>
     <string name="move_app">Переместить</string>
@@ -4501,6 +4507,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_signal_strength">%1$d дБмВт, asu: %2$d</string>
     <string name="sim_slot_empty">Пустая SIM-карта</string>
     <string name="sim_status_title">Статус SIM карты</string>
+    <string name="sim_status_title_sim_slot">Статус SIM (слот %1$d)</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
@@ -4640,6 +4647,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_style_list">На одной странице</string>
     <string name="status_bar_style_page">На разных страницах</string>
     <string name="status_bt_address">Адрес Bluetooth</string>
+    <string name="status_data_network_type">Передача данных</string>
     <string name="status_data_state">Передача данных в моб. сети</string>
     <string name="status_failed_to_write">Не удалось записать данные. Если проблема не исчезнет, выберите другую NFC-метку.</string>
     <string name="status_icc_id">ICCID</string>
@@ -4650,6 +4658,8 @@ UT-интерфейс: %5$s"</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_network_type">Тип мобильной сети</string>
     <string name="status_number">Мой номер телефона</string>
+    <string name="status_number_sim_slot">Номер телефона (слот %1$d)</string>
+    <string name="status_number_sim_status">Номер телефона на SIM</string>
     <string name="status_operator">Сеть</string>
     <string name="status_prl_version">Версия PRL</string>
     <string name="status_roaming">Роуминг</string>
@@ -4663,6 +4673,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_tag_not_writable">Нельзя записать данные на эту NFC-метку. Выберите другую.</string>
     <string name="status_unavailable">Недоступно</string>
     <string name="status_up_time">Время с момента включения</string>
+    <string name="status_voice_network_type">Голосовая связь</string>
     <string name="status_wifi_mac_address">MAC-адрес Wi-Fi</string>
     <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
     <string name="status_write_success">Готово</string>
