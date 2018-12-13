@@ -5724,6 +5724,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_display_options_forget">Удалить</string>
     <string name="wifi_display_options_name">Название</string>
     <string name="wifi_display_options_title">Настройки беспроводного проектора</string>
+    <string name="wifi_display_pause">Приостановить</string>
+    <string name="wifi_display_resume">Продолжить</string>
+    <string name="wifi_display_session_info">Session info</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Нельзя использовать WiDi при отключенном Wi-Fi</string>
     <string name="wifi_display_settings_title">Трансляция</string>
     <string name="wifi_display_status_connected">Подключен</string>
