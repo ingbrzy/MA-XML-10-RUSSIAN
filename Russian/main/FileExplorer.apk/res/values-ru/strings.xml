@@ -120,6 +120,12 @@
     <string name="copy_failed">Не удалось скопировать</string>
     <string name="copy_to">Копировать в…</string>
     <string name="copy_to_internal_storage_first">Скопируйте объекты во внутреннюю память.</string>
+    <string name="data_consumption_title">Интернет соединение</string>
+    <string name="data_consumption_message">"Файловый менеджер может использовать подключение к сети. Разрешить?"</string>
+    <string name="data_consumption_message1">Файловому менеджеру нужно подключение к интернету, чтобы получить доступ к популярным видео и стикерам.</string>
+    <string name="data_consumption_checkbox_hint">"Не показывать снова"</string>
+    <string name="data_consumption_confirm">ОК</string>
+    <string name="data_consumption_cancel">"Отмена"</string>
     <string name="decompress_cancel">Отмена</string>
     <string name="decompress_confirm">Извлечь</string>
     <string name="decompress_corrupt">Не удалось извлечь файлы. Архив поврежден.</string>
@@ -193,13 +199,20 @@
     <string name="found_router">Обнаружен совместимый роутер</string>
     <string name="found_usb">USB накопитель подключен</string>
     <string name="ftp_account_req_notice">4-16 символов, включая буквы и цифры, чувствительно к регистру</string>
+    <string name="ftp_anonymous_login">Анонимный вход</string>
     <string name="ftp_invalid_username_or_password">Неверное имя пользователя или пароль.</string>
     <string name="ftp_password_hint">Пароль</string>
+    <string name="ftp_username_and_passworld">Вход</string>
     <string name="ftp_username_hint">Имя пользователя</string>
+    <string name="ftp_open_port_error">"Не удалось открыть порт. Проверьте подключение к сети или сбросьте номер порта."</string>
+    <string name="ftp_port_number">Номер порта</string>
+    <string name="ftp_transfer_secure">БЕЗОПАСНОСТЬ</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="group_title">%2$s из %1$s</string>
     <string name="have_lucky_draw">У вас еще есть шанс!</string>
+    <string name="homepage_tab_category">Категории</string>
     <string name="homepage_tab_recent">Недавние</string>
+    <string name="homepage_tab_file_view_phone">Накопитель</string>
     <string name="hot_sticker">Стикеры</string>
     <string name="hot_video">Видео</string>
     <string name="if_cancel">Отменить это действие?</string>
@@ -211,6 +224,8 @@
     <string name="info_product">Устройство:</string>
     <string name="info_system">Система:</string>
     <string name="info_system_version">Версия системы:</string>
+    <string name="instruction_pre_phone">Нажмите для запуска FTP-сервера</string>
+    <string name="instruction_pre_pad">Нажмите для запуска FTP-сервера</string>
     <string name="just_now">только что</string>
     <string name="kilobyteShort">КБ</string>
     <string name="load_more">Показать еще</string>
@@ -260,10 +275,14 @@
     <string name="no_recent_files">Нет недавних файлов</string>
     <string name="not_installed_documentsui">DocumentsUI не установлено</string>
     <string name="not_support_documentui">DocumentUI не поддерживается на этом устройстве</string>
+    <string name="notif_server_starting">Запуск FTP-сервера…</string>
+    <string name="notif_title">FTP-сервер запущен</string>
     <string name="notification_dialog_confirm">OK</string>
     <string name="notification_dialog_content">Автоматические уведомления и сортировка при добавлении и изменении файлов в %1$s.</string>
     <string name="notification_dialog_title">Уведомления</string>
     <string name="notification_wechat_expired_empty">Эти видео были удалены из WeChat.</string>
+    <string name="no_wifi">Сеть не обнаружена</string>
+    <string name="no_wifi_hint">Нет соединения</string>
     <string name="often_used_folders">Часто используемые папки</string>
     <string name="ok">OK</string>
     <string name="online_not_support">Не удается просмотреть файл онлайн</string>
@@ -299,6 +318,8 @@
     <string name="operation_rename_message">Введите новое имя</string>
     <string name="operation_send">Отправить</string>
     <string name="operation_show_sys">Показывать скрытые файлы</string>
+    <string name="operation_show_privacy_policy">Политика конфиденциальности</string>
+    <string name="operation_hide_sys">"Не показывать скрытые файлы"</string>
     <string name="operation_unfavorite">Удалить из избранных</string>
     <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
     <string name="pad">Внутренняя память</string>
@@ -377,6 +398,9 @@
     <string name="settings_about">Информация</string>
     <string name="settings_feedback">Отчет</string>
     <string name="settings_score">Оценить Проводник</string>
+    <string name="server_control_settings">Настройки</string>
+    <string name="server_control_advanced_settings">Настройки FTP</string>
+    <string name="server_control_charset">ШИФРОВАНИЕ</string>
     <string name="share_facebook">Facebook</string>
     <string name="share_file_manger">Поделитесь Проводником</string>
     <string name="share_file_manger_to_friend">Поделитесь приложением Проводник с другом</string>
@@ -394,6 +418,10 @@
     <string name="smb_loading">Секунду…</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
+    <string name="start_server">Запустить сервер</string>
+    <string name="stay_awake_title">Не выключать дисплей</string>
+    <string name="stay_awake_summary">"Не переходить в спящий режим при использовании FTP"</string>
+    <string name="stop_server">Остановить сервер</string>
     <string name="storage_cloned_app">Память для клонов</string>
     <string name="storage_info_detail">Свободно: %1$s | Всего: %2$s</string>
     <string name="storage_internal">Внутренняя память</string>
@@ -432,9 +460,13 @@
     <string name="user_notice_privacy_policy">Политика конфиденциальности</string>
     <string name="user_notice_term_of_service">Условия использования</string>
     <string name="user_notice_title">Условия использования</string>
+    <string name="utf8_summary">Системная кодировка FTP по умолчанию</string>
+    <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
+    <string name="big5_summary">Традиционная китайская кодировка Windows по умолчанию</string>
     <string name="version_name">Версия</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wechat_video">Видео из %s</string>
+    <string name="wifi_state">Сеть Wi-Fi</string>
     <string name="xiaomi_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=ru_RU</string>
     <string name="xiaomi_user_agreement">http://www.miui.com/res/doc/eula.html?lang=ru_RU</string>
     <string name="year_month_day_format">d MMMM yyyy</string>
