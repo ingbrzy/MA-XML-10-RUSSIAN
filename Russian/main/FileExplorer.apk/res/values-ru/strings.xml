@@ -224,6 +224,7 @@
     <string name="info_product">Устройство:</string>
     <string name="info_system">Система:</string>
     <string name="info_system_version">Версия системы:</string>
+    <string name="instruction">Введите нижеприведенный адрес в FTP-клиент: </string>
     <string name="instruction_pre_phone">Нажмите для запуска FTP-сервера</string>
     <string name="instruction_pre_pad">Нажмите для запуска FTP-сервера</string>
     <string name="just_now">только что</string>
