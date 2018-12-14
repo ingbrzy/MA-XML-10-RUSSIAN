@@ -1557,6 +1557,7 @@
     <string name="dialog_title_hdmi_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_login">Войдите в Mi аккаунт</string>
     <string name="dialog_yes">ОК</string>
+    <string name="directory_access">Доступ к каталогу</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
     <string name="disable_overlays">Отключить наложение</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
@@ -2480,7 +2481,7 @@
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
     <string name="location_no_recent_apps">В последнее время приложения не запрашивали геоданные</string>
     <string name="location_off_summary">ВЫКЛ.</string>
-    <string name="location_on_summary">ВКЛ. / %1$s</string>
+    <string name="location_on_summary">ВКЛ.</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Точнее определять местоположение, разрешив системным приложениям и сервисам постоянно искать Bluetooth-устройства поблизости</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Поиск Bluetooth-устройств</string>
     <string name="location_scanning_screen_title">Поиск</string>
