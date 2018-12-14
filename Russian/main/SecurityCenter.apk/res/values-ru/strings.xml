@@ -1781,9 +1781,11 @@
     <string name="card_main_deepclean_title">Глубокая очистка</string>
     <string name="card_main_deepclean_summary">Удаляйте ненужные данные, файлы и приложения</string>
     <string name="card_main_deepclean_action">Очистить</string>
+    <string name="card_main_deepclean_facebook_title">Очистка Facebook</string>
     <string name="card_main_deepclean_wechat_title">Очистка WeChat</string>
     <string name="card_main_deepclean_wechat_summary">Очищайте кэш WeChat для освобождения места</string>
     <string name="card_main_deepclean_wechat_action">Очистить</string>
+    <string name="card_main_deepclean_whatsapp_title">Очистка WhatsApp</string>
     <string name="card_main_sectool_title">Инструменты</string>
     <string name="card_main_monthreport_action">Просмотреть</string>
     <string name="card_main_netcheck_title">Диагностика сети</string>
@@ -1791,6 +1793,7 @@
     <string name="card_main_netcheck_action">Тестировать</string>
     <string name="card_main_hbassistant_title">Красные конверты</string>
     <string name="card_main_hbassistant_summary">Используйте данный инструмент для быстрой ловли конвертов</string>
+    <string name="card_main_hwtest_title">Тестирование устройства</string>
     <string name="card_main_deepclean_qq_title">Очистка QQ</string>
     <string name="action_button_text_100">Начать</string>
     <string name="action_button_text_80_100">Начать</string>
