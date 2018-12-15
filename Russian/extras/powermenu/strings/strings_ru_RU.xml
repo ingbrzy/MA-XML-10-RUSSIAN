@@ -1,0 +1,12 @@
+<resources>
+    <string name="label_airplane_mode">Режим полета</string>
+    <string name="label_silent_mode">Без звука</string>
+    <string name="label_reboot">Перезагрузка</string>
+    <string name="label_shutdown">Выключение</string>
+    <string name="label_alert_reboot">Перезагрузка</string>
+    <string name="label_alert_shutdown">Выключение</string>
+    <string name="label_blank">Назад</string>
+    <string name="label_emergency_call">Экстренный вызов</string>
+    <string name="label_alert_recovery">Режим Recovery</string>
+    <string name="label_alert_fastboot">Режим Fastboot</string>    
+</resources>
