@@ -833,9 +833,13 @@
     <string name="keyguard_indication_charging_time_slowly">Медленная зарядка (%s до окончания)</string>
     <string name="keyguard_indication_trust_disabled">Устройство будет необходимо разблокировать вручную</string>
     <string name="keyguard_instructions_when_pattern_disabled">Нажмите Меню для разблокировки</string>
+    <string name="keyguard_left_bankcard">Калькулятор</string>
+    <string name="keyguard_left_buscard">Заметки</string>
     <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+    <string name="keyguard_left_remotecentral">Календарь</string>
+    <string name="keyguard_left_smarthome">Контакты</string>
     <string name="keyguard_left_torch">Фонарик</string>
-    <string name="keyguard_left_view_lock_wallpaper">Карусель обоев</string>
+    <string name="keyguard_left_view_lock_wallpaper">Музыка</string>
     <string name="keyguard_low_battery">Батарея разряжена</string>
     <string name="keyguard_missing_sim_instructions">Вставьте SIM карту</string>
     <string name="keyguard_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
