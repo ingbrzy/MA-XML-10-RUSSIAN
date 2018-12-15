@@ -363,6 +363,8 @@
     <string name="app_overlay_permission_preference">Показ приложения поверх всех окон</string>
     <string name="app_permissions">Разрешения приложений</string>
     <string name="app_permissions_summary">Приложения, которым разрешен доступ (%1$s)</string>
+    <string name="app_permission_summary_allowed">Разрешено</string>
+    <string name="app_permission_summary_not_allowed">Не разрешено</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
     <string name="app_sees_restricted_accounts">Этому приложению разрешен доступ к вашим аккаунтам</string>
