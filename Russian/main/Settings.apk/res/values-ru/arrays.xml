@@ -255,15 +255,15 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Выбор системы (по умолчанию)</item>
-        <item>16 бит/отсчет</item>
-        <item>24 бит/отсчет</item>
-        <item>32 бит/отсчет</item>
+        <item>16 бит</item>
+        <item>24 бит</item>
+        <item>32 бит</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Выбор системы (по умолчанию)</item>
-        <item>16 бит/отсчет</item>
-        <item>24 бит/отсчет</item>
-        <item>32 бит/отсчет</item>
+        <item>16 бит</item>
+        <item>24 бит</item>
+        <item>32 бит</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Выбор системы (по умолчанию)</item>
@@ -276,16 +276,16 @@
         <item>Стерео</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Оптимизировать качество звука</item>
-        <item>Баланс качества звука и скорости подключения</item>
-        <item>Оптимизировать скорость подключения</item>
-        <item>Лучший возможный результат (адаптивный битрейт)</item>
+        <item>Качество звука</item>
+        <item>Баланс качества и скорости</item>
+        <item>Скорость подключения</item>
+        <item>Лучший возможный (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Оптимизировать качество звука (990/909 Кбит/с)</item>
-        <item>Баланс качества звука и скорости подключения (660/606 кбит/с)</item>
-        <item>Оптимизировать скорость подключения (330/303 Кбит/с)</item>
-        <item>Лучший возможный результат (адаптивный битрейт)</item>
+        <item>Качество звука (990/909 Кбит/с)</item>
+        <item>Баланс качества и скорости (660/606 Кбит/с)</item>
+        <item>Скорость подключения (330/303 Кбит/с)</item>
+        <item>Лучший возможный (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Выбор системы (по умолчанию)</item>
@@ -1168,6 +1168,14 @@
         <item>4 МБ</item>
         <item>16 МБ</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Отключен</item>
+        <item>Ошибки</item>
+        <item>Предупреждения</item>
+        <item>Информационный</item>
+        <item>Отладочный</item>
+        <item>Подробный</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Отключено</item>
         <item>Все буферы журналов</item>
@@ -1227,7 +1235,7 @@
     <string-array name="track_frame_time_entries">
         <item>Отключено</item>
         <item>На экране в виде полос</item>
-        <item>В adb shell dumpsys gfxinfo</item>
+        <item>Командой adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>Нет</item>
