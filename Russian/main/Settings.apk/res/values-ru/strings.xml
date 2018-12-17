@@ -1511,6 +1511,12 @@
     <string name="device_cpu4_info">"Четыре ядра "</string>
     <string name="device_cpu6_info">"Шесть ядер "</string>
     <string name="device_cpu8_info">"Восемь ядер "</string>
+    <string name="device_description_cpu">Процессор</string>
+    <string name="device_description_battery">Емкость аккумулятора</string>
+    <string name="device_description_camera">Задняя камера</string>
+    <string name="device_description_screen">Размер экрана</string>
+    <string name="device_description_resolution">Разрешение экрана</string>
+    <string name="device_description_ram">Оперативная память</string>
     <string name="device_display_layout_title">Возможности телефона</string>
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
