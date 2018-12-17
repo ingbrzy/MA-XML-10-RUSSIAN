@@ -768,8 +768,8 @@
     <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
     <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
     <string name="bluetooth_map_request">Запрос на доступ к сообщениям</string>
-    <string name="bluetooth_max_connected_audio_devices_dialog_title">Выберите максимальное число подключенных Bluetooth аудиоустройств</string>
-    <string name="bluetooth_max_connected_audio_devices_string">Максимальное число Bluetooth аудиоустройств</string>
+    <string name="bluetooth_max_connected_audio_devices_dialog_title">Число аудиоустройств</string>
+    <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
@@ -843,22 +843,18 @@
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
     <string name="bluetooth_search_for_devices">Обновить</string>
     <string name="bluetooth_searching_for_devices">Поиск...</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука при передаче через Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Аудиокодек для Bluetooth:
-разрядность"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука для Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Разрядность"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудиокодек для Bluetooth:
-режим канала"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Аудиокодек LDAC для Bluetooth: качество воспроизведения</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Аудиокодек LDAC для Bluetooth:
-качество воспроизведения"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации при передаче через Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Аудиокодек для Bluetooth:
-частота дискретизации"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Режим аудиоканала"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения для LDAC</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Качество воспроизведения"</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации через Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Частота дискретизации"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Аудиокодек для передачи через Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Аудиокодек для Bluetooth</string>
-    <string name="bluetooth_select_avrcp_version_dialog_title">Выберите версию Bluetooth AVRCP</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Аудиокодек</string>
+    <string name="bluetooth_select_avrcp_version_dialog_title">Версия Bluetooth AVRCP</string>
     <string name="bluetooth_select_avrcp_version_string">Версия Bluetooth AVRCP</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
@@ -1415,6 +1411,10 @@
     <string name="date_time_auto">Дата и время сети</string>
     <string name="date_time_auto_summaryOff">Использовать время сети</string>
     <string name="date_time_auto_summaryOn">Использовать время сети</string>
+    <string name="date_time_search_region">Поиск региона</string>
+    <string name="date_time_select_fixed_offset_time_zones">Выбор смещения UTC</string>
+    <string name="date_time_select_region">Регион</string>
+    <string name="date_time_select_zone">Часовой пояс</string> 
     <string name="date_time_set_date">Дата</string>
     <string name="date_time_set_date_title">Дата</string>
     <string name="date_time_set_time">Время</string>
@@ -5291,6 +5291,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_use_photo_transfers_desc">Передача фотографий или файлов, если МТР не поддерживается (PTP)</string>
     <string name="usb_use_power_only">Подача питания</string>
     <string name="usb_use_power_only_desc">Зарядка другого подключенного устройства. Доступно только на устройствах, которые поддерживают зарядку через USB.</string>
+    <string name="usb_use_tethering">USB модем</string>
     <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
@@ -6191,6 +6192,8 @@ UT-интерфейс: %5$s"</string>
     <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
     <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
     <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
+    <string name="zone_menu_by_offset">Выбрать по смещению UTC</string>
+    <string name="zone_menu_by_region">Выбрать по региону</string>
     <string name="anc_switch_title">Активное управление шумом</string>
     <string name="aod_summary">Некоторая системная информация будет постоянно отображаться в режиме ожидания</string>
     <string name="aod_title">Постоянное отображение на экране</string>
