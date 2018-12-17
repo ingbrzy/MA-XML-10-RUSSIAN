@@ -4410,6 +4410,8 @@ UT-интерфейс: %5$s"</string>
     <string name="show_dev_on">Вы стали разработчиком!</string>
     <string name="show_fc">Показывать ошибки приложений</string>
     <string name="show_fc_summary">Показывать информацию о критических ошибках приложений</string>
+    <string name="show_first_crash_dialog">Всегда показывать диалог сбоя</string>
+    <string name="show_first_crash_dialog_summary">Показывать диалог каждый раз, когда приложение падает</string>
     <string name="show_hw_layers_updates">Показывать обновления аппаратных слоев</string>
     <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым при обновлении</string>
     <string name="show_hw_screen_updates">Показывать аппаратные обновления</string>
@@ -6041,6 +6043,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wps_setup_title">Безопасная настройка Wi-Fi</string>
     <string name="wimax_settings">4G</string>
     <string name="window_animation_scale_title">Анимация окон</string>
+    <string name="winscope_trace_quick_settings_title">Трассировка Winscope</string>
     <string name="wireless_connected">Подключено</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
     <string name="wireless_off">Откл</string>
