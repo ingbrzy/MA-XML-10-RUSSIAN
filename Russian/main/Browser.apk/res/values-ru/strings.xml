@@ -21,7 +21,7 @@
     <string name="action">Войти</string>
     <string name="action_menu_account_not_login">Вход не выполнен</string>
     <string name="action_menu_account_not_login_hint">Войдите, чтобы чтобы выполнить синхронизацию с Mi Cloud</string>
-    <string name="action_menu_download">Загрузить>
+    <string name="action_menu_download">Загрузить</string>
     <string name="action_menu_request_desktop_site">Доступ к сайту</string>
     <string name="action_menu_request_desktop_site_off">Доступ к сайту отключен</string>
     <string name="action_menu_request_desktop_site_on">Доступ к сайту включен</string>
