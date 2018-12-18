@@ -221,6 +221,13 @@
     <string name="agps_roaming_dia">Использование A-GPS в роуминге может увеличить расход мобильного трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="agps_roaming_dia_title">Использовать A-GPS в роуминге</string>
     <string name="agps_roaming_summary">Использовать мобильный интернет для корректировки GPS в роуминге</string>
+    <string name="ai_button_title">Mi AI кнопка</string>
+    <string name="ai_button_title_global">AI кнопка</string>
+    <string name="ai_settings_double_click_category">Двойное нажатие на AI кнопку</string>
+    <string name="ai_settings_double_click_title">Двойное нажатие</string>
+    <string name="ai_settings_long_click_category">Нажмите и удерживайте AI кнопку</string>
+    <string name="ai_settings_long_click_title">Нажмите и удерживайте</string>
+    <string name="ai_settings_single_press_des">Нажмите AI кнопку, чтобы поговорить с Google Assistant, затем отпустите, чтобы получить ответ.</string>
     <string name="airplane_mode">Режим полета</string>
     <string name="alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="alarm_sound_dialog_title">Выберите мелодию будильника</string>
@@ -4522,6 +4529,7 @@ UT-интерфейс: %5$s"</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
+    <string name="single_press_AI_button">Нажмите AI кнопку</string>
     <string name="size_byte">Б</string>
     <string name="size_giga_byte">ГБ</string>
     <string name="size_kilo_byte">КБ</string>
