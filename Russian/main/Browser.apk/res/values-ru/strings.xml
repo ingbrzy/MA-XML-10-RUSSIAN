@@ -139,7 +139,6 @@
     <string name="current_version_pc">Компьютер</string>
     <string name="current_version_phone">Телефон</string>
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
-    
     <string name="data_monitor">Напоминать о трафике</string>
     <string name="data_monitor_dialog_message">Повышенный расход мобильных данных. Откройте стартовую страницу, чтобы остановить это.</string>
     <string name="data_traffic_continue">Продолжить</string>
@@ -151,13 +150,28 @@
     <string name="data_traffic_prompt_message">Использование мобильного подключения для просмотра видео увеличит расходы. При выходе за лимит, ваш оператор может взимать дополнительную плату.</string>
     <string name="data_traffic_prompt_title">Использование данных</string>
     <string name="data_traffic_stop">Остановить</string>
-
     <string name="delete">Удалить</string>
     <string name="delete_bookmark">Удалить</string>
     <string name="delete_bookmark_action_warning">Удалить закладки?</string>
     <string name="delete_bookmark_group_warning">Удалить \"%s\"? Все закладки в этой папке будут удалены.</string>
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_download">Удалить</string>
+    <string name="dialog_cannot_resume">Загрузка прервана</string>
+    <string name="dialog_confirm_delete_checkbox_message">Удалить файл во внутренней памяти</string>
+    <string name="dialog_confirm_delete_downloads_message">Удалить %s загрузку?</string>
+    <string name="dialog_confirm_delete_the_download_item_message">Удалить эту загрузку?</string>
+    <string name="dialog_failed_body">Повторите попытку позже или удалите этот файл из очереди загрузки</string>
+    <string name="dialog_file_already_exists">"Файл уже загружен"</string>
+    <string name="dialog_file_missing_body">"Не удалось найти файл. Файл перемещен или удален?"</string>
+    <string name="dialog_file_missing_title">"Не удалось открыть файл"</string>
+    <string name="dialog_insufficient_space_on_cache">"Не удалось загрузить"</string>
+    <string name="dialog_insufficient_space_on_external">Недостаточно места на съемном носителе</string>
+    <string name="dialog_media_not_found">"Не удалось загрузить: съемный накопитель не обнаружен"</string>
+    <string name="dialog_queued_body">Файл поставлен в очередь загрузок.</string>
+    <string name="dialog_recovery_tabs_disc">Восстановление незакрытых вкладок требует их полного обновления.</string>
+    <string name="dialog_recovery_tabs_title">Восстановить вкладки</string>
+    <string name="dialog_title_not_available">"Не удалось загрузить"</string>
+    <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="document_download_background_btn">Загрузить в фоновом режиме</string>
     <string name="document_download_cancel_btn">Отменить</string>
     <string name="document_download_failed">"Не удалось загрузить"</string>
@@ -267,7 +281,6 @@
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с Mi Cloud, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>
     <string name="pref_accept_quicklink_push">Новостная лента</string>
     <string name="pref_accessibility_title">Специальные возможности</string> 
-    
     <string name="pref_accessibility_url_shortcut_enter_summary">Общие комбинации букв можно ввести нажатием в адресной строке</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
     <string name="pref_adblock_counts">%d заблокировано</string>
@@ -276,14 +289,14 @@
     <string name="pref_auto_update_under_wifi">Автоматическое обновление через Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Переключаться на часто используемую поисковую систему</string>
     <string name="pref_cancel_screen">Разблокировать</string>
-    
+    <string name="pref_checkbox_tab_restore">Запомнить (можно изменить в Дополнительных настройках)</string>
     <string name="pref_clear_data_title">Очистить данные</string>
     <string name="pref_confirm_for_exit">Запрос при выходе из браузера</string>
     <string name="pref_content_auto_light_mode">Авто-яркость</string>
     <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
     <string name="pref_content_cloud_speedup">Быстрая загрузка контента с использованием прокси</string>
     <string name="pref_content_fontsize_setting">Настройки шрифта</string>
-    <string name="pref_content_homepage">Установить стартовую страницу</string>
+    <string name="pref_content_homepage">Стартовая страница</string>
     <string name="pref_content_javascript">Включить JavaScript</string>
     <string name="pref_content_night_read_mode">Ночной режим</string>
     <string name="pref_content_search_engine">Поисковая система в адресной строке</string>
@@ -292,7 +305,6 @@
     <string name="pref_data_preload_value_never">НИКОГДА</string>
     <string name="pref_data_preload_value_wifi_only">ТОЛЬКО WIFI</string>
     <string name="pref_download_setting">Настройка загрузки</string>
-        
     <string name="pref_enable_adblock_notification">Показывать уведомления блокировщика рекламы</string>
     <string name="pref_enable_news">Новости</string>
     <string name="pref_enable_novels">Книги</string>
@@ -303,7 +315,7 @@
     <string name="pref_extras_reset_default_title">Другое</string>
     <string name="pref_extras_send_feedback">Отправить отзыв</string>
     <string name="pref_extras_title">Дополнительные настройки</string>
-    <string name="pref_extras_title_version">Версия</string>
+    <string name="pref_extras_title_version">Информация о версии</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">"Сохранять файлы в каталог по умолчанию"</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Восстановить каталог по умолчанию</string>
     <string name="pref_file_download_default_path_prefix">Каталог: %s</string>
@@ -338,6 +350,10 @@
     <string name="pref_security_accept_cookies">Разрешить cookies</string>
     <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
     <string name="pref_save_bandwidth_mode_title">Экономия данных</string>
+    <string name="pref_set_homepage_to">Сделать стартовой страницей</string>
+    <string name="pref_tab_restore">Восстанавливать открытые вкладки при запуске</string>
+    <string name="pref_ua_string">Строка User agent</string>
+    <string name="pref_version_info">Информация о версии</string>
     <string name="remove_bookmark">Удалить закладку</string>
     <string name="remove_bookmark_group">Удалить папку</string>
     <string name="remove_from_bookmarks">Удалить из закладок</string>
