@@ -16,7 +16,6 @@
     <string name="channel_downloading">Прогресс загрузки</string>
     <string name="channel_update">Доступна новая версия</string>
     <string name="check_new_version">Проверить</string>
-    <string name="chengelog">%1$s</string>
     <string name="dialog_3g_desc">Помните, что использование мобильных данных для загрузки прошивки может привести к повышенному расходу вашего траффика.</string>
     <string name="dialog_3g_title">Внимание!</string>
     <string name="dialog_btn_3g">Все равно продолжить</string>
@@ -36,7 +35,6 @@
     <string name="menu_title_current_version_log">Что нового?</string>
     <string name="menu_title_pick_rom_file">Выберите пакет обновления</string>
     <string name="menu_title_recovery">Перезагрузка в Recovery</string>
-    <string name="message">%1$s</string>
     <string name="message_checkbox">Не показывать больше сообщения от Xiaomi.eu</string>
     <string name="message_title">ПРИМЕЧАНИЕ!</string>
     <string name="new_desc">%1$s</string>
@@ -62,7 +60,6 @@
     <string name="share_desc">Ваша версия MIUI была обновлена до %1$s, информация о последних изменениях: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_title">Поделиться с</string>
     <string name="stable">стабильная</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unit" formatted="false">%1$s %</string>
     <string name="url_down">https://%4$s.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/%1$s/xiaomi.eu_multi_%2$s_%1$s_v10-%3$s.zip</string>
     <string name="url_down_non_dat">https://basketbuild.com/uploads/devs/ZduneX25/roms/%1$s/xiaomi.eu_multi_%2$s_%1$s_v10-%3$s.zip</string>

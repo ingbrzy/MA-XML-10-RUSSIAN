@@ -50,8 +50,6 @@
     <string name="self_device_second_space">Второе пространство этого устройства</string>
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="size_unknown">Размер неизвестен</string>
     <string name="recovering">Восстановление %s</string>

@@ -306,7 +306,6 @@
     <string name="operation_delete_done">Удаление завершено</string>
     <string name="operation_deleting">Удаление…</string>
     <string name="operation_favorite">Добавить в избранные</string>
-    <string name="operation_hide_sys">Не показывать скрытые файлы</string>
     <string name="operation_info">Подробности</string>
     <string name="operation_language">Язык</string>
     <string name="operation_move">Вырезать</string>
