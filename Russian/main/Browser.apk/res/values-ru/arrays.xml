@@ -59,6 +59,11 @@
         <item>Крупный</item>
         <item>Огромный</item>
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Всегда спрашивать</item>
+        <item>Восстанавливать</item>
+        <item>Закрывать</item>
+    </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
         <item>Компьютер</item>
@@ -76,6 +81,11 @@
     <string-array name="shortcut_dialog_title">
         <item>Сообщение от браузера</item>
         <item>Следите за Олимпиадой с Mi</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Переход назад/вперед</item>
+        <item>Переключение вкладок</item>
+        <item>Ничего не делать</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
