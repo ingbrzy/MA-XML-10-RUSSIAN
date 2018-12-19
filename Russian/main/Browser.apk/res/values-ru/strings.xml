@@ -169,7 +169,7 @@
     <string name="dialog_media_not_found">"Не удалось загрузить: съемный накопитель не обнаружен"</string>
     <string name="dialog_queued_body">Файл поставлен в очередь загрузок.</string>
     <string name="dialog_recovery_tabs_disc">Восстановление незакрытых вкладок требует их полного обновления.</string>
-    <string name="dialog_recovery_tabs_title">Восстановить вкладки</string>
+    <string name="dialog_recovery_tabs_title">Восстановление вкладок</string>
     <string name="dialog_title_not_available">"Не удалось загрузить"</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="document_download_background_btn">Загрузить в фоновом режиме</string>
@@ -351,7 +351,7 @@
     <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
     <string name="pref_save_bandwidth_mode_title">Экономия данных</string>
     <string name="pref_set_homepage_to">Сделать стартовой страницей</string>
-    <string name="pref_tab_restore">Восстанавливать открытые вкладки при запуске</string>
+    <string name="pref_tab_restore">Восстановление открытых вкладок при запуске</string>
     <string name="pref_ua_string">Строка User agent</string>
     <string name="pref_version_info">Информация о версии</string>
     <string name="remove_bookmark">Удалить закладку</string>
