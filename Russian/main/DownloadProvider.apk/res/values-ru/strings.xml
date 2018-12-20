@@ -43,8 +43,8 @@
     <string name="download_running">Загружается</string>
     <string name="download_error">Ошибка</string>
     <string name="download_running_percent">Загружено %s</string>
-    <string name="dialog_content_limit0">Ограничение загрузок</string>
-    <string name="dialog_content_limit_max">Без ограничения</string>
+    <string name="dialog_content_limit0">Ограничить загрузку</string>
+    <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
     <string name="dialog_data_limit_button2">Загрузить</string>
     <string name="dialog_data_limit_msg1">%s мобильного интернета будет использоваться для загрузки этого файла. Загрузить?</string>
