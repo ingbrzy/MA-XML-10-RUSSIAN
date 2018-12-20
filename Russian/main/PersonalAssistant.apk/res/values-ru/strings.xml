@@ -264,7 +264,7 @@
     <string name="scan">Сканнер</string>
     <string name="scan_app">Сканнер</string>
     <string name="scan_card">Визитка</string>
-    <string name="scan_code">Штрихкод</string>
+    <string name="scan_code">QR-код</string>
     <string name="scan_doc">Документ</string>
     <string name="search_change_header">Заменить обложку</string>
     <string name="search_clear_header">Удалить обложку</string>
