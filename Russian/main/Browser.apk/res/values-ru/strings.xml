@@ -383,7 +383,6 @@
     <string name="pref_privacy_clear_passwords">Очистить сохраненные пароли</string>
     <string name="pref_privacy_clear_passwords_dlg">Удалить все сохраненные пароли?</string>
     <string name="pref_privacy_clear_passwords_summary">Очистить все сохраненные пароли</string>
-    <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="pref_privacy_enable_geolocation">Местоположение</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру запрашивать доступ к вашему местоположению</string>
     <string name="pref_privacy_formdata_title">Данные веб-форм</string>
