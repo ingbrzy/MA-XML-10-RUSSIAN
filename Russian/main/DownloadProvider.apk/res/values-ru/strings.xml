@@ -49,6 +49,8 @@
     <string name="dialog_content_limit0">Ограничить загрузку</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_tip_limit">Предупреждать, когда размер файла больше %s</string>
+    <string name="dialog_tip_limit0">Предупреждать каждый раз</string>
+    <string name="dialog_tip_no_limit">"Не предупреждать"</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
 </resources>
