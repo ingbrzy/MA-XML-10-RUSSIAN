@@ -43,14 +43,20 @@
     <string name="download_running">Загружается</string>
     <string name="download_error">Ошибка</string>
     <string name="download_running_percent">Загружено %s</string>
-    <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
-    <string name="dialog_data_limit_button2">Загрузить</string>
-    <string name="dialog_data_limit_msg3">Изменить лимит</string>
     <string name="dialog_content_limit0">Ограничить загрузку</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
-    <string name="dialog_tip_limit">Предупреждать, когда размер файла больше %s</string>
+    <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
+    <string name="dialog_data_limit_button2">Загрузить</string>
+    <string name="dialog_data_limit_msg1">%s мобильного интернета будет использоваться для загрузки этого файла. Загрузить?</string>
+    <string name="dialog_data_limit_msg3">Изменить лимит</string>
+    <string name="dialog_data_limit_title">Использование мобильного интернета</string>
+    <string name="dialog_insufficient_space_on_cache">Недостаточно места во внутренней памяти</string>
+    <string name="dialog_insufficient_space_on_external">Недостаточно места на внешней памяти</string>
+    <string name="dialog_not_show_again">"Не показывать снова"</string>
+    <string name="dialog_tip_limit">Предупреждать при загрузке больше %s</string>
     <string name="dialog_tip_limit0">Предупреждать каждый раз</string>
     <string name="dialog_tip_no_limit">"Не предупреждать"</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
+    <string name="insufficient_space">"Недостаточно места во внутренней памяти устройства"</string>
 </resources>
