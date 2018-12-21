@@ -32,6 +32,7 @@
     <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
     <string name="dialog_media_not_found">Подключите внешний накопитель.</string>
     <string name="dialog_queued_body">Файл добавлен в очередь и скоро будет загружен.</string>
+    <string name="dialog_speed_title">Использование мобильного интернета</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="download_error">Ошибка загрузки</string>

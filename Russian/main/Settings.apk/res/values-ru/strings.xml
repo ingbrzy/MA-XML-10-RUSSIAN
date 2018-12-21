@@ -5745,8 +5745,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
     <string name="wifi_context_menu_connect">Подключиться</string>
     <string name="wifi_context_menu_forget">Удалить</string>
-    <string name="wifi_coverage_extend">Включить расширение покрытия WLAN</string>
-    <string name="wifi_coverage_extend_summary">Расширение покрытия WLAN с помощью точки доступа</string>
+    <string name="wifi_coverage_extend">Включить расширение покрытия Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с помощью точки доступа</string>
     <string name="wifi_data_template">^1 (Wi-Fi)</string>
     <string name="wifi_data_usage">Трафик Wi-Fi</string>
     <string name="wifi_datanetwork_switch_not_remind">Больше не показывать</string>
