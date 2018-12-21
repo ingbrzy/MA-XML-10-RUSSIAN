@@ -47,7 +47,7 @@
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
     <string name="dialog_data_limit_button2">Загрузить</string>
-    <string name="dialog_data_limit_msg1">%s мобильного интернета будет использоваться для загрузки этого файла. Загрузить?</string>
+    <string name="dialog_data_limit_msg1">%s мобильного интернета будет использовано для загрузки этого файла. Загрузить?</string>
     <string name="dialog_data_limit_msg3">Изменить лимит</string>
     <string name="dialog_data_limit_title">Использование мобильного интернета</string>
     <string name="dialog_insufficient_space_on_cache">Недостаточно места во внутренней памяти</string>
