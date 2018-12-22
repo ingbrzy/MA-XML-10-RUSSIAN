@@ -13,7 +13,7 @@
     <string name="agenda_assistant_allday">Все дни</string>
     <string name="agenda_assistant_credit_payment">Счета по кредитной карте</string>
     <string name="agenda_assistant_electricity">Счет за электроэнергию к оплате</string>
-    <string name="agenda_assistant_empty">Мероприятий не запланировано</string>
+    <string name="agenda_assistant_empty">Ничего не запланировано</string>
     <string name="agenda_assistant_finish">Все мероприятия на сегодня завершены</string>
     <string name="agenda_assistant_gas">Счета за газ</string>
     <string name="agenda_assistant_loan_payment">Погашение кредита</string>
@@ -26,10 +26,10 @@
     <string name="agenda_setting_brief">Мероприятия, напоминания и прочее</string>
     <string name="agenda_setting_brief_detail">Просмотр запланированных мероприятий, получение напоминаний.</string>
     <string name="agenda_settings_account">Управление аккаунтами календаря</string>
-    <string name="agenda_settings_birthday">Показывать напоминания о днях рождения</string>
+    <string name="agenda_settings_birthday">Напоминания о днях рождения</string>
     <string name="agenda_settings_credit">Показывать счета кредитной карты </string>
     <string name="agenda_settings_elecbill">Показывать счета за электричество и газ</string>
-    <string name="agenda_settings_loan">Показывать информацию о погашении кредита</string>
+    <string name="agenda_settings_loan">Напоминать о погашении кредита</string>
     <string name="alipay_cancel">Отмена</string>
     <string name="alipay_confirm_title">Примечание</string>
     <string name="alipay_data_error">Система перегружена, попробуйте позже</string>
