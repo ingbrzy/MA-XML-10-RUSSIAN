@@ -552,7 +552,7 @@
     <string name="drive_mode_tip_idle">Режим \"За рулем\"</string>
     <string name="drive_mode_tip_idle_notch">За рулем</string>
     <string name="drive_mode_tip_notch">За рулем</string>
-    <string name="emergency_call_string">SOS</string>
+    <string name="emergency_call_string">Экстренный вызов</string>
     <string name="empty_shade_text">Нет уведомлений</string>
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
