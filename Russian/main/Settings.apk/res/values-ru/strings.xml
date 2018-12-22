@@ -1547,7 +1547,7 @@
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_consumption">Потребление энергии экраном</string>
     <string name="device_screen_resolution">Разрешение экрана</string>
-    <string name="device_screen_size">Размер экрана</string>
+    <string name="device_screen_size">Диагональ</string>
     <string name="device_screen_usage">Использование экрана с момента полной зарядки</string>
     <string name="device_sd_memory">SD карта</string>
     <string name="device_share_loading">Создание изображения…</string>
