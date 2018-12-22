@@ -83,9 +83,9 @@
         <item>Следите за Олимпиадой с Mi</item>
     </string-array>
     <string-array name="pref_fling_gesture_entries">
-        <item>Переход назад/вперед</item>
-        <item>Переключение вкладок</item>
-        <item>Ничего не делать</item>
+        <item>Переход по страницам</item>
+        <item>Переход по вкладкам</item>
+        <item>Нет действий</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
