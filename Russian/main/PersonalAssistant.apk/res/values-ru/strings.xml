@@ -50,8 +50,8 @@
     <string name="app_setting_dialog_cancel">Отмена</string>
     <string name="app_setting_has_not_setted">Не установлена</string>
     <string name="app_setting_has_setted">Установлена</string>    
-    <string name="app_setting_more_setting">Дополнительные настройки</string>
-    <string name="app_setting_on_off_setting">Общие настройки</string>
+    <string name="app_setting_more_setting">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКи</string>
+    <string name="app_setting_on_off_setting">ОСНОВНЫЕ НАСТРОЙКИ</string>
     <string name="app_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="app_setting_search">Панель поиска</string>
     <string name="apps_label">Приложения</string>
@@ -273,11 +273,11 @@
     <string name="show_more">Показать больше</string>
     <string name="security">Безопасность</string>
     <string name="setting_btn_add">Добавить</string>
-    <string name="setting_btn_added">Добавленные</string>
+    <string name="setting_btn_added">Выбраны</string>
     <string name="setting_btn_remove">Удалить</string>
     <string name="setting_btn_setting">Настройки</string>
-    <string name="setting_cards_all_added">Добавлены все</string>
-    <string name="setting_cards_more">Доступные</string>
+    <string name="setting_cards_all_added">Выбраны все</string>
+    <string name="setting_cards_more">Доступны</string>
     <string name="setting_dialog_cancel">Отмена</string>
     <string name="setting_launch_select_other_app">Другие приложения</string>
     <string name="setting_list_guide">Руководство</string>
@@ -286,7 +286,7 @@
     <string name="setting_note_brief">Сделать быструю заметку</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="step_km"> км</string>
-    <string name="step_setting_tip">Информация о шагах</string>
+    <string name="step_setting_tip">ИСТОЧНИК</string>
     <string name="step_vip_action_bar">Шаги</string>
     <string name="steps_get_misport">Установить Mi Fit</string>
     <string name="steps_misport">Выбранный Mi Fit</string>
@@ -297,9 +297,9 @@
     <string name="steps_misport_ok">Понятно</string>
     <string name="steps_vip">Шаги</string>
     <string name="steps_vip_des">Подсчет шагов без установки сторонних приложений</string>
-    <string name="steps_sport_des">Получать точную информацию из приложения Mi Fit</string>
+    <string name="steps_sport_des">Получать информацию из приложения Mi Fit</string>
     <string name="temp_support_xiaomi">Временно поддерживаются только браслеты Xiaomi</string>
-    <string name="toast_function_add_not_allowed">Вы можете добавить до 10 ярлыков</string>
-    <string name="toast_function_remove_not_allowed">Вы должны добавить хотя бы 1 ярлык</string>
+    <string name="toast_function_add_not_allowed">Можно добавить не больше 10 ярлыков</string>
+    <string name="toast_function_remove_not_allowed">Необходимо добавить хотя бы 1 ярлык</string>
     <string name="uninstall">Не установлен</string>
 </resources>
