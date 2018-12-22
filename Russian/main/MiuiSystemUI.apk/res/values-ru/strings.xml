@@ -284,6 +284,10 @@
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="as_important">Важное</string>
     <string name="as_unimportant">Неважное</string>
+    <string name="aspect_cancel">Отмена</string>
+    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Безграничный экран &gt; Полноэкранный режим.</string>
+    <string name="aspect_ok">ОК</string>
+    <string name="aspect_title">Полноэкранный режим</string>
     <string name="audio_effect_custom">Настроить</string>
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_settings">Тип наушников</string>
