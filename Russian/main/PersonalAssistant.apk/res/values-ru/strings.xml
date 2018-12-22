@@ -5,7 +5,7 @@
     <string name="account_address">Адрес</string>
     <string name="add_stock">Добавить</string>
     <string name="add_to_desktop">Добавить на Рабочий стол</string>
-    <string name="address_name_spell">Введите адрес</string>
+    <string name="address_name_spell">Ввод адреса</string>
     <string name="agenda">Напоминания</string>
     <string name="agenda_assistant">Мероприятия</string>
     <string name="agenda_assistant_account_num">Аккаунт</string>
@@ -89,7 +89,7 @@
     <string name="card_title_sport">Счетчик шагов</string>
     <string name="category_other">Другое</string>
     <string name="cleanup_garbage">Очистка</string>
-    <string name="cleanup_memory">Очистить память</string>
+    <string name="cleanup_memory">Память</string>
     <string name="cleanup_power">Глубокая очистка</string>
     <string name="clear">Очистить</string>
     <string name="corpus_hint_apps">Поиск приложений</string>
@@ -98,7 +98,7 @@
     <string name="dialog_report_cancel">Отмена</string>
     <string name="dialog_report_confirm">Отчет</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
-    <string name="exercise_setting_brief">Измерьте расстояние и посчитайте ежедневные шаги</string>
+    <string name="exercise_setting_brief">Измерение расстояния и подсчет ежедневных шагов</string>
     <string name="favorite_cancel">Отмена</string>
     <string name="flybird_auto_switch_channel">Совет системы</string>
     <string name="flybird_baoxian_close_text">Страховка аккаунта 1 млн</string>
@@ -157,12 +157,13 @@
     <string name="keyboard_ok">OK</string>
     <string name="keyboard_space">Пробел</string>
     <string name="launch_label">Быстрый доступ</string>
-    <string name="launch_top">Откройте специальные функции популярных приложений</string>
+    <string name="launch_top">Специальные функции популярных приложений</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">%1$sB очищено</string>
     <string name="mi_agenda">Мероприятия</string>
     <string name="mi_sport">Счетчик шагов</string>
     <string name="mi_sport_go_install">Загрузить</string>
+    <string name="mi_function">Ярлыки</string>
     <string name="mini_add_fp">Сначала перейдите в систему телефона и добавьте отпечатки пальцев, чтобы активировать пароль Touch ID Alipay</string>
     <string name="mini_agree">Принять</string>
     <string name="mini_already_download">Загружено</string>
@@ -280,10 +281,10 @@
     <string name="setting_dialog_cancel">Отмена</string>
     <string name="setting_launch_select_other_app">Другие приложения</string>
     <string name="setting_list_guide">Руководство</string>
-    <string name="setting_list_guide_desc">Добавьте часто используемые функции и информацию.</string>
+    <string name="setting_list_guide_desc">Добавьте часто используемые функции.</string>
     <string name="setting_note">Быстрая заметка</string>
-    <string name="setting_note_brief">Сделайте быструю заметку</string>
-    <string name="start_download">Начинается загрузка…</string>
+    <string name="setting_note_brief">Сделать быструю заметку</string>
+    <string name="start_download">Начало загрузки…</string>
     <string name="step_km"> км</string>
     <string name="step_setting_tip">Информация о шагах</string>
     <string name="step_vip_action_bar">Шаги</string>
