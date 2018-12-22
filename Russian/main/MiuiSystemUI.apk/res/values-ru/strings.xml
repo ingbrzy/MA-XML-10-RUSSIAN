@@ -590,7 +590,7 @@
     <string name="ext_media_unmountable_notification_message">SD карта повреждена. Требуется форматирование.</string>
     <string name="ext_media_unmountable_notification_title">Накопитель поврежден</string>
     <string name="external_source_trusted">Разрешено</string>
-    <string name="external_source_untrusted">Не разрешено</string>
+    <string name="external_source_untrusted">Запрещено</string>
     <string name="face_data_input_camera_fail">Не удалось запустить камеру</string>
     <string name="face_data_input_camera_ok">Запуск камеры…</string>
     <string name="face_data_input_cancel">Отмена</string>
