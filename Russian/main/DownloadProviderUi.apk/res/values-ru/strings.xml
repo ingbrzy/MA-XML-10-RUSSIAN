@@ -92,8 +92,8 @@
     <string name="dialog_btn_ok_disabled_net">Настройки сети</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить эти загрузки?</string>
-    <string name="dialog_content_limit_max">Без ограничения</string>
-    <string name="dialog_content_limit0">Ограничить загрузки</string>
+    <string name="dialog_content_limit_max">Без ограничений</string>
+    <string name="dialog_content_limit0">Ограничение загрузок</string>
     <string name="dialog_file_missing_title">Не удалось открыть файл</string>
     <string name="dialog_msg_disabled_net">Приложение %1$s ограничило загрузки для текущей сети. Нажмите \"Настройки сети\" для перехода в приложение \"Безопасность\".</string>
     <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Вы можете выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
