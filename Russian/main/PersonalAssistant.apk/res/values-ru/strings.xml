@@ -95,11 +95,11 @@
     <string name="corpus_hint_apps">Поиск приложений</string>
     <string name="corpus_label_apps">Приложения</string>
     <string name="detail_action_share">Поделиться</string>
-    <string name="dialog_report_cancel">Отменить</string>
+    <string name="dialog_report_cancel">Отмена</string>
     <string name="dialog_report_confirm">Отчет</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
     <string name="exercise_setting_brief">Измерьте расстояние и посчитайте ежедневные шаги</string>
-    <string name="favorite_cancel">Отменить</string>
+    <string name="favorite_cancel">Отмена</string>
     <string name="flybird_auto_switch_channel">Совет системы</string>
     <string name="flybird_baoxian_close_text">Страховка аккаунта 1 млн</string>
     <string name="flybird_baoxian_open_text">Аккаунт застрах.</string>
@@ -231,7 +231,7 @@
     <string name="mini_to_open_error">Ошибка ПО для сбора отпечатков пальцев</string>
     <string name="mini_weakpassword_error_same">Не используйте одинаковые цифры</string>
     <string name="mini_weakpassword_error_serial">Не используйте несколько цифр подряд</string>
-    <string name="miot_device_cancel">Отменить</string>
+    <string name="miot_device_cancel">Отмена</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="msp_btn_ok">Подтвердить</string>
@@ -277,7 +277,7 @@
     <string name="setting_btn_setting">Настройки</string>
     <string name="setting_cards_all_added">Добавлены все</string>
     <string name="setting_cards_more">Доступные</string>
-    <string name="setting_dialog_cancel">Отменить</string>
+    <string name="setting_dialog_cancel">Отмена</string>
     <string name="setting_launch_select_other_app">Другие приложения</string>
     <string name="setting_list_guide">Руководство</string>
     <string name="setting_list_guide_desc">Добавьте часто используемые функции и информацию.</string>
