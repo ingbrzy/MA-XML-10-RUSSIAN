@@ -1522,8 +1522,8 @@
     <string name="device_description_battery">Аккумулятор</string>
     <string name="device_description_camera">Задняя камера</string>
     <string name="device_description_screen">Диагональ</string>
-    <string name="device_description_resolution">Разрешение экрана</string>
-    <string name="device_description_ram">Оперативная память</string>
+    <string name="device_description_resolution">Разрешение</string>
+    <string name="device_description_ram">ОЗУ</string>
     <string name="device_display_layout_title">Возможности телефона</string>
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
@@ -1533,7 +1533,7 @@
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_info_settings">Состояние телефона</string>
     <string name="device_internal_memory">Внутренняя память</string>
-    <string name="device_memory">Оперативная память</string>
+    <string name="device_memory">ОЗУ</string>
     <string name="device_miui_more">Показать еще</string>
     <string name="device_miui_version">Версия MIUI</string>
     <string name="device_miui_version_for_POCO">Версия MIUI (для POCO)</string>
@@ -1546,7 +1546,7 @@
     <string name="device_picker">Выбрать устройство Bluetooth</string>
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_consumption">Потребление энергии экраном</string>
-    <string name="device_screen_resolution">Разрешение экрана</string>
+    <string name="device_screen_resolution">Разрешение</string>
     <string name="device_screen_size">Диагональ</string>
     <string name="device_screen_usage">Использование экрана с момента полной зарядки</string>
     <string name="device_sd_memory">SD карта</string>
