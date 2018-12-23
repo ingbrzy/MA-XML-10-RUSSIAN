@@ -12,7 +12,7 @@
   <string name="barcode_system_unmatch">Обновите MIUI перед установкой Сканнера</string>
   <string name="barcode_to_install">Установите Сканнер чтобы продолжить</string>
   <string name="barcode_uninstalled">Сканер удален</string>
-  <string name="choose_search_engine">Выберите поисковую систему по умолчанию</string>
+  <string name="choose_search_engine">Поисковая система по умолчанию</string>
   <string name="clear_history">Очистить историю</string>
   <string name="clear_shortcuts">Очистить ярлыки</string>
   <string name="clear_shortcuts_agree">Очистить ярлыки</string>
@@ -92,7 +92,7 @@
   <string name="search_widget">Поиск</string>
   <string name="send_secret_code">Отправить код</string>
   <string name="setting_other">Прочее</string>
-  <string name="setting_version">Версия приложения</string>
+  <string name="setting_version">Версия</string>
   <string name="setting_version_title">Версия приложения</string>
   <string name="settings_description">Установленные приложения</string>
   <string name="show_more">Показать больше</string>
