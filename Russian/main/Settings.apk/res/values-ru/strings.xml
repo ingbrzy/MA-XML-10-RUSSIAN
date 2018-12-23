@@ -1506,7 +1506,7 @@
     <string name="device_admin_settings_title">Настройки администратора устройства</string>
     <string name="device_admin_status">Приложение администратора активно и разрешает приложению \"%1$s\" выполнять следующие операции:</string>
     <string name="device_admin_warning">После активации приложения администратора приложение \"%1$s\" сможет выполнять следующие операции:</string>
-    <string name="device_available_memory">Память (доступно)</string>
+    <string name="device_available_memory">Доступно памяти</string>
     <string name="device_battery">Батарея</string>
     <string name="device_build_id">Номер сборки</string>
     <string name="device_camera">Камера</string>
@@ -1533,7 +1533,7 @@
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_info_settings">Состояние телефона</string>
     <string name="device_internal_memory">Внутренняя память</string>
-    <string name="device_memory">ОЗУ</string>
+    <string name="device_memory">Оперативная память</string>
     <string name="device_miui_more">Показать еще</string>
     <string name="device_miui_version">Версия MIUI</string>
     <string name="device_miui_version_for_POCO">Версия MIUI (для POCO)</string>
@@ -1546,7 +1546,7 @@
     <string name="device_picker">Выбрать устройство Bluetooth</string>
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_consumption">Потребление энергии экраном</string>
-    <string name="device_screen_resolution">Разрешение</string>
+    <string name="device_screen_resolution">Разрешение экрана</string>
     <string name="device_screen_size">Диагональ</string>
     <string name="device_screen_usage">Использование экрана с момента полной зарядки</string>
     <string name="device_sd_memory">SD карта</string>
@@ -1555,7 +1555,7 @@
     <string name="device_status_activity_title">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала…</string>
     <string name="device_theme">Тема устройства</string>
-    <string name="device_total_memory">Память (всего)</string>
+    <string name="device_total_memory">Всего памяти</string>
     <string name="device_usage_list_summary">Использование устройства с момента полной зарядки</string>
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук при наборе номера</string>
@@ -4279,7 +4279,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_keyguard_category_name">Экран блокировки</string>
     <string name="security_password_category_name">Защита устройства</string>
     <string name="security_passwords_title">Конфиденциальность</string>
-    <string name="security_patch">Последнее обновление системы безопасности</string>
+    <string name="security_patch">Обновление системы безопасности</string>
     <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="security_relative">Разрешения безопасности</string>
     <string name="security_settings_billing_desc">Это приложение может списывать деньги с вашего счета:</string>
