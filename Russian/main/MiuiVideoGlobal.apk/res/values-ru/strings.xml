@@ -49,8 +49,8 @@
     <string name="lv_device_list">Устройства</string>
     <string name="lv_device_list_seaching">&lt;Нет устройства для трансляции&gt;</string>
     <string name="lv_fullscreen">На весь экран</string>
-    <string name="lv_hide_folder">Скрытые</string>
-    <string name="lv_hide_prompt">Успешно. Файлы находятся в папке \"Скрытые\".</string>
+    <string name="lv_hide_folder">Скрытые видео</string>
+    <string name="lv_hide_prompt">Успешно. Скрытые файлы находятся в папке \"Скрытые видео\".</string>
     <string name="lv_history">История</string>
     <string name="lv_history_null">Пусто</string>
     <string name="lv_home_favorites">Избранное</string>
@@ -108,7 +108,7 @@
     <string name="screenrecord_share_video">Отправить видео</string>
     <string name="screenrecord_slience">Видео записано без звука, поскольку текущая версия MIUI не поддерживает запись звука.</string>
     <string name="screenrecord_success">Запись завершена. Вы можете поделиться видео.</string>
-    <string name="lv_set_password">Установите пароль для просмотра скрытых файлов</string>
+    <string name="lv_set_password">Задайте пароль для просмотра скрытых файлов</string>
     <string name="share_tips">Снимок экрана сохранен. Нажмите для отправки.</string>
     <string name="storage_external_sdcard">Внешний накопитель</string>
     <string name="storage_internal_sdcard">Память устройства</string>
@@ -178,7 +178,7 @@
     <string name="v_finish">Готово</string>
     <string name="v_folder_null">Неизвестная папка</string>
     <string name="v_hide_folder">Скрытые видео</string>
-    <string name="v_hide_prompt">Пароль задан. Просматривайте скрытые объекты в папке \"Скрытые видео\".</string>
+    <string name="v_hide_prompt">Пароль задан. Скрытые файлы находятся в папке \"Скрытые видео\".</string>
     <string name="v_history">История</string>
     <string name="v_history_null">Нет объектов</string>
     <string name="v_home_favorites">Избранные</string>
@@ -203,7 +203,7 @@
     <string name="v_selectall">Выбрать все</string>
     <string name="v_selectnull">Снять выбор</string>
     <string name="v_send_title">Отправить</string>
-    <string name="v_set_password">Задайте пароль для просмотра скрытых видео</string>
+    <string name="v_set_password">Задайте пароль для просмотра скрытых файлов</string>
     <string name="v_skip_update">Пропустить</string>
     <string name="v_symbol_rmb">¥</string>
     <string name="v_update">Обновить</string>
