@@ -50,7 +50,7 @@
     <string name="accessibility_close_tab">Закрыть текущую вкладку</string>
     <string name="accessibility_daltonizer_master_switch_title">Использовать коррекцию цвета</string>
     <string name="accessibility_description_state_stopped">Эта служба не работает.</string>
-    <string name="accessibility_disable_animations">Отключить анимацию</string>
+    <string name="accessibility_disable_animations">Отключение анимации</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства</string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
@@ -5416,7 +5416,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_image_photo_selector">Выбрать фото.</string>
     <string name="user_image_take_photo">Сделать снимок</string>
     <string name="user_info_settings_title">Сведения о пользователе</string>
-    <string name="user_installed_services_category_title">Скачанные сервисы</string>
+    <string name="user_installed_services_category_title">Установленные сервисы</string>
     <string name="user_list_title">Пользователи и профили</string>
     <string name="user_lockscreen_settings">Заблокированный экран</string>
     <string name="user_need_lock_message">Чтобы создать профиль с ограниченным доступом, необходимо предварительно настроить блокировку экрана для защиты приложений и личных данных</string>
