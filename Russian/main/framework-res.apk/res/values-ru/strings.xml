@@ -968,6 +968,7 @@
     <string name="permdesc_writeSettings">"Приложение сможет изменять настройки системы. Вредоносные программы смогут  повредить конфигурацию системы."</string>
     <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
     <string name="permgroupdesc_calendar">доступ к календарю</string>
+    <string name="permgroupdesc_calllog">доступ к журналу вызовов</string>
     <string name="permgroupdesc_camera">снимать фото и видео</string>
     <string name="permgroupdesc_contacts">доступ к контактам</string>
     <string name="permgroupdesc_location">доступ к данным о местоположении устройства</string>
@@ -977,6 +978,7 @@
     <string name="permgroupdesc_sms">отправлять и просматривать SMS-сообщения</string>
     <string name="permgroupdesc_storage">доступ к фото, мультимедиа и файлам на вашем устройстве</string>
     <string name="permgrouplab_calendar">Календарь</string>
+    <string name="permgrouplab_calllog">Журнал вызовов</string>
     <string name="permgrouplab_camera">Камера</string>
     <string name="permgrouplab_contacts">Контакты</string>
     <string name="permgrouplab_location">Местоположение</string>
@@ -985,9 +987,22 @@
     <string name="permgrouplab_sensors">Нательные датчики</string>
     <string name="permgrouplab_sms">SMS</string>
     <string name="permgrouplab_storage">Память</string>
+    <string name="permgrouprequest_calendar">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к календарю?</string>
+    <string name="permgrouprequest_calllog">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к журналу вызовов?</string>
+    <string name="permgrouprequest_camera">Разрешить &lt;b&gt;%1$s&lt;/b&gt; снимать фото и видео?</string>
+    <string name="permgrouprequest_contacts">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к контактам?</string>
+    <string name="permgrouprequest_location">"Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным о местоположении устройства?"</string>
+    <string name="permgrouprequest_microphone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; записывать аудио?</string>
+    <string name="permgrouprequest_phone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; осуществление телефонных звонков и управление ими?</string>
+    <string name="permgrouprequest_sensors">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным датчиков о состоянии организма?</string>
+    <string name="permgrouprequest_sms">Разрешить &lt;b&gt;%1$s&lt;/b&gt; отправлять и просматривать SMS-сообщения?</string>
+    <string name="permgrouprequest_storage">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к фото, мультимедиа и файлам на вашем устройстве?</string>
+    <string name="permission">Разрешение</string>
+    <string name="permission_remember_choice">Запомнить</string>
     <string name="permission_request_notification_title">Разрешение запрошено</string>
     <string name="permission_request_notification_with_subtitle">"Требуется разрешение
 для аккаунта %s."</string>
+    <string name="permlab_acceptHandover">продолжить звонок из другого приложения</string>
     <string name="permlab_accessCoarseLocation">Доступ к примерному местоположению (по координатам сети)</string>
     <string name="permlab_accessDrmCertificates">Доступ к сертификатам DRM</string>
     <string name="permlab_accessFineLocation">Доступ к точному местоположению (по координатам сети и спутникам GPS)</string>
