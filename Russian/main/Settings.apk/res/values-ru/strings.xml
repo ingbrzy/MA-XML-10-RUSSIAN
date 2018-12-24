@@ -2328,6 +2328,7 @@
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
+    <string name="keyguard_vertical_clock_title">Вертикальные часы</string>
     <string name="keywords_accounts">аккаунт</string>
     <string name="keywords_airplane">Самолет;Режим полета;Самолет;Режим полета;Полет;Режим полета</string>
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
