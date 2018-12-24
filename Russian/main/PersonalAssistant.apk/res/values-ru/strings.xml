@@ -64,14 +64,14 @@
     <string name="calc_currency">Валюта</string>
     <string name="calc_name">Научный</string>
     <string name="calc_parent">Калькулятор</string>
-    <string name="calendar_name">Мероприятие</string>
+    <string name="calendar_name">Создать</string>
     <string name="calendar_parent">Календарь</string>
     <string name="card_menu_edit">Редактировать</string>
     <string name="card_menu_setting">Настройки</string>
     <string name="card_note_finish">Готово</string>
     <string name="card_setting_btn">Настроить</string>
     <string name="card_settings">Настроить</string>
-    <string name="card_title_empty_note">Создайте заметку</string>
+    <string name="card_title_empty_note">Создать заметку</string>
     <string name="card_example">Карточка</string>
     <string name="card_expand_note_clear">Очистить</string>
     <string name="card_expand_note_clear_all">Очистить все</string>
