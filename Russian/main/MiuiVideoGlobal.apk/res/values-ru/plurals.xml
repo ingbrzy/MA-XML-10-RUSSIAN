@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
     <plurals name="subtitle_offset_advance_times">
         <item quantity="other">Ускорение субтитров на %.1f секунд</item>
         <item quantity="one">Ускорение субтитров на %.1f секунду</item>
