@@ -75,8 +75,8 @@
     <string name="lv_unhide_prompt">Успешно. Файлы доступны для просмотра.</string>
     <string name="lv_updating">Обновление…</string>
     <string name="lp_advance_sound">Улучшение звука</string>
-    <string name="lv_airkan_control_device_des">Для управления воспроизведением коснитесь панели внизу.</string>
-    <string name="lv_airkan_device_xiaomi_phone">Мой Mi phone</string>
+    <string name="lv_airkan_control_device_des">Для управления воспроизведением коснитесь панели внизу экрана</string>
+    <string name="lv_airkan_device_xiaomi_phone">Мой телефон</string>
     <string name="lv_airkan_playing">Трансляция на %s</string>
     <string name="lv_airkan_tips">Нажмите для трансляции</string>
     <string name="not_show">"Не показывать снова"</string>
