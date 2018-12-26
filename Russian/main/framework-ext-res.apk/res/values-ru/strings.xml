@@ -9,7 +9,7 @@
     <string name="status_bar_toggle_mute">Без звука</string>
     <string name="status_bar_toggle_rotate">Ориентация</string>
     <string name="status_bar_toggle_screen_button">Кнопки</string>
-    <string name="status_bar_toggle_screenshot">Снимок</string>
+    <string name="status_bar_toggle_screenshot">Скриншот</string>
     <string name="status_bar_toggle_sync">Синхр.</string>
     <string name="status_bar_toggle_torch">Фонарик</string>
     <string name="status_bar_toggle_vibrate">Вибрация</string>
@@ -84,8 +84,8 @@
     <string name="handy_mode_summary">Для выхода нажмите на темную область</string>
     <string name="handy_mode_enter_dlg_title">Управление одной рукой</string>
     <string name="handy_mode_enter_dlg_msg">Войти в режим управления одной рукой?</string>
-    <string name="screenshot_gesture_detect_alert_title">Снимок тремя пальцами</string>
-    <string name="screenshot_gesture_detect_alert_msg">Вы провели вниз тремя пальцами. Использовать этот жест для снимков экрана?</string>
+    <string name="screenshot_gesture_detect_alert_title">Скриншот тремя пальцами</string>
+    <string name="screenshot_gesture_detect_alert_msg">Вы провели вниз тремя пальцами. Использовать этот жест для скриншотов?</string>
     <string name="screenshot_gesture_detect_alert_button">OK</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Больше не показывать</string>
     <string name="permlab_manageLocationPolicy">Доступ к местоположению</string>
