@@ -126,7 +126,7 @@
     <string name="non_system_app_select">Приложения</string>
     <string name="system_app_select">Система</string>
     <string name="section_description">Описание</string>
-    <string name="section_screenshot">Снимок экрана</string>
+    <string name="section_screenshot">Скриншот</string>
     <string name="toast_report_sent_succeed">Отчет успешно отправлен</string>
     <string name="toast_report_sent_failed">Не удалось отправить отчет</string>
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
