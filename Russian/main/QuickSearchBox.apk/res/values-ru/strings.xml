@@ -23,7 +23,7 @@
   <string name="clear_shortcuts_summary">Очистить ярлыки для недавних поисковых запросов</string>
   <string name="common_setting">Общие настройки</string>
   <string name="connect_and_retry">Подключитесь к интернету и попробуйте снова.</string>
-  <string name="corpus_description_apps">Установленные приложения/string>
+  <string name="corpus_description_apps">Установленные приложения</string>
   <string name="corpus_description_web">Закладки</string>
   <string name="corpus_hint_apps">Поиск приложений</string>
   <string name="corpus_label_apps">Приложения</string>
