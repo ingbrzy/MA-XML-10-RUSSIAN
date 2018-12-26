@@ -415,7 +415,7 @@
     <string name="camera_key_action_setting_title">Mi клавиша</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
     <string name="camera_key_action_shortcut_home">Рабочий стол</string>
-    <string name="camera_key_action_shortcut_screenshot">Снимок экрана</string>
+    <string name="camera_key_action_shortcut_screenshot">Скриншот</string>
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_title">Функция</string>
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
@@ -966,12 +966,12 @@
     <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
     <string name="lockscreen_unlock_left">Левый ярлык также разблокирует экран</string>
     <string name="lockscreen_unlock_right">Правый ярлык также разблокирует экран</string>
-    <string name="long_screenshot_not_support_msg">Приложение не поддерживает снимки с прокруткой</string>
+    <string name="long_screenshot_not_support_msg">Приложение не поддерживает скриншоты с прокруткой</string>
     <string name="long_screenshot_out_of_memory_error">Изображение слишком большое</string>
     <string name="long_screenshot_processing">Обработка…</string>
     <string name="long_screenshot_stop">Стоп</string>
-    <string name="long_screenshot_top_msg">Создание снимка экрана…</string>
-    <string name="long_screenshot_top_msg_manual">Обрежьте снимок и нажмите кнопку для завершения</string>
+    <string name="long_screenshot_top_msg">Создание скриншота…</string>
+    <string name="long_screenshot_top_msg_manual">Обрежьте скриншот и нажмите кнопку для завершения</string>
     <string name="low_temperature_button_ok">Понятно</string>
     <string name="low_temperature_warning_message">Слишком низкая температура. Ваш телефон может отключиться в любое время. Сохраните все важные данные.</string>
     <string name="low_temperature_warning_title">Низкая температура</string>
