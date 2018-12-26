@@ -228,7 +228,7 @@
     <string name="button_text_keep_one">Оставить экземпляр</string>
     <string name="activity_title_tedious_image">Случайные фото</string>
     <string name="activity_title_brightness_image">Неверная экспозиция</string>
-    <string name="activity_title_screenshot">Снимки экрана</string>
+    <string name="activity_title_screenshot">Скриншоты</string>
     <string name="activity_title_similar_image">Дубликаты фото</string>
     <string name="label_preserve_the_best_image">Сохранять наиболее четкие фото</string>
     <string name="button_text_select_all_photos">Выбрать все</string>
