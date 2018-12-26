@@ -977,7 +977,7 @@
     <string name="power_center_charge_time">%1$sдо окончания</string>
     <string name="power_dialog_cancel">Отмена</string>
     <string name="power_dialog_ok">OK</string>
-    <string name="power_consume_rank_title">Потребление энергии</string>
+    <string name="power_consume_rank_title">Использование батареи</string>
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Устройство</string>
     <string name="power_consume_software_total_format">Приложения: %s</string>
@@ -1054,7 +1054,7 @@
     <string name="deep_clean_never_memory_clean">Никогда</string>
     <string name="deep_clean_memory_clean_title">Очищать память</string>
     <string name="deep_clean_disconnect_data_title">Отключать интернет</string>
-    <string name="power_analysis_consume_title">Потребление энергии</string>
+    <string name="power_analysis_consume_title">Использование батареи</string>
     <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с батареей</string>
     <string name="power_optimize_save_on_lockscreen">Экономия заряда при блокировке устройства</string>
     <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
