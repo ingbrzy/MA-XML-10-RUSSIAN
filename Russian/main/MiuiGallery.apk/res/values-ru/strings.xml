@@ -219,8 +219,8 @@
     <string name="cleaner_scan_ok">Понятно</string>
     <string name="cleaner_scan_title">Проверка альбомов…</string>
     <string name="cleaner_screen_shot_action">Очистить</string>
-    <string name="cleaner_screen_shot_description">Удаляйте ненужные вам снимки экрана</string>
-    <string name="cleaner_screen_shot_title">Снимки экрана</string>
+    <string name="cleaner_screen_shot_description">Удалите ненужные вам скриншоты</string>
+    <string name="cleaner_screen_shot_title">Скриншоты</string>
     <string name="cleaner_slim_action">Начать оптимизацию</string>
     <string name="cleaner_slim_description">Храните на своем устройстве сжатые фото. Исходные файлы будут храниться в Mi Cloud.</string>
     <string name="cleaner_slim_start">Оптимизировать</string>
