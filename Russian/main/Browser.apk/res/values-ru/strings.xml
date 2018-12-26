@@ -221,7 +221,7 @@
     <string name="download_pending">Начало загрузки…</string>
     <string name="download_phone_tip">Телефон</string>
     <string name="download_router_tip">Загрузить в Mi Router</string>
-    <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузку, отключите USB-накопитель в области уведомлений.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузку, отключите USB-накопитель в шторке уведомлений.</string>
     <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
     <string name="download_status_failed">"Не удалось загрузить"</string>
     <string name="download_status_pending">Ожидание</string>
@@ -263,8 +263,8 @@
     <string name="menu_title_resume_all">Начать все</string>
     <string name="miui_bookmark_action_bar_add_group_title">Добавить папку</string>
     <string name="miui_bookmark_action_bar_new_group_title">Новая папка</string>
-    <string name="miui_quicksearch_enable_pref_summary">Показывать панель поиска в области уведомлений</string>
-    <string name="miui_quicksearch_enable_pref_title">Панель поиска в области уведомлений</string>
+    <string name="miui_quicksearch_enable_pref_summary">Показывать панель поиска в шторке уведомлений</string>
+    <string name="miui_quicksearch_enable_pref_title">Панель поиска в шторке уведомлений</string>
     <string name="miui_search_notification_message">Нажмите, чтобы открыть панель поиска.</string>
     <string name="miui_search_notification_title">Search</string>
     <string name="mw_actionbar_share">Поделиться</string>
@@ -438,7 +438,7 @@
     <string name="save_form_data_confirm_message">Отключение этой функции может повлиять на использование.</string>
     <string name="save_image_failed">"Не удалось сохранить изображение"</string>
     <string name="save_image_success">Изображение сохранено</string>
-    <string name="save_page_capture_tip">Откройте область уведомлений для просмотра скриншота.</string>
+    <string name="save_page_capture_tip">Откройте шторку уведомлений для просмотра скриншота.</string>
     <string name="save_page_capture_to_camera">Скриншот сохранен</string>
     <string name="save_to_bookmark">Добавить в закладки</string>
     <string name="save_to_camera">Сохранить в Галерею</string>
