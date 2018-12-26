@@ -311,7 +311,7 @@
     <string name="battery_low_title">Батарея разряжена</string>
     <string name="battery_low_why">Настройки</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="battery_panel_title">Потребление энергии</string>
+    <string name="battery_panel_title">Использование батареи</string>
     <string name="battery_profiles">Режимы батареи</string>
     <string name="battery_saver_confirmation_ok">Включить</string>
     <string name="battery_saver_confirmation_title">Включить экономию энергии?</string>
