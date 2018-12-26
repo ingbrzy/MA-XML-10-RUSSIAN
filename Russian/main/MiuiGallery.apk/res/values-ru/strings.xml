@@ -65,7 +65,7 @@
     <string name="album_quota_fulfiled">Слишком много альбомов. Удалите часть альбомов и повторите попытку.</string>
     <string name="album_scanner">Сканер</string>
     <string name="album_screen_recorder">Записи экрана</string>
-    <string name="album_screenshot_name">Снимки экрана</string>
+    <string name="album_screenshot_name">Скриншоты</string>
     <string name="album_share_exit_confirm">Выйти из альбома?</string>
     <string name="album_share_kicked">Альбом %1$s закрыт</string>
     <string name="album_share_stat_content">Приглашения</string>
@@ -236,7 +236,7 @@
     <string name="cloud_guide_auto_backup_title">Выберите альбомы для выгрузки</string>
     <string name="cloud_guide_login_title">Автоматическая выгрузка фото и видео</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
-    <string name="cloud_screenshots_display_name">Снимки экрана</string>
+    <string name="cloud_screenshots_display_name">Скриншоты</string>
     <string name="cloud_settings">Синхронизация</string>
     <string name="cloud_storage_extend">Получить больше места</string>
     <string name="cloud_storage_ok_append_desc">Доступно %s</string>
@@ -1021,7 +1021,7 @@
     <string name="search_setting_title">Поиск фото в Галерее</string>
     <string name="search_syncing">Синхронизация данных, возвращайтесь позже</string>
     <string name="search_title_album">Альбом</string>
-    <string name="search_title_app_screenshot">Снимки экрана</string>
+    <string name="search_title_app_screenshot">Скриншоты</string>
     <string name="search_title_history">История поиска</string>
     <string name="search_title_location">Места</string>
     <string name="search_title_more">Еще</string>
