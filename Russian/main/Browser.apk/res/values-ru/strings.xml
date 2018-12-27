@@ -341,7 +341,7 @@
     <string name="pref_enable_news">Новости</string>
     <string name="pref_enable_novels">Книги</string>
     <string name="pref_enable_videos">Видео</string>
-    <string name="pref_extras_reset_default">Сброс настроек</string>
+    <string name="pref_extras_reset_default">Сбросить настройки</string>
     <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
     <string name="pref_extras_reset_default_summary">Восстановить порядок по умолчанию</string>
     <string name="pref_extras_reset_default_title">Другое</string>
