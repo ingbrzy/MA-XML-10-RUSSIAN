@@ -42,7 +42,7 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>По умолчанию</item>
-        <item>Особая</item>
+        <item>Выбрать</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Телефон</item>
