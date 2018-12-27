@@ -411,7 +411,7 @@
     <string name="pref_security_save_form_data_summary">Запоминать данные в веб-формах, для дальнейшего использования</string>
     <string name="pref_security_show_security_warning">Показывать предупреждения безопасности</string>
     <string name="pref_security_show_security_warning_summary">Показать предупреждение, если у сайта проблема с сертификатом</string>
-    <string name="pref_set_homepage_to">Сделать стартовой страницей</string>
+    <string name="pref_set_homepage_to">Установить стартовую страницу</string>
     <string name="pref_tab_restore">Восстановление вкладок при запуске</string>
     <string name="pref_ua_string">Строка User agent</string>
     <string name="pref_version_info">Информация о версии</string>
