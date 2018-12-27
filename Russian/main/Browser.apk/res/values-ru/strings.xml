@@ -256,6 +256,8 @@
     <string name="find_on_page_hint">Искать на странице</string>
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
+    <string name="force_quick_search_title">Поиск</string>
+    <string name="homepage_search_hint">Поиск</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_title_clear_all">Очистить все</string>
     <string name="menu_title_open_file_management">Открыть Проводник</string>
@@ -266,7 +268,7 @@
     <string name="miui_quicksearch_enable_pref_summary">Показывать панель поиска в шторке уведомлений</string>
     <string name="miui_quicksearch_enable_pref_title">Панель поиска в шторке уведомлений</string>
     <string name="miui_search_notification_message">Нажмите, чтобы открыть панель поиска.</string>
-    <string name="miui_search_notification_title">Search</string>
+    <string name="miui_search_notification_title">Поиск</string>
     <string name="mw_actionbar_share">Поделиться</string>
     <string name="mw_no_matches">Нет совпадений</string>
     <string name="mw_notification_category_browser">Браузер</string>
@@ -301,6 +303,9 @@
     <string name="nav_screen_incognito_message">" История просмотра и поиска не будет сохранена в режиме инкогнито.
  Помните, что загруженные файлы и добавленные закладки будут сохранены."</string>
     <string name="nav_screen_incognito_title">Режим инкогнито</string>
+    <string name="navigationbar_rightbutton_actiontext_cancle">Отмена</string>
+    <string name="navigationbar_rightbutton_actiontext_go">Найти</string>
+    <string name="navigationbar_rightbutton_actiontext_search">Поиск</string>
     <string name="no_space_alert_cancel">Позже</string>
     <string name="no_space_alert_clean">Освободить место</string>
     <string name="no_space_alert_text">Недостаточно места</string>
@@ -468,7 +473,7 @@
     <string name="translation_copy">Копировать</string>
     <string name="translation_more">Посмотреть больше</string>
     <string name="translation_query_error">"Не удалось перевести"</string>
-    <string name="translation_query_error_network">"Couldn't get info. Connect to the network and try again."</string>
+    <string name="translation_query_error_network">"Не удалось получить информацию. Подключитесь к сети и попробуйте снова."</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
     <string name="unSwitchText">НЕТ</string>
     <string name="undo">Отмена</string>
