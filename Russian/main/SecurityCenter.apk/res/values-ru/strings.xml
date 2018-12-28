@@ -1328,7 +1328,7 @@
     <string name="sp_background_risk_type_sign">Запущено неофициальное приложение</string>
     <string name="sp_background_risk_type_root">Разрешен ROOT доступ</string>
     <string name="resource_securitycenter_settings">Безопасность</string>
-    <string name="keywords_securitycenter_settings">Использование батареи;Управление автозапуском;Установка через USB;Разрешения приложений;Купить трафик;Черный список;Трафик;Калибровка тарифного плана;Диагностика сети; Экономия заряда;Перегрев;Включить;Выключить;Батарея;Истощение;Проблемы с батареей;Энергия;Энергосбережение;Энергосбережение;Энергосбережение;Экономия заряда; Автозапуск;Разрешения;Авто запуск;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск; установка через USB;установка с компьютера;установка через ADB; Местоположение;Доступ к контактам; трафик;мобильный трафик;купить трафик;пополнить трафик;тарифный план; Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;черный список;черный список;мошенник;блокировать контакт;блокировать контакты; Трафик; Калибровка; Подключение;Интернет;Диагностика сети; Потребление энергии; Игра;ускорение;King of Glory;Ускорение процессора;Не беспокоить</string>
+    <string name="keywords_securitycenter_settings">Использование батареи;Управление автозапуском;Установка через USB;Разрешения приложений;Купить трафик;Черный список;Трафик;Калибровка тарифного плана;Диагностика сети; Экономия заряда;Перегрев;Включить;Выключить;Батарея;Истощение;Проблемы с батареей;Энергия;Энергосбережение;Энергосбережение;Энергосбережение;Экономия заряда; Автозапуск;Разрешения;Авто запуск;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск; установка через USB;установка с компьютера;установка через ADB; Местоположение;Доступ к контактам; трафик;мобильный трафик;купить трафик;пополнить трафик;тарифный план; Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;черный список;черный список;мошенник;блокировать контакт;блокировать контакты; Трафик; Калибровка; Подключение;Интернет;Диагностика сети; Использование батареи; Игра;ускорение;King of Glory;Ускорение процессора;Не беспокоить</string>
     <string name="path_securitycenter_settings">Системные приложения/Безопасность</string>
     <string name="resource_securitycenter">Безопасность</string>
     <string name="keywords_securitycenter">Безопасность;Проверка;Сканировать</string>
@@ -1367,8 +1367,8 @@
     <string name="keywords_networkassistant_4">Подключение;Интернет;Тест</string>
     <string name="path_networkassistant_4">Системные приложения/Безопасность/Передача данных/Диагностика сети</string>
     <string name="resource_powercenter_powerrank">Питание и производительность</string>
-    <string name="keywords_powercenter_powerrank">Потребление энергии</string>
-    <string name="path_powercenter_powerrank">Питание и производительность/Потребление энергии</string>
+    <string name="keywords_powercenter_powerrank">Использование батареи</string>
+    <string name="path_powercenter_powerrank">Питание и производительность/Использование батареи</string>
     <string name="resource_gamebooster">Ускорение игр</string>
     <string name="keywords_gamebooster">Игра;увеличение скорости;King of Glory;Ускорение процессора;Не беспокоить;Игры;Скорость игры;ускорение</string>
     <string name="path_gamebooster">Системные приложения/Безопасность/Ускорение игр</string>
@@ -1653,7 +1653,7 @@
     <string name="call_and_contact">Контакты и вызовы</string>
     <string name="permission_with_call_and_contact">Доступ к контактам и вызовам</string>
     <string name="title_flow_rank">Потребление трафика</string>
-    <string name="title_consume_power_rank">Потребление энергии</string>
+    <string name="title_consume_power_rank">Использование батареи</string>
     <string name="title_payment_protection">Платежи безопасны</string>
     <string name="title_payment_risk">Платежи небезопасны</string>
     <string name="summary_payment_risk">Платежи с этого устройства небезопасны</string>
@@ -2371,7 +2371,7 @@
     <string name="first_aid_item3_content">Настройки</string>
     <string name="first_aid_item4_content">Питание</string>
     <string name="first_aid_item5_content">Другие проблемы</string>
-    <string name="first_aid_card_consume_power_title">Потребление энергии</string>
+    <string name="first_aid_card_consume_power_title">Использование батареи</string>
     <string name="first_aid_card_consume_power_summary1">Разрешен автозапуск более 5 приложений. Ограничьте их число для экономии энергии.</string>
     <string name="first_aid_card_consume_power_button1">Ограничить</string>
     <string name="first_aid_card_consume_power_summary2">Отключите точку доступа для экономии энергии</string>
