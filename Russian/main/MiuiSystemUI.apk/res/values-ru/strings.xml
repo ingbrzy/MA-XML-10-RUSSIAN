@@ -1458,6 +1458,8 @@
     <string name="show_touches">Отображать касания</string>
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
     <string name="simulate_color_space">Имитация аномалии</string>
+    <string name="slider_second_tip_text">Сдвиньте экран вниз чтобы открыть камеру</string>
+    <string name="slider_text">Сдвиньте экран вниз чтобы открыть камеру</string>
     <string name="snooze_option_15_min">15 минут</string>
     <string name="snooze_option_1_hour">1 час</string>
     <string name="snooze_option_2_hour">2 часа</string>
