@@ -115,6 +115,14 @@
     <string name="close_ads_choice_yes">Блокировать</string>
     <string name="close_all_tab_alert_message">Закрыть все вкладки, открытые в Браузере?</string>
     <string name="close_all_tab_alert_title">Закрыть все вкладки</string>
+    <string name="cloud_loading_tips">Потяните вниз для синхронизации</string>
+    <string name="cloud_no_new_data_toast">Новых данных нет</string>
+    <string name="cloud_sync_closed_toast">Включите синхронизацию для обновления</string>
+    <string name="cloud_sync_failed_toast">Не удалось обновить</string>
+    <string name="cloud_tab">Облачные вкладки</string>
+    <string name="cloud_tabs_sync_off">Синхронизация выключена</string>
+    <string name="cloud_time_tips">Последняя синхронизация</string>
+    <string name="cloud_up_to_loading_tips">Отпустите для синхронизации</string>
     <string name="context_menu_add_to_desk_id">Добавить на рабочий стол</string>
     <string name="context_menu_orientation_portrait_swap_id">V/H экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
@@ -159,7 +167,7 @@
     <string name="data_traffic_stop">Остановить</string>
     <string name="delete">Удалить</string>
     <string name="delete_bookmark">Удалить</string>
-    <string name="delete_bookmark_action_warning">Удалить закладки?</string>
+    <string name="delete_bookmark_action_warning">Удалить выбранное?</string>
     <string name="delete_bookmark_group_warning">Удалить \"%s\"? Все закладки в этой папке будут удалены.</string>
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_download">Удалить</string>
@@ -248,7 +256,7 @@
     <string name="favorite">Добавить в избранное</string>
     <string name="file_dir">Изменить каталог</string>
     <string name="file_name">"Имя файла: "</string>
-    <string name="file_picker">Выберите каталог</string>
+    <string name="file_picker">Выбор каталога</string>
     <string name="filename_empty_alert_message">Введите имя файла</string>
     <string name="filename_illegal_alert_message">Недопустимый символ был удален из имени файла</string>
     <string name="find_new_version">Доступно обновление</string>
@@ -257,6 +265,7 @@
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
     <string name="force_quick_search_title">Поиск</string>
+    <string name="history">История</string>
     <string name="homepage_search_hint">Поиск</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_title_clear_all">Очистить все</string>
@@ -348,15 +357,15 @@
     <string name="pref_enable_videos">Видео</string>
     <string name="pref_extras_reset_default">Сбросить настройки</string>
     <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
-    <string name="pref_extras_reset_default_summary">Восстановить порядок по умолчанию</string>
+    <string name="pref_extras_reset_default_summary">Восстановить каталог по умолчанию</string>
     <string name="pref_extras_reset_default_title">Другое</string>
     <string name="pref_extras_send_feedback">Отправить отзыв</string>
     <string name="pref_extras_title">Дополнительные настройки</string>
     <string name="pref_extras_title_version">Версия</string>
-    <string name="pref_file_downlaod_save_is_reset_default_settings">"Сохранять файлы в каталог по умолчанию"</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">Восстановить каталог по умолчанию</string>
-    <string name="pref_file_download_default_path_prefix">Каталог: %s</string>
-    <string name="pref_file_download_save_modify_default_path">Каталог загрузок</string>
+    <string name="pref_file_downlaod_save_is_reset_default_settings">"Каталог по умолчанию"</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">По умолчанию</string>
+    <string name="pref_file_download_default_path_prefix"> %s</string>
+    <string name="pref_file_download_save_modify_default_path">Выбор каталога</string>
     <string name="pref_fling_gesture">Жест от края экрана</string>
     <string name="pref_font_size_category">Размер текста</string>
     <string name="pref_force_userscalable">Масштабирование</string>
@@ -466,6 +475,9 @@
     <string name="sign_in_to" formatted="false">Регистрация в %s1 \"%s2\"</string>
     <string name="signed_in">Успешно</string>
     <string name="slide_guide">Слайд для возврата</string>
+    <string name="snapshot">Локальные</string>
+    <string name="snapshot_failed">Не удалось сохранить страницу</string>
+    <string name="snapshot_successed">Сохранено в Закладки -&gt; Локальные</string>
     <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
     <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
     <string name="sync_cloud_tabs">Синхронизация</string>
