@@ -98,6 +98,6 @@
     <string name="atrace_start">Создание журнала atrace…</string>
     <string name="atrace_saving">Сохранение журнала atrace…</string>
     <string name="atrace_saved">Сохранение завершено</string>
-    <string name="adaptive_battery_summary">"Ограничить расход батареи для приложений, которые редко используются"</string>
+    <string name="adaptive_battery_summary">"Ограничить расход батареи для редко используемых приложений"</string>
     <string name="adaptive_battery_title">Адаптивный режим</string>
 </resources>
