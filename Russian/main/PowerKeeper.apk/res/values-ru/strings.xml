@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Имя файла слишком длинное.</string>
     <string name="power_config_select_apps_title">Приложения</string>
     <string name="power_config_event_delete">Удалить</string>
-    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для снижения расхода заряда батареи. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
+    <string name="hide_mode_desc"><font color="#000000">Когда приложение работает в фоновом режиме, его активность контролируется для снижения расхода батареи. Эта функция будет получать и использовать личные данные в соответствии с %s.</font></string>
     <string name="privacy">Политика конфиденциальности</string>
     <string name="power_hide_mode_title">Питание и производительность</string>
     <string name="power_config_apps">Контроль активности</string>
@@ -16,14 +16,14 @@
     <string name="about_extreme_mode">Максимальная экономия</string>
     <string name="scenario_policies_title">Умные сценарии</string>
     <string name="config_scenario_policies_title">Сценарии</string>
-    <string name="scenario_policies_summary">Различные стратегии экономии энергии для разных сценариев использования устройства</string>
+    <string name="scenario_policies_summary">Различные стратегии экономии батареи для разных сценариев использования устройства</string>
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleep_config_enhance_description">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование NFC, Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>
     <string name="sleep_config_enhance_description_non_nfc">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
-    <string name="nonui_mode_config_description">Не включать экран при получении уведомлений, отключить световой индикатор, сканер отпечатков и сенсорное управление для экономии энергии, когда MIUI обнаруживает, что устройство не используется</string>
+    <string name="nonui_mode_config_description">Не включать экран при получении уведомлений, отключить световой индикатор, сканер отпечатков и сенсорное управление для экономии батареи, когда MIUI обнаруживает, что устройство не используется</string>
     <string name="power_center">Питание</string>
-    <string name="power_usage">Потребление энергии</string>
+    <string name="power_usage">Использование батареи</string>
     <string name="power_mode">Режим питания</string>
     <string name="performance_category">Производительность</string>
     <string name="pref_config_title">Оптимизация производительности</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">Включить VIP отчет</string>
     <string name="extreme_power_config_mode_category">Максимальная экономия</string>
     <string name="extreme_power_config_mode_title">Максимальная экономия</string>
-    <string name="extreme_power_config_mode_desc">Включите режим Максимальной экономии для отключения синхронизации, Bluetooth, GPS, NFC, двойных нажатий, подсветки кнопок, включения экрана при получении уведомлений, а также световой индикации. MIUI сосредоточится на экономии энергии.</string>
+    <string name="extreme_power_config_mode_desc">Включите режим Максимальной экономии для отключения синхронизации, Bluetooth, GPS, NFC, двойных нажатий, подсветки кнопок, включения экрана при получении уведомлений, а также световой индикации. MIUI сосредоточится на экономии заряда батареи.</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
     <string name="hints_loading_text">Секунду…</string>
     <string name="config_mode_title">Контроль фоновой активности</string>
@@ -52,7 +52,7 @@
 Контроль активности будет обрабатывать важные приложения избирательно."</string>
     <string name="config_no_restrict_description">Контроль активности не будет ограничивать работу приложений</string>
     <string name="config_restrict_function_description">Может влиять на некоторые функции (например, уведомления), но приложения не будут закрыты</string>
-    <string name="config_restrict_running_description">Работающие приложения могут быть закрыты для экономии энергии</string>
+    <string name="config_restrict_running_description">Работающие приложения могут быть закрыты для экономии батареи</string>
     <string name="power_checker_partial_wakelock_title">%1$s блокирует спящий режим</string>
     <string name="power_checker_wifi_scan_title">%1$s часто ищет сети Wi-Fi</string>
     <string name="power_checker_background_gps_title">%1$s часто использует GPS</string>
@@ -82,7 +82,7 @@
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Приложения не найдены</string>
     <string name="power_consume_abnormal_night">Батарея разряжается ночью</string>
-    <string name="enable_sleep_mode">Включите режим сна для экономии заряда батареи ночью</string>
+    <string name="enable_sleep_mode">Включите режим сна для экономии батареи ночью</string>
     <string name="sleepmode_privacy_title">Режим сна</string>
     <string name="sleepmode_privacy_content">Эта функция будет использовать данные о вашей системе и устройстве. Они не будут загружены на наши серверы.</string>
     <string name="sleepmode_privacy_link">Подробнее о конфиденциальности</string>
@@ -98,4 +98,6 @@
     <string name="atrace_start">Создание журнала atrace…</string>
     <string name="atrace_saving">Сохранение журнала atrace…</string>
     <string name="atrace_saved">Сохранение завершено</string>
+    <string name="adaptive_battery_summary">"Ограничить расход батареи для приложений, которые редко используются"</string>
+    <string name="adaptive_battery_title">Адаптивный режим</string>
 </resources>
