@@ -2166,7 +2166,7 @@
     <string name="haptic_feedback_enable_title">Виброотклик</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
-    <string name="hardware_info">Модель и оборудование</string>
+    <string name="hardware_info">Модель и серийный номер</string>
     <string name="hardware_revision">Версия аппаратного обеспечения</string>
     <string name="hardware_version">Версия оборудования</string>
     <string name="has_screenshot_sound">Звук снимка экрана</string>
