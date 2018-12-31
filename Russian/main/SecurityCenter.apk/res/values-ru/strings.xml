@@ -2145,6 +2145,8 @@
     <string name="app_manager_mobile_slot1">3G/4G (SIM 1)</string>
     <string name="app_manager_mobile_slot2">3G/4G (SIM 2)</string>
     <string name="app_manager_details_title">Сведения</string>
+    <string name="app_manager_full_screen_summary">Разрешить выбранным приложениям работать в полноэкранном режиме</string>
+    <string name="app_manager_full_screen_title">Полноэкранный режим</string>
     <string name="manage_hybrid_permissions">Управление разрешениями</string>
     <string name="ad_btn_default_text">Подробнее</string>
     <string name="open_activity_err">Приложение не найдено</string>
