@@ -18,12 +18,6 @@
         <item quantity="few">Удалить выбранные часовые пояса?</item>
         <item quantity="many">Удалить выбранные часовые пояса?</item>
     </plurals>
-    <plurals name="second">
-        <item quantity="other">%d с</item>
-        <item quantity="one">%d с</item>
-        <item quantity="few">%d с</item>
-        <item quantity="many">%d с</item>
-    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">"Отложить
 на %d минут"</item>
@@ -52,4 +46,38 @@
         <item quantity="few">%1$d секунды</item>
         <item quantity="many">%1$d секунд</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
+        <item quantity="few">%d ч</item>
+        <item quantity="many">%d ч</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+        <item quantity="few">%d мин</item>
+        <item quantity="many">%d мин</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d с</item>
+        <item quantity="few">%d с</item>
+        <item quantity="many">%d с</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>    
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Будильник зазвонит через %2$s (каждые %1$s мин)</item>
+        <item quantity="one">Будильник зазвонит через %2$s (%1$s мин)</item>
+    </plurals>    
 </resources>
