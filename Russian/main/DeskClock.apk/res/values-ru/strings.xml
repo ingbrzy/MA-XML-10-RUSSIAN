@@ -67,7 +67,6 @@
     <string name="force_touch_enter_stopwatch">Секундомер</string>
     <string name="force_touch_enter_timer">Таймер</string>
     <string name="go_back">Назад</string>
-    <string name="hour">1 час</string>
     <string name="hour_unit">Час +</string>
     <string name="hours">%d ч</string>
     <string name="install_weather_app_error">Не удалось загрузить приложение</string>
@@ -112,7 +111,6 @@
     <string name="menu_item_dock_settings">Настройки</string>
     <string name="menu_item_sort_by_gmt_offset">Сортировать по времени</string>
     <string name="menu_item_sort_by_name">Сортировать по имени</string>
-    <string name="minute">1 мин</string>
     <string name="minutes">%d мин</string>
     <string name="module_download_cancel">Нет, спасибо</string>
     <string name="module_download_data_msg">Часам требуется подключение к интернету для загрузки аудиофайлов (20 МБ) звуков природы и умных будильников. Вы используете мобильный интернет. Разрешить?</string>
