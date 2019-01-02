@@ -40,7 +40,6 @@
     <string name="content_desc_keep_screen">Кнопка \"Не выключать экран\"</string>
     <string name="control_set_alarm">Установить</string>
     <string name="control_set_alarm_with_existing">Будильник установлен: %s</string>
-    <string name="day">1 день</string>
     <string name="day_concat">", "</string>
     <string name="days">%d д</string>
     <string name="default_alarm_alert">Мелодия по умолчанию</string>
