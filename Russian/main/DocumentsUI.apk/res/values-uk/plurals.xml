@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Копирование %1$d файлов</item>
+        <item quantity="one">Копирование %1$d файла</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Невозможно скопировать %1$d файлов</item>
+        <item quantity="one">Невозможно скопировать %1$d файл</item>
+		<item quantity="few">Невозможно скопировать %1$d файла</item>
+		<item quantity="many">Невозможно скопировать %1$d файлов</item>
+    </plurals>
+	<plurals name="clipboard_files_clipped">
+        <item quantity="one">Скопировано %1$d файл</item>
+		<item quantity="few">Скопировано %1$d файли</item>
+		<item quantity="many">Скопировано %1$d файлів</item>
+		<item quantity="other">Скопировано %1$d файли</item>
+     </plurals>
+     <plurals name="delete_error_notification_title">
+        <item quantity="other">Невозможно удалить %1$d файлов</item>
+        <item quantity="one">Невозможно удалить %1$d файл</item>
+        <item quantity="few">Невозможно удалить %1$d файла</item>
+        <item quantity="many">Невозможно удалить %1$d файлов</item>
+     </plurals>
+     <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Удалить %1$d файлов?</item>
+        <item quantity="one">Удалить %1$d файл?</item>
+        <item quantity="few">Удалить %1$d файла?</item>
+        <item quantity="many">Удалить %1$d файлов?</item>
+     </plurals>
+     <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Удалить %1$d папку с файлами?</item>
+        <item quantity="one">Удалить %1$d папку с файлами?</item>
+        <item quantity="few">Удалить %1$d папку с файлами?</item>
+        <item quantity="many">Удалить %1$d папку с файлами?</item>
+     </plurals>
+     <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Удалить %1$d элементов?</item>
+        <item quantity="one">Удалить %1$d элемент?</item>
+        <item quantity="few">Удалить %1$d элемента?</item>
+        <item quantity="many">Удалить %1$d элементов?</item>
+     </plurals>
+     <plurals name="deleting">
+        <item quantity="one">Удаление %1$d файла…</item>
+		<item quantity="few">Удаление %1$d файлов…</item>
+		<item quantity="many">Удаление %1$d файлов…</item>
+		<item quantity="other">Удаление %1$d файлов…</item>
+     </plurals>
+     <plurals name="elements_dragged">
+        <item quantity="other">%1$d элементов</item>
+        <item quantity="one">%1$d элемент</item>
+        <item quantity="few">%1$d элемента</item>
+        <item quantity="many">%1$d элементов</item>
+     </plurals>
+     <plurals name="elements_selected">
+        <item quantity="other">Обработано: %1$d</item>
+        <item quantity="one">Обработано: %1$d</item>
+     </plurals>
+     <plurals name="move_begin">
+        <item quantity="one">Перемещение %1$d файла…</item>
+		<item quantity="few">Перемещение %1$d файлов…</item>
+		<item quantity="many">Перемещение %1$d файлов…</item>
+		<item quantity="other">Перемещение %1$d файлов…</item>
+     </plurals>
+     <plurals name="move_error_notification_title">
+        <item quantity="one">Невозможно переместить %1$d файл</item>
+		<item quantity="few">Невозможно переместить %1$d файла</item>
+		<item quantity="many">Невозможно переместить %1$d файлов</item>
+		<item quantity="other">Невозможно переместить %1$d файлов</item>
+     </plurals>
+	 
+	 <plurals name="compress_begin">
+        <item quantity="other">Упаковывание %1$d файлов</item>
+        <item quantity="one">Упаковывание %1$d файла</item>
+     </plurals>
+     <plurals name="compress_error_notification_title">
+        <item quantity="other">Невозможно упаковать %1$d файлов</item>
+        <item quantity="one">Невозможно упаковать %1$d файл</item>
+        <item quantity="few">Невозможно упаковать %1$d файла</item>
+     </plurals>
+     <plurals name="compress_failure_alert_content">
+        <item quantity="other">Невозможно сжать %1$s файлов</item>
+        <item quantity="one">Невозможно сжать %1$s файл</item>
+        <item quantity="few">Невозможно сжать %1$s файла</item>
+     </plurals>
+     <plurals name="copy_converted_warning_content">
+        <item quantity="other">%1$s файлов преобразовано в другой формат</item>
+        <item quantity="one">%1$s файл преобразовано в другой формат</item>
+        <item quantity="few">%1$s файла преобразовано в другой формат</item>
+     </plurals>
+     <plurals name="copy_failure_alert_content">
+        <item quantity="other">Не скопировано %1$s файлов</item>
+        <item quantity="one">Не скопировано %1$s файл</item>
+        <item quantity="few">Не скопировано %1$s файла</item>
+     </plurals>
+     <plurals name="delete_failure_alert_content">
+        <item quantity="other">Не удалено %1$s файлов</item>
+        <item quantity="one">Не удалено %1$s файл</item>
+        <item quantity="few">Не удалено %1$s файла</item>
+     </plurals>
+     <plurals name="extract_begin">
+        <item quantity="other">Извлечение %1$d файлов</item>
+        <item quantity="one">Извлечение %1$d файла</item>
+     </plurals>
+     <plurals name="extract_failure_alert_content">
+        <item quantity="other">Невозможно извлечь %1$s файлов</item>
+        <item quantity="one">Невозможно извлечь %1$s файл</item>
+        <item quantity="few">Невозможно извлечь %1$s файла</item>
+     </plurals>
+     <plurals name="move_failure_alert_content">
+        <item quantity="other">Невозможно переместить %1$s файлов</item>
+        <item quantity="one">Невозможно переместить %1$s файл</item>
+        <item quantity="few">Невозможно переместить %1$s файла</item>
+     </plurals>
+</resources>
