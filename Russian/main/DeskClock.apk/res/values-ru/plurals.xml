@@ -77,7 +77,9 @@
         <item quantity="many">%1$d дней</item>
     </plurals>    
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Будильник зазвонит через %2$s (каждые %1$s мин)</item>
-        <item quantity="one">Будильник зазвонит через %2$s (%1$s мин)</item>
+        <item quantity="other">Будильник зазвонит %2$s раз (каждые %1$s мин.)</item>
+        <item quantity="one">Будильник зазвонит %2$s раз (%1$s мин.)</item>
+        <item quantity="few">>Будильник зазвонит %2$s раза (каждые %1$s мин.)</item>
+        <item quantity="many">Будильник зазвонит %2$s раз (каждые %1$s мин.)</item>
     </plurals>    
 </resources>
