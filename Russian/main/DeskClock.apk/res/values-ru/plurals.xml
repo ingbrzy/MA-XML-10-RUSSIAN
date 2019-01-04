@@ -53,22 +53,22 @@
         <item quantity="many">%d дней</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-        <item quantity="few">%d ч</item>
-        <item quantity="many">%d ч</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-        <item quantity="few">%d мин</item>
-        <item quantity="many">%d мин</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d с</item>
-        <item quantity="one">%d с</item>
-        <item quantity="few">%d с</item>
-        <item quantity="many">%d с</item>
+        <item quantity="other">%d с.</item>
+        <item quantity="one">%d с.</item>
+        <item quantity="few">%d с.</item>
+        <item quantity="many">%d с.</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
         <item quantity="other">%1$d дней</item>
@@ -77,7 +77,9 @@
         <item quantity="many">%1$d дней</item>
     </plurals>    
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Будильник зазвонит через %2$s (каждые %1$s мин)</item>
-        <item quantity="one">Будильник зазвонит через %2$s (%1$s мин)</item>
+        <item quantity="other">Будильник зазвонит %2$s раз (каждые %1$s мин.)</item>
+        <item quantity="one">Будильник зазвонит %2$s раз (%1$s мин.)</item>
+        <item quantity="few">>Будильник зазвонит %2$s раза (каждые %1$s мин.)</item>
+        <item quantity="many">Будильник зазвонит %2$s раз (каждые %1$s мин.)</item>
     </plurals>    
 </resources>
