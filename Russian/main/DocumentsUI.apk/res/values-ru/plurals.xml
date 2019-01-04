@@ -10,7 +10,7 @@
         <item quantity="other">Сжатие %1$d файлов.</item>
         <item quantity="one">Сжатие %1$d файла.</item>
         <item quantity="few">Сжатие %1$d файлов.</item>
-        <item quantity="few">Сжатие %1$d файлов.</item>
+        <item quantity="many">Сжатие %1$d файлов.</item>
     </plurals>
     <plurals name="compress_error_notification_title">
         <item quantity="other">Не удалось сжать %1$d файлов</item>
