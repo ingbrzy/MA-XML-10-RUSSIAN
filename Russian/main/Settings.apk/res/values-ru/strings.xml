@@ -854,8 +854,8 @@
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Разрядность"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Режим аудиоканала"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения для LDAC</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Качество воспроизведения"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения LDAC</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Качество воспроизведения "</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации через Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Частота дискретизации"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
