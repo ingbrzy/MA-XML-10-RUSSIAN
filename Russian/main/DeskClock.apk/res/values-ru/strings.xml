@@ -159,7 +159,7 @@
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
     <string name="snooze_duration">Повтор</string>
-    <string name="snooze_duration_title">Повтор</string>
+    <string name="snooze_duration_title">Интервал повтора сигнала</string>
     <string name="snooze_duration_value">Интервал (минуты)</string>
     <string name="snooze_duration_value_fifteen">15</string>
     <string name="snooze_duration_value_five">5</string>
@@ -168,7 +168,6 @@
     <string name="snooze_duration_value_thirty">30</string>
     <string name="snooze_duration_value_twenty">20</string>
     <string name="snooze_duration_value_twenty_five">25</string>
-    <string name="snooze_duration_title">Интервал повтора сигнала</string>
     <string name="start">Пуск</string>
     <string name="start_up">Пуск</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
