@@ -334,6 +334,7 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
+    <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
     <string name="wallpaper">Обои</string>
     <string name="wallpaper_auto_change_title">Экран блокировки</string>

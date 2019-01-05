@@ -1493,8 +1493,30 @@
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>По умолчанию</item>
+        <item>Компактный</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="default_vol_stream_entries">
         <item>Рингтон</item>
         <item>Мультимедиа</item>
+    </string-array>
+    <string-array name="default_vol_stream_values">
+      <item>2</item>
+      <item>3</item>
+    </string-array>
+    <string-array name="aod_clock_style_entries">
+      <item>Горизонтальный</item>
+      <item>Вертикальный</item>
+      <item>Встроенный</item>
+    </string-array>
+    <string-array name="aod_clock_style_values">
+      <item>0</item>
+      <item>1</item>
+      <item>2</item>
     </string-array>
 </resources>
