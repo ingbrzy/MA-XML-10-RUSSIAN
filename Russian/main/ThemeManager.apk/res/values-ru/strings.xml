@@ -584,6 +584,7 @@
     <string name="using_theme_next_automatic_update">Обновлять автоматически</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>
     <string name="using_theme_show_ad">Получать рекомендации</string>
+    <string name="using_wallpaper_personal">Персонализированный выбор обоев</string>
     <string name="video_audio_apply_success">Видео со звуком установлено</string>
     <string name="video_data_tips_message">Использование мобильного интернета может вызвать дополнительные затраты. Продолжить?</string>
     <string name="video_data_tips_title">Предупреждение о трафике</string>

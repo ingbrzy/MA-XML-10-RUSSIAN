@@ -142,12 +142,15 @@
     <string name="portait_effect_entry_fairytale">Детство</string>
     <string name="portait_effect_entry_pink">Румянец</string>
     <string name="portait_effect_entry_japanese">Небо</string>
+    <string name="portait_effect_entry_lilt">Lilt</string>
     <string name="portait_effect_entry_mood">Эмоции</string>
     <string name="portait_effect_entry_romance">Романтика</string>
+    <string name="portait_effect_entry_sepia">Сепия</string>
     <string name="portait_effect_entry_maze">Лабиринт</string>
     <string name="portait_effect_entry_cool">Мята</string>
     <string name="portait_effect_entry_blackwhite">Ч/Б</string>
     <string name="portait_effect_entry_story">История</string>
+    <string name="portait_effect_entry_tea">Чай</string>
     <string name="portait_effect_entry_riddle">Загадка</string>
     <string name="portait_effect_entry_movie">Фильм</string>
     <string name="pref_camera_touchafaec_entry_off">Откл</string>
