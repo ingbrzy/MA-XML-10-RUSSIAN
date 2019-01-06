@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="all_traces_will_be_deleted">Все файлы трассировки будут удалены из /data/local/traces</string>
+    <string name="buffer_size">Размер буфера</string>
+    <string name="categories">Категории</string>
+    <string name="clear">ОЧИСТИТЬ</string>
+    <string name="clear_saved_traces">Очистить файлы трассировки</string>
+    <string name="clear_saved_traces_question">Удалить файлы трассировки?</string>
+    <string name="default_categories_restored">Категории по умолчанию восстановлены</string>
+    <string name="show_quick_settings_tile">Показывать переключатель в шторке уведомлений</string>
+    <string name="system_tracing">Трассировка системы</string>
+    <string name="record_system_activity">Запись активности системы и последующий анализ для улучшения производительности</string>
+    <string name="record_trace">Запись трассировки</string>
+    <string name="restore_default_categories">Восстановить категории по умолчанию</string>
+    <string name="trace_debuggable_applications">Трассировка отлаживаемых приложений</string>
+</resources>
