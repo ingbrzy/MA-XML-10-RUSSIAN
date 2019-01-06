@@ -222,6 +222,14 @@
         <item>4 МБ</item>
         <item>16 МБ</item>
     </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Отключен</item>
+        <item>Ошибки</item>
+        <item>Предупреждения</item>
+        <item>Информационный</item>
+        <item>Отладочный</item>
+        <item>Подробный</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Отключено</item>
         <item>Все буферы журналов</item>
