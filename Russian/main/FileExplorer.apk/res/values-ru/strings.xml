@@ -300,9 +300,8 @@
     <string name="operation_decompressing">Извлечение…</string>
     <string name="operation_del_fav">Удаление из избранных…</string>
     <string name="operation_delete">Удалить</string>
-    <string name="operation_delete_confirm_message">Удаление объектов</string>
-    <string name="operation_delete_confirm_message_folder">"Все содержимое папки будет удалено.
-"</string>
+    <string name="operation_delete_confirm_message">Удалить?</string>
+    <string name="operation_delete_confirm_message_folder">"Все содержимое папки будет удалено. "</string>
     <string name="operation_delete_done">Удаление завершено</string>
     <string name="operation_deleting">Удаление…</string>
     <string name="operation_favorite">Добавить в избранные</string>
