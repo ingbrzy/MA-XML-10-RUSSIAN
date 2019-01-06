@@ -21,4 +21,22 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="search_menu_title">Поиск</string>
     <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="hardware_detection">Тестирование устройства</string>
+    <string name="item_name_battery">Батарея</string>
+    <string name="item_name_bluetooth">Bluetooth</string>
+    <string name="item_name_frontcamera">Фронтальная камера</string>
+    <string name="item_name_rearcamera">Основная камера</string>
+    <string name="item_name_sensors">Сенсоры</string>
+    <string name="item_name_vibration">Вибрация</string>
+    <string name="item_name_wifi">WiFi</string>
+    <string name="item_progress_percent">%</string>
+    <string name="item_result_canceled">Отменено</string>
+    <string name="item_result_fail">Плохо</string>
+    <string name="item_result_pass">Хорошо</string>
+    <string name="item_result_refused">Отклонено</string>
+    <string name="item_testing_completed"></string>
+    <string name="overall_test">Общее тестирование</string>
+    <string name="result_no_fail">Все работает отлично</string>
+    <string name="stop_test">Стоп</string>
+    <string name="title_quote_page">Общее тестирование</string>
 </resources>
