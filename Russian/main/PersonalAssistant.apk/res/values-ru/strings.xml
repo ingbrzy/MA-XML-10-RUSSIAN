@@ -13,7 +13,7 @@
     <string name="agenda_assistant_allday">Все дни</string>
     <string name="agenda_assistant_credit_payment">Счета по кредитной карте</string>
     <string name="agenda_assistant_electricity">Счет за электроэнергию к оплате</string>
-    <string name="agenda_assistant_empty">Ничего не запланировано</string>
+    <string name="agenda_assistant_empty">Мероприятия не запланированы</string>
     <string name="agenda_assistant_finish">Все мероприятия на сегодня завершены</string>
     <string name="agenda_assistant_gas">Счета за газ</string>
     <string name="agenda_assistant_loan_payment">Погашение кредита</string>
