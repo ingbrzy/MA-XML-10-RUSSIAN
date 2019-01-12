@@ -152,6 +152,7 @@
     <string name="gadget_clock_24_label">Часы 4x2</string>
     <string name="gadget_clock_34_label">Часы 4x3</string>
     <string name="gadget_clock_label">Часы</string>
+    <string name="gadget_dual_clock_label">Двойные часы</string>
     <string name="gadget_error_text">Не удалось загрузить виджет</string>
     <string name="gadget_google_search_label">Поиск Google</string>
     <string name="gadget_load_error">Загрузка…</string>
@@ -277,6 +278,7 @@
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_apps_default_title">Пусто</string>
     <string name="recommend_apps_no_data">Данных нет</string>
+    <string name="recommend_apps_no_data_toast">На данный момент нет рекомендаций.</string>
     <string name="recommend_apps_notice">Рекомендации</string>
     <string name="recommend_apps_notice_nodata">Рекомендации (нет данных)</string>
     <string name="recommend_apps_switch_title">Рекомендации</string>
