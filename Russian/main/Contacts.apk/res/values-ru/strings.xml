@@ -264,6 +264,7 @@
     <string name="contactsGroupsLabel">Группы</string>
     <string name="contactsJoinedMessage">Контакты объединены</string>
     <string name="contactsList">Контакты</string>
+    <string name="contacts_default_notification_channel">Уведомления</string>
     <string name="contacts_hybrid_activity_label">Восстановление контактов</string>
     <string name="contacts_setting_title">Настройки контактов</string>
     <string name="contacts_unavailable_add_account">Войти в аккаунт</string>
@@ -927,7 +928,6 @@
     <string name="quickcontact_missing_app">Нет приложения для выполнения этого действия</string>
     <string name="quit_dialog_confirm_message">Вы не объединили ни одного контакта.</string>
     <string name="quit_dialog_confirm_title">Отмена объединения контактов</string>
-    <string name="rcs_app_name">Мини-приложение</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит данные из нескольких аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
     <string name="readOnlyContactWarning">Нельзя удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов.</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
