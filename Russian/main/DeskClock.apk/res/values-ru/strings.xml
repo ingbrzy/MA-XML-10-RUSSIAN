@@ -152,7 +152,7 @@
     <string name="settings">Настройки</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
     <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
-    <string name="shutdown_alarm_enable_summary">Будильник будет звонить, если время звонка ​​не менее чем на 5 минут позже момента выключения устройства</string>
+    <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 5 минут позже момента выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
