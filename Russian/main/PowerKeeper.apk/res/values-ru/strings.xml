@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
     <string name="nonui_mode_config_description">Не включать экран при получении уведомлений, отключить световой индикатор, сканер отпечатков и сенсорное управление для экономии батареи, когда MIUI обнаруживает, что устройство не используется</string>
-    <string name="power_center">Питание</string>
+    <string name="power_center">Экономия батареи</string>
     <string name="power_usage">Использование батареи</string>
     <string name="power_mode">Режим питания</string>
     <string name="performance_category">Производительность</string>
@@ -100,4 +100,8 @@
     <string name="atrace_saved">Сохранение завершено</string>
     <string name="adaptive_battery_summary">"Ограничить использование батареи для редко запускаемых приложений"</string>
     <string name="adaptive_battery_title">Адаптивный режим</string>
+    <string name="dark_mode">Темный режим</string>
+    <string name="dark_mode_summary">Использовать темную цветовую палитру для экономии заряда батареи</string>
+    <string name="open_dark_mode">Переключиться в Темный режим</string>
+    <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
 </resources>
