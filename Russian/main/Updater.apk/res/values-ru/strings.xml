@@ -41,7 +41,7 @@
     <string name="new_version">Найдена новая версия!</string>
     <string name="no_info">Информация недоступна.</string>
     <string name="no_network">Сеть недоступна.</string>
-    <string name="no_update">Установлена последняя прошивка или проблема с сервером, проверьте наличие новой версии на xiaomi.eu!</string>
+    <string name="no_update">Установлена последняя прошивка или проблема с сервером, проверьте наличие новой версии на xiaomi.eu</string>
     <string name="no_xioamieu">"Установлена прошивка не от команды Xiaomi.eu!
 Обновления для вас недоступны!"</string>
     <string name="notif_cancel">Отмена</string>
@@ -57,7 +57,7 @@
     <string name="pick_title">Использовать:</string>
     <string name="recovery_desc">Устройство сейчас будет перезагружено в Recovery. Продолжить?</string>
     <string name="server_error">Сервер не доступен, приложение может работать некорректно!</string>
-    <string name="share_desc">Ваша версия MIUI была обновлена до %1$s, информация о последних изменениях: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
+    <string name="share_desc">Ваша версия MIUI была обновлена до %1$s, информация о последних изменениях:  %2$s</string>
     <string name="share_title">Поделиться с</string>
     <string name="stable">стабильная</string>
     <string name="unit" formatted="false">%1$s %</string>
