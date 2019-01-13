@@ -1110,7 +1110,7 @@
     <string name="deep_power_save_item_summary_lock_screen_time">Отключить экран через 30 секунд бездействия для экономии батареи</string>
     <string name="power_save_mode_enable">Экономия батареи</string>
     <string name="power_save_mode_summary">Ограничивать фоновую активность и отключать синхронизацию</string>
-    <string name="power_optimize_save_mode_not_opened">Отключение экономии батареи</string>
+    <string name="power_optimize_save_mode_not_opened">Включение экономии батареи</string>
     <string name="notification_exit_power_save_mode">Экономия батареи отключена</string>
     <string name="notification_exit_power_save_mode_subtitle">Заряд батареи %s</string>
     <string name="power_save_mode_auto_exit_title">Отключать автоматически</string>
