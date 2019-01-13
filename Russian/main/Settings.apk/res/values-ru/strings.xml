@@ -545,7 +545,7 @@
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
     <string name="battery_desc_flashlight">Заряд батареи, израсходованный на вспышку</string>
     <string name="battery_desc_overcounted">Преувеличенное энергопотребление</string>
-    <string name="battery_desc_radio">Расход энергии на поддержание связи с сетью в режиме ожидания</string>
+    <string name="battery_desc_radio">Расход заряда батареи на поддержание связи с сетью в режиме ожидания</string>
     <string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
     <string name="battery_desc_unaccounted">Неучтенный расход заряда батареи</string>
     <string name="battery_desc_users">Использование батареи пользователем</string>
@@ -968,11 +968,11 @@
     <string name="brightness_title">Яркость</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
-    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления энергии. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_summary">Обеспечивает высокое качество звучания</string>
     <string name="bt_ldac_pre_title">LDAC</string>
@@ -1328,7 +1328,7 @@
     <string name="data_usage_app_restricted">доступ ограничен</string>
     <string name="data_usage_app_settings">Настройки приложения</string>
     <string name="data_usage_app_summary_title">Трафик приложений</string>
-    <string name="data_usage_auto_sync_off_dialog">Расход трафика и энергии будет ниже, но для получения новых данных придется синхронизировать аккаунты вручную. Уведомления о наличии обновлений будут отключены.</string>
+    <string name="data_usage_auto_sync_off_dialog">Расход трафика и батареи будет ниже, но для получения новых данных придется синхронизировать аккаунты вручную. Уведомления о наличии обновлений будут отключены.</string>
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
     <string name="data_usage_auto_sync_on_dialog">"Все изменения, внесенные в аккаунты на компьютере, будут автоматически скопированы на устройство.
 
@@ -1545,7 +1545,7 @@
     <string name="device_name_usage_point">Другие устройства поблизости увидят это имя</string>
     <string name="device_picker">Выбрать устройство Bluetooth</string>
     <string name="device_rear_camera">Основная камера</string>
-    <string name="device_screen_consumption">Потребление энергии экраном</string>
+    <string name="device_screen_consumption">Потребление батареи экраном</string>
     <string name="device_screen_resolution">Разрешение экрана</string>
     <string name="device_screen_size">Диагональ</string>
     <string name="device_screen_usage">Использование экрана с момента полной зарядки</string>
@@ -3442,11 +3442,11 @@
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_camera">Камера</string>
     <string name="power_cell">Мобильная сеть в режиме ожидания</string>
-    <string name="power_center">Питание</string>
+    <string name="power_center">Экономия батареи</string>
     <string name="power_charge_remaining">Батарея будет заряжена через %1$s</string>
     <string name="power_checker">Мониторинг питания</string>
     <string name="power_flashlight">Фонарик</string>
-    <string name="power_hide_mode_summary">Экономьте энергию, ограничив фоновые процессы приложений, подключения Wi-Fi и мобильного интернета, а также GPS</string>
+    <string name="power_hide_mode_summary">Экономьте батарею, ограничив фоновые процессы приложений, подключения Wi-Fi и мобильного интернета, а также GPS</string>
     <string name="power_hide_mode_title">Контроль активности</string>
     <string name="power_idle">Режим ожидания</string>
     <string name="power_key_how_power_force_off">Принудительная перезагрузка</string>
@@ -3461,7 +3461,7 @@
     <string name="power_mgr">Батарея</string>
     <string name="power_mode">Режим питания</string>
     <string name="power_mode_balanced_title">Включить балансировку мощности</string>
-    <string name="power_optimize">Экономия энергии</string>
+    <string name="power_optimize">Экономия батареи</string>
     <string name="power_overcounted">Переучтенное</string>
     <string name="power_phone">Голосовые вызовы</string>
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
@@ -3472,13 +3472,13 @@
     <string name="power_settings_title">Производительность системы</string>
     <string name="power_system">Система</string>
     <string name="power_unaccounted">Другое</string>
-    <string name="power_usage_history">Потребление энергии</string>
+    <string name="power_usage_history">Использование батареи</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="power_usage_list_summary">Использование приложений с момента полной зарядки (^1 назад)</string>
     <string name="power_usage_list_summary_device">Использование устройства с момента полной зарядки (прошло: ^1)</string>
     <string name="power_usage_not_available">Нет данных.</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
-    <string name="power_usage_summary_title">Питание и производительность</string>
+    <string name="power_usage_summary_title">Батарея и производительность</string>
     <string name="power_user">Пользователь</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Предустановленные приложения</string>
@@ -3507,7 +3507,7 @@
     <string name="preferred_app_settings_reset_button">Сбросить</string>
     <string name="preferred_app_settings_reset_message">Все настройки приложений MIUI по умолчанию будут сброшены к заводским установкам.</string>
     <string name="preferred_application_title">По умолчанию \"%s\"</string>
-    <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s может увеличить потребление энергии, снизить скорость работы устройства и подвергнуть систему риску. 
+    <string name="preferred_application_warning_message">"Замена стандартного приложения \"%1$s может увеличить потребление батареи, снизить скорость работы устройства и подвергнуть систему риску. 
 Рекомендуется использовать стандартное приложение %2$s\"."</string>
     <string name="preferred_application_warning_replace">Заменить</string>
     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
@@ -4161,9 +4161,9 @@ UT-интерфейс: %5$s"</string>
     <string name="search_pointer_speed">Скорость указателя</string>
     <string name="search_power_checker">Мониторинг питания</string>
     <string name="search_power_hide_mode_title">Контроль активности;Использование батареи приложением;Управление питанием;Состояние батареи</string>
-    <string name="search_power_mode">Режим питания;Питание</string>
-    <string name="search_power_optimize">Экономия энергии;Экономия заряда</string>
-    <string name="search_power_usage_summary_title">Питание и производительность;Батарея и производительность;Батарея;Питание;производительность;Экономия энергии;Экономия заряда</string>
+    <string name="search_power_mode">Режим питания;Экономия батареи</string>
+    <string name="search_power_optimize">Экономия батареи;Экономия заряда</string>
+    <string name="search_power_usage_summary_title">Батарея и производительность;Батарея и производительность;Батарея;Питание;производительность;Экономия батареи;Экономия заряда</string>
     <string name="search_pref_edge_handgrip">Кромка экрана</string>
     <string name="search_pref_volume_wake_title">Включать экран кнопками громкости;Пробуждать кнопками громкости;кнопки громкости</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
