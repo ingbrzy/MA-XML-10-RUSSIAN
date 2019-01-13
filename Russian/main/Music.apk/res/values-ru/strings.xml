@@ -535,7 +535,7 @@
     <string name="playlist_type_recommend">Популярные плейлисты</string>
     <string name="please_download_first">Перед установкой на звонок трек необходимо загрузить</string>
     <string name="please_select_song">Сначала выберите трек</string>
-    <string name="power_save_mode_dialog_msg">Включена экономия энергии. Начать загрузку?</string>
+    <string name="power_save_mode_dialog_msg">Включена экономия батареи. Начать загрузку?</string>
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
