@@ -54,6 +54,7 @@
     <string name="bookmark_confirm_delete_message">Удалить выбранные сообщения из избранных?</string>
     <string name="bookmark_empty">Нет сообщений</string>
     <string name="bookmark_list_title">Избранные</string>
+    <string name="button_close">Закрыть</string>
     <string name="button_emoji_creature">Животные</string>
     <string name="button_emoji_lifestyle">Стиль жизни</string>
     <string name="button_emoji_smiley">Смайлики</string>
@@ -77,6 +78,7 @@
     <string name="change_duration_activity">Изменить длительность</string>
     <string name="check_all">Выбрать все</string>
     <string name="class_0_message_activity">Сообщение класса 0</string>
+    <string name="click_to_update">Нажмите для проверки обновлений</string>
     <string name="close">Закрыть</string>
     <string name="cloud_state_disabled">Включите синхронизацию с Mi Cloud</string>
     <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
@@ -248,6 +250,7 @@
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
     <string name="i_know">Понятно</string>
+    <string name="imageview_ad">Реклама</string>
     <string name="importing_progress_private_message">Импорт…</string>
     <string name="in_sms">Сообщение</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -304,8 +307,10 @@
     <string name="message_too_big_for_video">Сообщение слишком большое для добавления видео</string>
     <string name="message_type_label">"Тип: "</string>
     <string name="messagelist_sender_self">Я</string>
+    <string name="messaging">Обмен сообщениями</string>
     <string name="millionbyte">МБ</string>
     <string name="mms">MMS</string>
+    <string name="more">Больше</string>
     <string name="move_down">Переместить вниз</string>
     <string name="move_up">Переместить вверх</string>
     <string name="msg_no_member_selected">Выберите хотя бы 1 контакт</string>
@@ -374,6 +379,8 @@
     <string name="mx_stranger_recommend_msg">Нажмите для блокировки Mi сообщений с неизвестных номеров</string>
     <string name="mx_type_guide">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
     <string name="need_download">Синхронизация…</string>
+    <string name="net_sms_subscribed">Успешная подписка</string>
+    <string name="net_sms_unsubscribe">Подписка отменена</string>
     <string name="network_error_description">Произошла ошибка сети. Подождите немного и повторите попытку.</string>
     <string name="networking_allow_continue">Разрешить</string>
     <string name="networking_allow_desc">Для нормальной работы Mi сообщениям требуется подключение к интернету. Для предоставления бесплатных текстовых и голосовых услуг, распознавания неизвестных номеров, фильтрации спама и включения других функций, Mi сообщения должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
@@ -412,6 +419,7 @@
     <string name="open_url_with_web">Открыть URL в браузере?</string>
     <string name="over_max_mms_size">Размер MMS слишком велик.</string>
     <string name="overwrite_edited_content">Перезаписать содержимое?</string>
+    <string name="packages_select_sim_cards_title">Выберите SIM карту</string>
     <string name="phrase_confirm_delete_message">Удалить этот шаблон?</string>
     <string name="phrase_empty">Нет фраз</string>
     <string name="phrase_from">От %1s</string>
@@ -709,6 +717,8 @@
     <string name="storage_unavailable">Память заполнена</string>
     <string name="subject_hint">Тема</string>
     <string name="subject_label">"Тема: "</string>
+    <string name="subscribe">Подписка</string>
+    <string name="summary_pref_cm_smart_sms">Шаблоны карточек, сервисные номера SMS и многое другое.</string>
     <string name="switch_to_editor">Режим редактирования</string>
     <string name="switch_to_menu">Режим меню</string>
     <string name="text_in_popup_saved_to_clipboard">Скопировано в буфер обмена</string>
@@ -752,6 +762,7 @@
     <string name="unsticked_conversation">Диалог уже откреплен</string>
     <string name="unsubscribe">Отписаться</string>
     <string name="unsupported_media_format">Неподдерживаемый формат (%1$s).</string>
+    <string name="updating">Обновление…</string>
     <string name="url_fraud_dangerous_alert">"Сайт может быть опасным. Есть угроза для устройства и ваших данных. Всё равно перейти?
 %s"</string>
     <string name="url_fraud_risky_alert">"Сайт %s может быть опасным. Всё равно перейти?
