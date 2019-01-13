@@ -653,7 +653,6 @@
     <string name="preferred_network_mode_lte_wcdma_summary">Предпочтительный режим: LTE/WCDMA</string>
     <string name="preferred_network_mode_lte_gsm_umts_summary">Предпочтительный режим: LTE/GSM/UMTS</string>
     <string name="preferred_network_mode_lte_cdma_summary">Предпочтительный режим: LTE/CDMA</string>
-    <string name="preferred_network_mode_lte_choice">Только LTE</string>
     <string name="preferred_network_mode_tdscdma_summary">Предпочтительный режим: TDSCDMA</string>
     <string name="callFailed_incoming_cb_enabled">Все входящие вызовы запрещены.</string>
     <string name="callUnanswered_forwarded">Вызов пропущен и переадресован</string>
