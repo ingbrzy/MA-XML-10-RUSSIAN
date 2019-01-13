@@ -34,6 +34,7 @@
     <string name="accessibility_action_divider_top_full">Верхний во весь экран</string>
     <string name="accessibility_airplane_mode">Режим полета.</string>
     <string name="accessibility_ambient_display_charging">Зарядка батареи</string>
+    <string name="accessibility_aspect_button">Полноэкранный режим</string>
     <string name="accessibility_assistant">Сенсорный помощник</string>
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_battery_details">Открыть информацию о батарее</string>
@@ -327,11 +328,15 @@
     <string name="block_record_notification_title">Уведомления скрыты</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_connected">Подключено</string>
-    <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
-    <string name="bluetooth_connected_no_headset">Подключено (кроме звонков)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме звонков и аудио)</string>
-    <string name="bluetooth_connected_no_map">Подключено (кроме сообщений)</string>
+    <string name="bluetooth_connected">Подключено%1$s</string>
+    <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset">Подключено (кроме звонков) %1$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме звонков) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме звонков и аудио) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме звонков и аудио) | Батарея %1$s%2$s</string>
+    <string name="bluetooth_connected_no_map">Подключено (кроме сообщений) %1$s</string>
     <string name="bluetooth_connecting">Подключение…</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
@@ -500,6 +505,7 @@
     <string name="description_direction_up">Вверх для %s</string>
     <string name="description_image_button_answer">Ответить</string>
     <string name="description_image_button_reject">Отклонить</string>
+    <string name="description_image_icon_sim_card">SIM карта %1$d</string>
     <string name="description_target_search">Поиск</string>
     <string name="dessert_case">Коробка со сладостями</string>
     <string name="dev_logpersist_clear_warning_message">Прекратив отслеживание постоянного журнала, мы будем обязаны удалить его данные, сохраненные на устройстве.</string>
@@ -705,6 +711,7 @@
     <string name="guest_wipe_session_message">Хотите продолжить сессию?</string>
     <string name="guest_wipe_session_title">Рады видеть вас снова!</string>
     <string name="guest_wipe_session_wipe">Начать сначала</string>
+    <string name="gxzw_long_press_tip">Нажмите и удерживайте для проверки новых функций</string>
     <string name="gxzw_press_harder">Нажмите чуть сильнее</string>
     <string name="gxzw_try_again">Повторите попытку</string>
     <string name="gxzw_try_more_again">Повторите попытку</string>
@@ -1532,6 +1539,7 @@ d MMMM"</string>
     <string name="stream_notification">Уведомления</string>
     <string name="stream_ring">Звонок</string>
     <string name="stream_system">Система</string>
+    <string name="stream_voice_assist">Голосовой Помощник</string>
     <string name="stream_voice_call">Вызов</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
