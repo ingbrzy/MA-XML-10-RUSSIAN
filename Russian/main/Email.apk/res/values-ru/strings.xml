@@ -220,8 +220,8 @@
     <string name="automatic_remind_text">Напомнить автоматически</string>
     <string name="back">Назад</string>
     <string name="bank_card_detail">Данные кредитной карты</string>
-    <string name="battery_saver">Экономия энергии</string>
-    <string name="battery_saver_keywords">экономия энергии;батарея почты</string>
+    <string name="battery_saver">Экономия батареи</string>
+    <string name="battery_saver_keywords">экономия батарея;батарея почты</string>
     <string name="bcc">Скрытая копия</string>
     <string name="bill_center_setting">Настройки счетов</string>
     <string name="bill_center_setting_head">Импорт информации из этих аккаунтов</string>
@@ -683,7 +683,7 @@
     <string name="password_expired_ticker">Срок действия вашего кода или пароля блокировки экрана истек</string>
     <string name="path_about_account_setting">Почта/Настройки/Аккаунты</string>
     <string name="path_about_add_account">Почта/Настройки/Добавить аккаунт</string>
-    <string name="path_about_battery_saver">Почта/Настройки/Экономия энергии</string>
+    <string name="path_about_battery_saver">Почта/Настройки/Экономия батареи</string>
     <string name="path_about_confirm_before_delete">Почта/Настройки/Подтверждение перед удалением</string>
     <string name="path_about_confirm_before_send">Почта/Настройки/Подтверждение перед отправкой</string>
     <string name="path_about_conversation_view">Почта/Настройки/Цепочка сообщений</string>
@@ -849,7 +849,7 @@
     <string name="save_attachment">Сохранить</string>
     <string name="save_draft_failed">Черновик не сохранен</string>
     <string name="save_power_summary">Установить время для экономии энергии</string>
-    <string name="save_power_title">Экономия энергии</string>
+    <string name="save_power_title">Экономия батареи</string>
     <string name="save_this_new_signature">Сохранить новую подпись?</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
