@@ -50,7 +50,7 @@
     <string name="app_setting_dialog_cancel">Отмена</string>
     <string name="app_setting_has_not_setted">Не установлена</string>
     <string name="app_setting_has_setted">Установлена</string>    
-    <string name="app_setting_more_setting">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКи</string>
+    <string name="app_setting_more_setting">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
     <string name="app_setting_on_off_setting">ОСНОВНЫЕ НАСТРОЙКИ</string>
     <string name="app_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="app_setting_search">Панель поиска</string>
@@ -257,6 +257,8 @@
     <string name="not_installed">Не установлено</string>
     <string name="note_name">Создать</string>
     <string name="note_parent">Заметки</string>
+    <string name="notification_channel_card">Карточки</string>
+    <string name="notification_channel_default">По умолчанию</string>
     <string name="open_bluetooth">Активировать</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
