@@ -91,7 +91,10 @@
     <string name="daily_forecast_no_data">"Не удалось получить данные
 Потяните вниз для обновления или проверьте настройки сети"</string>
     <string name="data_provided_by">Данные предоставлены</string>
-    <string name="edit_city">Выбор города</string>
+    <string name="edit_city">Выбор городов</string>
+    <string name="empty_view_net_loading">Обновление…</string>
+    <string name="empty_view_net_unavailable">"Не удалось подключиться к сети"</string>
+    <string name="empty_view_refresh">Повторите попытку</string>
     <string name="eu_region_version_first_start_network_msg">Используя этот продукт, вы соглашаетесь с тем, что он будет подключаться к сети, собирать, обрабатывать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
     <string name="feedback_cloudy">Облачно</string>
     <string name="feedback_foggy">Туман</string>
@@ -110,12 +113,14 @@
     <string name="hourly_forecast_date">dd.MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Прогноз на 24 часа</string>
     <string name="hourly_forecast_title_hourly_desc">Почасовой прогноз</string>
+    <string name="index_item_downloading">Загрузка</string>
     <string name="index_item_experience_now">Установить</string>
     <string name="index_item_install_dialog" />
     <string name="index_item_install_dialog_cancel" />
     <string name="index_item_install_dialog_open" />
     <string name="index_item_install_now">Установить</string>
     <string name="index_item_installing">Установка</string>
+    <string name="index_item_installing2">Установка</string>
     <string name="indices_desc_humidity">Влажность %1$s%%</string>
     <string name="indices_title_feel">Ощущается</string>
     <string name="indices_title_pressure">Давление</string>
@@ -128,6 +133,7 @@
     <string name="it_is_going_to_rain">Собирается дождь</string>
     <string name="locate_fail_detail_err">"Местоположение не определено
 Нажмите для добавления или изменения города"</string>
+    <string name="location_provider_btn_text">Включите определение местоположения</string>
     <string name="location_tag">Определить</string>
     <string name="menu_location">Местоположение</string>
     <string name="menu_speaker">Голосовая трансляция</string>
@@ -216,6 +222,7 @@
     <string name="traffic_control_today_numbers">Сегодня: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Завтра: %1$s</string>
     <string name="traffic_controls">Состояние дорог</string>
+    <string name="translate_notification_info">Перевод в фоновом режиме…</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
@@ -230,6 +237,7 @@
     <string name="unit_wind">Скорость ветра</string>
     <string name="update_night_setting_summary_text">Обновлять данные с 23:00 до 07:00</string>
     <string name="update_night_setting_title_text">Обновлять ночью</string>
+    <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="update_setting_title_text">Настройки обновления</string>
     <string name="updated_a_moment_ago">Обновлено только что</string>
     <string name="updating">Обновление…</string>
@@ -241,6 +249,8 @@
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
+    <string name="weather_alert_channel_name">Оповещения</string>
+    <string name="weather_service_channel_name">Фоновые сервисы</string>
     <string name="wind_direction_no_data">Ветер</string>
     <string name="wind_unit">%1$s км/ч</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
