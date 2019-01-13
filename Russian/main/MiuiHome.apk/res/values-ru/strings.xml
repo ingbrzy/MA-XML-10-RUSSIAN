@@ -351,7 +351,6 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
-    <string name="recommend_apps_no_data_toast">Пока нет рекомендаций</string>
     <string name="recommend_refresh">Обновить</string>
     <string name="recommend_xout">Не показывать</string>
 </resources>
