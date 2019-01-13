@@ -2556,4 +2556,8 @@
     <string name="shutdown_time_day">Выключение: %2$s %1$d дн.</string>
     <string name="shutdown_time_day_tomorrow">Выключение: %1$s</string>
     <string name="shutdown_time">Выключение: %1$s</string>
+    <string name="applock_face_unlock_summary">Разблокировка приложений, используя данные лица</string>
+    <string name="applock_face_unlock_title">Разблокировка по лицу</string>
+    <string name="applock_function_base_settings">Блокировка приложения</string>
+    <string name="applock_function_pwd_settings">Пароль</string>
 </resources>
