@@ -7,7 +7,7 @@
         <item quantity="many">Удалить %1$d файлов</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other"> и %1$d папок?</item> 
+        <item quantity="other"> и %1$d папок?</item>
         <item quantity="one"> и %1$d папку?</item>
         <item quantity="few"> и %1$d папки?</item>
         <item quantity="many"> и %1$d папок?</item>
