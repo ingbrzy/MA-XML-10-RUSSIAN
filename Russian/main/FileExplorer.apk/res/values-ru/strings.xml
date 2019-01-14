@@ -144,10 +144,12 @@
     <string name="decrypting">Расшифровка…</string>
     <string name="delete_dialog_button">Удалить</string>
     <string name="delete_error">Ошибка удаления файлов, повторите попытку</string>
-    <string name="delete_file">Удалить этот файл?</string>
-    <string name="delete_file_error">Ошибка удаления файла</string>
+    <string name="delete_file">Удалить выбранный файл?</string>
+    <string name="delete_files">Удалить выбранные файлы?</string>
+    <string name="delete_file_error">Ошибка удаления</string>
     <string name="delete_file_folder_confirm">Удалить %1$s и %2$s?</string>
-    <string name="delete_folder">Удалить эту папку?</string>
+    <string name="delete_folder">Удалить выбранную папку?</string>
+    <string name="delete_folders">Удалить выбранные папки?</string>
     <string name="dialog_msg_score_explorer">Насколько вам нравится Проводник?</string>
     <string name="dialog_msg_score_not_good">Вы могли бы отправить нам отчет?</string>
     <string name="dialog_msg_score_perfect">Отлично! Оценить Проводник в Play Store?</string>
@@ -300,8 +302,9 @@
     <string name="operation_decompressing">Извлечение…</string>
     <string name="operation_del_fav">Удаление из избранных…</string>
     <string name="operation_delete">Удалить</string>
-    <string name="operation_delete_confirm_message">Удалить?</string>
-    <string name="operation_delete_confirm_message_folder">"Все содержимое папки будет удалено. "</string>
+    <string name="operation_delete_confirm_message">Удаление</string>
+    <string name="operation_delete_confirm_message_folder">"Все содержимое будет удалено.
+"</string>
     <string name="operation_delete_done">Удаление завершено</string>
     <string name="operation_deleting">Удаление…</string>
     <string name="operation_favorite">Добавить в избранные</string>
