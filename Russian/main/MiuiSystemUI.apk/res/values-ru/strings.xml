@@ -1091,7 +1091,7 @@
     <string name="notification_all_categories">Все категории</string>
     <string name="notification_app_settings">Настройка: %1$s</string>
     <string name="notification_channel_alerts">Предупреждения</string>
-    <string name="notification_channel_battery">Питание</string>
+    <string name="notification_channel_battery">Батарея</string>
     <string name="notification_channel_controls_closed_accessibility">Настройки уведомлений для приложения %1$s закрыты</string>
     <string name="notification_channel_controls_opened_accessibility">Настройки уведомлений для приложения %1$s открыты</string>
     <string name="notification_channel_disabled">Вы больше не будете получать эти уведомления.</string>
