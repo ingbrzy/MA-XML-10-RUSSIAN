@@ -1422,7 +1422,7 @@
     <string name="activity_title_networkassistants">Передача данных</string>
     <string name="activity_title_antispam">Антиспам</string>
     <string name="activity_title_license_manager">Разрешения</string>
-    <string name="activity_title_power_manager">Экономия батареи</string>
+    <string name="activity_title_power_manager">Энергосбережение</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
     <string name="menu_summary_app_manager">Управляйте приложениями</string>
     <string name="menu_summary_app_manager_2">Доступны обновления</string>
