@@ -1486,7 +1486,7 @@
     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
     <string name="Settings_title_network_assistants">Настройки передачи данных</string>
     <string name="Settings_title_anti_spam">Настройки антиспама</string>
-    <string name="Settings_title_power_center">Настройки экономии батареи</string>
+    <string name="Settings_title_power_center">Настройки энергосбережения</string>
     <string name="Settings_title_anti_virus">Настройки антивируса</string>
     <string name="menu_item_virus_cloud_scan_title">Облачная проверка на вирусы</string>
     <string name="menu_item_virus_cloud_scan_summary">Загружать названия и данные приложений на сервер и проверять на наличие вирусов</string>
