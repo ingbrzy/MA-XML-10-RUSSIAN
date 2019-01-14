@@ -964,7 +964,7 @@
     <string name="om_running_third_apps">Работающие (сторонние)</string>
     <string name="om_locked_apps_summary">Закрепленные приложения не будут оптимизированы</string>
     <string name="om_promotion">Реклама</string>
-    <string name="power_center_title">Экономия батареи</string>
+    <string name="power_center_title">Энергосбережение</string>
     <string name="power_center_back">Назад</string>
     <string name="power_center_auto_shutdown">Таймер питания</string>
     <string name="power_center_ontime_boot">Включение по расписанию</string>
@@ -1232,7 +1232,7 @@
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="hide_mode_result_summary_text">Настройте параметры экономии батареи для отдельных приложений</string>
     <string name="auto_task_result_summary_text">Настройте автоматические задачи для экономии батареи</string>
-    <string name="pc_settings_title">Настройки экономии батареи</string>
+    <string name="pc_settings_title">Настройки энергосбережения</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Включите Максимальную экономию при низком заряде батареи</string>
     <string name="handle_bar_title_system">Система</string>
@@ -1339,9 +1339,9 @@
     <string name="resource_antivirus">Антивирус</string>
     <string name="keywords_antivirus">Вирус;Угроза;Антивирус;Проверка;Проверка безопасности платежей;безопасность платежей;безопасный платеж;безопасные платежи;защита оплаты;защита платежей;защищенные платежи;безопасная зона;зона оплаты</string>
     <string name="path_antivirus">Системные приложения/Безопасность/Антивирус</string>
-    <string name="resource_powercenter">Экономия батареи</string>
-    <string name="keywords_powercenter">Экономия батареи;Перегрев;Включить;Выключить;Батарея;Истощение;Батарея;Проблемы с батареей;Заряд;Истощение;Перегрев;Энергосбережение;Энергосбережение;Энергосбережение;Экономия батареи</string>
-    <string name="path_powercenter">Системные приложения/Безопасность/Экономия батареи</string>
+    <string name="resource_powercenter">Энергосбережение</string>
+    <string name="keywords_powercenter">Энергосбережение;Перегрев;Включить;Выключить;Батарея;Истощение;Батарея;Проблемы с батареей;Заряд;Истощение;Перегрев;Энергосбережение;Энергосбережение;Энергосбережение;Экономия батареи</string>
+    <string name="path_powercenter">Системные приложения/Безопасность/Энергосбережение</string>
     <string name="resource_auto_restart">Автозапуск</string>
     <string name="keywords_auto_restart">Автозапуск;Разрешения;Авто запуск;Автозапуск;Управление автозапуском;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск</string>
     <string name="path_auto_restart">Системные приложения/Безопасность/Разрешения/Автозапуск</string>
