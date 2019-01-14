@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Когда MIUI обнаруживает, что вы спите, система закрывает фоновые процессы, ограничивает использование Bluetooth, GPS, мобильного интернета и Wi-Fi, а также не включает экран при поступлении уведомлений</string>
     <string name="nonui_mode_config_title">Неинтерактивный режим</string>
     <string name="nonui_mode_config_description">Не включать экран при получении уведомлений, отключить световой индикатор, сканер отпечатков и сенсорное управление для экономии батареи, когда MIUI обнаруживает, что устройство не используется</string>
-    <string name="power_center">Экономия батареи</string>
+    <string name="power_center">Энергосбережение</string>
     <string name="power_usage">Использование батареи</string>
     <string name="power_mode">Настройки питания</string>
     <string name="performance_category">Производительность</string>
