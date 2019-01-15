@@ -202,6 +202,9 @@
     <string name="change_to_face_mode">Показывать только лицо</string>
     <string name="change_to_photo_mode">Показывать полную версию</string>
     <string name="change_to_visible">Восстановить фото?</string>
+    <string name="channel_default_name">Новые возможности</string>
+    <string name="channel_low_name">Новые сообщения</string>
+    <string name="channel_min_name">Уведомления галереи</string>
     <string name="checked">Выбрано</string>
     <string name="checked_something">Выбрано %s</string>
     <string name="choose_baby_sexy">Пол</string>
