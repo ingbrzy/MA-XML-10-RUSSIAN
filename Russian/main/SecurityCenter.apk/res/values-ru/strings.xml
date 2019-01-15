@@ -2346,6 +2346,8 @@
     <string name="video_repeat">Повторить</string>
     <string name="game_video_network_eror">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
+    <string name="notify_channel_optimize">Уведомления Безопасности</string>
+    <string name="notify_channel_mipush">Push-сообщения Безопасности</string>
     <string name="notify_channel_name_security">Безопасность системы</string>
     <string name="privacy_apps_category_title">Скрытые приложения</string>
     <string name="privacy_apps">Скрытие приложений</string>
