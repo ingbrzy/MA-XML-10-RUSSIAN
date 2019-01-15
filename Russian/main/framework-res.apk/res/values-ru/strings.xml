@@ -1341,7 +1341,7 @@
     <string name="stk_cc_ussd_to_dial">USSD-запрос преобразован в DIAL-запрос</string>
     <string name="stk_cc_ussd_to_ss">USSD-запрос преобразован в SS-запрос.</string>
     <string name="stk_cc_ussd_to_ussd">USSD-запрос преобразован в новый USSD-запрос.</string>
-    <string name="storage_internal">Внутренний общий накопитель</string>
+    <string name="storage_internal">Внутренняя память</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_sd_card_label">SD-карта %s</string>
     <string name="storage_usb">USB-накопитель</string>
