@@ -1232,7 +1232,7 @@
     <string name="power_center_stop_scan_title">Остановка проверки</string>
     <string name="hide_mode_result_summary_text">Настройте параметры энергосбережения для отдельных приложений</string>
     <string name="auto_task_result_summary_text">Настройте автоматические задачи для энергосбережения</string>
-    <string name="pc_settings_title">Настройки энергосбережения</string>
+    <string name="pc_settings_title">Настройки оптимизации питания</string>
     <string name="pc_main_activity_back">Назад</string>
     <string name="extreme_power_save_mode_card_summary">Включите Максимальную экономию при низком заряде батареи</string>
     <string name="handle_bar_title_system">Система</string>
@@ -1486,7 +1486,7 @@
     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
     <string name="Settings_title_network_assistants">Настройки передачи данных</string>
     <string name="Settings_title_anti_spam">Настройки антиспама</string>
-    <string name="Settings_title_power_center">Настройки энергосбережения</string>
+    <string name="Settings_title_power_center">Настройки оптимизации питания</string>
     <string name="Settings_title_anti_virus">Настройки антивируса</string>
     <string name="menu_item_virus_cloud_scan_title">Облачная проверка на вирусы</string>
     <string name="menu_item_virus_cloud_scan_summary">Загружать названия и данные приложений на сервер и проверять на наличие вирусов</string>
@@ -2415,7 +2415,7 @@
     <string name="power_center_consume_rank">Использование</string>
     <string name="power_center_custom_title">Энергосбережение</string>
     <string name="power_center_auto_shutdown_summary_default">Включение и выключение устройства в заданное время</string>
-    <string name="power_center_custom_summary_default">Настройки энергосбережения</string>
+    <string name="power_center_custom_summary_default">Настройки оптимизации питания</string>
     <string name="power_center_low_battery_title">Автопереключение</string>
     <string name="power_center_low_battery_summary_default">Включение энергосбережения, когда батарея разряжена.</string>
     <string name="power_center_low_battery_summary_dynamic">При %1$d%% переключиться на %2$s</string>
