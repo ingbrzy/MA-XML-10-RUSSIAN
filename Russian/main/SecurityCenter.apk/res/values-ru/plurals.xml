@@ -159,28 +159,28 @@
         <item quantity="many">Через %1$d минут</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Решено %d проблем с батареей</item>
-        <item quantity="one">Решена %d проблема с батареей</item>
-        <item quantity="few">Решено %d проблемы с батареей</item>
-        <item quantity="many">Решено %d проблем с батареей</item>
+        <item quantity="other">Решено %d проблем с питанием</item>
+        <item quantity="one">Решена %d проблема с питанием</item>
+        <item quantity="few">Решено %d проблемы с питанием</item>
+        <item quantity="many">Решено %d проблем с питанием</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Найдено %d проблем с батареей</item>
-        <item quantity="one">Найдена %d проблема с батареей</item>
-        <item quantity="few">Найдено %d проблемы с батареей</item>
-        <item quantity="many">Найдено %d проблем с батареей</item>
+        <item quantity="other">Найдено %d проблем с питанием</item>
+        <item quantity="one">Найдена %d проблема с питанием</item>
+        <item quantity="few">Найдено %d проблемы с питанием</item>
+        <item quantity="many">Найдено %d проблем с питанием</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
-        <item quantity="other">%d проблем с батареей</item>
-        <item quantity="one">%d проблема с батареей</item>
-        <item quantity="few">%d проблемы с батареей</item>
-        <item quantity="many">%d проблем с батареей</item>
+        <item quantity="other">%d проблем с питанием</item>
+        <item quantity="one">%d проблема с питанием</item>
+        <item quantity="few">%d проблемы с питанием</item>
+        <item quantity="many">%d проблем с питанием</item>
     </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
-        <item quantity="other">Найдено %d проблем с батареей, решите их</item>
-        <item quantity="one">Найдена %d проблема с батареей, решите ее</item>
-        <item quantity="few">Найдено %d проблемы с батареей, решите их</item>
-        <item quantity="many">Найдено %d проблем с батареей, решите их</item>
+        <item quantity="other">Найдено %d проблем с питанием, решите их</item>
+        <item quantity="one">Найдена %d проблема с питанием, решите ее</item>
+        <item quantity="few">Найдено %d проблемы с питанием, решите их</item>
+        <item quantity="many">Найдено %d проблем с питанием, решите их</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Разряд %2$d%% за последние %1$d минут</item>
