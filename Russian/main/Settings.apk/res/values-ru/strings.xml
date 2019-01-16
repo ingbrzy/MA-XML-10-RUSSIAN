@@ -3478,7 +3478,7 @@
     <string name="power_usage_list_summary_device">Использование устройства с момента полной зарядки (прошло: ^1)</string>
     <string name="power_usage_not_available">Нет данных.</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
-    <string name="power_usage_summary_title">Батарея и производительность</string>
+    <string name="power_usage_summary_title">Питание и производительность</string>
     <string name="power_user">Пользователь</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Предустановленные приложения</string>
@@ -4161,9 +4161,9 @@ UT-интерфейс: %5$s"</string>
     <string name="search_pointer_speed">Скорость указателя</string>
     <string name="search_power_checker">Мониторинг питания</string>
     <string name="search_power_hide_mode_title">Контроль активности;Использование батареи приложением;Управление питанием;Состояние батареи</string>
-    <string name="search_power_mode">Режим питания;Экономия батареи</string>
-    <string name="search_power_optimize">Экономия батареи;Экономия заряда</string>
-    <string name="search_power_usage_summary_title">Батарея и производительность;Батарея и производительность;Батарея;Питание;производительность;Экономия батареи;Экономия заряда</string>
+    <string name="search_power_mode">Режим питания;Энергосбережение</string>
+    <string name="search_power_optimize">Оптимизация питания;Экономия заряда</string>
+    <string name="search_power_usage_summary_title">Питание и производительность;Питание и производительность;Батарея;Питание;производительность;Энергосбережение;Экономия заряда</string>
     <string name="search_pref_edge_handgrip">Кромка экрана</string>
     <string name="search_pref_volume_wake_title">Включать экран кнопками громкости;Пробуждать кнопками громкости;кнопки громкости</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
