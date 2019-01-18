@@ -1644,8 +1644,8 @@
     <string name="toast_garbage_lib">Автообновление базы очистки включено</string>
     <string name="title_app_lock_disable">Защита приложений</string>
     <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
-    <string name="title_first_aid_kit">Первая помощь</string>
-    <string name="summary_first_aid_kit">Решайте проблемы с помощью нашей Аптечки</string>
+    <string name="title_first_aid_kit">Решение проблем</string>
+    <string name="summary_first_aid_kit">Исправьте проблемы на вашем устройстве</string>
     <string name="button_first_aid_kit">Исправить</string>
     <string name="info_and_call">Вызовы и сообщения</string>
     <string name="SMS_and_MMS">SMS и MMS</string>
@@ -2369,7 +2369,7 @@
     <string name="first_aid_scanning_item3">Проверка корректности настроек…</string>
     <string name="first_aid_scanning_item4">Проверка проблем с батареей…</string>
     <string name="first_aid_scanning_item5">Проверка наличия других проблем…</string>
-    <string name="first_aid_activity_title">Первая помощь</string>
+    <string name="first_aid_activity_title">Решение проблем</string>
     <string name="first_aid_item1_content">Производительность</string>
     <string name="first_aid_item2_content">Сеть</string>
     <string name="first_aid_item3_content">Настройки</string>
@@ -2397,7 +2397,7 @@
     <string name="first_aid_result_summary_normal">Всё в порядке</string>
     <string name="first_aid_result_summary_not_finished">Проверка не завершена. Некоторые проблемы могли остаться незамеченными.</string>
     <string name="first_aid_result_feedback_title">Отчет</string>
-    <string name="first_aid_result_feedback_summary">Первая помощь не нашла никаких проблем. Однако я заметил несколько.</string>
+    <string name="first_aid_result_feedback_summary">Проблем не найдено. Тем не менее, если они есть, можете отправить отчет.</string>
     <string name="first_aid_result_feedback_button">Отправить</string>
     <string name="first_aid_card_kadun_title">Устройство работает медленно</string>
     <string name="first_aid_card_kadun_summary1">Освободите место для нормальной работы устройства</string>
