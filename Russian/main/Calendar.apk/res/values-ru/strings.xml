@@ -367,6 +367,7 @@
     <string name="search_calendar_edit_event">Встреча;Напоминание;Повестка дня</string>
     <string name="search_calendar_settings">Календарь;Повестка дня;Напоминание</string>
     <string name="select_date">Выберите дату</string>
+    <string name="select_today_tip">Сегодня</string>
     <string name="select_synced_calendars_title">Календари для синхронизации</string>
     <string name="setting_about_calendar_version">"Версия Календаря: "</string>
     <string name="setting_about_imei">"IMEI: "</string>
@@ -413,6 +414,7 @@
     <string name="timezone_label">Часовой пояс</string>
     <string name="today">Сегодня</string>
     <string name="today_at_time_fmt">Сегодня, %s</string>
+    <string name="today_icon_voice_contentdescription">Возврат к сегодня</string>
     <string name="today_no_events">Мероприятий не запланировано</string>
     <string name="tomorrow">Завтра</string>
     <string name="tomorrow_at_time_fmt">Завтра, %s</string>
