@@ -130,6 +130,7 @@
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
     <string name="call_description_recording">Запись…</string>
+    <string name="call_not_support_high_frequency_click">"Не нажимайте эту кнопку так часто"</string>
     <string name="call_recording_error_privacy">Нельзя записывать вызовы в режиме \"Гость\"</string>
     <string name="call_recording_error_sd_access">Нет доступа к SD карте</string>
     <string name="call_recording_error_sd_unmounted">Запись остановлена: SD карта извлечена.</string>
