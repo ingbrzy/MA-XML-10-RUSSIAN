@@ -253,6 +253,14 @@
         <item>IS95B</item>
         <item>IS95A</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Высокое качество (по умолчанию)</item>
+        <item>Низкая задержка</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Высокое качество (по умолчанию)</item>
+        <item>Низкая задержка</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Выбор системы</item>
         <item>16 бит</item>
