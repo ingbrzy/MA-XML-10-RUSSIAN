@@ -172,6 +172,10 @@
     <string name="always_bcc_myself">Отправлять себе скрытую копию</string>
     <string name="always_show_images">Всегда показывать изображения этого отправителя</string>
     <string name="app_name">Почта</string>
+    <string name="appraise_des">Мы прилагаем все усилия для разработки продуктов, отвечающим вашим потребностям. Пожалуйста, поддержите нас своими комментариями.</string>
+    <string name="appraise_good">Похвала и поощрение</string>
+    <string name="appraise_ignore">Временная оценка</string>
+    <string name="appraise_negative">Негативный комментарий</string>
     <string name="archive">Архивировать</string>
     <string name="archived">Архивировано</string>
     <string name="att_download_failed_content">Не удалось загрузить вложение</string>
@@ -220,8 +224,8 @@
     <string name="automatic_remind_text">Напомнить автоматически</string>
     <string name="back">Назад</string>
     <string name="bank_card_detail">Данные кредитной карты</string>
-    <string name="battery_saver">Экономия батареи</string>
-    <string name="battery_saver_keywords">экономия батарея;батарея почты</string>
+    <string name="battery_saver">Энергосбережение</string>
+    <string name="battery_saver_keywords">энергосбережение;батарея почты</string>
     <string name="bcc">Скрытая копия</string>
     <string name="bill_center_setting">Настройки счетов</string>
     <string name="bill_center_setting_head">Импорт информации из этих аккаунтов</string>
@@ -472,10 +476,12 @@
     <string name="gmail_server_authorization_deleted">Не удалось проверить подлинность аккаунта. Добавьте аккаунт повторно.</string>
     <string name="gmail_web_login_go">ОК</string>
     <string name="gmail_web_login_required_message">Войти в Gmail</string>
+    <string name="have_auth_code">Авторизация по коду</string>
     <string name="header_category_account">Аккаунты</string>
     <string name="header_category_other">Отзывы</string>
     <string name="header_label_general_preferences">Основные настройки</string>
     <string name="help_and_info">Помощь</string>
+    <string name="help_me_get_qq_auth">Помощь в получении кода авторизации QQ</string>
     <string name="hide_elided">▼ Скрыть цитирование</string>
     <string name="hide_password">Скрыть пароль</string>
     <string name="hint_quick_reply_all">Ответить всем</string>

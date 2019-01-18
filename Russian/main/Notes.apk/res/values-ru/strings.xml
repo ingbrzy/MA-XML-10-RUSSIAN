@@ -224,6 +224,7 @@
     <string name="toolbar_voice_description">Голос</string>
     <string name="trash_folder_name">Корзина</string>
     <string name="trash_folder_reminder">Заметки будут навсегда удалены через 30 дней</string>
+    <string name="unclassfied_folder_name">Без категории</string>
     <string name="undo">Отменить</string>
     <string name="unknown_source">Неизвестный источник</string>
     <string name="widget_content_loading">Секунду…</string>
