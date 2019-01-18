@@ -692,7 +692,7 @@
     <string name="bluetooth_auto_connect">Автоматическое подключение</string>
     <string name="bluetooth_broadcasting">Передача данных</string>
     <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
-    <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_multiple_devices_summary">Подключено к нескольким устройствам</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -714,7 +714,7 @@
     <string name="bluetooth_device_advanced_rename_device">Переименовать</string>
     <string name="bluetooth_device_advanced_title">Тип подключения</string>
     <string name="bluetooth_device_context_connect">Подключить</string>
-    <string name="bluetooth_device_context_connect_advanced">Параметры...</string>
+    <string name="bluetooth_device_context_connect_advanced">Параметры…</string>
     <string name="bluetooth_device_context_disconnect">Отключить</string>
     <string name="bluetooth_device_context_disconnect_unpair">Отключить и отменить сопряжение</string>
     <string name="bluetooth_device_context_pair_connect">Выполнить сопряжение и подключить</string>
@@ -849,7 +849,9 @@
     <string name="bluetooth_sap_request">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_scan_for_devices">Поиск устройств</string>
     <string name="bluetooth_search_for_devices">Обновить</string>
-    <string name="bluetooth_searching_for_devices">Поиск...</string>
+    <string name="bluetooth_searching_for_devices">Поиск…</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Режим кодека aptX Adaptive</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">Режим кодека</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Глубина кодирования звука</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
@@ -884,8 +886,8 @@
     <string name="bluetooth_tethering_off_subtext">Нет доступа к интернет-подключению телефона через Bluetooth</string>
     <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth открыт</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
-    <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
-    <string name="bluetooth_turning_on">Включение Bluetooth...</string>
+    <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
+    <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_unknown" />
     <string name="bluetooth_unlock_add_device">Добавить устройство</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Заменить старое устройство на новое?</string>
@@ -1152,7 +1154,7 @@
     <string name="common_settings">Быстрые настройки</string>
     <string name="complete_parameters">Все параметры</string>
     <string name="complete_settings">Основные настройки</string>
-    <string name="computing_size">Вычисление...</string>
+    <string name="computing_size">Вычисление…</string>
     <string name="condition_airplane_summary">Wi-Fi, Bluetooth и мобильная сеть отключены. Вы не сможете позвонить или подключиться к Интернету.</string>
     <string name="condition_airplane_title">Режим полета включен</string>
     <string name="condition_battery_summary">Производительность снижена. Геолокация и фоновый режим отключены.</string>
@@ -2325,6 +2327,7 @@
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
+    <string name="keyguard_double_tap_to_sleep_title">Выключение экрана двойныйм касанием</string>
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
@@ -2438,7 +2441,7 @@
     <string name="line_breaking_title">Оптимизация текста</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
     <string name="list_empty_text">Список пуст</string>
-    <string name="loading_notification_apps">Загрузка...</string>
+    <string name="loading_notification_apps">Загрузка…</string>
     <string name="local_auto_backup_off">Откл</string>
     <string name="local_auto_backup_on">Вкл</string>
     <string name="local_auto_backup_section_title">Авторезервирование</string>
@@ -2734,7 +2737,7 @@
     <string name="master_clear_personal_data">Удалить ваши личные данные? Это необратимое действие!</string>
     <string name="master_clear_personal_data_application">Удалить ваши личные данные и установленные приложения? Это необратимое действие!</string>
     <string name="master_clear_personal_data_sdcard">Удалить ваши личные данные? Это необратимое действие!</string>
-    <string name="master_clear_progress_text">Подождите...</string>
+    <string name="master_clear_progress_text">Подождите…</string>
     <string name="master_clear_progress_title">Удаление…</string>
     <string name="master_clear_title">Сбросить к заводским настройкам</string>
     <string name="max_aspect_settings_all_app_display_loading">Секунду…</string>
@@ -2769,7 +2772,7 @@
     <string name="memory_available_read_only">Доступно (только для чтения)</string>
     <string name="memory_avg_desc">В среднем %1$s</string>
     <string name="memory_avg_use">В среднем</string>
-    <string name="memory_calculating_size">Идет подсчет...</string>
+    <string name="memory_calculating_size">Идет подсчет…</string>
     <string name="memory_clear_cache_message">Будут удалены кешированные данные всех приложений.</string>
     <string name="memory_clear_cache_title">Очистить кеш?</string>
     <string name="memory_dcim_usage">Изображения и видео</string>
@@ -2782,7 +2785,7 @@
     <string name="memory_media_cache_usage">Данные кеша</string>
     <string name="memory_media_misc_usage">Другие файлы</string>
     <string name="memory_media_usage">Мультимедиа</string>
-    <string name="memory_music_usage">Аудио (музыка, рингтоны...)</string>
+    <string name="memory_music_usage">Аудио (музыка, рингтоны…)</string>
     <string name="memory_performance">Оценка доступной памяти</string>
     <string name="memory_rightvalue">Всего: %s</string>
     <string name="memory_settings_title">Память</string>
@@ -2934,7 +2937,7 @@
     <string name="move_app_to_internal">Перенести на телефон</string>
     <string name="move_app_to_sdcard">Переместить на SD-карту</string>
     <string name="move_error_device_admin">Нельзя установить приложение администратора устройства на внешнем носителе</string>
-    <string name="moving">Перенос...</string>
+    <string name="moving">Перенос…</string>
     <string name="mqs_privacy_automatically_upload">Отправлять журналы автоматически</string>
     <string name="mqs_privacy_dialog_cancel">Отмена</string>
     <string name="mqs_privacy_dialog_confirm">Отправить</string>
@@ -3773,7 +3776,7 @@ UT-интерфейс: %5$s"</string>
     <string name="recommend_item_3">Внешний аккумулятор</string>
     <string name="recommend_item_4">Наушники</string>
     <string name="recommend_item_title">Рекомендации</string>
-    <string name="recompute_size">Повторное вычисление размера...</string>
+    <string name="recompute_size">Повторное вычисление размера…</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_labels">Этикетки сертификации</string>
     <string name="remaining_length_format">Осталось %1$s</string>
@@ -3826,7 +3829,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_shortcut_manager_throttling_complete">Готово</string>
     <string name="resetting_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="resolver_settings_label">Сортировка</string>
-    <string name="restore_default_apn">Восстановление настроек APN по умолчанию...</string>
+    <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
     <string name="restore_device_id_content">Сбросить персональные рекомендации</string>
     <string name="restore_device_id_title">Восстановить ID устройства</string>
@@ -4048,7 +4051,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sdcard_settings_mass_storage_status">SD-карта используется как запоминающее устройство.</string>
     <string name="sdcard_settings_not_present_status">Нет SD-карты.</string>
     <string name="sdcard_settings_read_only_status">Только для чтения.</string>
-    <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
+    <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте…</string>
     <string name="sdcard_settings_screen_mass_storage_text">Включить запоминающее устройство USB</string>
     <string name="sdcard_settings_total_bytes_label">Всего байтов:</string>
     <string name="sdcard_settings_unmounted_status">SD-карту можно извлечь.</string>
@@ -4324,7 +4327,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_enroll_start_message">Приложите палец к сканеру и удерживайте, пока не почувствуете вибрацию.</string>
     <string name="security_settings_fingerprint_enroll_start_title">Начало работы</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Он точно есть на устройстве. Найдите его!</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков пальцев...</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Мимо! Это не сканер отпечатков пальцев…</string>
     <string name="security_settings_fingerprint_preference_summary_none" />
     <string name="security_settings_fingerprint_preference_title">Отпечатки пальцев</string>
     <string name="security_settings_premium_sms_desc">Отправить SMS?</string>
@@ -4626,7 +4629,7 @@ UT-интерфейс: %5$s"</string>
     <string name="standard_info">Отключить звуки звонков и уведомлений</string>
     <string name="start_silent_mode">Включить режим \"Без звука\"</string>
     <string name="starting_android">Запуск Android…</string>
-    <string name="status_awaiting_tap">Нажмите на метку, чтобы начать запись...</string>
+    <string name="status_awaiting_tap">Нажмите на метку, чтобы начать запись…</string>
     <string name="status_awake_time">Время работы</string>
     <string name="status_bar_and_notification_bar">Шторка уведомлений</string>
     <string name="status_bar_app_des_separator">", "</string>
@@ -5950,7 +5953,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_setup_description_connected">Нажмите<b> Далее</b>" для продолжения настройки.
 
 Нажмите"<b> Назад</b> для подключения к другой сети Wi-Fi.</string>
-    <string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
+    <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
     <string name="wifi_setup_detail">Сведения о сети</string>
     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в разделе Настройки > Беспроводные сети.</string>
     <string name="wifi_setup_forget">Удалить</string>
@@ -5959,13 +5962,13 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_setup_refresh_list">Обновить список</string>
     <string name="wifi_setup_save">Сохранить</string>
     <string name="wifi_setup_skip">Пропустить</string>
-    <string name="wifi_setup_status_connecting">Подключение...</string>
+    <string name="wifi_setup_status_connecting">Подключение…</string>
     <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается.</string>
     <string name="wifi_setup_status_edit_network">Укажите конфигурацию сети</string>
     <string name="wifi_setup_status_existing_network">Подключиться к существующей сети</string>
     <string name="wifi_setup_status_new_network">Подключиться к новой сети</string>
     <string name="wifi_setup_status_proceed_to_next">Далее</string>
-    <string name="wifi_setup_status_scanning">Поиск доступных сетей...</string>
+    <string name="wifi_setup_status_scanning">Поиск доступных сетей…</string>
     <string name="wifi_setup_status_select_network">Чтобы подключиться к сети, нажмите на нее</string>
     <string name="wifi_setup_status_unsecured_network">Подключение к незащищенной сети</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
@@ -6259,8 +6262,8 @@ UT-интерфейс: %5$s"</string>
     <string name="card_emulation_sim_not_supported_message">%1$s не поддерживает функцию эмуляции NFC-карты.</string>
     <string name="card_emulation_switch_error_message">Не удалось включить %1$s.</string>
     <string name="card_emulation_switch_error_title">Ошибка</string>
-    <string name="card_emulation_turning_off_text">Отключение режима эмуляции карты...</string>
-    <string name="card_emulation_turning_on_text">Включение режима эмуляции карты...</string>
+    <string name="card_emulation_turning_off_text">Отключение режима эмуляции карты…</string>
+    <string name="card_emulation_turning_on_text">Включение режима эмуляции карты…</string>
     <string name="card_emulation_two_sim_not_supported_message">Карты SIM1, SIM2 не поддерживают функцию эмуляции карты в режиме NFC.</string>
     <string name="clear_motion_summary">Усилитель плавности изображения</string>
     <string name="custom_build_version">Версия по заказу пользователя</string>
