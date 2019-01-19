@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_title">О приложении</string>
     <string name="access_sd_fail">Нет доступа к SD карте</string>
     <string name="accessibility_shutter_button">Снимок</string>
     <string name="address">"Адрес: "</string>
@@ -92,6 +93,7 @@
     <string name="module_title_business_card">Визитка</string>
     <string name="module_title_code">Код</string>
     <string name="module_title_document">Документ</string>
+    <string name="module_title_plant">Растение</string>
     <string name="module_title_shopping">Покупки</string>
     <string name="module_title_translation">Перевод</string>
     <string name="name">"Имя: "</string>
@@ -106,6 +108,11 @@
     <string name="payment_text">Открыть с помощью %s</string>
     <string name="phone">"Телефон: "</string>
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
+    <string name="plant_fail">Не удалось распознать растение</string>
+    <string name="plant_loading">Загрузка…</string>
+    <string name="plant_reg_fail_2">Не удалось распознать этот объект. Сканер может распознать только растения.</string>
+    <string name="plant_support"> (Техническая поддержка)</string>
+    <string name="plant_title">Просканируйте растение, которе вы хотите распознать</string>
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
     <string name="previous">Назад</string>
     <string name="qr_code_details">Информация о QR-коде:</string>
@@ -117,6 +124,9 @@
     <string name="see_app_details">Информация о приложении</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="send_mail">Отправить Email</string>
+    <string name="setting_default_function">По умолчанию</string>
+    <string name="setting_title">Настройки</string>
+    <string name="setting_use_last_choose">Запомнить предыдущий выбор</string>
     <string name="shopping_searching">Поиск…</string>
     <string name="shopping_title">Сфотографируйте товар</string>
     <string name="shopping_vendor_info">Поддержка: Taobao</string>
