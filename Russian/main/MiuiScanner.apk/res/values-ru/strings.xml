@@ -110,7 +110,7 @@
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
     <string name="plant_fail">Не удалось распознать растение</string>
     <string name="plant_loading">Загрузка…</string>
-    <string name="plant_reg_fail_2">Не удалось распознать этот объект. Сканнер может распознать только растения.</string>
+    <string name="plant_reg_fail_2">Не удалось распознать этот объект. Сканер может распознать только растения.</string>
     <string name="plant_support"> (Техническая поддержка)</string>
     <string name="plant_title">Просканируйте растение, которе вы хотите распознать</string>
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
