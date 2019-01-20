@@ -481,7 +481,7 @@
     <string name="same_folder_name_warning">Папка с таким именем уже существует</string>
     <string name="save_button_text">Сохранить</string>
     <string name="save_dialog_title">Сохранить</string>
-    <string name="save_file">"Сохранение "</string>
+    <string name="save_file">"Загрузка "</string>
     <string name="save_file_already_exist_alert_message">Файл с таким именем существует, заменить?</string>
     <string name="save_file_already_exist_alert_title">Заменить файл?</string>
     <string name="save_file_suffix">" файла"</string>
