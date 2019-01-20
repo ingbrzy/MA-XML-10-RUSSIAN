@@ -4,6 +4,7 @@
     <string name="button_sort_by_date">По дате</string>
     <string name="button_sort_by_size">По размеру</string>
     <string name="cancel_running_download">Отмена</string>
+    <string name="cancle">Отмена</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -93,7 +94,7 @@
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить эти загрузки?</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
-    <string name="dialog_content_limit0">Запрет загрузок</string>
+    <string name="dialog_content_limit0">Загрузка по Wi-Fi</string>
     <string name="dialog_file_missing_title">Ошибка открытия файла</string>
     <string name="dialog_msg_disabled_net">Приложение %1$s ограничило загрузки для текущей сети. Нажмите \"Настройки сети\" для перехода в приложение \"Безопасность\".</string>
     <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Вы можете выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
@@ -146,7 +147,7 @@
     <string name="file_exist_hint">Такой файл уже существует</string>
     <string name="file_size">Размер:</string>
     <string name="file_picker">Выбор каталога</string>
-    <string name="get_data_failed">Не удалось получить данные. Подождите немного и повторите попытку.</string>
+    <string name="get_data_failed">Ошибка получения данных. Подождите немного и повторите попытку.</string>
     <string name="guess_like">Вам также может понравиться</string>
     <string name="hint">Внимание</string>
     <string name="info_download_details">Подробности</string>
@@ -195,7 +196,7 @@
     <string name="pref_download_settings_title">Максимальный размер файла</string>
     <string name="pref_download_storage_path">Каталог для сохранения</string>
     <string name="pref_download_revert_default">Использовать каталог по умолчанию</string>
-    <string name="pref_summary_any_bytes_popup">Всегда загружать файлы только при наличии подключения к Wi-Fi</string>
+    <string name="pref_summary_any_bytes_popup">Загружать файлы только при наличии подключения к Wi-Fi</string>
     <string name="pref_summary_enable_max_bytes_popup">Предупреждать при загрузке файлов через мобильный интернет</string>
     <string name="pref_summary_max_bytes_limit_format">Ожидать подключения к Wi-Fi, если размер файла более %s</string>
     <string name="pref_summary_no_limit_popup">Без ограничений</string>
@@ -216,7 +217,7 @@
     <string name="recommend_prepare">Ожидание…</string>
     <string name="restart_download">Заново</string>
     <string name="resume_download">Продолжить</string>
-    <string name="retry_after_network_available">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="retry_after_network_available">Ошибка подключения к сети. Проверьте подключение и повторите попытку.</string>
     <string name="revert_default">Восстановить настройки по умолчанию</string>
     <string name="revert_download_path">Сохранять в папку по умолчанию?</string>
     <string name="save_path">"Сохранять загрузки в "</string>
