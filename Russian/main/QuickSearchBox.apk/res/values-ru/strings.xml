@@ -74,7 +74,7 @@
   <string name="recently_shortcut_label">Недавние ярлыки</string>
   <string name="release_to_input">Отпустите, чтобы открыть панель поиска</string>
   <string name="remove_from_history">Удалить этот элемент из истории поиска?</string>
-  <string name="remove_from_history_failed">"Не удалось удалить этот элемент из истории поиска."</string>
+  <string name="remove_from_history_failed">"Ошибка удаления элемента из истории поиска."</string>
   <string name="search_apps">Поиск приложений</string>
   <string name="search_button">Поиск</string>
   <string name="search_group_fold">Скрыть</string>
@@ -96,7 +96,7 @@
   <string name="setting_version_title">Версия приложения</string>
   <string name="settings_description">Установленные приложения</string>
   <string name="show_more">Показать больше</string>
-  <string name="suggest_open_app_failed">"Не удалось открыть это приложение"</string>
+  <string name="suggest_open_app_failed">Ошибка открытия приложения</string>
   <string name="swipe_up_summary">Проведите пальцем вверх, чтобы открыть глобальный поиск</string>
   <string name="swipe_up_title">Свайп вверх</string>
   <string name="switch_application">Приложения</string>
@@ -110,7 +110,7 @@
   <string name="switch_prompt_ignore">Игнорировать</string>
   <string name="switch_prompt_set">Параметры просмотра</string>
   <string name="switch_prompt_title">"Не удалось найти %s?"</string>
-  <string name="switch_prompt_title_default">"Не удалось найти то что нужно?"</string>
+  <string name="switch_prompt_title_default">"Не нашли то что нужно?"</string>
   <string name="switch_setting">Настройки</string>
   <string name="system_search_category_title">Телефон</string>
   <string name="top_clicked">Часто используемые</string>
