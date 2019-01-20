@@ -23,7 +23,6 @@
     <string name="common_open_on_phone">Открыть на телефоне</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
-    <string name="delete_download">Удалить</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="dialog_cannot_resume">Загрузка прервана, повторите попытку.</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
@@ -86,6 +85,8 @@
     <string name="copy">Копировать</string>
     <string name="copy_info">Скопировано в буфер обмена. Можно делиться с друзьями!</string>
     <string name="create_task">Создать задачу</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_download">Удалить</string>
     <string name="delete_downloads_records">Удалить загрузки</string>
     <string name="delete_the_downloaded_file">Загруженные файлы будут удалены.</string>
     <string name="dialog_btn_cancel">Отмена</string>
