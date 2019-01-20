@@ -34,7 +34,7 @@
 
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
     <string name="button_queue_for_wifi">Отложить</string>
-    <string name="button_cancel_download">Отменить</string>
+    <string name="button_cancel_download">Отмена</string>
     <string name="button_start_now">Продолжить</string>
     <string name="download_remaining">Осталось %s</string>
     <string name="download_no_application_title">Ошибка открытия файла</string>
@@ -43,11 +43,13 @@
     <string name="download_running">Загружается</string>
     <string name="download_error">Ошибка</string>
     <string name="download_running_percent">Загружено %s</string>
-    <string name="dialog_content_limit0">Запрет загрузок</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="dialog_button_ok">ОК</string>
+    <string name="dialog_content_limit0">Загрузка по Wi-Fi</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
     <string name="dialog_data_limit_button2">Загрузить</string>
-    <string name="dialog_data_limit_msg1">%s мобильного интернета будет использовано для загрузки этого файла. Загрузить?</string>
+    <string name="dialog_data_limit_msg1">%s мобильного интернета будет использовано для загрузки этого файла. Продолжить?</string>
     <string name="dialog_data_limit_msg3">Изменить лимит</string>
     <string name="dialog_data_limit_title">Использование мобильного интернета</string>
     <string name="dialog_insufficient_space_on_cache">Недостаточно места во внутренней памяти</string>
@@ -59,4 +61,9 @@
     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
     <string name="insufficient_space">"Недостаточно места во внутренней памяти устройства"</string>
+    <string name="privacy_tip_cancel">Отмена</string>
+    <string name="warning_tip_cancel">Загрузка</string>
+    <string name="warning_tip_content">Соединение с Wi-Fi разорвано. Для продолжения загрузки будет использован мобильный интернет."</string>
+    <string name="warning_tip_ok">Пауза</string>
+    <string name="warning_tip_title">Использование мобильного интернета</string>
 </resources>
