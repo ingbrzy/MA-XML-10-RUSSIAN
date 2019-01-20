@@ -107,7 +107,7 @@
     <string name="dlg_update_btn_contiue">Продолжить</string>
     <string name="dlg_update_btn_open">Разрешить</string>
     <string name="dlg_update_updating">Обновление…</string>
-    <string name="toast_update_nonetwork">Не удалось подключиться к сети</string>
+    <string name="toast_update_nonetwork">Ошибка подключения к сети</string>
     <string name="toast_update_fail">Ошибка обновления</string>
     <string name="toast_update_success">Обновление завершено</string>
     <string name="toast_update_notneed">Обновление не требуется</string>
@@ -203,7 +203,7 @@
     <string name="report">Отчет</string>
     <string name="report_only">Выберите сообщение для отчета</string>
     <string name="report_success">Отчет отправлен</string>
-    <string name="report_error">Не удалось отправить отчет</string>
+    <string name="report_error">Ошибка отправки отчета</string>
     <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
     <string name="report_warning_title">Внимание</string>
     <string name="st_sub_title_customize_mode_name">Название</string>
@@ -400,11 +400,11 @@
     <string name="main_button_mi_sim_open">Подробности</string>
     <string name="adjust_sms_cmd"><u>Изменить шаблон калибровки</u></string>
     <string name="sms_detail_correct_success_text">Статистика трафика из предыдущей калибровки (%1$s):</string>
-    <string name="tc_send_sms_error">Не удалось отправить SMS</string>
+    <string name="tc_send_sms_error">Ошибка отправки SMS</string>
     <string name="tc_cmd_invalid">Недопустимый шаблон</string>
     <string name="tc_receive_timeout">Время калибровки истекло</string>
-    <string name="tc_parse_error">Не удалось разобрать SMS</string>
-    <string name="tc_get_cmd_error">Не удалось получить шаблон</string>
+    <string name="tc_parse_error">Ошибка разбора SMS</string>
+    <string name="tc_get_cmd_error">Ошибка получения шаблона</string>
     <string name="tc_web_correct_error">Ошибка калибровки</string>
     <string name="main_daily_card_guide_dialog_title">Выберите тип тарифа</string>
     <string name="main_daily_card_guide_dialog_summary">Вы можете выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?</string>
@@ -609,16 +609,16 @@
     <string name="free_time_traffic_title">Введите лимит льготного трафика</string>
     <string name="free_time_traffic_hint">Введите лимит льготного трафика</string>
     <string name="traffic_correction_start_correction">Запрос данных оператора…</string>
-    <string name="traffic_correction_start_correction_failed">Не удалось отправить запрос. Проверьте настройки оператора.</string>
+    <string name="traffic_correction_start_correction_failed">Ошибка отправки запроса. Проверьте настройки оператора.</string>
     <string name="traffic_correction_success">Данные трафика обновлены</string>
-    <string name="traffic_correction_failed">Не удалось получить данные</string>
+    <string name="traffic_correction_failed">Ошибка получения данных</string>
     <string name="traffic_correction_success_notify_message">Нажмите для просмотра.</string>
     <string name="sim_location_error_notify_title">Ошибка SIM карты</string>
     <string name="sim_location_error_notify_message">Нажмите для изменения местоположения SIM карты.</string>
     <string name="sim_location_error_dialog_message">Ваша SIM-карта из региона %1$s. Это не совпадает с регионом, введенным вручную (%2$s). Изменить регион SIM-карты на %3$s?</string>
     <string name="package_change_notification_title">Регулируйте лимит автоматически</string>
     <string name="package_change_notification_summary">Нажмите для просмотра.</string>
-    <string name="package_setted_error_notification_titile">Не удалось настроить тариф</string>
+    <string name="package_setted_error_notification_titile">Ошибка настройки тарифа</string>
     <string name="package_setted_error_notification_summary">Нажмите для просмотра.</string>
     <string name="traffic_config_alert_title">Корректировка %s</string>
     <string name="traffic_config_alert_auto_modify">Обновлять лимит автоматически</string>
@@ -678,15 +678,15 @@
     <string name="tc_sms_report_get_success_notify_body">Убедитесь в точности отчета и отправьте его нам.</string>
     <string name="tc_sms_report_upload_success">Отчет о трафике отправлен</string>
     <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчет!</string>
-    <string name="tc_sms_report_notify_get_timeout_title">Не удалось получить SMS с данными о трафике</string>
+    <string name="tc_sms_report_notify_get_timeout_title">Ошибка получения SMS с данными о трафике</string>
     <string name="tc_sms_report_notify_get_timeout_body">Время ожидания истекло. Уточните у оператора корректность введенного вами кода запроса SMS.</string>
-    <string name="tc_sms_report_notify_get_failure_title">Не удалось получить SMS с данными о трафике</string>
-    <string name="tc_sms_report_notify_correction_failure_title">Не удалось обновить информацию о трафике</string>
+    <string name="tc_sms_report_notify_get_failure_title">Ошибка получения SMS с данными о трафике</string>
+    <string name="tc_sms_report_notify_correction_failure_title">Ошибка обновления информации о трафике</string>
     <string name="tc_sms_report_notify_correction_body">Перейдите в модуль передачи данных и обновите данные вручную.</string>
-    <string name="tc_sms_report_notify_get_failure_body">Не удалось отправить отчет о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
+    <string name="tc_sms_report_notify_get_failure_body">Ошибка отправки отчета о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
     <string name="tc_sms_report_tips_dialog_title">SMS отчет о трафике</string>
     <string name="tc_sms_report_tips_dialog_message">Для получения актуальной информации о трафике от вашего оператора было отправлено SMS. Если вы считаете, что информация неверна, пришлите нам отчет.</string>
-    <string name="tc_sms_report_get_sms_failure">Не удалось получить информацию о трафике</string>
+    <string name="tc_sms_report_get_sms_failure">Ошибка получения информации о трафике</string>
     <string name="tc_sms_report_get_sms_timeout">Время ожидания истекло</string>
     <string name="tc_sms_report_get_sms_successs">Информация о трафике обновлена</string>
     <string name="tc_sms_report_get_default">Вы не будете оплачивать сообщения, отправленные для получения информации о трафике от вашего оператора.</string>
@@ -776,7 +776,7 @@
     <string name="usbsharenet_pc_exception_summary">Невозможно подключиться к интернету по USB. Проверьте интернет-подключение вашего компьютера.</string>
     <string name="gateway_exception_title">Диагностика роутера</string>
     <string name="gateway_exception_summary">Проверьте роутер и повторите попытку.</string>
-    <string name="gateway_exception_summary2">Не удалось подключиться к серверу</string>
+    <string name="gateway_exception_summary2">Ошибка подключения к серверу</string>
     <string name="other_exception_title">Проверка наличия других проблем</string>
     <string name="other_exception_summary">Отсутствует подключение к интернету</string>
     <string name="see_detail">Подробности</string>
@@ -797,13 +797,13 @@
     <string name="wifi_network_blocked_notification_title">Нет доступа в интернет</string>
     <string name="data_network_blocked_notification_title">Нет доступа в интернет</string>
     <string name="sim_state_exception_summary">Статус SIM карты свидетельствует о возможных проблемах SIM карты.</string>
-    <string name="network_operator_exception_summary">Не удалось активировать SIM карту. Убедитесь, что карта установлена правильно, и ваш тариф активирован мобильным оператором.</string>
+    <string name="network_operator_exception_summary">Ошибка активации SIM карты. Убедитесь, что карта установлена правильно, и ваш тариф активирован мобильным оператором.</string>
     <string name="network_blocked_connected_open_wifi">Подключено к публичной сети</string>
     <string name="network_connected_exception_title">Диагностика сети</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
-    <string name="protocol_loop_back_exception_summary">Не удалось провести диагностику. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
-    <string name="ip_address_exception_summary">Не удалось получить IP адрес. Если ситуация повторится, попробуйте использовать статический IP адрес.</string>
-    <string name="local_ip_exception_summary">Не удалось получить локальный IP адрес. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+    <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+    <string name="ip_address_exception_summary">Ошибка получения IP адреса. Если ситуация повторится, попробуйте использовать статический IP адрес.</string>
+    <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
     <string name="renew_ip">Повторить</string>
     <string name="network_permission_exception_tips">Невозможно использовать мобильный интернет для подключения к сети</string>
     <string name="open_now">Разрешить приложению использовать мобильный интернет</string>
@@ -866,10 +866,10 @@
     <string name="tc_diagnostic_status_updating">Тестирование…</string>
     <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Верно&lt;/font>"</string>
     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Ошибка&lt;/font>"</string>
-    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Не удалось получить данные&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Ошибка получения данных&lt;/font>"</string>
     <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Нет сетевого подключения&lt;/font>"</string>
     <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Тайм-аут&lt;/font>"</string>
-    <string name="tc_diagnostic_status_error_brand">Не удалось найти сеть оператора</string>
+    <string name="tc_diagnostic_status_error_brand">Ошибка поиска сети оператора</string>
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Сеть отвечает&lt;/font>"</string>
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Неверное местоположение&lt;br/>&lt;br/>Установленное: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Реальное: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Неверный оператор&lt;br/>&lt;br/>Установленный: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Реальный: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
@@ -1208,19 +1208,19 @@
     <string name="auto_task_manage_new_task">Новая задача</string>
     <string name="extreme_power_save_mode_title">Максимальная экономия</string>
     <string name="face_unlock_be_on_the_screen">Держите девайс перед лицом</string>
-    <string name="face_unlock_check_failed">Не удалось вас распознать</string>
+    <string name="face_unlock_check_failed">Ошибка распознавания</string>
     <string name="face_unlock_face_auth_failed_title">Не удалось подтвердить данные лица. Переключение на другой метод разблокировки…</string>
     <string name="face_unlock_face_start_title">Подтверждение данных лица…</string>
     <string name="face_unlock_finger_or_password_switch">Используйте ваш отпечаток или пароль для разблокировки.</string>
     <string name="face_unlock_guide_confirm">Использовать разблокировку лицом</string>
     <string name="face_unlock_guide_dialog_summary">Вы можете использовать данные лица для разблокировки. Включить разблокировку лицом?</string>
-    <string name="face_unlock_not_found">Не удалось вас распознать</string>
+    <string name="face_unlock_not_found">Ошибка распознавания</string>
     <string name="face_unlock_open_eye">Откройте ваши глаза чуть шире</string>
     <string name="face_unlock_reveal_eye">Сделайте ваши глаза видимыми</string>
     <string name="face_unlock_reveal_mouth">Сделайте ваши губы видимыми</string>
     <string name="face_unlock_toast_verity_failed">Не удалось подтвердить данные лица. Зайдите в настройки блокировки приложений и попробуйте подтвердить данные вашего лица ещё раз.</string>
     <string name="face_unlock_verity_dialog_summary">Подтверждение данных лица</string>
-    <string name="face_unlock_verity_dialog_title_failed">Не удалось вас распознать</string>
+    <string name="face_unlock_verity_dialog_title_failed">Ошибка распознавания</string>
     <string name="face_unlock_verity_dialog_title_succeed">Успешно распознано</string>
     <string name="handle_title_app">Потребление приложениями</string>
     <string name="handle_title_abnormal">Быстрый разряд</string>
@@ -1237,7 +1237,7 @@
     <string name="power_center_scan_item_title_auto_start">Автозапуск</string>
     <string name="power_center_scan_item_title_auto_invoke">Взаимный запуск</string>
     <string name="power_center_scan_item_title_battery_details">Информация о батарее</string>
-    <string name="power_center_hints_scan_danger_result">Оптимизируйте питание</string>
+    <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
     <string name="power_center_scan_item_title_running_app">Приложения в фоновом режиме</string>
     <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
     <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 с бездействия</string>
@@ -1729,7 +1729,7 @@
     <string name="antivirus_toast_update_success">Обновление завершено</string>
     <string name="antivirus_toast_update_failed">Ошибка обновления</string>
     <string name="antivirus_toast_already_update">Обновление не требуется</string>
-    <string name="antivirus_toast_network_unavailable">Не удалось подключиться к сети</string>
+    <string name="antivirus_toast_network_unavailable">Ошибка подключения к сети</string>
     <string name="handle_title_network">Безопасность Wi-Fi</string>
     <string name="handle_title_pay_env">Безопасность платежей</string>
     <string name="handle_title_privacy">Безопасность</string>
@@ -1976,7 +1976,7 @@
     <string name="ad_split_screen_title">Выйдите из режима разделения экрана</string>
     <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
     <string name="unlike">Нет, спасибо</string>
-    <string name="toast_network_eror">Не удалось подключиться к сети</string>
+    <string name="toast_network_eror">Ошибка подключения к сети</string>
     <string name="download">Загружено</string>
     <string name="install_sucess">Установка %s завершена</string>
     <string name="downloading">Загрузка</string>
@@ -2209,7 +2209,7 @@
     <string name="sys_freememory_title">Память</string>
     <string name="net_delay_title">Задержка</string>
     <string name="top_load_fail_detail">Ошибка загрузки, нажмите для повтора</string>
-    <string name="top_no_network_detial">Не удалось загрузить, проверьте подключение и повторите попытку</string>
+    <string name="top_no_network_detial">Ошибка загрузки, проверьте подключение и повторите попытку</string>
     <string name="boosting">Ускорение…</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="function_close">Откл</string>
@@ -2360,7 +2360,7 @@
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
     <string name="video_repeat">Повторить</string>
-    <string name="game_video_network_eror">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="game_video_network_eror">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="see_more_content">Обновите Игры для просмотра новинок</string>
     <string name="notify_channel_optimize">Уведомления Безопасности</string>
     <string name="notify_channel_mipush">Push-сообщения Безопасности</string>
