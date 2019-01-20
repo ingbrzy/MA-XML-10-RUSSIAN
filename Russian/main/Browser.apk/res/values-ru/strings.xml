@@ -123,6 +123,7 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Свайп вверх для закрытия</string>
     <string name="cancel">Отмена</string>
     <string name="cancle_sync_cloud_tabs">Отменить синхронизацию</string>
+    <string name="cast_video">Трансляция видео</string>
     <string name="clear_history">Очистить историю</string>
     <string name="clear_search_history">Очистить историю поиска</string>
     <string name="clear_video_download">Очистить видео</string>
@@ -286,6 +287,18 @@
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
     <string name="force_quick_search_title">Поиск</string>
+    <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
+    <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
+    <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
+    <string name="geolocation_permissions_prompt_share">Поделиться местоположением</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к вашему местоположению. Вы можете изменить это в Настройках.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Этому сайту запрещен доступ к вашему местоположению</string>
+    <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
+    <string name="geolocation_settings_page_dialog_message">Удалить доступ к местоположению для этого сайта?</string>
+    <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
+    <string name="geolocation_settings_page_summary_allowed">У этого сайта есть доступ к вашему местоположению</string>
+    <string name="geolocation_settings_page_summary_not_allowed">Этому сайту запрещен доступ к вашему местоположению</string>
+    <string name="geolocation_settings_page_title">Очистить доступ к местоположению</string>
     <string name="history">История</string>
     <string name="homepage_search_hint">Поиск</string>
     <string name="hybrid_application_no_data_text">Мини-программ нет</string>
@@ -555,8 +568,8 @@
     <string name="video_history_empty">Ничего нет</string>
     <string name="video_manager_action_bar_end_view">Видео</string>
     <string name="video_project_button">Стоп</string>
-    <string name="video_project_msg">Video is casting to %s</string>
-    <string name="video_project_title">Video casting</string>
+    <string name="video_project_msg">Видео транслируется в %s</string>
+    <string name="video_project_title">Трансляция видео</string>
     <string name="video_push_multi_message">Доступно обновлений: %1$d</string>
     <string name="video_push_multi_title">Доступно обновление</string>
     <string name="video_push_single_message">Нажмите, чтобы обновить до %1$d.</string>
