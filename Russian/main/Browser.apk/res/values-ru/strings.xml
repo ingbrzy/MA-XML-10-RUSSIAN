@@ -484,7 +484,7 @@
     <string name="save_file">"Сохранение "</string>
     <string name="save_file_already_exist_alert_message">Файл с таким именем существует, заменить?</string>
     <string name="save_file_already_exist_alert_title">Заменить файл?</string>
-    <string name="save_file_suffix">" файл"</string>
+    <string name="save_file_suffix">" файла"</string>
     <string name="save_form_data_confirm_message">Отключение этой функции может повлиять на использование.</string>
     <string name="save_image_failed">Ошибка сохранения изображения</string>
     <string name="save_image_success">Изображение сохранено</string>
