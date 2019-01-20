@@ -27,7 +27,7 @@
     <string name="dialog_cannot_resume">Загрузка прервана, повторите попытку.</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
     <string name="dialog_file_already_exists">Такой файл уже существует.</string>
-    <string name="dialog_file_missing_body">Файл не найден. Он мог быть перемещен или удален.</string>
+    <string name="dialog_file_missing_body">Файл не найден, возможно он перемещен или удален.</string>
     <string name="dialog_insufficient_space_on_cache">Не удалось загрузить. Недостаточно места во внутренней памяти.</string>
     <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
     <string name="dialog_media_not_found">Подключите внешний накопитель.</string>
@@ -36,7 +36,7 @@
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
     <string name="download_error">Ошибка загрузки</string>
-    <string name="download_no_application_title">Не удалось открыть файл</string>
+    <string name="download_no_application_title">Ошибка открытия файла</string>
     <string name="download_queued">Добавлено в очередь загрузок</string>
     <string name="download_running">Загрузка…</string>
     <string name="download_share_dialog">Отправить с помощью…</string>
@@ -70,7 +70,7 @@
     <string name="all_fileter">Все</string>
     <string name="all_share_files_content">Выбранные файлы уже удалены.</string>
     <string name="apk_filter">APK</string>
-    <string name="auth_fail">Не удалось получить авторизацию</string>
+    <string name="auth_fail">Ошибка авторизации</string>
     <string name="bt_path_not_exit">Данный путь не существует</string>
     <string name="bt_restart_dialog_message">Начать все загрузки в папке BT снова?</string>
     <string name="bt_restart_dialog_title">Перезапуск загрузок</string>
@@ -93,8 +93,8 @@
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить эти загрузки?</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
-    <string name="dialog_content_limit0">Ограничение загрузок</string>
-    <string name="dialog_file_missing_title">Не удалось открыть файл</string>
+    <string name="dialog_content_limit0">Запрет загрузок</string>
+    <string name="dialog_file_missing_title">Ошибка открытия файла</string>
     <string name="dialog_msg_disabled_net">Приложение %1$s ограничило загрузки для текущей сети. Нажмите \"Настройки сети\" для перехода в приложение \"Безопасность\".</string>
     <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Вы можете выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
     <string name="dialog_title_disabled_net">Доступ в интернет</string>
@@ -171,7 +171,7 @@
     <string name="new_add">Новая загрузка</string>
     <string name="no_file_hint">Загрузка уже существует</string>
     <string name="no_result_for_keyword">Не удалось найти \"%1$s\"</string>
-    <string name="no_share_file">Не удалось отправить этот файл</string>
+    <string name="no_share_file">Ошибка отправки файла</string>
     <string name="no_share_file_content">Выбранный файл уже удален</string>
     <string name="no_share_files">Нельзя отправить файлы, которые были удалены</string>
     <string name="no_share_files_content">Некоторые файлы, которыми вы хотели поделиться, уже удалены. Остальные были отправлены.</string>
@@ -223,7 +223,7 @@
     <string name="save_text">Экономия %1$s юань</string>
     <string name="select_operation_items">Выберите объекты</string>
     <string name="setting_close_debug">Режим отладки отключен</string>
-    <string name="setting_debug_fail">Не удалось активировать режим отладки</string>
+    <string name="setting_debug_fail">Ошибка активации режима отладки</string>
     <string name="setting_open_debug">Режим отладки активирован. Нажмите здесь 6 раз для отключения.</string>
     <string name="show_more">Показать все (%s)</string>
     <string name="sniff_copyright_text">Невозможно отобразить результаты из-за проблем с авторскими правами</string>
