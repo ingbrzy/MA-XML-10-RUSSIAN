@@ -202,7 +202,7 @@
     <string name="dialog_queued_body">Файл поставлен в очередь загрузок.</string>
     <string name="dialog_recovery_tabs_action">Восстановить</string>
     <string name="dialog_recovery_tabs_disc">Восстановление вкладок требует их полного обновления.</string>
-    <string name="dialog_recovery_tabs_tip">"Есть не закрытые вкладки. "</string>
+    <string name="dialog_recovery_tabs_tip">"Восстановить вкладки?   "</string>
     <string name="dialog_recovery_tabs_title">Восстановление вкладок</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл еще не доступен</string>
