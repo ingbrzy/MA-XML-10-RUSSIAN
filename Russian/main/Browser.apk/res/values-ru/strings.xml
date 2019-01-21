@@ -460,7 +460,15 @@
     <string name="pref_tab_restore">Восстановление вкладок при запуске</string>
     <string name="pref_ua_string">Строка User agent</string>
     <string name="pref_version_info">Информация о версии</string>
+    <string name="quicklink_not_saved">"Ошибка сохранения на стартовой странице"</string>
+    <string name="quicklink_saved">Сохранено на стартовой страние</string>
+    <string name="quicklink_saved_before">Сайт уже добавлен</string>
     <string name="quicklink_user_define_webpage_title">Имя</string>
+    <string name="quicklinks_group_default_subtitle">Ничего нет</string>
+    <string name="quicklinks_management">Популярные</string>
+    <string name="quicklinks_most_visited">Добавить на стартовую страницу</string>
+    <string name="quicklinks_most_visited_subtitle">Показать недавно посещенные сайты на новой вкладке</string>
+    <string name="quicklinks_most_visited_title">Добавить на стартовую страницу</string>
     <string name="remove_bookmark">Удалить закладку</string>
     <string name="remove_bookmark_group">Удалить папку</string>
     <string name="remove_from_bookmarks">Удалить из закладок</string>
