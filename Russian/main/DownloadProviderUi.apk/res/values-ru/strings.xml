@@ -223,7 +223,7 @@
     <string name="revert_download_path">Сохранять в папку по умолчанию?</string>
     <string name="save_path">"Сохранять загрузки в "</string>
     <string name="save_text">Экономия %1$s юань</string>
-    <string name="select_operation_items">Выберите объекты</string>
+    <string name="select_operation_items">Выберите файлы</string>
     <string name="setting_close_debug">Режим отладки отключен</string>
     <string name="setting_debug_fail">Ошибка активации режима отладки</string>
     <string name="setting_open_debug">Режим отладки активирован. Нажмите здесь 6 раз для отключения.</string>
