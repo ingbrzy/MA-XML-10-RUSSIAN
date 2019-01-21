@@ -30,7 +30,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться через %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="allow">Разрешить</string>
-    <string name="archive_loading_failed">Не удалось открыть архив для просмотра. Файл поврежден или имеет несовместимый формат.</string>
+    <string name="archive_loading_failed">Ошибка открытия архива для просмотра. Файл поврежден или имеет несовместимый формат.</string>
     <string name="authentication_required">Для просмотра этого каталога войдите в %1$s</string>
     <string name="button_compress">Сжать</string>
     <string name="button_copy">Копировать</string>
@@ -101,13 +101,13 @@
     <string name="open_external_dialog_root_request">Предоставить<b> ^1</b> доступ к вашим данным, включая фото и видео на<i> ^2</i>?</string>
     <string name="overwrite_file_confirmation_message">Перезаписать %1$s?</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="query_error">Не удалось обработать запрос</string>
-    <string name="rename_error">Не удалось переименовать документ</string>
+    <string name="query_error">Ошибка обработки запроса</string>
+    <string name="rename_error">Ошибка переименования документа</string>
     <string name="root_available_bytes">%1$s свободно</string>
     <string name="root_recent">Недавние</string>
     <string name="root_type_apps">Больше приложений</string>
     <string name="root_type_device">Устройства</string>
-    <string name="root_type_service">Тип сохранения</string>
+    <string name="root_type_service">Сервисы хранилищ</string>
     <string name="root_type_shortcut">Ярлыки</string>
     <string name="save_error">Не удалось сохранить документ</string>
     <string name="search_menu_title">Поиск</string>
@@ -122,7 +122,7 @@
     <string name="title_open">Открыть из</string>
     <string name="title_save">Сохранить в</string>
     <string name="toast_failed_delete">Не удалось удалить некоторые документы</string>
-    <string name="toast_no_application">Не удалось открыть файл</string>
+    <string name="toast_no_application">Ошибка открытия файла</string>
     <string name="toast_view_in_archives_unsupported">Не удалось открыть файлы в архивах</string>
     <string name="trusted_quick_viewer_package" />
     <string name="undo">Отменить</string>
