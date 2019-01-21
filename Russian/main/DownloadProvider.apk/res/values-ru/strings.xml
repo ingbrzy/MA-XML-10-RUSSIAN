@@ -28,7 +28,7 @@
     <string name="notification_need_wifi_for_size">Для загрузки требуется Wi-Fi.</string>
     <string name="notification_paused_in_background">Загрузка приостановлена.</string>
     <string name="wifi_required_title">Файл слишком большой</string>
-    <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
+    <string name="wifi_required_body" formatted="false">"Для завершения этой загрузки необходимо подключение к Wi-Fi (%s).
 
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
     <string name="wifi_recommended_title">Файл слишком большой</string>
@@ -47,7 +47,7 @@
     <string name="download_running_percent">Загружено %s</string>
     <string name="dialog_button_cancel">Отмена</string>
     <string name="dialog_button_ok">ОК</string>
-    <string name="dialog_content_limit0">Загрузка по Wi-Fi</string>
+    <string name="dialog_content_limit0">Только по Wi-Fi</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
     <string name="dialog_data_limit_button1">Подождать Wi-Fi</string>
     <string name="dialog_data_limit_button2">Загрузить</string>

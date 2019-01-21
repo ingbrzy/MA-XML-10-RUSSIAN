@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_loaction">Найти на Рабочем столе</string>
+  <string name="app_loaction">Поиск на Рабочем столе</string>
   <string name="app_name">Поиск</string>
   <string name="appindex_description">Функции установленных приложений</string>
   <string name="appindex_search_label">Функции приложений</string>
