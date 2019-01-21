@@ -2327,7 +2327,7 @@
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
     <string name="keyboard_shortcuts_helper_summary">Показывать быстрые клавиши</string>
     <string name="keyguard_advance_setting_title">Расширенные настройки</string>
-    <string name="keyguard_double_tap_to_sleep_title">Выключение экрана двойныйм касанием</string>
+    <string name="keyguard_double_tap_to_sleep_title">Выключение экрана двойным касанием</string>
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
