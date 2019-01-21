@@ -9,8 +9,8 @@
   <string name="barcode_install_back">Назад</string>
   <string name="barcode_install_cancel">Отмена</string>
   <string name="barcode_install_confirm">Установить</string>
-  <string name="barcode_system_unmatch">Обновите MIUI перед установкой Сканнера</string>
-  <string name="barcode_to_install">Установите Сканнер чтобы продолжить</string>
+  <string name="barcode_system_unmatch">Обновите MIUI перед установкой Сканера</string>
+  <string name="barcode_to_install">Установите Сканер чтобы продолжить</string>
   <string name="barcode_uninstalled">Сканер удален</string>
   <string name="choose_search_engine">Поисковая система по умолчанию</string>
   <string name="clear_history">Очистить историю</string>
@@ -24,11 +24,11 @@
   <string name="common_setting">Общие настройки</string>
   <string name="connect_and_retry">Подключитесь к интернету и попробуйте снова.</string>
   <string name="corpus_description_apps">Установленные приложения</string>
-  <string name="corpus_description_web">Закладки</string>
+  <string name="corpus_description_web">Поиск в Интернете, закладках и истории</string>
   <string name="corpus_hint_apps">Поиск приложений</string>
   <string name="corpus_label_apps">Приложения</string>
   <string name="corpus_label_global">Все</string>
-  <string name="corpus_label_web">Web результаты</string>
+  <string name="corpus_label_web">Интернет</string>
   <string name="corpus_selection_heading">Поиск</string>
   <string name="cta_declaration">"Для нормальной работы этой функции необходимо подключение к интернету, доступ к местоположению устройства, возможность просматривать контакты и историю вызовов."</string>
   <string name="cta_declaration_ignore">"Не показывать снова"</string>
@@ -44,7 +44,8 @@
   <string name="google_search_description">Предложения Google поиска</string>
   <string name="google_search_hint">Google поиск</string>
   <string name="google_settings_category_title">Google поиск</string>
-  <string name="hot_search">Популярное</string>
+  <string name="hot_search">Показать часто используемые</string>
+  <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"xiaomi.eu\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Видео\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Музыка\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Новости\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Погода\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Общение\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Android\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Сериалы\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Курс валют\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Книги\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Праздники\",\"type\":\"unknown\",\"url\":\"\"}]</string>
   <string name="loading">Секунду…</string>
   <string name="local_app">Приложения</string>
   <string name="local_setting">Настройки</string>
@@ -97,8 +98,8 @@
   <string name="settings_description">Установленные приложения</string>
   <string name="show_more">Показать больше</string>
   <string name="suggest_open_app_failed">Ошибка открытия приложения</string>
-  <string name="swipe_up_summary">Открытие поиска свайпом вверх на Рабочем столе</string>
-  <string name="swipe_up_title">Открытие поиска</string>
+  <string name="swipe_up_summary">Поиск свайпом вверх на Рабочем столе</string>
+  <string name="swipe_up_title">Поиск на Рабочем столе</string>
   <string name="switch_application">Приложения</string>
   <string name="switch_browser">Браузер</string>
   <string name="switch_contacts">Контакты</string>
