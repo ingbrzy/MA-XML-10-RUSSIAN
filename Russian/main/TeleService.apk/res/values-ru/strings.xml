@@ -1450,6 +1450,16 @@ SIM-карта будет заблокирована при неудачной �
     <string name="volte_switch_summary2">Перед включением убедитесь, что ваш оператор поддерживает эту функцию. В противном случае могут быть затронуты обычные вызовы.</string>
     <string name="volte_switch_not_support_summary">Вызовы VoLTE не поддерживаются текущей SIM картой</string>
     <string name="volte_switch_not_support_summary2">Вызовы VoLTE не поддерживаются оператором</string>
+    <string name="vowifi_emergency_notification_channel">Экстренный вызов по Wi-Fi</string>
+  <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в сотовой сети.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wifi вызовы</string>
+  <string name="vowifi_emergency_warning_check">"Не показывать снова."</string>
+  <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi.
+
+Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
+
+Экстренные вызовы возможны только в зонах с сотовой связью."</string>
+    <string name="vowifi_emergency_warning_title">ECC вызовы через Wi-Fi</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE требует подключение 4G для обоих слотов SIM. Включить режим Dual 4G?</string>
     <string name="dual_4g_switch_title">Режим Dual 4G</string>
     <string name="dual_4g_switch_summary">Разрешить подключение 4G для обоих слотов SIM</string>
@@ -1551,6 +1561,8 @@ SIM-карта будет заблокирована при неудачной �
     <string name="wfcmode_wifi_preferred">Предпочитать Wi-Fi</string>
     <string name="wfcmode_mobile_preferred">Предпочитать мобильные сети</string>
     <string name="wifi_call_setting">Wi-Fi вызовы</string>
+    <string name="wifi_call_setting_vodafone_de">Wi-Fi вызов</string>
+    <string name="wifi_call_setting_vodafone_uk">Wi-Fi вызов</string>
     <string name="cloud_sim_enabled_preferred_network_summary">Нельзя менять режим сети при использовании Mi Роуминга</string>
     <string name="cloud_sim_enabled_dual_4g_summary">Нельзя отключить Dual 4G при использовании Mi Роуминга</string>
     <string name="dc_alert_dialog_title">Предупреждение о трафике</string>
