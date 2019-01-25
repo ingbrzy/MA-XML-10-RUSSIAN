@@ -306,6 +306,7 @@
     <string name="favorite_succeed">Добавлено в избранные</string>
     <string name="favorite_tracks">Избранные</string>
     <string name="favorites">Избранные</string>
+    <string name="fcm_fallback_notification_channel_label">Разное</string>
     <string name="feed_back">Обратная связь</string>
     <string name="file_not_found">Файл не найден</string>
     <string name="filter_by_duration">По длительности</string>
@@ -326,6 +327,7 @@
     <string name="format_not_support">Тип файла не поддерживается</string>
     <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
+    <string name="gcm_fallback_notification_channel_label">Разное</string>
     <string name="handle_later">Не сейчас</string>
     <string name="hd_quality_audio">Звук HD качества</string>
     <string name="headset_and_audio_effect_category">Наушники и звуковые эффекты</string>
@@ -547,6 +549,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Успешно загружено</string>
     <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
     <string name="queue_is_empty">Очередь пуста</string>
+    <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s трафика для загрузки этого файла?</string>
