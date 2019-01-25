@@ -37,10 +37,16 @@
     <string name="lp_brightness">Яркость</string>
     <string name="lp_fullscreen">На весь экран</string>
     <string name="lp_setting">Настройки</string>
+    <string name="lp_speed_title">Скорость воспроизведения</string>
+    <string name="lp_speed_toast">Воспроизведение со скоростью %sX</string>
     <string name="lp_videoView_error_button">Понятно</string>
     <string name="lp_videoView_error_text_unknown">Невозможно воспроизвести видео.</string>
     <string name="lp_videoView_error_title">Не удается воспроизвести</string>
     <string name="lp_volume">Громкость</string>
+    <string name="lv_audio_changed">Новая звуковая дорожка</string>
+    <string name="lv_audio_title">Звуковая дорожка</string>
+    <string name="lv_audio_track">"Звуковая дорожка "</string>
+    <string name="lv_auto_update">Обновить позже</string>
     <string name="lv_brightness">Яркость</string>
     <string name="lv_confirm_delete_history">Удалить выбранные файлы?</string>
     <string name="lv_confirm_delete_videos">Удалить файлы?</string>
@@ -109,7 +115,7 @@
     <string name="lv_subtitle_subonline_non_network">"Ошибка подключения к сети. Подключитесь и повторите попытку."</string>
     <string name="lv_subtitle_synchronization_title">Синхронизация</string>
     <string name="lv_subtitle_title">Субтитры</string>
-    <string name="lv_subtitle_track">Субтитры</string>
+    <string name="lv_subtitle_track">"Субтитры "</string>
     <string name="lv_unhide_prompt">Успешно. Файлы доступны для просмотра.</string>
     <string name="lv_updating">Обновление…</string>
     <string name="lv_videoView_error_text_invalid_progressive_playback">"Не удается воспроизвести видео на вашем устройстве."</string>

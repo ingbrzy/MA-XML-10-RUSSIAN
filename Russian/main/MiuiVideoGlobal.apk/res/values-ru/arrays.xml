@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_streaming_quality">
+        <item>Авто</item>
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+        <item>Наилучшее</item>
+    </string-array>
+</resources>
