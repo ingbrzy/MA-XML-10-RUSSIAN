@@ -632,6 +632,7 @@
     <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включен (например, при поступлении уведомлений). Возможен более быстрый разряд батареи.</string>
     <string name="face_unlock_by_notification_screen_on_title">Распознавать лица при включенном экране</string>
     <string name="face_unlock_check_failed">Не удалось вас узнать</string>
+    <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
     <string name="face_unlock_identify_error">Произошла ошибка распознавания</string>
@@ -1597,7 +1598,7 @@ d MMMM"</string>
     <string name="structure_face_unlock_tof_covered">Не удалось добавить данные лица. Отодвиньтесь дальше от экрана.</string>
     <string name="switch_bar_off">Откл</string>
     <string name="switch_bar_on">Вкл</string>
-    <string name="switch_system_user">Перейти в первое пространство</string>
+    <string name="switch_system_user">Вернуться к Первому пространству</string>
     <string name="system_ui_tuner">System UI Tuner</string>
     <string name="task_access_locked_app_msg">Включена защита приложений</string>
     <string name="telephony_monitor_switch">Монитор телефонии</string>
