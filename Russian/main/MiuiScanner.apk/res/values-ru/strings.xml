@@ -95,6 +95,7 @@
     <string name="module_title_document">Документ</string>
     <string name="module_title_plant">Растение</string>
     <string name="module_title_shopping">Покупки</string>
+    <string name="module_title_study">Домашнее задание</string>
     <string name="module_title_translation">Перевод</string>
     <string name="name">"Имя: "</string>
     <string name="new_schedule">Создать мероприятие</string>
@@ -105,6 +106,8 @@
     <string name="not_recommend_access_web_url">Всё равно перейти</string>
     <string name="note">"Примечание: "</string>
     <string name="open_url">Открыть URL</string>
+    <string name="pay_no_tip">"Не показывать снова"</string>
+    <string name="pay_save_this_choose">Запомнить выбор</string>
     <string name="payment_text">Открыть с помощью %s</string>
     <string name="phone">"Телефон: "</string>
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
@@ -131,6 +134,10 @@
     <string name="shopping_title">Сфотографируйте товар</string>
     <string name="shopping_vendor_info">Поддержка: Taobao</string>
     <string name="spaceIsLow_content">Недостаточно места во внутренней памяти. Освободите место.</string>
+    <string name="study_rotate_picture">Обработка изображения…</string>
+    <string name="study_scan_result">Результат</string>
+    <string name="study_searching">Поиск результатов…</string>
+    <string name="study_title">Сканирование проблемы, которую хотите решить</string>
     <string name="switch_open">Включить</string>
     <string name="tel">Телефон</string>
     <string name="title">"Должность: "</string>
@@ -140,6 +147,7 @@
     <string name="translate_dest_lang">Язык перевода</string>
     <string name="translate_fail">Не удалось перевести</string>
     <string name="translate_loading">Перевод…</string>
+    <string name="translate_parallel_2_lines">Убедитесь что текст параллелен линиям на экране</string>
     <string name="translate_save_fail">Не удалось сохранить заметку</string>
     <string name="translate_src_lang">Исходный язык</string>
     <string name="translate_text_compare">Сравнение</string>
