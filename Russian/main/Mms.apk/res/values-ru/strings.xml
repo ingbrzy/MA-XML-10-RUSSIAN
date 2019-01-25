@@ -43,6 +43,10 @@
     <string name="audio_message_mx_offline">Не удалось загрузить аудио. Mi сообщения отключены или недоступны.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Нет подключения к сети или установлена неверная SIM-карта. Установите SIM-карту, с которой было отправлено сообщение, и подключитесь к сети.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Включить Умные сообщения</string>
+    <string name="auto_identify_btn_text_when_all_disabled">Автоматически определять идентификатор отправителя</string>
+    <string name="auto_identify_btn_title">Сообщение отправлено с неизвестного номера.</string>
+    <string name="auto_identify_confirmation">Активация этой функции может занять некоторое время.</string>
     <string name="back_to_message_list">Вернуться к списку сообщений</string>
     <string name="batch_adding_progress_message">Добавление…</string>
     <string name="batch_deleting_message_progress_message">Удаление…</string>
