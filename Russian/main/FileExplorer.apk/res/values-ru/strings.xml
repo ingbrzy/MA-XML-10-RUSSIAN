@@ -108,8 +108,8 @@
     <string name="click_to_switch_volume">Переключение между внутренней памятью и SD картой</string>
     <string name="click_to_switch_volume_pad">Переключение между внутренней памятью и SD картой</string>
     <string name="close">Закрыть</string>
-    <string name="compress_fail">Не удалось сжать. Файл с таким именем уже существует.</string>
-    <string name="compress_fail_unknown">Не удалось сжать. Память заполнена или произошла неизвестная ошибка.</string>
+    <string name="compress_fail">Ошибка сжатия. Файл с таким именем уже существует.</string>
+    <string name="compress_fail_unknown">Ошибка сжатия. Память заполнена или произошла неизвестная ошибка.</string>
     <string name="compress_message">Архивация в…</string>
     <string name="compress_title">Создание архива</string>
     <string name="confirm">OK</string>
@@ -170,8 +170,8 @@
     <string name="encrypt_success_first_five">Файл зашифрован и скрыт. Вы можете просмотреть скрытые файлы, потянув вниз на главной странице.</string>
     <string name="encrypting">Шифрование…</string>
     <string name="error_contains_sharer_path">Не удалось зашифровать файлы в папке /MIUI/Gallery/cloud/sharer. Переместите файлы в другую папку и повторите попытку.</string>
-    <string name="error_create_dir">Не удалось создать папку</string>
-    <string name="error_create_file">Не удалось создать файл</string>
+    <string name="error_create_dir">Ошибка создания папки</string>
+    <string name="error_create_file">Ошибка создания файла</string>
     <string name="error_delete_failed">Ошибка удаления файла</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="error_folder_already_exists">Такой файл уже существует</string>
@@ -253,13 +253,14 @@
     <string name="menu_item_sort_name">По имени</string>
     <string name="menu_item_sort_type">По типу</string>
     <string name="menu_item_usb">USB</string>
+    <string name="menu_set_wallpaper">Установить как обои</string>
     <string name="mi_router_label">Роутер</string>
     <string name="midrop_msg_1">Включите Mi Drop на другом устройстве</string>
     <string name="midrop_msg_2">После включения Mi Drop вы сможете искать устройства поблизости и отправлять файлы</string>
     <string name="midrop_send_files">Выберите файлы для отправки</string>
     <string name="month_day_format">d MMMM</string>
     <string name="more">Еще</string>
-    <string name="move_failed">Не удалось переместить</string>
+    <string name="move_failed">Ошибка перемещения</string>
     <string name="move_icon_to_desktop_hint">Создайте ярлык на рабочем столе для более эффективной работы с файлами</string>
     <string name="move_icon_to_desktop_success">Ярлык добавлен на рабочий стол</string>
     <string name="move_to">Переместить в…</string>

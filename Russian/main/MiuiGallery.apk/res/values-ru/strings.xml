@@ -669,6 +669,9 @@
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
+    <string name="month_view_tip_button_text">Понятно</string>
+    <string name="month_view_tip_sub_title">Сделайте щипок на экране чтобы переключиться на просмотр месяца</string>
+    <string name="month_view_tip_title">Просмотр месяца</string>
     <string name="more">Еще</string>
     <string name="more_album_hint">, и т.д.</string>
     <string name="more_face">Еще похожие люди</string>
@@ -874,6 +877,11 @@
     <string name="photo_editor_talkback_redo">Вернуть</string>
     <string name="photo_editor_talkback_undo">Отменить</string>
     <string name="photo_editor_text">Текст</string>
+    <string name="photo_font_cancel_download">Отмена</string>
+    <string name="photo_font_download">Загрузить</string>
+    <string name="photo_font_download_failed_for_notwork">"Ошибка загрузки. Подключитесь к сети и повторите попытку."</string>
+    <string name="photo_font_download_without_wifi_msg">"Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату."</string>
+    <string name="photo_font_download_without_wifi_title">Использование мобильного интернета</string>
     <string name="photo_movie_module_finish">Модуль Клип успешно загружен</string>
     <string name="photo_movie_module_loading">Загрузка модуля Клип…</string>
     <string name="photo_movie_select_image_range">Клипы могут содержать от 3 до 20 фото</string>
@@ -1170,6 +1178,8 @@
     <string name="text_edit_dialog_style_shadow">Тень</string>
     <string name="text_edit_dialog_style_transparent">Прозрачность</string>
     <string name="text_edit_sub_menu_text">Выноска</string>
+    <string name="text_tab_bubble">Выноски</string>
+    <string name="text_tab_watermark">Водяной знак</string>
     <string name="things_album_empty_title">Фото можно отсортировать по объектам</string>
     <string name="thumbnail_name">эскиз</string>
     <string name="tip_capture_location">Местоположение:</string>
