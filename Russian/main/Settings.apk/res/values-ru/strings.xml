@@ -6246,6 +6246,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_when_every_night">Каждый вечер</string>
     <string name="zen_mode_when_never">Никогда</string>
     <string name="zen_mode_when_weeknights">Вечером по будням</string>
+    <string name="zen_onboarding_settings">Настройки</string>
     <string name="zen_schedule_rule_enabled_toast">Настроено правило включения режима \"Не беспокоить\" в указанное время</string>
     <string name="zen_schedule_rule_type_name">Время</string>
     <string name="zone_auto">Часовой пояс сети</string>
