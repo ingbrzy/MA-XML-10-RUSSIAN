@@ -190,7 +190,7 @@
     <string name="delete_download">Удалить</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
-    <string name="dialog_confirm_delete_downloads_message">Удалить выбранные загрузки? (%s)</string>
+    <string name="dialog_confirm_delete_downloads_message">Удалить выбранные загрузки?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить выбранную загрузку?</string>
     <string name="dialog_failed_body">Повторите попытку позже или удалите этот файл из очереди загрузки</string>
     <string name="dialog_file_already_exists">Файл уже загружен</string>
@@ -261,9 +261,9 @@
     <string name="empty_app_name">Другое приложение</string>
     <string name="empty_bookmark">Ничего нет</string>    
     <string name="empty_cloud_tab_login_hint">Облачные вкладки отсутстуют</string>
-    <string name="empty_cloud_tab_logout_hint">Войдите в Mi Account, 
+    <string name="empty_cloud_tab_logout_hint">"Войдите в Mi Account, 
 чтобы просмотреть открытые вкладки 
-с других устройств.</string>    
+с других устройств"</string>    
     <string name="empty_history_hint">Ничего нет</string>
     <string name="empty_snapshot_hint">Ничего нет</string>    
     <string name="enter_the_group_name">Введите имя папки</string>
@@ -565,7 +565,7 @@
     <string name="url_opened_in_background">Открыть в фоновой вкладке</string>
     <string name="url_suggest_indicator_hoturl">Популярные</string>
     <string name="url_suggest_indicator_mostvisited">Часто посещаемые</string>
-    <string name="use_cellular_network_alert_message">Wi-Fi недоступен. Использовать вместо него мобильный интернет?</string>
+    <string name="use_cellular_network_alert_message">Wi-Fi недоступен. Использовать мобильный интернет?</string>
     <string name="use_cellular_network_alert_title">Трафик</string>
     <string name="user_defined_webpage">Добавить на стартовую страницу</string>
     <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
