@@ -34,7 +34,7 @@
     <string name="action_menu_text_bandwidth_off">Экономия трафика выключена</string>
     <string name="action_menu_text_bandwidth_on">Экономия трафика включена</string>
     <string name="action_menu_text_bookmark_add_off">Ошибка добавления сайта</string>
-    <string name="action_menu_text_bookmark_removed">Удалено из закладок</string>
+    <string name="action_menu_text_bookmark_removed">Удалить из закладок</string>
     <string name="action_menu_text_copy_url">Копировать URL</string>
     <string name="action_menu_text_create_qr_code">QR-код</string>
     <string name="action_menu_text_download">Загрузки</string>
@@ -480,7 +480,7 @@
     <string name="remove_from_bookmarks">Удалить из закладок</string>
     <string name="remove_history_item">Удалить из истории</string>
     <string name="remove_snapshot">Удалить сохраненную страницу</string>
-    <string name="removed_from_bookmarks">Удалить из закладок</string>
+    <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="reopen">Открыть</string>
     <string name="replace">Заменить</string>
     <string name="resume_download">Начать</string>
