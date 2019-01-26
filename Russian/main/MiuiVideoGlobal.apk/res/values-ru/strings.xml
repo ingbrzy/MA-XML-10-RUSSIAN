@@ -79,7 +79,9 @@
     <string name="lv_mplayer_error_io">Не удалось прочитать файл</string>
     <string name="lv_mplayer_error_malformed">Недопустимый файл</string>
     <string name="lv_mplayer_error_server_died">Ошибка медиа-сервера</string>
+    <string name="lv_screen_shot_success">Скриншот сделан успешно</string> 
     <string name="lv_setting">Настройки</string>
+    <string name="lv_set_password">Задайте пароль для просмотра скрытых файлов</string>
     <string name="lv_share_tips">Скриншот сделан. Можете поделиться им сейчас.</string>
     <string name="lv_skip_update">Не сейчас</string>
     <string name="lv_storage_external_sdcard">Внешний накопитель</string>
@@ -90,7 +92,7 @@
     <string name="lv_subtitle_current_dir">Текущая папка</string>
     <string name="lv_subtitle_folder_up">Предыдущая папка</string>
     <string name="lv_subtitle_font_color_title">Цвет текста</string>
-    <string name="lv_subtitle_font_size_title">Размер ширифта</string>
+    <string name="lv_subtitle_font_size_title">Размер шрифта</string>
     <string name="lv_subtitle_manual_add_sub">Субтитры успешно добавлены</string>
     <string name="lv_subtitle_no_subtitle">"Субтитры недоступны"</string>
     <string name="lv_subtitle_non_subtitle_file">Файлы субтитров отсутствуют</string>
@@ -158,7 +160,8 @@
     <string name="screenrecord_share_video">Отправить видео</string>
     <string name="screenrecord_slience">Видео записано без звука, поскольку текущая версия MIUI не поддерживает запись звука.</string>
     <string name="screenrecord_success">Запись завершена. Вы можете поделиться видео.</string>
-    <string name="lv_set_password">Задайте пароль для просмотра скрытых файлов</string>
+    <string name="search">Поиск</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="share_tips">Скриншот сохранен. Нажмите для отправки.</string>
     <string name="storage_external_sdcard">Внешний накопитель</string>
     <string name="storage_internal_sdcard">Память устройства</string>
