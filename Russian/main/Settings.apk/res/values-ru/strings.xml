@@ -1311,7 +1311,7 @@
     <string name="dangerous_option_hint_title">Включена опасная функция</string>
     <string name="dangerous_option_switch_title">Уведомлять об опасных функциях</string>
     <string name="dark_color_mode">Темный режим</string>
-    <string name="dark_color_summary">Использовать темную цветовую палитру для фона системы и совместимых приложений</string>
+    <string name="dark_color_summary">Использовать более темную цветовую палитру для фона системы и совместимых приложений</string>
     <string name="dark_ui_mode">Ночной режим</string>
     <string name="dark_ui_mode_title">Установить ночной режим</string>
     <string name="dashboard_title">Настройки</string>
