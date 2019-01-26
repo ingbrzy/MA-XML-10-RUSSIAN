@@ -115,7 +115,7 @@
     <string name="plant_loading">Загрузка…</string>
     <string name="plant_reg_fail_2">Не удалось распознать этот объект. Сканер может распознать только растения.</string>
     <string name="plant_support"> (Техническая поддержка)</string>
-    <string name="plant_title">Просканируйте растение, которе вы хотите распознать</string>
+    <string name="plant_title">Просканируйте растение, которое вы хотите распознать</string>
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
     <string name="previous">Назад</string>
     <string name="qr_code_details">Информация о QR-коде:</string>
