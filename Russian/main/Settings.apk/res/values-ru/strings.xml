@@ -1311,7 +1311,7 @@
     <string name="dangerous_option_hint_title">Включена опасная функция</string>
     <string name="dangerous_option_switch_title">Уведомлять об опасных функциях</string>
     <string name="dark_color_mode">Темный режим</string>
-    <string name="dark_color_summary">Использовать темную цветовую палитру для фона системы и совместимых приложений</string>
+    <string name="dark_color_summary">Использовать более темную цветовую палитру для фона системы и совместимых приложений</string>
     <string name="dark_ui_mode">Ночной режим</string>
     <string name="dark_ui_mode_title">Установить ночной режим</string>
     <string name="dashboard_title">Настройки</string>
@@ -3300,8 +3300,8 @@
     <string name="onehour">30 минут</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
-    <string name="open_dark_mode_dialog_summary">"Некоторые настройки дисплея не совместимы с Темным режимом. При выходе из режима настройки будут восстановлены. Включить?"</string>
-    <string name="open_dark_mode_dialog_title">Совместимость с Темным режимом</string>
+    <string name="open_dark_mode_dialog_summary">"Некоторые настройки экрана не совместимы с Темным режимом. При выходе из режима они будут восстановлены. Включить Темный режим?"</string>
+    <string name="open_dark_mode_dialog_title">Совместимость</string>
     <string name="open_demo_mode">Включить</string>
     <string name="open_demo_mode_warning_message">В деморежиме часы в строке состояния будут остановлены, значки батареи и сигналов сети будут показаны полными. Для изменения этого поведения отключите деморежим или перезагрузите устройство.</string>
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
