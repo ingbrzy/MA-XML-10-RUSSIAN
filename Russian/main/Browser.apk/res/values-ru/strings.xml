@@ -286,10 +286,10 @@
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
     <string name="force_quick_search_title">Поиск</string>
-    <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
+    <string name="geolocation_permissions_prompt_dont_share">Запретить</string>
     <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
-    <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
-    <string name="geolocation_permissions_prompt_share">Поделиться местоположением</string>
+    <string name="geolocation_permissions_prompt_remember">Запомнить</string>
+    <string name="geolocation_permissions_prompt_share">Разрешить</string>
     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к вашему местоположению. Вы можете изменить это в Настройках.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Этому сайту запрещен доступ к вашему местоположению</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
