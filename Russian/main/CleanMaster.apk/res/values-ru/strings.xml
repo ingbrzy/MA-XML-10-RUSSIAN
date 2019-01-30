@@ -11,12 +11,12 @@
     <string name="name_optimizer">Политика конфиденциальности</string>
     <string name="title_optimizer">Условия использования</string>
     <string name="header_optimizer">Используя эту функцию, вы принимаете %s.</string>
-    <string name="byteShort">Б</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="terabyteShort">ТБ</string>
-    <string name="petabyteShort">ПБ</string>
+    <string name="byteShort">" Б"</string>
+    <string name="kilobyteShort">" КБ"</string>
+    <string name="megabyteShort">" МБ"</string>
+    <string name="gigabyteShort">" ГБ"</string>
+    <string name="terabyteShort">" ТБ"</string>
+    <string name="petabyteShort">" ПБ"</string>
     <string name="update_date_format">dd.MM.yyyy</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
     <string name="activity_title_scanfinish">Проверка завершена</string>
@@ -95,7 +95,7 @@
     <string name="hints_large_file_header_left">Большие файлы: %d</string>
     <string name="hints_installed_apps_header_left">Приложения: %d</string>
     <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
-    <string name="hints_apk_version">Версия: %s</string>
+    <string name="hints_apk_version">" Версия: %s"</string>
     <string name="apk_status_uninstalled">Не установлено</string>
     <string name="apk_status_installed_old">Старая версия</string>
     <string name="apk_status_install">Установлено</string>
@@ -564,4 +564,7 @@
     <string name="facebook_clean_exit_confirm_msg">Проверка Facebook не завершена. Остановить проверку и выйти?</string>
     <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
     <string name="facebook_clean_exit_confirm_ok">Остановить</string>
+	<string name="sys_cache_on_sdcard_item_name">Кэш</string>
+    <string name="facebook_function_title">Очистка Facebook</string>
+    <string name="facebook_function_summery">Очистить кэш Facebook</string>
 </resources>
