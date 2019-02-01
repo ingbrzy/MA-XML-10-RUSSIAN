@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="miui_volume_ringer_text_size">12.0sp</dimen>
+    <dimen name="miui_volume_ringer_text_size">12.5sp</dimen>
 </resources>
