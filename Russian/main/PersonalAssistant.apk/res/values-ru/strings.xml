@@ -321,7 +321,7 @@
     <string name="setting_launch_select_other_app">Другие приложения</string>
     <string name="setting_list_guide">Руководство</string>
     <string name="setting_list_guide_desc">Добавьте часто используемые функции.</string>
-    <string name="setting_note">Быстрая заметка</string>
+    <string name="setting_note">Быстрые заметки</string>
     <string name="setting_note_brief">Сделать быструю заметку</string>
     <string name="shortcut">Ярлыки</string>
     <string name="show_more">Показать больше</string>
