@@ -298,8 +298,8 @@
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
     <string name="record_name">Запись</string>
     <string name="record_parent">Диктофон</string>
-    <string name="scan">Сканнер</string>
-    <string name="scan_app">Сканнер</string>
+    <string name="scan">Сканер</string>
+    <string name="scan_app">Сканер</string>
     <string name="scan_card">Визитка</string>
     <string name="scan_code">QR-код</string>
     <string name="scan_doc">Документ</string>
