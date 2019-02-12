@@ -44,7 +44,6 @@
     <string name="download_queued">В очереди</string>
     <string name="download_running">Загружается</string>
     <string name="download_error">Ошибка</string>
-    <string name="download_running_percent">Загружено %s</string>
     <string name="dialog_button_cancel">Отмена</string>
     <string name="dialog_button_ok">ОК</string>
     <string name="dialog_content_limit0">Только по Wi-Fi</string>
