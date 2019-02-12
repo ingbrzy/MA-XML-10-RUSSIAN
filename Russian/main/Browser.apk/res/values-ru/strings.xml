@@ -508,7 +508,7 @@
     <string name="save_to_camera">Сохранить в Галерею</string>
     <string name="save_to_camera_failed">Не удается сохранить изображение</string>
     <string name="save_to_camera_success">Сохранено в Галерею</string>
-    <string name="scanner_uninstalled_text">Установите Сканнер, чтобы продолжить</string>
+    <string name="scanner_uninstalled_text">Установите Сканер, чтобы продолжить</string>
     <string name="scanner_uninstalled_title">Сканер был удален</string>
     <string name="screenshot_loading_dialog_title">Захват</string>
     <string name="sdcard_error">Проверьте SD-карту</string>
