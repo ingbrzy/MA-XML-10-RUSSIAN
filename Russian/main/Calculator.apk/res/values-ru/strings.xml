@@ -218,6 +218,11 @@
     <string name="tax_credit_mortgage">Ипотека</string>
     <string name="tax_credit_personal_income_tax">Подоходный налог</string>
     <string name="tax_credit_pretax_income">Доход без вычета налогов (CNY)</string>
+    <string name="tax_detail">Детали налога</string>
+    <string name="tax_detail_amount">Сумма налога</string>
+    <string name="tax_detail_rate">Ставка налога</string>
+    <string name="tax_detail_take_off">Вычет</string>
+    <string name="tax_detail_tax_payed">Выплаченная сумма</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">Пенсионный фонд</string>
     <string name="tax_fixed_salary_hint">Введите доход до уплаты налогов</string>
@@ -232,11 +237,13 @@
     <string name="tax_individual_income_tax_result">Результат</string>
     <string name="tax_injury">Травма</string>
     <string name="tax_insurance_and_fund">Страхование</string>
+    <string name="tax_insurance_and_fund_detail">Детали страхования</string>
     <string name="tax_last_salary_hint">Укажите свой доход</string>
     <string name="tax_last_salary_number">Доход</string>
     <string name="tax_location">Местоположение</string>
     <string name="tax_medical">Медицинский</string>
     <string name="tax_param_error">Введите правильную ставку страхования</string>
+    <string name="tax_payment_period">Количество платежей</string>
     <string name="tax_result_real_get">С налогом</string>
     <string name="tax_social_insurance">Социальное страхование</string>
     <string name="tax_thershold_foreign">%s (иностранные граждане)</string>
