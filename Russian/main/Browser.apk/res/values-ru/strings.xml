@@ -82,6 +82,17 @@
     <string name="agree">Согласен</string>
     <string name="agree_permissions_request">Разрешить</string>
     <string name="alert_tips">This site may be a security risk</string>
+    <string name="allow">Разрешить</string>
+    <string name="app_continue_downloading_text">Продолжить</string>
+    <string name="app_download_market_text">Используйте Mi Market для быстрой и безопасной загрузки</string>
+    <string name="app_download_now_text">Загрузка</string>
+    <string name="app_download_success_text">Успешно</string>
+    <string name="app_downloading_ratio_text">Загрузка %s</string>
+    <string name="app_downloading_text">Загрузка</string>
+    <string name="app_installing_text">Установка</string>
+    <string name="app_new_version">Установлена последняя версия приложения</string>
+    <string name="app_open_text">Открыть</string>
+    <string name="app_task_download_exists_text">Загрузка уже есть</string>
     <string name="application_name">Браузер</string>
     <string name="back_button_label">Назад</string>
     <string name="back_description">Назад</string>
@@ -189,6 +200,8 @@
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_download">Удалить</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
+    <string name="dialog_clipboard_tabs_action">Открыть</string>
+    <string name="dialog_clipboard_tabs_tip">Найти уже скопированные ссылки</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_downloads_message">Удалить выбранные загрузки?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить выбранную загрузку?</string>
@@ -354,6 +367,16 @@
     <string name="nav_screen_incognito_message">" История просмотра и поиска не будет сохранена в режиме инкогнито.
  Помните, что загруженные файлы и добавленные закладки будут сохранены."</string>
     <string name="nav_screen_incognito_title">Режим инкогнито</string>
+    <string name="navigate_feedback_dislike">не интересно</string>
+    <string name="navigate_feedback_dislike_tips">Показывать меньше таких рекомендаций</string>
+    <string name="navigate_feedback_input_report_label">Другие причины</string>
+    <string name="navigate_feedback_report">отчет</string>
+    <string name="navigate_feedback_report_input_tips">Оставьте свой вопрос, мы разберемся с ним в кратчайшие сроки</string>
+    <string name="navigate_feedback_report_success">Успешный отчет</string>
+    <string name="navigate_feedback_report_title">Причина отчета</string>
+    <string name="navigate_feedback_select_report_label">Выберите причину для отчета</string>
+    <string name="navigate_feedback_submit">Отправить</string>
+    <string name="navigation_delete_all">Свайп влево и вправо для закрытия всех вкладок</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Отмена</string>
     <string name="navigationbar_rightbutton_actiontext_go">Найти</string>
     <string name="navigationbar_rightbutton_actiontext_search">Поиск</string>
@@ -518,6 +541,7 @@
     <string name="search_keyword_browser">Браузер</string>
     <string name="search_label">Браузер</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="search_notification_btn_title">Поиск</string>
     <string name="search_settings_description">Закладки и история поиска</string>
     <string name="search_title_browser">Браузер</string>
     <string name="select_dot">Выбрать текст</string>
@@ -531,6 +555,10 @@
     <string name="sign_in_to" formatted="false">Регистрация в %s1 \"%s2\"</string>
     <string name="signed_in">Успешно</string>
     <string name="slide_guide">Слайд для возврата</string>
+    <string name="small_video_ad_app_text_click">Загрузка</string>
+    <string name="small_video_ad_app_text_open">Открыть</string>
+    <string name="small_video_ad_app_text_resume">Продолжить</string>
+    <string name="small_video_ad_web_text">Открыть</string>
     <string name="snapshot">Локальные</string>
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
     <string name="snapshot_successed">Сохранено в Закладки -> Локальные</string>
