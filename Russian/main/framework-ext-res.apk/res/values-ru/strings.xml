@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>
+    <string name="resolver_checkbox_always">Всегда</string>
+    <string name="resolver_checkbox_once">Один раз</string>
+    <string name="resolver_mi_browser">Mi Браузер</string>
+    <string name="resolver_offical_recommend">Официальное</string>
+    <string name="resolver_other_method">Другой вариант</string>
+    <string name="resolver_recommend_options_tag">Рекомендуемый вариант</string>
     <string name="voice_button_action_up">Нажмите и говорите</string>
     <string name="voice_button_action_down">Отпустите для поиска</string>
     <string name="voice_begin">Что вы ищете?</string>
