@@ -142,8 +142,10 @@
     <string name="passport_user_agreement_p1">Принять </string>
     <string name="passport_user_agreement_p2">Условия использования</string>
     <string name="passport_user_agreement_p3"> и </string>
-    <string name="passport_user_agreement_p4">Политика конфиденциальности</string>
+    <string name="passport_user_agreement_p4">Политику конфиденциальности</string>
+    <string name="passport_user_agreement_required">Пользовательское соглашение (обязательно)</string>
     <string name="passport_privacy_policy">Политика конфиденциальности</string>
+    <string name="passport_privacy_policy_required">Политика конфиденциальности (обязательно)</string>
     <string name="passport_user_agreement">Условия использования</string>
     <string name="passport_license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s</string>
     <string name="passport_login_failed">Ошибка авторизации</string>
@@ -219,6 +221,10 @@
     <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
     <string name="passport_license_info_open">Подробности</string>
     <string name="passport_license_info_collapse">Свернуть</string>
+    <string name="permission_group_contacts">Контакты</string>
+    <string name="permission_group_phone">Телефон</string>
+    <string name="permission_group_sms">СМС</string>
+    <string name="permission_group_storage">Память</string>
     <string name="search_app_name">Mi аккаунт</string>
     <string name="search_mi_account">Mi аккаунт</string>
     <string name="search_mi_account_key_words">Mi Cloud,Настройки аккаунта,Данные Mi Pay,Выйти</string>
@@ -233,6 +239,7 @@
     <string name="search_account_security_key_words">Изменить телефон,Изменить Email,Защита аккаунта,Аккаунты,Sina Weibo,QQ,Авторизация,Устройства</string>
     <string name="search_account_security_desc">Настройки аккаунта</string>
     <string name="search_account_security_path">Настройки/Mi аккаунт/Безопасность аккаунта</string>
+    <string name="select_all">Выбрать все</string>
     <string name="app_name">Mi аккаунт</string>
     <string name="account">Аккаунт</string>
     <string name="logout_failed">Не удалось выйти из аккаунта</string>
@@ -250,6 +257,7 @@
     <string name="add_account">Подключить аккаунт</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">QQ</string>
+    <string name="exit">Выход</string>
     <string name="facebook">Facebook</string>
     <string name="bind_facebook">Подключите аккаунт Facebook</string>
     <string name="binded">Подключено</string>
@@ -446,6 +454,8 @@
     <string name="oauth_get_scopes_failed">Не удалось получить данные аккаунта</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> получит следующие разрешения:&lt;br> &lt;br> %3$s</string>
     <string name="guest_account_label">Гостевой Mi аккаунт</string>
+    <string name="i_agree">ОК</string>
+    <string name="i_agree_continue">Продолжить</string>
     <string name="push_notification_title">Вы вошли в Mi аккаунт с неизвестного устройства</string>
     <string name="push_notification_content">Получить код</string>
     <string name="push_notify_dialog_title">Проверка аккаунта</string>
@@ -488,4 +498,5 @@ ID:%s
     <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
     <string name="temporary_not_available">Эта функция пока недоступна.</string>
     <string name="ok">OK</string>
+    <string name="optional_permissions">Дополнительные разрешения</string>
 </resources>
