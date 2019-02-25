@@ -56,6 +56,8 @@
     <string name="no_sound">Без звука</string>
     <string name="operation_delete">Удалить</string>
     <string name="operation_send">Отправить</string>
+    <string name="permission_intro_microphone">Для записи звука, когда источником звука является микрофон.</string>
+    <string name="permission_intro_storage">Для сохранения записей экрана</string>
     <string name="quit_recording">Выход из приложения…</string>
     <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
