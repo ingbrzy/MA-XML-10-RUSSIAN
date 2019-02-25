@@ -342,7 +342,9 @@
     <string name="st_confirm_dialog_summary_contact_call">Все вызовы от контактов будут заблокированы.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Все вызовы из-за границы будут заблокированы.</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
-    <string name="cta_dialog_msg">Приложению Безопасность требуется подключение к интернету для получения обновлений, а также доступ к местоположению для нормальной работы.</string>
+    <string name="cta_dialog_msg">&lt;Data&gt;Необходимо согласие с &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политикой конфиденциальности&amp;lt;/a&amp;gt; перед использованием приложения Безопасность. Приложению также требуется доступ к Интернету и местоположению для нормальной работы и обновления антивирусных баз. Принять?&lt;/Data&gt;</string>
+    <string name="cta_dialog_negative">Выйти</string>
+    <string name="cta_dialog_positive">Принять</string>
     <string name="cta_settings">Разрешить доступ в интернет</string>
     <string name="gdpr_msg"><Data>Для использования основных функций Безопасности вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об использовании функций (например, статистика мобильного трафика, информация о вредоносном ПО, а также базовая информация о вашем устройстве) и другие типы данных, которые определяет наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политика конфиденциальности&lt;/a>.</Data></string>
     <string name="app_name_na">Передача данных</string>
@@ -1703,6 +1705,27 @@
     <string name="cmcc_app_check_dialog_positive">Перезагрузить</string>
     <string name="cmcc_app_check_dialog_negative">Позже</string>
     <string name="app_not_installed_toast">Приложение не найдено</string>
+    <string name="app_permission_use_group_calendar">Календарь</string>
+    <string name="app_permission_use_group_calendar_des">Чтение и редактирование календаря</string>
+    <string name="app_permission_use_group_camera">Камера</string>
+    <string name="app_permission_use_group_camera_des">Использование камеры</string>
+    <string name="app_permission_use_group_contact">Контакты</string>
+    <string name="app_permission_use_group_contact_des">Чтение и редактирование контактов</string>
+    <string name="app_permission_use_group_location">Местоположение</string>
+    <string name="app_permission_use_group_location_des">Точное и приблизительное местоположение</string>
+    <string name="app_permission_use_group_mic">Микрофон</string>
+    <string name="app_permission_use_group_mic_des">Запись аудио</string>
+    <string name="app_permission_use_group_phone">Телефон</string>
+    <string name="app_permission_use_group_phone_des">Чтение и редактирование журнала звонков, осуществление вызовов, доступ к статусу вызовов</string>
+    <string name="app_permission_use_group_sensor">Нательные датчики</string>
+    <string name="app_permission_use_group_sensor_des">Чтение данных нательных датчиков</string>
+    <string name="app_permission_use_group_sms">SMS</string>
+    <string name="app_permission_use_group_sms_des">Отправка, получение и просмотр SMS-сообщений</string>
+    <string name="app_permission_use_group_storage">Память</string>
+    <string name="app_permission_use_group_storage_des">Доступ и запись в память</string>
+    <string name="app_permission_use_neccesary">Требуемые разрешения</string>
+    <string name="app_permission_use_no_neccesary">Необязательные разрешения</string>
+    <string name="app_permission_use_title">Разрешения</string>
     <string name="antivirus_choose_engine_settings">Настройки сигнатур</string>
     <string name="antivirus_choose_engine_title">Сигнатуры</string>
     <string name="antivirus_choose_engine_dialog_title">Выберите сигнатуры</string>
