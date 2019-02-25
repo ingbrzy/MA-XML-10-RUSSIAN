@@ -1261,13 +1261,13 @@
 Чтобы продолжить работу, выполните возврат к заводским настройкам. После этого вы сможете восстановить данные, резервная копия которых хранится в вашем аккаунте Google."</string>
     <string name="crypt_keeper_data_corrupt_title">Не удалось расшифровать</string>
     <string name="crypt_keeper_decrypt_methods">После шифрования устройства будет необходимо вводить пароль блокировки экрана (графический ключ, код или пароль) при каждом включении, чтобы расшифровать устройство, при условии, что пароль блокировки экрана задан. Другим способом расшифровки является сброс к заводским настройкам и стирание всех личных данных.</string>
-    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Если вы зашифровали телефон, вам придется вводить пароль, цифровой код или графический ключ каждый раз при перезагрузке устройства для его расшифровки.</string>
+    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Если вы зашифровали телефон, вам придется вводить пароль, PIN-код или графический ключ каждый раз при перезагрузке устройства для его расшифровки.</string>
     <string name="crypt_keeper_decrypt_methods_title">Расшифровка устройства</string>
     <string name="crypt_keeper_desc">"Вы можете зашифровать свои аккаунты, настройки, скачанные приложения и их данные, а также медиаданные и другие файлы на устройстве. После этого для расшифровки вам будет необходимо при каждом включении устройства разблокировать экран, если настроена его блокировка (графический ключ, PIN-код или пароль). Другой способ расшифровки – это сбросить настройки телефона, в результате чего все данные будут удалены.
 
 Обычно шифрование данных занимает около часа или более. Перед процедурой полностью зарядите батарею и не отключайте зарядное устройство, пока шифрование не завершится. Если прервать процесс, все данные или их часть будет утеряна."</string>
-    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана.</string>
-    <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
+    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль.</string>
+    <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль</string>
     <string name="crypt_keeper_encrypt_title">Зашифровать данные</string>
     <string name="crypt_keeper_encrypted_summary">Данные зашифрованы</string>
     <string name="crypt_keeper_enter_password">Введите пароль</string>
@@ -1283,6 +1283,8 @@
     <string name="crypt_keeper_setup_time_remaining">Шифрование завершится через ^1.</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
     <string name="crypt_keeper_switch_input_method">Сменить способ ввода</string>
+    <string name="crypt_keeper_switch_to_pattern">Использовать графический ключ</string>
+    <string name="crypt_keeper_switch_to_pin">Использовать PIN-код</string>
     <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
     <string name="crypt_keeper_warn_wipe">Внимание! Осталось попыток: ^1. Если вам не удастся выполнить авторизацию, память устройства будет очищена.</string>
     <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
@@ -2572,8 +2574,8 @@
     <string name="lockpassword_choose_your_password_second_space">"Задайте пароль 
  второго пространства"</string>
     <string name="lockpassword_choose_your_pattern_header">Задайте графический ключ</string>
-    <string name="lockpassword_choose_your_pin_header">Задайте цифровой код</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Задайте цифровой код 
+    <string name="lockpassword_choose_your_pin_header">Задайте PIN-код</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">"Задайте PIN-код 
  второго пространства"</string>
     <string name="lockpassword_choose_your_pin_title" formatted="false">Введите от %d до %d цифр</string>
     <string name="lockpassword_confirm_for_second_user">Подтвердите пароль второго пространства</string>
@@ -2588,9 +2590,9 @@
     <string name="lockpassword_confirm_your_pattern_generic">Введите графический ключ для продолжения.</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile">Чтобы продолжить, введите графический ключ рабочего профиля</string>
     <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
-    <string name="lockpassword_confirm_your_pin_generic">Введите цифровой код для продолжения.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Введите PIN-код для продолжения.</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">Чтобы продолжить, введите PIN-код рабочего профиля</string>
-    <string name="lockpassword_confirm_your_pin_header">Подтвердите цифровой код</string>
+    <string name="lockpassword_confirm_your_pin_header">Подтвердите PIN-код</string>
     <string name="lockpassword_confirm_your_private_password_header">Подтвердите пароль</string>
     <string name="lockpassword_confirm_your_private_pattern_header">Подтвердите графический ключ</string>
     <string name="lockpassword_continue_label">Продолжить</string>
@@ -2609,9 +2611,9 @@
     <string name="lockpassword_pin_contains_non_digits">Код должен содержать только цифры от 0 до 9</string>
     <string name="lockpassword_pin_no_sequential_digits">Нельзя использовать последовательности из идущих подряд или повторяющихся цифр</string>
     <string name="lockpassword_pin_recently_used">Администратор устройства запрещает использование кода</string>
-    <string name="lockpassword_pin_set_toast">Цифровой код задан</string>
-    <string name="lockpassword_pin_too_long">Код не может быть длиннее %d цифр</string>
-    <string name="lockpassword_pin_too_short">Код не может быть короче %d цифр</string>
+    <string name="lockpassword_pin_set_toast">PIN-код задан</string>
+    <string name="lockpassword_pin_too_long">PIN-код не может быть длиннее %d цифр</string>
+    <string name="lockpassword_pin_too_short">PIN-код не может быть короче %d цифр</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_password">Для продолжения работы введите пароль.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Для продолжения работы введите графический ключ.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Для продолжения работы введите PIN-код.</string>
@@ -2619,7 +2621,7 @@
     <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Для продолжения работы введите графический ключ рабочего профиля.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Для продолжения работы введите PIN-код рабочего профиля.</string>
     <string name="lockpattern_change_lock_pattern_label">Изменить графический ключ</string>
-    <string name="lockpattern_change_lock_pin_label">Изменить цифровой код</string>
+    <string name="lockpattern_change_lock_pin_label">Изменить PIN-код</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Нарисуйте графический ключ повторно</string>
@@ -4195,7 +4197,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_screenshot">Снимок экрана</string>
     <string name="search_second_space">Второе пространство;Два пространства;2 пространства;Скрыть приложения;Скрыть файлы;Скрыть фото;Экран блокировки;Пароль экрана блокировки;Конфиденциальность;Режим конфиденциальности;Личный режим;Личный;Гостевой режим;Гостевая сессия;Гостевой доступ;Гостевой аккаунт;Гость</string>
     <string name="search_security_encryption_title">Зашифровать устройство;Шифровать;Шифрование;Шифрование устройства;Шифрование телефона</string>
-    <string name="search_security_passwords_title">Пароль;Блокировка экрана;Цифровой код;Графический ключ</string>
+    <string name="search_security_passwords_title">Пароль;Блокировка экрана;PIN-код;Графический ключ</string>
     <string name="search_security_privacy_settings_title">Конфиденциальность;Безопасность;Неизвестные источники;Показать пароль;Подпись приложения;Сертификаты приложения;Очистить сертификаты;Очистить учетные данные</string>
     <string name="search_security_settings">Настройки конфиденциальности;Безопасность;Конфиденциальность</string>
     <string name="search_settings">Поиск</string>
@@ -4393,6 +4395,7 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_manual_activity_title">Руководство пользователя</string>
     <string name="settings_manual_activity_unavailable">Не удалось загрузить руководство пользователя.</string>
     <string name="settings_notify_need_backup">Сохраните ваши настройки в Mi Cloud для доступа к ним после замены телефона</string>
+    <string name="settings_notify_new_version">Доступно обновление. Нажмите для просмотра информации.</string>
     <string name="settings_notify_phone_recycled">Ваш номер телефона был перевыпущен. Нажмите для добавления другого номера.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
@@ -4403,7 +4406,7 @@ UT-интерфейс: %5$s"</string>
     <string name="setup_choose_unlock_fingerprint_msg">Настройте защиту перед добавлением отпечатка.</string>
     <string name="setup_choose_unlock_mixed_password">Пароль</string>
     <string name="setup_choose_unlock_mixpassword_title">Задайте пароль</string>
-    <string name="setup_choose_unlock_password">Цифровой код</string>
+    <string name="setup_choose_unlock_password">PIN-код</string>
     <string name="setup_choose_unlock_password_msg">Введите 4 цифры</string>
     <string name="setup_choose_unlock_password_title">Задайте код</string>
     <string name="setup_choose_unlock_pattern">Графический ключ</string>
@@ -5180,7 +5183,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unknown_app">Неизвестное приложение</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
     <string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
-    <string name="unlock_change_lock_pin_title">Изменить цифровой код</string>
+    <string name="unlock_change_lock_pin_title">Изменить PIN-код</string>
     <string name="unlock_disable_frp_warning_content_password">Без пароля не будет работать защита устройства.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Без пароля не будет работать защита устройства.
 
@@ -5217,7 +5220,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_disable_frp_warning_ok">Да, отключить</string>
     <string name="unlock_disable_frp_warning_title">Отключить защиту устройства?</string>
     <string name="unlock_disable_frp_warning_title_profile">Удалить защиту профиля?</string>
-    <string name="unlock_disable_lock_pin_summary">Отключить цифровой код</string>
+    <string name="unlock_disable_lock_pin_summary">Отключить PIN-код</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_set_do_later_title">Не сейчас</string>
     <string name="unlock_set_enter_system">Пропускать экран блокировки</string>
@@ -5236,7 +5239,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_mode_off">Нет</string>
     <string name="unlock_set_unlock_mode_password">Пароль</string>
     <string name="unlock_set_unlock_mode_pattern">Графический ключ</string>
-    <string name="unlock_set_unlock_mode_pin">Цифровой код</string>
+    <string name="unlock_set_unlock_mode_pin">PIN-код</string>
     <string name="unlock_set_unlock_none_summary">Защита отключена</string>
     <string name="unlock_set_unlock_none_title">Провести по экрану</string>
     <string name="unlock_set_unlock_off_summary" />
@@ -5247,7 +5250,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pattern_summary">Нарисуйте графический ключ</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
-    <string name="unlock_set_unlock_pin_title">Цифровой код</string>
+    <string name="unlock_set_unlock_pin_title">PIN-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">Включив блокировку экрана, выберите \"Настройки > Безопасность\", чтобы отсканировать и сохранить отпечаток пальца.</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>

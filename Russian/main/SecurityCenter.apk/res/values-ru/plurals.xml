@@ -368,6 +368,12 @@
         <item quantity="few">%d дня с момента последней проверки</item>
         <item quantity="many">%d дней с момента последней проверки</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d угроз найдено, исправить сейчас</item>
+        <item quantity="one">%d угроза найдена, исправить сейчас</item>
+        <item quantity="few">%d угрозы найдено, исправить сейчас</item>
+        <item quantity="many">%d угроз найдено, исправить сейчас</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d угроз,</item>
         <item quantity="one">%d угроза,</item>
