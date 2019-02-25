@@ -286,6 +286,7 @@
     <string name="menu_pick_from_contact">Выбрать из контактов</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_send_as_common">Отправить как SMS</string>
+    <string name="menu_traffic_destination">Назначение</string>
     <string name="menu_unlock">Удалить из избранных</string>
     <string name="menu_view_contact">Просмотреть контакт</string>
     <string name="message_class_label">"Класс сообщения: "</string>
@@ -418,6 +419,7 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">Новые сообщения</string>
     <string name="number_add_hint">Введите номер телефона</string>
+    <string name="number_recognition_partner">Сервисы распознавания номеров</string>
     <string name="open_audio_record_panel">Открыть панель для записи аудио</string>
     <string name="open_edit_sms_panel">Открыть панель для редактирования SMS</string>
     <string name="open_url_with_web">Открыть URL в браузере?</string>
@@ -747,6 +749,7 @@
     <string name="too_many_attachments">Максимальное число вложений: %1$s. Будут добавлены только первые %2$s.</string>
     <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
     <string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
+    <string name="train_edit_destination">Добавить</string>
     <string name="try_to_send">Продолжить</string>
     <string name="type_attachment">вложение</string>
     <string name="type_audio">аудио</string>
