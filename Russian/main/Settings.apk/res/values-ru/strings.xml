@@ -1568,7 +1568,7 @@
     <string name="device_total_memory">Всего памяти</string>
     <string name="device_usage_list_summary">Использование устройства с момента полной зарядки</string>
     <string name="dial_application_title">Вызов</string>
-    <string name="dial_pad_tones_title">Звук при наборе номера</string>
+    <string name="dial_pad_tones_title">Звук набора номера</string>
     <string name="dialog_chose_item">Выберите объект</string>
     <string name="dialog_content_login">Войти в Mi аккаунт для обновления?</string>
     <string name="dialog_no">Отмена</string>
@@ -1719,7 +1719,7 @@
     <string name="doze_summary">Включать экран, когда приходит уведомление</string>
     <string name="doze_title">Автоматич. включение экрана</string>
     <string name="draw_overlay">Поверх других приложений</string>
-    <string name="dtmf_tone_enable_title">Звук при наборе номера</string>
+    <string name="dtmf_tone_enable_title">Звук набора номера</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Собрать журналы проблем</string>
@@ -4125,7 +4125,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Исключения;Белый список;разрешенные номера</string>
     <string name="search_dndm_wristband">Активировать с помощью Mi Band;Mi Band</string>
     <string name="search_do_not_disturb_mode">Не беспокоить</string>
-    <string name="search_dtmf_tone_enable_title">Включить звук при наборе номера;Звук при наборе номера;звук набора;звук набора;звуки набора;звуки номеронабирателя</string>
+    <string name="search_dtmf_tone_enable_title">Включить звук при наборе номера;Звук набора номера;звук набора;звук набора;звуки набора;звуки номеронабирателя</string>
     <string name="search_empty">Ничего не найдено</string>
     <string name="search_enable_adb">Отладка по USB</string>
     <string name="search_fluency_mode">Системные анимации</string>
