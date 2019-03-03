@@ -4,6 +4,7 @@
     <string name="accessibility_contact_detail">Информация о контакте</string>
     <string name="account_container_title">Из аккаунта</string>
     <string name="account_default">По умолчанию</string>
+    <string name="account_dual_sim">SIM карта %s</string>
     <string name="account_phone">Только устройство</string>
     <string name="account_sdn">SDN</string>
     <string name="account_sdn2">SDN карты %d</string>

@@ -324,6 +324,7 @@
     <string name="setting_note">Быстрые заметки</string>
     <string name="setting_note_brief">Сделать быструю заметку</string>
     <string name="shortcut">Ярлыки</string>
+    <string name="shopping_source">От %s</string>
     <string name="show_more">Показать больше</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="step_km"> км</string>
