@@ -108,6 +108,7 @@
     <string name="download_action">Загрузить</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
+    <string name="dual_app">Клонировать</string>
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="edit_mode_group">Группировать</string>
     <string name="edit_mode_group_error_full">Не хватает места</string>
