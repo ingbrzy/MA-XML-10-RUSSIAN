@@ -1077,7 +1077,7 @@
     <string name="send_too_many_files_error">За один раз можно отправить %d объектов</string>
     <string name="set_as_slide_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
-    <string name="set_as_video_wallpaper_description">Скачать это файл и использовать как видео обои?</string>
+    <string name="set_as_video_wallpaper_description">Скачать этот файл и использовать как видео обои?</string>
     <string name="set_as_video_wallpaper_title">Установить как видео обои</string>
     <string name="set_as_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_wallpaper_title">Установить как обои</string>
