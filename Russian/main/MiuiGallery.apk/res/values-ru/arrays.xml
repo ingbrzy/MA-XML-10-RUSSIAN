@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Особенный день</item>
+        <item>Памятный день</item>
+        <item>Яркие моменты</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Мальчик</item>
         <item>Девочка</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Мои выходные</item>
+        <item>Ритмы жизни</item>
+        <item>Воспоминания о выходных</item>
     </string-array>
     <string-array name="month">
         <item>Январь</item>
@@ -26,6 +36,11 @@
         <item>Дедушка по матери</item>
         <item>Бабушка по матери</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>Вместе</item>
+        <item>Хорошие времена</item>
+        <item>В унисон</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Я</item>
         <item>Ребенок</item>
@@ -48,5 +63,9 @@
         <item>Бабушка по отцу</item>
         <item>Дедушка по матери</item>
         <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Движение вперед</item>
+        <item>Полный энергии</item>
     </string-array>
 </resources>
