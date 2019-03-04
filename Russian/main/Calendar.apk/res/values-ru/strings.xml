@@ -285,6 +285,11 @@
     <string name="no_visiable_calendar_select_account">Добавление аккаунта</string>
     <string name="no_visiable_calendar_title">Добавить аккаунт</string>
     <string name="not_synced">не синхронизирован</string>
+    <string name="notification_channel_name">Напоминания Календаря</string>
+    <string name="notification_open_setting_button_exit">Нет, спасибо</string>
+    <string name="notification_open_setting_button_ok">Разрешить</string>
+    <string name="notification_open_setting_message">"Вы не сможете получать уведомления о событиях, если не дадите разрешение Календарю отправлять уведомления."</string>
+    <string name="notification_open_setting_title">Уведомления Календаря?</string>
     <string name="panchang_amanta">Аманта</string>
     <string name="panchang_amanta_month">Месяц Аманта:</string>
     <string name="panchang_ayana">Аяна</string>
