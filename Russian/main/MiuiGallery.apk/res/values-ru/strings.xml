@@ -787,7 +787,7 @@
     <string name="operation_send">Отправить</string>
     <string name="operation_set_contact_photo">Установить как фото контакта</string>
     <string name="operation_set_slide_wallpaper">Установить как обои слайд-шоу</string>
-    <string name="operation_set_video_wallpaper">Установить видео обои</string>
+    <string name="operation_set_video_wallpaper">Установить как видео обои</string>
     <string name="operation_set_wallpaper">Установить как обои</string>
     <string name="operation_share">Поделиться</string>
     <string name="operation_show_in_photos_tab">Показывать в Фото</string>
@@ -1078,7 +1078,7 @@
     <string name="set_as_slide_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
     <string name="set_as_video_wallpaper_description">Скачать это файл и использовать как видео обои?</string>
-    <string name="set_as_video_wallpaper_title">Установить видео обои</string>
+    <string name="set_as_video_wallpaper_title">Установить как видео обои</string>
     <string name="set_as_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_wallpaper_title">Установить как обои</string>
     <string name="set_face_group_toast_msg_new_user">Нажмите и удерживайте фото человека для пропуска или совмещения.</string>
