@@ -314,7 +314,7 @@
     <string name="kr_authorization_privacy_policy">Политика конфинденциальности (обязательно)</string>
     <string name="kr_authorization_select_all">Выбрать все</string>
     <string name="kr_authorization_storage">Память</string>
-    <string name="kr_authorization_storage_desc">Доступа к памяти для сохранения журналов, изображений и видео</string>
+    <string name="kr_authorization_storage_desc">Доступ к памяти для сохранения журналов, изображений и видео</string>
     <string name="kr_authorization_summary">Юридическая документация</string>
     <string name="kr_authorization_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="module_item_more">Еще</string>
