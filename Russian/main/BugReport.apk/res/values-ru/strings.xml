@@ -305,13 +305,13 @@
     <string name="issue_search">Поиск</string>
     <string name="kr_authorization_agree">Принять</string>
     <string name="kr_authorization_contact">Учетные записи</string>
-    <string name="kr_authorization_contact_desc">Получение информации о Mi аккаунте и проверки учетной записи</string>
+    <string name="kr_authorization_contact_desc">Получение информации о Mi аккаунте и проверка учетной записи</string>
     <string name="kr_authorization_exit">Выход</string>
     <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
     <string name="kr_authorization_log_protocol_desc">"Для улучшения предоставляемых услуг, мы будем загружать статистику использования и системные журналы на наши серверы. Эти данные могут включать вашу личную информацию, а также информацию о вашем устройстве и сетях. Загруженные данные будут использованы только для поиска и анализа проблем в системе."</string>
     <string name="kr_authorization_phone">Телефон</string>
     <string name="kr_authorization_phone_desc">Идентификация устройства по IMEI и номеру модели для выявления и анализа проблем</string>
-    <string name="kr_authorization_privacy_policy">Политика конфинденциальности (обязательно)</string>
+    <string name="kr_authorization_privacy_policy">Политика конфиденциальности (обязательно)</string>
     <string name="kr_authorization_select_all">Выбрать все</string>
     <string name="kr_authorization_storage">Память</string>
     <string name="kr_authorization_storage_desc">Доступ к памяти для сохранения журналов, изображений и видео</string>
@@ -329,7 +329,7 @@
     <string name="module_tools">Системные инструменты</string>
     <string name="module_desktop">Настройки Рабочего стола</string>
     <string name="module_security">Безопасность и Mi Cloud</string>
-    <string name="module_data">Память и Клоны приложений</string>
+    <string name="module_data">Память и Клонированные приложения</string>
     <string name="module_finance">Финансы и Mi Wallet</string>
     <string name="module_more">Еще</string>
     <string name="module_search">Поиск</string>
