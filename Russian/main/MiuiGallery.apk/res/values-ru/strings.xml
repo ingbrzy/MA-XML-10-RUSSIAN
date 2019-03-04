@@ -557,6 +557,8 @@
     <string name="free_view_desc">3D просмотр</string>
     <string name="gallery_setting">Настройки</string>
     <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
+    <string name="generate_story_summary">MIUI проанализирует ваши фотографии и создаст сюжетные альбомы. Отключите эту функцию, если не хотите использовать сюжетные альбомы.</string>
+    <string name="generate_story_title">Сюжетные альбомы</string>
     <string name="get_album_info_in_process">Получение данных облачного альбома…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">ГБ</string>
@@ -595,6 +597,8 @@
     <string name="image_invalid_path">Недопустимый путь</string>
     <string name="image_not_found">Не удалось найти изображение</string>
     <string name="image_quota_fulfiled">Слишком много изображений. Удалите часть изображений и повторите попытку.</string>
+    <string name="image_selection_summary">MIUI проанализирует похожие фотографии и отметит лучшие снимки для вас. Отключите эту функцию, если хотите удалить метки с фотографий.</string>
+    <string name="image_selection_title">Выбрать лучшее фото</string>
     <string name="image_with_time">Фото снято в %s</string>
     <string name="image_with_time_and_location">Фото снято в %1$s. Место: %2$s.</string>
     <string name="impunity_declaration_settings">Запрашивать доступ в интернет</string>
@@ -783,6 +787,7 @@
     <string name="operation_send">Отправить</string>
     <string name="operation_set_contact_photo">Установить как фото контакта</string>
     <string name="operation_set_slide_wallpaper">Установить как обои слайд-шоу</string>
+    <string name="operation_set_video_wallpaper">Установить видео обои</string>
     <string name="operation_set_wallpaper">Установить как обои</string>
     <string name="operation_share">Поделиться</string>
     <string name="operation_show_in_photos_tab">Показывать в Фото</string>
@@ -939,6 +944,7 @@
     <string name="recent_album_empty_title">Нет новых фото</string>
     <string name="recommanded_face_abandon_tip">Удалено из предложений</string>
     <string name="recommanded_face_added_tip">Добавлено в \"%s\"</string>
+    <string name="recommend_category_title">"Выбор Галереи"</string>
     <string name="recovery_merge">Объединить</string>
     <string name="recovery_merge_or_rename">Объединение альбомов</string>
     <string name="recovery_merge_or_rename_message">Альбом с таким именем уже существует. Объединить?</string>
@@ -1071,6 +1077,8 @@
     <string name="send_too_many_files_error">За один раз можно отправить %d объектов</string>
     <string name="set_as_slide_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_slide_wallpaper_title">Установить как обои слайд-шоу</string>
+    <string name="set_as_video_wallpaper_description">Скачать это файл и использовать как видео обои?</string>
+    <string name="set_as_video_wallpaper_title">Установить видео обои</string>
     <string name="set_as_wallpaper_description">Это эскиз изображения, загрузить оригинал?</string>
     <string name="set_as_wallpaper_title">Установить как обои</string>
     <string name="set_face_group_toast_msg_new_user">Нажмите и удерживайте фото человека для пропуска или совмещения.</string>
@@ -1079,6 +1087,7 @@
     <string name="set_face_group_toast_title_old_user">Предложение</string>
     <string name="set_face_image">Установить новое фото профиля</string>
     <string name="set_group">Группа</string>
+    <string name="set_video_wallpaper_failed">"Не удалось установить этот файл как видео обои"</string>
     <string name="set_wallpaper_get_image_failed">Не удалось загрузить изображение, повторите попытку позже</string>
     <string name="setup_network_connection">Настройки сети</string>
     <string name="share">Поделиться</string>
