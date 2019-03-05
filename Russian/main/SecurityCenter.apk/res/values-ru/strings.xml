@@ -1430,8 +1430,8 @@
     <string name="menu_summary_power_manager_4">%sдо окончания</string>
     <string name="last_check_canceled">Предыдущая проверка была отменена</string>
     <string name="examination_score_100">Всё в порядке</string>
-    <string name="examination_score_80_100">Оптимизируйте несколько объектов</string>
-    <string name="examination_score_80_60">Оптимизируйте часть объектов</string>
+    <string name="examination_score_80_100">Можно оптимизировать несколько объектов</string>
+    <string name="examination_score_80_60">Найдены объекты для оптимизации</string>
     <string name="examination_score_60_0">Требуется оптимизация</string>
     <string name="examination_score_has_virus">Обнаружены подозрительные приложения</string>
     <string name="activity_title_settings">Настройки</string>
