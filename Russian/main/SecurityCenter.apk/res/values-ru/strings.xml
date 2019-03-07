@@ -1848,7 +1848,7 @@
     <string name="card_main_xspace_action">Создать</string>
     <string name="card_main_overscroll_tips">Безопасность на должном уровне</string>
     <string name="card_main_gamebooster_title">Ускорение игр</string>
-    <string name="card_main_gamebooster_summary">Повышение стабильности сети для игр</string>
+    <string name="card_main_gamebooster_summary">Улучшение производительности и управления в играх</string>
     <string name="exit_dialog_scan_title">Оптимизация устройства</string>
     <string name="exit_dialog_scan_message">Индекс производительности вашего устройства ниже 75 баллов. Оптимизировать его?</string>
     <string name="exit_dialog_scan_positive_button">Оптимизировать</string>
@@ -1942,6 +1942,8 @@
     <string name="mixed_password_confirmed_header_continue">Пароль задан. Нажмите \"Далее\".</string>
     <string name="mixed_password_confirmed_header_confirm">Пароль задан. Нажмите для подтверждения.</string>
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
+    <string name="forground_network_optimization_summary">Повышенный приоритет процессора для запущенных игр</string>
+    <string name="forground_network_optimization_title">Приоритет производительности</string>
     <string name="unlock_pattern"><u>Графический ключ</u></string>
     <string name="modify_password_mode"><u>Изменить способ защиты</u></string>
     <string name="fingerprint_to_lock">Разблокировка отпечатком</string>
@@ -2206,7 +2208,7 @@
     <string name="gs_auto_clean_memory">Очистка памяти</string>
     <string name="gs_auto_clean_memory_detail">Автоматическая очистка памяти для оптимизации игр</string>
     <string name="gs_anto_clean_memory_whitelist">Исключения</string>
-    <string name="gs_call_handsfree">Отвечать по громкой связи</string>
+    <string name="gs_call_handsfree">Ответ по громкой связи</string>
     <string name="gs_call_handsfree_mute">Режим \"Без звука\"</string>
     <string name="gs_gamebox">Панель ярлыков</string>
     <string name="gs_gamebox_detail">Отображение панели ярлыков во время игры</string>
@@ -2215,7 +2217,7 @@
     <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
     <string name="gs_app_back_self_start">Энергосбережение</string>
     <string name="gs_only_self_start_for_list">Ограничить фоновые процессы, чтобы сэкономить заряд батареи для игр</string>
-    <string name="gs_game_shortcut">Улучшение игрового процесса</string>
+    <string name="gs_game_shortcut">Улучшение производительности и управления в играх</string>
     <string name="gs_game_net_priority">Приоритет подключения</string>
     <string name="gs_game_net_priority_detail">Ограничить скорость загрузок, чтобы дать приоритет играм</string>
     <string name="gs_performance_mode">Ускорение процессора</string>
@@ -2236,6 +2238,9 @@
     <string name="boosting">Ускорение…</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="function_close">Откл</string>
+    <string name="function_shield_summary">Отключение автояркости, жестов скриншота и Режима чтения</string>
+    <string name="function_shield_summary_m">Отключение автояркости и жестов скриншота</string>
+    <string name="function_shield_title">Улучшенное восприятие</string>
     <string name="add_done">Успешно добавлено</string>
     <string name="boost_done">Успешно ускорено</string>
     <string name="boost_stop">Отключить ускорение</string>
@@ -2258,7 +2263,8 @@
     <string name="application_item_already_permission">Разрешено</string>
     <string name="man_add_application">Добавить приложение с автозапуском</string>
     <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
-    <string name="shield_keyboard_title">Отключить кнопки</string>
+    <string name="shield_keyboard_summary">Отключение кнопок и полноэкранных жестов во время игр</string>
+    <string name="shield_keyboard_title">Отключение кнопок и жестов</string>
     <string name="shield_keyboard_detail">Включить кнопки можно двойным нажатием на них</string>
     <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
     <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
@@ -2291,7 +2297,7 @@
     <string name="tab_gift">Подарки</string>
     <string name="tab_guide">Руководство</string>
     <string name="release_meminfo">Освобождено %d МБ</string>
-    <string name="best_booster_status">Ускорение игр активно</string>
+    <string name="best_booster_status">Ускорение игр включено</string>
     <string name="do_clean">Очистка…</string>
     <string name="auto_clean_close">Автоочистка отключена</string>
     <string name="net_booster_title">Ускорение сети</string>
