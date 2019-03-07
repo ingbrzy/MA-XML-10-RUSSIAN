@@ -311,7 +311,7 @@
     <string name="notify_when">Получение уведомление, когда размер мусора достигает 100МБ</string>
     <string name="goto_set">Настроить</string>
     <string name="virus_scan">Антивирус</string>
-    <string name="tips_of_virus_scan">Регулярно проверяйте устройство с помощью антивируса</string>
+    <string name="tips_of_virus_scan">Проверка устройства с помощью антивируса</string>
     <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
     <string name="tips_of_connect">Подключитесь к интернету для использования всех функций безопасности</string>
     <string name="buy_traffic_pack">Оплатить дополнительный трафик</string>
@@ -538,13 +538,13 @@
     <string name="whatsapp_delete_done">Завершить</string>
     <string name="whatsapp_title">Очистка WhatsApp</string>
     <string name="whatsapp_function_title">Очистка WhatsApp</string>
-    <string name="whatsapp_function_summery">Очищайте вложения WhatsApp</string>
+    <string name="whatsapp_function_summery">Очистка вложений WhatsApp</string>
     <string name="clean_summary">Очищено %1$s</string>
     <string name="onekeyclean_boosting_title">Ускорение</string>
     <string name="onekeyclean_boosted_title">Успешно ускорено</string>
     <string name="onekeyclean_boost_cleaned">Очищено %s</string>
     <string name="onekeyclean_boost_available">Доступно %s</string>
-    <string name="onekeyclean_card_summery">Удаляйте мусор для освобождения места</string>
+    <string name="onekeyclean_card_summery">Удаление мусора для высвобождения места</string>
     <string name="onekeyclean_card_btn">Очистить</string>
     <string name="memory_clean_icon_text">Очистка памяти</string>
     <string name="pref_title_create_onekeyclean_shortcut">Создать ярлык на рабочем столе</string>
