@@ -406,7 +406,7 @@
     <string name="low_memory_warning_dialog_msg">Освободите место на устройстве для продолжения</string>
     <string name="low_memory_warning_dialog_ok_button">Очистить</string>
     <string name="low_memory_warning_dialog_cancel_button">Отмена</string>
-    <string name="deep_clean_data_path_clean_title">Очистить кэш</string>
+    <string name="deep_clean_data_path_clean_title">Очистка кэша</string>
     <string name="btn_text_quick_cleanup_appdata">Удалить выбранные данные %1$s</string>
     <string name="btn_text_quick_cleanup_large_file">Удалить выбранные файлы %1$s</string>
     <string name="btn_text_quick_cleanup_video">Удалить выбранные видео %1$s</string>
@@ -566,5 +566,5 @@
     <string name="facebook_clean_exit_confirm_ok">Остановить</string>
 	<string name="sys_cache_on_sdcard_item_name">Кэш</string>
     <string name="facebook_function_title">Очистка Facebook</string>
-    <string name="facebook_function_summery">Очистить кэш Facebook</string>
+    <string name="facebook_function_summery">Очистка кэша Facebook</string>
 </resources>
