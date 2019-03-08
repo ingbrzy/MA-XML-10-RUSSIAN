@@ -1848,7 +1848,7 @@
     <string name="card_main_xspace_action">Создать</string>
     <string name="card_main_overscroll_tips">Безопасность на должном уровне</string>
     <string name="card_main_gamebooster_title">Ускорение игр</string>
-    <string name="card_main_gamebooster_summary">Улучшение производительности и управления в играх</string>
+    <string name="card_main_gamebooster_summary">Улучшение производительности и управления</string>
     <string name="exit_dialog_scan_title">Оптимизация устройства</string>
     <string name="exit_dialog_scan_message">Индекс производительности вашего устройства ниже 75 баллов. Оптимизировать его?</string>
     <string name="exit_dialog_scan_positive_button">Оптимизировать</string>
@@ -2217,7 +2217,7 @@
     <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
     <string name="gs_app_back_self_start">Энергосбережение</string>
     <string name="gs_only_self_start_for_list">Ограничить фоновые процессы, чтобы сэкономить заряд батареи для игр</string>
-    <string name="gs_game_shortcut">Улучшение производительности и управления в играх</string>
+    <string name="gs_game_shortcut">Улучшение производительности и управления</string>
     <string name="gs_game_net_priority">Приоритет подключения</string>
     <string name="gs_game_net_priority_detail">Ограничить скорость загрузок, чтобы дать приоритет играм</string>
     <string name="gs_performance_mode">Ускорение процессора</string>
