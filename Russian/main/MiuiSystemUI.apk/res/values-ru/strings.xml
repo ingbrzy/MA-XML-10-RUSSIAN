@@ -635,8 +635,10 @@
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
-    <string name="face_unlock_identify_error">Произошла ошибка распознавания</string>
-    <string name="face_unlock_not_found">Не удалось вас узнать</string>
+    <string name="face_unlock_fail">"Не удалось распознать"</string>
+    <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите иконку для повторной попытки."</string>
+    <string name="face_unlock_identify_error">Ошибка распознавания</string>
+    <string name="face_unlock_not_found">Не удалось распознать</string>
     <string name="face_unlock_offset_bottom">Немного опустите телефон</string>
     <string name="face_unlock_offset_left">Сдвиньтесь вправо</string>
     <string name="face_unlock_offset_right">Сдвиньтесь влево</string>
@@ -654,6 +656,8 @@
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
     <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
+    <string name="face_unlock_success_stay_screen_msg">Остаться на экране блокировки после распознавания. Для перехода на рабочий стол используйте свайп вверх.</string>
+    <string name="face_unlock_success_stay_screen_title">Остаться на экране блокировки после разблокировки</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
