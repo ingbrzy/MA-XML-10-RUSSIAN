@@ -36,9 +36,11 @@
     <string name="item_result_pass">Хорошо</string>
     <string name="item_result_refused">Отклонено</string>
     <string name="item_testing_completed"></string>
+    <string name="main_entrance">Продажа телефона</string>
     <string name="overall_test">Общее тестирование</string>
     <string name="push_ht_content">Узнайте о возможностях вашего устройства</string>
     <string name="push_ht_title">Тестирование устойства</string>
+    <string name="recycle_entrance">Cashify - Продажа телефона</string>
     <string name="result_no_fail">Все работает отлично</string>
     <string name="stop_test">Стоп</string>
     <string name="title_quote_page">Общее тестирование</string>
