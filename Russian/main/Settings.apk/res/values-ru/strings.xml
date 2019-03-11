@@ -2934,8 +2934,8 @@
     <string name="mode_disable">Откл</string>
     <string name="mode_enable">Вкл</string>
     <string name="model_info">Модель</string>
-    <string name="model_name">Название модели</string>
-    <string name="model_number">Модель</string>
+    <string name="model_name">Модель</string>
+    <string name="model_number">Модель устройства</string>
     <string name="model_summary">Модель: %1$s</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
     <string name="modify_privacy_password">Изменение пароля</string>
