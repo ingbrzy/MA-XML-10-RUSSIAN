@@ -76,6 +76,11 @@
     <string name="note_title">Заметки</string>
     <string name="compute_backup_info">Получение данных…</string>
     <string name="compute_delete_contact_info">Получение данных…</string>
+    <string name="confirm_exit_link">Выйти</string>
+    <string name="confirm_exit_link_cancel">"Отмена"</string>
+    <string name="confirm_exit_link_msg">"Выход из приложения прервет текущую передачу. Потребуется повторное соединение между двумя устройствами. Выйти из приложения?"</string>
+    <string name="confirm_exit_link_title">Прерывание передачи</string>
+    <string name="connect_soft_ap_label">Подключение к новому устройству…</string>
     <string name="unknown_hint">Неизвестно</string>
     <string name="task_progress">Прогресс</string>
     <string name="task_pending">Ожидание…</string>
@@ -127,6 +132,7 @@
     <string name="progress_backup_hint">Резервирование…</string>
     <string name="cancel_backup">Отменить</string>
     <string name="cancel_restore">Отменить</string>
+    <string name="click_soft_ap_to_link">Выберите точку доступа для подключения</string>
     <string name="restore_contact">Восстановить контакты</string>
     <string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов, продолжить?</string>
     <string name="progress_restore_hint">Восстановление…</string>
@@ -308,7 +314,9 @@
     <string name="trans_detail_app_data_useless_tip">Вы можете восстановить их из приложения, передача не требуется.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Объект слишком большой для передачи.</string>
     <string name="trans_detail_item_app_data_selected_tip">Выбраны соответствующие приложения.</string>
-    <string name="trans_detail_list_footer">Обратите внимание: вы можете выбрать передачу приложений отдельно. Однако при выборе данных соответствующие приложения также будут переданы.</string>
+    <string name="trans_detail_list_footer">"1. Вы можете выбрать отдельные приложения для переноса.
+2. В случае выбора данных приложений, также будут выбраны соответствующие приложения.
+3. Данные приложений WeChat и QQ могут не передаваться из-за проблем совместимости. Вы можете попробовать встроенные в приложения средства передачи данных."</string>
     <string name="trans_detail_page_tip">Чем больше объектов вы выберете, тем дольше будет длиться передача.</string>
     <string name="trans_detail_sys_data_list_title">Системные приложения</string>
     <string name="trans_detail_app_data_list_title">Данные приложений</string>
@@ -368,9 +376,10 @@
     <string name="trans_generate_qrcode_failed">Не удалось создать QR-код. Закройте другие приложения и повторите попытку.</string>
     <string name="trans_wait_trans_data">"Подключено к старому устройству.
 Ожидание передачи…"</string>
-    <string name="trans_select_data">Выберите объекты для передачи</string>
-    <string name="trans_select_data_tips">"Выберите объекты для передачи
-Идентичные файлы на новом устройстве будут перезаписаны"</string>
+    <string name="trans_select_data">Объекты для передачи</string>
+    <string name="trans_select_data_tips">""Выберите объекты для передачи. 
+Идентичные файлы на новом устройстве будут перезаписаны.
+(Отображаемый размер передаваемых файлов является приблизительным.)"
     <string name="trans_select_data_no_space">"На новом устройстве недостаточно места (доступно %s).
 Освободите место или передайте только важные объекты."</string>
     <string name="trans_select_data_too_large">"Выбрано слишком много объектов.
@@ -411,7 +420,9 @@
     <string name="total_size">, %s</string>
     <string name="trans_intro_title">Вопросы и ответы</string>
     <string name="trans_intro_question_1">%d. Как использовать Mi Mover для переноса данных с устройства iOS?</string>
+    <string name="trans_intro_question_10">"%d. Не удалось найти точку доступа на старом устройстве?"</string>
     <string name="trans_intro_desc_1">На устройстве Mi подключитесь к Wi-Fi и нажмите \"Я получатель\". Выберите свое устройство iOS, войдите в iCloud и импортируйте данные.</string>
+    <string name="trans_intro_desc_10">Нажмите \"Подключение через QR-код\" на новом устройстве и отсканируйте QR-код, для установки соединения.</string>
     <string name="trans_intro_question_2">%d. Как использовать Mi Mover для переноса данных с устройства Android?</string>
     <string name="trans_intro_title_new">На новом устройстве:</string>
     <string name="trans_intro_desc_new">Нажмите \"Я получатель\". Будет создан QR-код.</string>
@@ -433,7 +444,9 @@
     <string name="trans_intro_desc_8">Данные WeChat и история чатов могут быть не полностью перенесены с помощью Mi Mover. Перейдите к настройкам WeChat и выйдите из своей учетной записи, чтобы получить больше шансов на успешный перенос.</string>
     <string name="trans_intro_question_9">%d. Какие объекты не могут быть перенесены?</string>
     <string name="trans_intro_title_account">Аккаунты и пароли:</string>
+    <string name="trans_intro_title_gms">Данные приложений Google:</string>
     <string name="trans_intro_desc_account">Вам придется снова войти в свои аккаунты (например, Mi аккаунт, Exchange, Google и т.д.) на новом устройстве по соображениям безопасности.</string>
+    <string name="trans_intro_desc_gms">"Mi Mover не поддерживает передачу данных приложений Google."</string>
     <string name="trans_intro_title_private">Скрытый альбом:</string>
     <string name="trans_intro_desc_private">Mi Mover не может получить доступ к фотографиям в скрытом альбоме, поскольку они зашифрованы. Вы можете восстановить эти фотографии из Mi Cloud на новом устройстве.</string>
     <string name="trans_intro_title_multiuser">Данные второго пространства:</string>
@@ -613,4 +626,14 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
 Освободите место или передавайте данные по частям."</string>
     <string name="usb_trans_old_phone_low_space_title">Недостаточно места</string>
     <string name="usb_trans_old_phone_low_space_msg">Для упаковки резервных копий требуется дополнительная память. Имеющегося места недостаточно. Освободите место и удалите ненужные файлы через \"Безопасность\" или попытайтесь передать только важные объекты.</string>
+    <string name="old_soft_name">Подключение через QR-код</string>
+    <string name="old_way">Вы можете подключиться с помощью QR-кода. Нажмите, чтобы сгенерировать код.</string>
+    <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
+    <string name="scan_soft_ap">Поиск нового устройства…</string>
+    <string name="scan_soft_ap_label">Подключение к старому устройству</string>
+    <string name="soft_ap_create_failed">"Не удалось создать точку доступа"</string>
+    <string name="soft_ap_creating">Создание точки доступа…</string>
+    <string name="wait_link">"Подключите старое устройство к этой точке доступа 
+и дождитесь установки соединения."</string>
+    <string name="waiting">Подождите…</string>
 </resources>
