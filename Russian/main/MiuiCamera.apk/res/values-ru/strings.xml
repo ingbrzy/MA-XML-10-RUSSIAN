@@ -333,6 +333,7 @@
     <string name="simple_mode_button_text_face_beauty">Отключить режим улучшения</string>
     <string name="pref_face_beauty_title">Улучшение</string>
     <string name="pref_priority_storage_title">Сохранять на SD карту</string>
+    <string name="pref_privacy_title">Политика конфиденциальности</string>
     <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Параллель</string>
     <string name="pref_video_speed_fast_title">Ускорение</string>
