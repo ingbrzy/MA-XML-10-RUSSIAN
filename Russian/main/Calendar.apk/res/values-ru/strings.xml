@@ -124,7 +124,6 @@
     <string name="date_interval_text_to">По %1$s</string>
     <string name="date_jump_hint">Немедленный переход к нужной дате</string>
     <string name="date_jump_title">Переход к дате</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (сегодня)"</string>
     <string name="day_view_new_event_hint">+ Новое мероприятие</string>
     <string name="default_reminder_mode">Напоминания</string>
