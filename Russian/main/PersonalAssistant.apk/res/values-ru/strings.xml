@@ -92,6 +92,8 @@
     <string name="cleanup_memory">Память</string>
     <string name="cleanup_power">Глубокая очистка</string>
     <string name="clear">Очистить</string>
+    <string name="clock_alarm">Будильник</string>
+    <string name="clock_parent">Часы</string>
     <string name="corpus_hint_apps">Поиск приложений</string>
     <string name="corpus_label_apps">Приложения</string>
     <string name="detail_action_share">Поделиться</string>
@@ -106,6 +108,8 @@
     <string name="dialog_mark_like">Помечено как важное</string>    
     <string name="dialog_report_cancel">Отмена</string>
     <string name="dialog_report_confirm">Отчет</string>
+    <string name="disclaimer_content">Эта функция предоставлена %1$s. %1$s несет всю ответственность за предоставляемые услуги. Вы можете связаться с %1$s если есть какие-либо вопросы.</string>
+    <string name="disclaimer_title">Отказ от ответственности</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
     <string name="exercise_setting_brief">Измерение расстояния и подсчет ежедневных шагов</string>
     <string name="fav_init_guide_title">Об Избранном</string>
@@ -184,6 +188,8 @@
     <string name="flybird_verifying">Проверка…</string>
     <string name="flybird_yuan_bi">юань/сделка</string>
     <string name="flybird_yuan_ri">юань/день</string>
+    <string name="google_assistant">Ассистент</string>
+    <string name="google_parent">Google</string>
     <string name="hold_down_adjustment_order">Удерживайте иконку для ее перемещения</string>
     <string name="kakalib_bar_qr_code">штрихкод·QR-код</string>
     <string name="kakalib_ok">Подтвердить</string>
@@ -198,6 +204,8 @@
     <string name="mi_sport">Счетчик шагов</string>
     <string name="mi_sport_go_install">Загрузить</string>
     <string name="mi_function">Ярлыки</string>
+    <string name="midrop_parent">Mi Drop</string>
+    <string name="midrop_send">Отправить</string>
     <string name="mini_add_fp">Сначала перейдите в систему телефона и добавьте отпечатки пальцев, чтобы активировать пароль Touch ID Alipay</string>
     <string name="mini_agree">Принять</string>
     <string name="mini_already_download">Загружено</string>
@@ -296,6 +304,7 @@
     <string name="open_bluetooth">Активировать</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
+    <string name="phone_check">Оптимизация</string>
     <string name="record_name">Запись</string>
     <string name="record_parent">Диктофон</string>
     <string name="scan">Сканер</string>
@@ -344,4 +353,6 @@
     <string name="toast_function_add_not_allowed">Можно добавить не больше 10 ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо добавить хотя бы 1 ярлык</string>
     <string name="uninstall">Не установлен</string>
+    <string name="whatsapp_parent">WhatsApp</string>
+    <string name="whatsapp_photos">Фото</string>
 </resources>
