@@ -71,7 +71,7 @@
     <string name="card_note_finish">Готово</string>
     <string name="card_setting_btn">Настроить</string>
     <string name="card_settings">Настроить</string>
-    <string name="card_title_empty_note">Создать заметку</string>
+    <string name="card_title_empty_note">Создать</string>
     <string name="card_example">Карточка</string>
     <string name="card_expand_note_clear">Очистить</string>
     <string name="card_expand_note_clear_all">Очистить все</string>
