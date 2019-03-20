@@ -67,4 +67,8 @@
     <string name="using_recorder_confirm">Разрешить</string>
     <string name="using_recorder_cancel">Отклонить</string>
     <string name="runtime_permission_ungranted">Невозможно начать запись без необходимых разрешений</string>
+    <string name="jump">переход</string>
+    <string name="scan">сканирование</string>
+    <string name="start">запуск</string>
+    <string name="stop">стоп</string>
 </resources>
