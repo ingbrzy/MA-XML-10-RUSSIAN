@@ -972,6 +972,16 @@
     <string name="brightness_auto_adjust_on">Коррекция яркости в зависимости от освещения</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="brightness_title">Яркость</string>
+    
+    <string name="bt_aac_dialog_summary">"Данное устройство поддерживает AAC кодек. Однако AAC кодек может не воспроизводить звук из-за проблем с совместимостью, поэтому используется SBC кодек. 
+Вы можете изменить это в настройках."</string>
+    <string name="bt_aac_dialog_title">Bluetooth соединение</string>
+    <string name="bt_aac_open_dialog_summary">"AAC кодек может не воспроизводить звук из-за проблем с совместимостью.
+Вы можете отключить его в Настройки &gt; Bluetooth &gt; Сопряженные устройства."</string>
+    <string name="bt_aac_open_dialog_title">Переключение на AAC кодек</string>
+    <string name="bt_dialog_remember_choice">Запомнить</string>
+    <string name="bt_dialog_settings">Настройки</string>
+    
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
     <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
@@ -985,6 +995,7 @@
     <string name="bt_ldac_property">Свойства</string>
     <string name="bt_ldac_remember_choice">Запомнить выбор</string>
     <string name="bt_ldac_settings">Настройки</string>
+    <string name="bt_pre_summary">Обеспечивает высокое качество звука</string>
     <string name="bt_rarely_used_device_title">Редко используемые (%d)</string>
     <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
     <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
@@ -1301,6 +1312,10 @@
     <string name="current_use_uicc_se">Используется элемент безопасности на SIM карте</string>
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
+    <string name="cutout_mode_always">Всегда показывать</string>
+    <string name="cutout_mode_default">Автоматически</string>
+    <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
+    <string name="cutout_mode_title">Вырез в избранных приложениях</string>
     <string name="daltonizer_mode_deuteranomaly">Дейтераномалия (красный-зеленый)</string>
     <string name="daltonizer_mode_disabled">Отключено</string>
     <string name="daltonizer_mode_monochromacy">Монохроматизм</string>
@@ -2667,6 +2682,7 @@
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
     <string name="login_account_dialog_message">Войдите в свой Mi аккаунт и включите синхронизацию с Mi Cloud.</string>
     <string name="login_account_dialog_title">Войдите в Mi аккаунт</string>
+    <string name="login_account_summary">Управление аккаунтами, облачными сервисами и прочим</string>
     <string name="login_action">Войти</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
@@ -2868,6 +2884,7 @@
     <string name="miui_lab_super_resolution_desc">Повышайте резкость изображений</string>
     <string name="miui_lab_super_resolution_title">Суперразрешение</string>
     <string name="miui_master_clear_summary">Удаляет все данные на телефоне</string>
+    <string name="miui_more_special_feature">Новые возможности</string>
     <string name="miui_optimization_disabled">Отключить оптимизацию MIUI</string>
     <string name="miui_sos_audio_summary">Воспроизвести сообщение SOS после поднятия трубки экстренным контактом</string>
     <string name="miui_sos_audio_title">Голосовое сообщение SOS</string>
@@ -2916,6 +2933,7 @@
     <string name="miui_sos_settings_category">Настройки SOS</string>
     <string name="miui_sos_statusbar_summary">Нажмите для отключения</string>
     <string name="miui_sos_statusbar_title">Активирован режим SOS</string>
+    <string name="miui_special_feature">Специальные возможности</string>
     <string name="miui_touch_filtered_warning">Если приложение блокирует диалог разрешений, перетащите мешающий объект или закройте приложение.</string>
     <string name="miui_updater">Обновление системы</string>
     <string name="miui_userguide">Руководство пользователя</string>
@@ -3320,6 +3338,7 @@
     <string name="other_device_info">Прочее</string>
     <string name="other_personal_settings">Личные настройки</string>
     <string name="other_relative">Другие разрешения</string>
+    <string name="other_settings_sync_settings">Синхронизация</string>
     <string name="other_sound_category_preference_title">Другие звуки и вибросигналы</string>
     <string name="other_sound_settings">Другие звуки</string>
     <string name="others">Прочее</string>
@@ -4169,6 +4188,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_oldman_mode_entry_name">Облегченный режим;Режим для пожилых;Простой режим</string>
     <string name="search_onekey_migrate">Перенос;Mi Mover</string>
     <string name="search_other_advanced_settings">Расширенные настройки;Прочие настройки</string>
+    <string name="search_other_settings_sync_settings">Синхронизация;Автоматически;Только WiFi</string>
     <string name="search_owner_info_settings_title">Информация о владельце</string>
     <string name="search_page_layout_settings">Размер текста;Размер шрифта;Маленький шрифт;Большой шрифт;Средний шрифт; Очень большой шрифт;Огромный шрифт;Размер шрифтов</string>
     <string name="search_permission_manager">Разрешения;ROOT доступ</string>
@@ -4231,6 +4251,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_trusted_credentials">Надежные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
     <string name="search_tts_settings_title">Озвучивание текста;Синтез речи</string>
     <string name="search_turn_on_security_lock">Способ защиты;Блокировка экрана;Включить защиту;блокировка экрана</string>
+    <string name="search_unlogin_account_title">Mi аккаунт; Mi аккаунт ID;Аккаунт;Аккаунт ID</string>
     <string name="search_usb_tethering_button_text">USB-модем;Модем;USB</string>
     <string name="search_user_agreement">Условия использования</string>
     <string name="search_user_dict_settings_title">Личный словарь;Словарь</string>
@@ -4992,7 +5013,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_alert_window_on">Да</string>
     <string name="system_alert_window_settings">Поверх других приложений</string>
     <string name="system_alert_window_summary">%1$d из %2$d приложений отображаются поверх других окон</string>
-    <string name="system_and_device_section_title">Система и устройство</string>
+    <string name="system_and_device_section_title">Настройки системы</string>
     <string name="system_app">(системное)</string>
     <string name="system_app_settings">Системные приложения</string>
     <string name="system_apps_updater">Обновление компонентов</string>
@@ -5253,6 +5274,8 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_title">ПИН-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">Включив блокировку экрана, выберите \"Настройки > Безопасность\", чтобы отсканировать и сохранить отпечаток пальца.</string>
+    <string name="unlogin_account_summary">Все Mi сервисы. Один Mi аккаунт</string>
+    <string name="unlogin_account_title">Вход в Mi аккаунт</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
     <string name="unmute_sound_title">Звук отключения режима "Без звука"</string>
     <string name="unrestrict_max_aspect_ratio_title">Оптимизированы для полноэкранного режима</string>
