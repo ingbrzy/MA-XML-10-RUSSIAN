@@ -46,8 +46,13 @@
     <string name="album_label">Обложки</string>
     <string name="album_name">Альбом</string>
     <string name="all_album_count">Все альбомы (%d)</string>
+    <string name="all_albums">Все альбомы</string>
+    <string name="all_artists">Все исполнители</string>
     <string name="all_playlist_count">Все плейлисты (%d)</string>
+    <string name="all_playlists">Все плейлисты</string>
+    <string name="all_songs">Все треки</string>
     <string name="all_tracks">Все треки</string>
+    <string name="all_videos">Все видео</string>
     <string name="already_download">Загрузка…</string>
     <string name="already_download_btn">Загрузка…</string>
     <string name="already_favorited">Трек уже в избранных</string>
@@ -579,6 +584,8 @@
     <string name="search_for_album">Альбом</string>
     <string name="search_for_artist">Исполнитель</string>
     <string name="search_hint">Поиск исполнителей, треков, альбомов и пр.</string>
+    <string name="search_hint_local">Поиск треков на устройстве</string>
+    <string name="search_hint_online">Поиск исполнителей, треков, альбомов, плейлистов и видео онлайн</string>
     <string name="search_history_clear_all">Очистить</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
@@ -649,8 +656,10 @@
     <string name="tab_artist">Исполнители</string>
     <string name="tab_artist_list">Исполнители</string>
     <string name="tab_folder">Папки</string>
+    <string name="tab_playlist">Плейлисты</string>
     <string name="tab_track">Треки</string>
     <string name="tab_track_list">Треки</string>
+    <string name="tab_video">Видео</string>
     <string name="take_effect_afater_restart">Для применения данной функции необходимо перезапустить проигрыватель</string>
     <string name="talkback_back">Вернуться</string>
     <string name="talkback_batch_process">Несколько объектов</string>
