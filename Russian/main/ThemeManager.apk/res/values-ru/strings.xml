@@ -86,7 +86,7 @@
     <string name="browser_local_resource">Ресурсы на устройстве</string>
     <string name="can_not_apply">Не удалось применить</string>
     <string name="card_data_request_error">Произошла ошибка. Подождите немного и повторите попытку.</string>
-    <string name="card_loading">Секунду…</string>
+    <string name="card_loading">Подождите…</string>
     <string name="card_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="card_retry">Повторить</string>
     <string name="change_host_hint">Сменить хост</string>
@@ -133,7 +133,7 @@
     <string name="gift_anonymous">Анонимно</string>
     <string name="gift_operation_fail_dlg_abandon">Отмена</string>
     <string name="gift_operation_fail_dlg_retry">Повторить</string>
-    <string name="gift_operation_waiting">Секунду…</string>
+    <string name="gift_operation_waiting">Подождите…</string>
     <string name="gift_owned">Локально</string>
     <string name="gift_present">Подарить</string>
     <string name="gift_present_dlg_anonymous">Анонимный подарок</string>
@@ -177,9 +177,9 @@
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодия</string>
     <string name="live_wallpaper">Живые обои</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
-    <string name="loading_resource_detail_info">Секунду…</string>
+    <string name="loading_resource_detail_info">Подождите…</string>
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Разработчик: %1$s</string>
     <string name="lockscreen_apply_failured">Не удалось установить обои на экран блокировки</string>
@@ -240,7 +240,7 @@
     <string name="present_official_themes">Наш выбор</string>
     <string name="present_online_themes">Получить больше онлайн-тем</string>
     <string name="provision_default_theme_title">По умолчанию</string>
-    <string name="provision_loading_tips">Секунду…</string>
+    <string name="provision_loading_tips">Подождите…</string>
     <string name="provision_second_title">Выберите одну из различных тем по умолчанию</string>
     <string name="provision_title">Выбор темы</string>
     <string name="purchased_list">Купленные</string>
@@ -250,7 +250,7 @@
     <string name="refresh_footer_all_loaded">На данный момент это всё</string>
     <string name="refresh_footer_failed">Не удалось загрузить данные</string>
     <string name="refresh_footer_finish">Загрузка завершена</string>
-    <string name="refresh_footer_loading">Секунду…</string>
+    <string name="refresh_footer_loading">Подождите…</string>
     <string name="refresh_footer_pullup">Потяните вверх для загрузки</string>
     <string name="refresh_footer_release">Отпустите для загрузки</string>
     <string name="region_not_support">Темы не поддерживаются в вашем регионе.</string>
@@ -294,7 +294,7 @@
     <string name="resource_comment_good_comments">Хорошие</string>
     <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить тему</string>
     <string name="resource_comment_limit">Не так быстро! Попользуйтесь этой темой немного дольше.</string>
-    <string name="resource_comment_loading_list">Секунду…</string>
+    <string name="resource_comment_loading_list">Подождите…</string>
     <string name="resource_comment_name_default">Псевдоним</string>
     <string name="resource_comment_no_average_score">Н/Д</string>
     <string name="resource_comment_no_comment">Отзывов пока нет. Вы можете стать первым, кто оставит отзыв.</string>
@@ -532,7 +532,7 @@
     <string name="theme_favorite_delete_fail">Ошибка удаления из избранных</string>
     <string name="theme_favorite_delete_success">Удалено из избранных</string>
     <string name="theme_favorite_list_empty">Нет избранных тем</string>
-    <string name="theme_favorite_waiting">Секунду…</string>
+    <string name="theme_favorite_waiting">Подождите…</string>
     <string name="theme_fresh_man_notifaction">Доступны новые темы</string>
     <string name="theme_immediately_apply_tip">Применить обновление темы?</string>
     <string name="theme_import_from_sdcard">Импорт</string>
@@ -598,7 +598,7 @@
     <string name="wallpaper_set_as_desktop">Установить на рабочий стол</string>
     <string name="wallpaper_set_as_lockscreen">Установить на экран блокировки</string>
     <string name="wallpaper_settings">Обои</string>
-    <string name="wallpaper_settings_loading_text">Секунду…</string>
+    <string name="wallpaper_settings_loading_text">Подождите…</string>
     <string name="wallpaper_settings_no_history">История пуста</string>
     <string name="wallpaper_settings_pad_more_page_title">Другие обои</string>
     <string name="wallpaper_settings_page_title">Обои</string>
