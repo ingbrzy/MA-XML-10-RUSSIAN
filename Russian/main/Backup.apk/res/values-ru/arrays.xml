@@ -14,8 +14,8 @@
         <item>Очень доволен</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Общее впечатление</item>
-        <item>Продолжительность</item>
+        <item>Общий опыт</item>
+        <item>Продолжительность передачи</item>
         <item>Простота процесса</item>
         <item>Четкость инструкций</item>
         <item>Полезность функции</item>
