@@ -353,7 +353,7 @@
     <string name="resource_data_empty">Нет объектов</string>
     <string name="resource_default">Мелодия по умолчанию</string>
     <string name="resource_default_name">Ресурс</string>
-    <string name="resource_delete">Удалить</string>
+    <string name="resource_delete">Удаление</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_delete_confirm">Удалить этот ресурс?</string>
     <string name="resource_delta_update_failed">Повторная загрузка темы…</string>
@@ -590,7 +590,7 @@
     <string name="theme_setting">Настройки</string>
     <string name="theme_staggered_item_text">Получить Mi Credits</string>
     <string name="theme_to_comment">Оставить комментарий</string>
-    <string name="theme_user_agreement_allow">Согласен</string>
+    <string name="theme_user_agreement_allow">Продолжить</string>
     <string name="theme_user_agreement_content1">"Используя этот продукт, вы принимаете наши "</string>
     <string name="theme_user_agreement_content2">Условия использования</string>
     <string name="theme_user_agreement_content3">" и "</string>
@@ -622,7 +622,7 @@
     <string name="transparent_wallpaper_white_wallpaper">Установить белый фон</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">"Не удалось установить фон"</string>
     <string name="transparent_wallpaper_white_wallpaper_success">Установлен белый цвет фона</string>
-    <string name="transparent_wallpaper_white_wallpaper_tip">Прозрачные обои лучше всего смотрятся на белом фоне</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Прозрачные обои лучше всего смотрятся на белом фоне. Текущие обои будут заменены на белый фон.</string>
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
