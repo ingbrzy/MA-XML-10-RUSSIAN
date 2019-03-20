@@ -19,6 +19,8 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accessbility_suggestion_dropdown_closed">Нет доступных предложений</string>
+    <string name="accessbility_suggestion_dropdown_opened">Предложение контактов активно</string>
     <string name="copy_email">Скопировать адрес эл. почты</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Назад</string>
@@ -39,11 +41,13 @@
     <string name="action_bar_date_button_title">Расчет даты</string>
     <string name="action_bar_more_menu_view_description">Еще</string>
     <string name="action_bar_return">Назад</string>
+    <string name="action_label">Возврат</string>
     <string name="action_text_card_manager">Канал</string>
     <string name="action_text_today">Сегодня</string>
     <string name="add_anniversary">Добавить годовщину</string>
     <string name="add_countdown">Добавить событие</string>
     <string name="add_event">Добавить мероприятие</string>
+    <string name="address">Адрес</string>
     <string name="agenda_month_empty_hint">Мероприятий не запланировано</string>
     <string name="agenda_today">СЕГОДНЯ, %1$s</string>
     <string name="agenda_tomorrow">ЗАВТРА, %1$s</string>
@@ -94,6 +98,9 @@
     <string name="card_manager_no_data">Нет подписок</string>
     <string name="card_title_change">Еще</string>
     <string name="change_response_title">Изменить ответ</string>
+    <string name="chips_action_cancel">Отмена</string>
+    <string name="chips_action_copy">Копировать</string>
+    <string name="chips_permission_text">Разрешить предлагать контакты</string>
     <string name="click_to_share">Поделиться</string>
     <string name="countdown_event_title">Событие: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Событие: %1$s через 3 дня</string>
@@ -106,6 +113,7 @@
 • Синхронизировать все мероприятия – вы никогда не потеряете их."</string>
     <string name="creating_event">Мероприятие создано</string>
     <string name="creating_event_with_guest">Отправка приглашений…</string>
+    <string name="credit_detail_sms_content">Содержание SMS</string>
     <string name="daily">Ежедневно</string>
     <string name="date_calculate">Расчет даты</string>
     <string name="date_calculate_days">Введите число дней</string>
@@ -135,6 +143,7 @@
     <string name="description_calendar_edit_event">Системные приложения/Календарь/Повестка дня</string>
     <string name="directory_searching_fmt">Поиск в %s…</string>
     <string name="does_not_repeat">Однократно</string>
+    <string name="dropdown_delete_button_desc">Удалить %s из получателей</string>
     <string name="edit_date_calculate_days_backward_error_hint">Не удалось рассчитать вперед</string>
     <string name="edit_date_calculate_days_empty_hint">Введите число дней</string>
     <string name="edit_date_calculate_days_forward_error_hint">Не удалось рассчитать назад</string>
@@ -223,6 +232,8 @@
     <string name="holiday_card_title">Праздники</string>
     <string name="holiday_detail_read_more">Подробно</string>
     <string name="horoscope_select_activity_label">Выберите знак зодиака</string>
+    <string name="hotel_detail_title">Информация об отеле</string>
+    <string name="hotel_event_delete_successfully">Бронирование успешно удалено</string>
     <string name="image_processing">Изображение еще не готово</string>
     <string name="import_action">Импорт</string>
     <string name="import_birthday">Импорт дней рождения</string>
@@ -268,6 +279,7 @@
     <string name="monthly">Ежемесячно</string>
     <string name="monthly_on_day">Ежемесячно (в эту же дату)</string>
     <string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
+    <string name="movie_event_delete_successfully">Билет успешно удален</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="new_event_description">Новое</string>
     <string name="new_event_dialog_label">Новое мероприятие</string>
@@ -310,7 +322,9 @@
     <string name="panchang_vikram_samvat">Викрам Самват</string>
     <string name="panchang_yamaghanta">Ямагханта</string>
     <string name="panchang_yog">Йог</string>
+    <string name="passenger">Пассажир</string>
     <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
+    <string name="phone_num">Номер телефона</string>
     <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
     <string name="pref_error_no_ringtone_select">Мелодия по умолчанию</string>
     <string name="pref_reminder_time">Время напоминания</string>
@@ -333,7 +347,8 @@
     <string name="preferences_week_start_day_title">Начало недели</string>
     <string name="pull_to_refresh_hint">Потяните для загрузки данных %1$d года</string>
     <string name="refresh">Обновить</string>
-    <string name="refreshing_hint">Секунду…</string>
+    <string name="refreshing_hint">Подождите…</string>
+    <string name="reminder_overdue">Истекло</string>
     <string name="repeat_activity_label">Повтор</string>
     <string name="repeat_custom_activity_label">Особый</string>
     <string name="repeat_custom_prompt">кажд. %1$s, %2$s</string>
