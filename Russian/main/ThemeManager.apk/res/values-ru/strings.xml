@@ -64,6 +64,19 @@
     <string name="account_unactivated">Аккаунт не активирован</string>
     <string name="ad_app_download_start">Начинается загрузка…</string>
     <string name="ad_app_is_downloading">Загрузка…</string>
+    <string name="ad_begin_to_download_tip">Начало загрузки…</string>
+    <string name="ad_begin_to_install_tip">Установка…</string>
+    <string name="ad_closed_tip">"Вы будете видеть меньше объявлений этого типа"</string>
+    <string name="ad_download_download">Загрузка</string>
+    <string name="ad_download_download_now">Загрузить</string>
+    <string name="ad_download_install">Установка</string>
+    <string name="ad_download_open">Открыть</string>
+    <string name="ad_download_pause">Пауза</string>
+    <string name="ad_download_pending">Ожидание</string>
+    <string name="ad_download_resume">Продолжить</string>
+    <string name="ad_downloading_tip">Идет загрузка. Вы можете посмотреть прогресс в Шторке уведомлений.</string>
+    <string name="ad_tag_text_1">Популярное</string>
+    <string name="ad_tag_text_2">Тренд</string>
     <string name="add_resource_detail_fail">Не удалось добавить ресурс</string>
     <string name="all_resources">Все</string>
     <string name="app_name">Темы</string>
@@ -112,13 +125,15 @@
     <string name="description_uploadtime">Обновлено</string>
     <string name="description_version">Версия</string>
     <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
+    <string name="desktop_effects">Эффекты рабочего стола</string>
     <string name="desktop_wallpaper">Рабочий стол</string>
-    <string name="detail_recommend_title">Рекомендуемые</string>
+    <string name="detail_recommend_title">Вам могут понравиться</string>
     <string name="dev_options">Параметры разработчика</string>
     <string name="dev_options_summary">Веб-ресурсы</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
+    <string name="dynamic_video_wallpaper">24-часовые обои</string>
     <string name="exit_extreme_mode_dialog_agree">Согласен</string>
     <string name="exit_extreme_mode_dialog_cancel">Отмена</string>
     <string name="exit_extreme_mode_dialog_title">Отключите Максимальную экономию</string>
@@ -128,8 +143,10 @@
     <string name="fail_to_add_account">Не удалось добавить аккаунт</string>
     <string name="favorite_list">Избранные</string>
     <string name="favorite_list_format">Избранные %1$s</string>
+    <string name="find_more_font">Другие шрифты</string>
     <string name="find_more_theme">Другие темы</string>
     <string name="find_more_wallpapers">Другие обои</string>
+    <string name="float_wallpaper_is_here">Прозрачные обои</string>
     <string name="gift_anonymous">Анонимно</string>
     <string name="gift_operation_fail_dlg_abandon">Отмена</string>
     <string name="gift_operation_fail_dlg_retry">Повторить</string>
@@ -167,6 +184,18 @@
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
     <string name="in_the_end">Больше нет объектов</string>
+    <string name="incall_show_apply">Видео профиля для исходящих вызовов</string>
+    <string name="incall_show_apply_fail">"Не удалось установить"</string>
+    <string name="incall_show_apply_success">"Успешно применено. Чтобы отключить эту функцию
+перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля."</string>
+    <string name="incall_show_apply_success_without_ringtone">"Успешно применено. Это видео без звука, будет использоваться установленный рингтон.
+Для выключения перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля."</string>
+    <string name="incall_show_find_more">Найти еще</string>
+    <string name="incall_show_not_set">Нет видео</string>
+    <string name="incall_show_remove">Удаление видео профиля</string>
+    <string name="incall_show_remove_dialog_message">"Вы уже установили видео профиля для исходящих вызовов. Хотите удалить?"</string>
+    <string name="incall_show_remove_success">Видео профиля успешно удалено</string>
+    <string name="incall_show_title">Видео профиля</string>
     <string name="incompatible_dialog_cancel">Не применять</string>
     <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">Понятно</string>
@@ -176,6 +205,7 @@
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодия</string>
+    <string name="lab">Бета-функции</string>
     <string name="live_wallpaper">Живые обои</string>
     <string name="loading">Подождите…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
@@ -215,6 +245,12 @@
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="mix_global_option">Общие</string>
+    <string name="mix_global_option_des">Шторка уведомлений, Телефон, Сообщения и другие элементы системы. Снимите этот флажок, чтобы использовать параметры по умолчаниюs.</string>
+    <string name="mix_home_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчаниюs.</string>
+    <string name="mix_icons_option_des">Иконки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
+    <string name="mix_lockscreen_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
+    <string name="mix_tip">Компоненты темы</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Мелодия звонка установится на обе SIM-карты.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Больше не показывать</string>
@@ -235,6 +271,7 @@
     <string name="online_precust_scenery">Пейзажи</string>
     <string name="online_search_hint">Поиск онлайн-ресурсов</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
+    <string name="present_local_fonts">Мои шрифты</string>
     <string name="present_local_themes">Мои темы</string>
     <string name="present_local_themes_subtitle">Настройте ваше устройство</string>
     <string name="present_official_themes">Наш выбор</string>
@@ -445,6 +482,9 @@
     <string name="resource_trial_days">(пробная версия: %1$d д)</string>
     <string name="resource_trial_days_hours">(пробная версия: %1$d д %2$d ч)</string>
     <string name="resource_trial_end_change">Изменить</string>
+    <string name="resource_trial_end_checkbox_hint">Получите сначала Mi Credits</string>
+    <string name="resource_trial_end_get_mibi">Получение Mi Credits</string>
+    <string name="resource_trial_end_jump_hint">Перенаправление…</string>
     <string name="resource_trial_end_message">Пробный период для %1$s окончен. Приобретите ресурс, если он вам понравился.</string>
     <string name="resource_trial_end_purchase">Приобрести</string>
     <string name="resource_trial_end_restore">Завершить</string>
@@ -471,6 +511,7 @@
     <string name="search_hint_header_text">Популярные</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
+    <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="settings">Настройки</string>
     <string name="shortcut_add">Добавить</string>
     <string name="shortcut_cancel">Нет, спасибо</string>
@@ -497,6 +538,8 @@
     <string name="theme_changed_failed_message">Не удалось применить тему</string>
     <string name="theme_changed_message">Тема применена</string>
     <string name="theme_changing_dialog_title">"Применение "</string>
+    <string name="theme_comment_dialog_message">Оцените это приложение и расскажите нам, что вы думаете.</string>
+    <string name="theme_comment_dialog_ok">Оценить</string>
     <string name="theme_component_title_alarm">Будильник</string>
     <string name="theme_component_title_alarmstyle">Стиль будильника</string>
     <string name="theme_component_title_all">Темы</string>
@@ -507,6 +550,7 @@
     <string name="theme_component_title_contact">Телефон</string>
     <string name="theme_component_title_font">Шрифты</string>
     <string name="theme_component_title_framework">Система</string>
+    <string name="theme_component_title_homepage">Основной экран</string>
     <string name="theme_component_title_icon">Значки</string>
     <string name="theme_component_title_launcher">Рабочий стол</string>
     <string name="theme_component_title_lockstyle">Стиль блокировки</string>
@@ -544,6 +588,8 @@
     <string name="theme_purchased_non_local">Не локально</string>
     <string name="theme_select_others">Обзор</string>
     <string name="theme_setting">Настройки</string>
+    <string name="theme_staggered_item_text">Получить Mi Credits</string>
+    <string name="theme_to_comment">Оставить комментарий</string>
     <string name="theme_user_agreement_allow">Согласен</string>
     <string name="theme_user_agreement_content1">"Используя этот продукт, вы принимаете наши "</string>
     <string name="theme_user_agreement_content2">Условия использования</string>
@@ -560,6 +606,7 @@
     <string name="tips_theme_gate_transfer_fail">Не удалось открыть страницу. Подождите немного и повторите попытку.</string>
     <string name="title_component">Компоненты</string>
     <string name="title_my_audio_resource">Мои мелодии</string>
+    <string name="title_my_miwallpaper_desktop_effects">Эффекты Рабочего стола</string>
     <string name="title_my_miwallpaper_resource">Мои живые обои</string>
     <string name="title_my_miwallpaper_video_file_resource">Мои живые обои</string>
     <string name="title_my_wallpaper_resource">Мои обои</string>
@@ -567,6 +614,15 @@
     <string name="title_system_audio_resource">Системные мелодии</string>
     <string name="title_system_wallpaper_resource">Системные обои</string>
     <string name="to_activate_the_account">Активировать Mi аккаунт</string>
+    <string name="transparent_wallpaper">Прозрачные обои</string>
+    <string name="transparent_wallpaper_apply_success">Обои успешно установлены. Вы можете отключить их в Темы &gt; Профиль &gt; Бета-функции.</string>
+    <string name="transparent_wallpaper_enable_success">Успешно включено</string>
+    <string name="transparent_wallpaper_guide">Перейти в Темы</string>
+    <string name="transparent_wallpaper_guide_tip">Теперь вы можете выбрать прозрачные обои в Темах.</string>
+    <string name="transparent_wallpaper_white_wallpaper">Установить белый фон</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">"Не удалось установить фон"</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">Установлен белый цвет фона</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Прозрачные обои лучше всего смотрятся на белом фоне</string>
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
@@ -589,6 +645,7 @@
     <string name="video_data_tips_message">Использование мобильного интернета может вызвать дополнительные затраты. Продолжить?</string>
     <string name="video_data_tips_title">Предупреждение о трафике</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
+    <string name="video_wallpaper_import">Нажмите чтобы добавить</string>
     <string name="wallpaper_apply">Применить</string>
     <string name="wallpaper_crop">Обрезать</string>
     <string name="wallpaper_decoded_error">Ошибка</string>
@@ -596,6 +653,7 @@
     <string name="wallpaper_scroll_type_tips">Прокрутка обоев</string>
     <string name="wallpaper_set_as_both">Установить везде</string>
     <string name="wallpaper_set_as_desktop">Установить на рабочий стол</string>
+    <string name="wallpaper_set_as_float_wallpaper">Прозрачные обои (Бета)</string>
     <string name="wallpaper_set_as_lockscreen">Установить на экран блокировки</string>
     <string name="wallpaper_settings">Обои</string>
     <string name="wallpaper_settings_loading_text">Подождите…</string>
