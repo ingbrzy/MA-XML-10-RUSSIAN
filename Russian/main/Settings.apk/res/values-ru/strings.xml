@@ -4001,7 +4001,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_off_apps_title">Не использовать режим чтения</string>
     <string name="screen_paper_mode_range_title">Настройки</string>
     <string name="screen_paper_mode_set_apps_title">Приложения в режиме чтения</string>
-    <string name="screen_paper_mode_summary">Делает цвета на экране более теплыми, позволяя вашим глазам расслабиться</string>
+    <string name="screen_paper_mode_summary">Делает цвета на экране более теплыми, позволяет вашим глазам расслабиться</string>
     <string name="screen_paper_mode_time_summary">Назначить время включения и выключения режима чтения</string>
     <string name="screen_paper_mode_time_title">Использовать по расписанию</string>
     <string name="screen_paper_mode_title">Режим чтения</string>
