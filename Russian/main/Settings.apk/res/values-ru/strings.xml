@@ -2261,6 +2261,7 @@
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
+    <string name="incall_show">Видео профиля для исходящих вызовов</string>
     <string name="include_app_data_title">Учитывать данные приложений</string>
     <string name="incoming_call_breathing_light_color_title">Цвет для вызовов</string>
     <string name="incoming_call_breathing_light_freq_title">Частота мерцания для вызовов</string>
