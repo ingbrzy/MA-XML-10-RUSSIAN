@@ -464,6 +464,8 @@
     <string name="auto_disable_screenbuttons_rotation_title">Блокировать кнопки навигации в альбомном режиме</string>
     <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки навигации при использовании избранных приложений. Двойное нажатие на любую кнопку навигации вновь активирует их.</string>
     <string name="auto_disable_screenbuttons_title">Автоотключение кнопок навигации</string>
+    <string name="auto_dual_clock_summary">Показывать Двойные часы, когда текущее время отличается от времени на вторых часах</string>
+    <string name="auto_dual_clock_title">Двойные часы</string>
     <string name="auto_launch_disable_text">Значения по умолчанию не установлены.</string>
     <string name="auto_launch_enable_text">Это приложение по умолчанию используется для некоторых действий.</string>
     <string name="auto_launch_label">Открывать по умолчанию</string>
@@ -1316,6 +1318,8 @@
     <string name="cutout_mode_default">Автоматически</string>
     <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
     <string name="cutout_mode_title">Вырез в избранных приложениях</string>
+    <string name="cutout_type_desc">Включение сглаживания линий выреза</string>
+    <string name="cutout_type_title">Настройка формы выреза</string>
     <string name="daltonizer_mode_deuteranomaly">Дейтераномалия (красный-зеленый)</string>
     <string name="daltonizer_mode_disabled">Отключено</string>
     <string name="daltonizer_mode_monochromacy">Монохроматизм</string>
@@ -1735,6 +1739,11 @@
     <string name="doze_title">Автоматич. включение экрана</string>
     <string name="draw_overlay">Поверх других приложений</string>
     <string name="dtmf_tone_enable_title">Звук набора номера</string>
+    <string name="dual_clock">Двойные часы</string>
+    <string name="dual_clock_aod_hint">"Для отображения \"Двойных часов\" необходимо: 1. Разрешить отображение на выключенном экране в Настройки &gt; Экран; 2. Выбрать для Экрана блокировки Стандартную или Классическую тему в Настройки &gt; Темы; 3. Использовать штатный виджет часов для Рабочего стола."</string>
+    <string name="dual_clock_hint">"Для отображения \"Двойных часов\" необходимо: 1. Выбрать для Экрана блокировки Стандартную или Классическую тему в Настройки &gt; Темы; 2. Использовать штатный виджет часов для Рабочего стола."</string>
+    <string name="dual_clock_ok">Понятно</string>
+    <string name="dual_clock_open_message">Двойные часы будут отображаться на Экране блокировки, на Рабочем столе и на выключенном экране.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Собрать журналы проблем</string>
@@ -2958,6 +2967,7 @@
     <string name="model_summary">Модель: %1$s</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
     <string name="modify_privacy_password">Изменение пароля</string>
+    <string name="more_installed_services_title">Загруженные сервисы</string>
     <string name="move_app">Переместить</string>
     <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
     <string name="move_app_failed_dlg_title" />
@@ -3333,8 +3343,15 @@
     <string name="opening_paragraph_delete_profile_unknown_company">Профилем управляет</string>
     <string name="operator_warning">Статистика оператора связи может отличаться от статистики устройства</string>
     <string name="optimization_cancel">Отмена</string>
-    <string name="ota_disable_automatic_update">Автоматические обновления системы</string>
+    <string name="ota_disable_automatic_update">Автоматическое обновление системы</string>
     <string name="ota_disable_automatic_update_summary">Применить обновления при перезагрузке устройства</string>
+    <string name="otg_button">OTG</string>
+    <string name="otg_closed">Откл.</string>
+    <string name="otg_opened">Вкл.</string>
+    <string name="otg_settings">OTG</string>
+    <string name="otg_tip">"USB On-The-Go позволяет USB-накопителям и портативным клавиатурам подключаться к вашему устройству и обмениваться данными.
+
+OTG отключается автоматически через 10 минут бездействия."</string>
     <string name="other_advanced_settings">Расширенные настройки</string>
     <string name="other_device_info">Прочее</string>
     <string name="other_personal_settings">Личные настройки</string>
@@ -3858,6 +3875,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_shortcut_manager_throttling">Сброс счетчиков ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Готово</string>
     <string name="resetting_second_space_passwd">Сброс пароля второго пространства</string>
+    <string name="resident_timezone_summary">Вторые часы</string>
     <string name="resolver_settings_label">Сортировка</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
@@ -5095,6 +5113,7 @@ UT-интерфейс: %5$s"</string>
     <string name="to_close">Отключить</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="toast_sta_ap_works_wifi_display_disable">"Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа."</string>
     <string name="total">Не беспокоить</string>
     <string name="total_info">Отключить все звуки и вибрацию, кроме будильников</string>
     <string name="total_info_no_vibrator">Отключить все звуки, кроме будильников</string>
