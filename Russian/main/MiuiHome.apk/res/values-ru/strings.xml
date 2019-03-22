@@ -98,7 +98,7 @@
     <string name="default_folder_title_services">Сервисы</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Инструменты</string>
-    <string name="default_screen_preview_title">Нажмите для выбора экрана</string>
+    <string name="default_screen_preview_title">Выбор экрана по умолчанию</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Удалить</string>
     <string name="delete_screen">Удалить экран</string>
@@ -114,6 +114,7 @@
     <string name="edit_mode_group_error_full">Не хватает места</string>
     <string name="edit_mode_group_error_in_folder">Перед группировкой значков закройте папку</string>
     <string name="edit_mode_group_error_one_folder">Нельзя дублировать папку с выбранными значками</string>
+    <string name="edit_mode_top_menu_finish">Выход</string>
     <string name="edit_mode_uninstall">Удалить</string>
     <string name="editing_add_widget_tips">Виджеты</string>
     <string name="editing_mode_enter_tip_text">Используйте \"щипок\" для редактирования рабочего стола</string>
@@ -215,6 +216,7 @@
     <string name="menu_default_screen_preview">Выбор основного экрана</string>
     <string name="menu_edit">Режим редактирования</string>
     <string name="menu_exit_scene">Выход из Mi Space</string>
+    <string name="menu_finish">Выход</string>
     <string name="menu_item_add_item">Отправить на рабочий стол</string>
     <string name="menu_launcher_setting">Настройки рабочего стола</string>
     <string name="menu_lock">Защитить от изменений</string>
@@ -352,6 +354,7 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
+    <string name="widgets_preview_title">Добавить виджет</string>
     <string name="recommend_refresh">Обновить</string>
     <string name="recommend_xout">Не показывать</string>
 </resources>
