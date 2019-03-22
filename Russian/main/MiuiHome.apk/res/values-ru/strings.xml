@@ -98,7 +98,7 @@
     <string name="default_folder_title_services">Сервисы</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Инструменты</string>
-    <string name="default_screen_preview_title">Выбор экрана по умолчанию</string>
+    <string name="default_screen_preview_title">Выбор основного экрана</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Удалить</string>
     <string name="delete_screen">Удалить экран</string>
@@ -354,7 +354,7 @@
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
-    <string name="widgets_preview_title">Добавить виджет</string>
+    <string name="widgets_preview_title">Виджеты</string>
     <string name="recommend_refresh">Обновить</string>
     <string name="recommend_xout">Не показывать</string>
 </resources>
