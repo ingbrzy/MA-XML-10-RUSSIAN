@@ -218,7 +218,7 @@
     <string name="cleaner_scan_exit_dialog_positive">Остановить</string>
     <string name="cleaner_scan_exit_dialog_title">Остановка проверки</string>
     <string name="cleaner_scan_finish">Проверка завершена</string>
-    <string name="cleaner_scan_no_result">Не удалось освободить больше места</string>
+    <string name="cleaner_scan_no_result">Не удалось высвободить больше места</string>
     <string name="cleaner_scan_ok">Понятно</string>
     <string name="cleaner_scan_title">Проверка альбомов…</string>
     <string name="cleaner_screen_shot_action">Удалить</string>
