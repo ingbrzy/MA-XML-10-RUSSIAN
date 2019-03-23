@@ -264,6 +264,12 @@
         <item quantity="few">Ожидание выгрузки %1$d видео</item>
         <item quantity="many">Ожидание выгрузки %1$d видео</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Всего %1$d файлов</item>
+        <item quantity="one">Всего %1$d файл</item>
+        <item quantity="few">Всего %1$d файла</item>
+        <item quantity="many">Всего %1$d файлов</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
         <item quantity="one">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
@@ -407,5 +413,11 @@
         <item quantity="one">%d слишком большой объект</item>
         <item quantity="few">%d слишком больших объекта</item>
         <item quantity="many">%d слишком больших объектов</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">Всего %1$d файлов</item>
+        <item quantity="one">Всего %1$d файл</item>
+        <item quantity="few">Всего %1$d файла</item>
+        <item quantity="many">Всего %1$d файлов</item>
     </plurals>
 </resources>
