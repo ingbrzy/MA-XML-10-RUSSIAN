@@ -573,4 +573,9 @@
     <string name="portrait_bokeh_first_tips">"Используйте режим \"Портрет\"
 для размытия фона на ваших фото"</string>
     <string name="portrait_bokeh_tips">Разместите объект в пределах 1.5 метров</string>
+    <string name="autozoom_click_hint">"Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров."</string>
+    <string name="macro_mode">Макро</string>
+    <string name="macro_mode_tip">"Расстояние между объективом и объектом не должно превышать 10 см."</string>
+    <string name="pref_camera_video_bokeh_off">Боке отключено</string>
+    <string name="pref_camera_video_bokeh_on">Боке включено</string>
 </resources>
