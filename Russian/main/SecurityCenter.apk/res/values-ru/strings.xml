@@ -1950,6 +1950,9 @@
     <string name="fingerprint_to_lock_summary">Разблокировка приложений, используя отпечаток</string>
     <string name="system_application">Системные приложения</string>
     <string name="third_application">Сторонние приложения</string>
+    <string name="third_desktop_dialog_content">Сторонние лаунчеры могут приводить к таким проблемам, как утечка данных, быстрый разряд батареи, лаги и т.д. Только те, которые проверены MIUI, могут быть установлены в качестве лаунчера по умолчанию.</string>
+    <string name="third_desktop_dialog_ok">Понятно</string>
+    <string name="third_desktop_dialog_title">Ошибка</string>
     <string name="finger_remind_message">Добавьте отпечаток пальца. Нажмите для открытия Настроек.</string>
     <string name="fingerprint_not_remind">Больше не спрашивать</string>
     <string name="fingerprint_verify_succeed">Отпечаток проверен</string>
@@ -2011,6 +2014,7 @@
     <string name="section_title_system">Система</string>
     <string name="section_title_clear_acc">Память</string>
     <string name="section_title_security_defend">Безопасность</string>
+    <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
     <string name="section_clear_acc_item_title">%s. Если памяти все же не хватает, попробуйте использовать Очистку.</string>
     <string name="section_security_defend_item_title">Обезопасьте ваши данные с Защитой приложений</string>
     <string name="clean_immediately">Очистить</string>
