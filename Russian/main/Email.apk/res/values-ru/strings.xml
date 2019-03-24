@@ -442,8 +442,10 @@
     <string name="file_save_term">Условия сохранения файлов</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Нажмите на кнопку, чтобы отправить \"%s\" всем участникам диалога</string>
+    <string name="folder_empty_to_fresh">"Почта не синхронизирована. Потяните вниз для синхронизации."</string>
     <string name="folder_list_display_all">Отображать все папки</string>
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
+    <string name="folder_no_mails">Нет писем в этой папке</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из %1$s</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
@@ -1019,6 +1021,7 @@
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Другое</string>
     <string name="wipe_account_fail_description">Разрешить</string>
+    <string name="wipe_account_fail_description_remind">Из-за ограничения прав доступа к данным, могут оставаться остаточные данные в календаре и контактах после удаления учетной записи, удалите их вручную.</string>
     <string name="wipe_account_fail_title">Ошибка удаления личных данных</string>
     <string name="wrong_password">Неверный пароль</string>
     <string name="yes">Да</string>
