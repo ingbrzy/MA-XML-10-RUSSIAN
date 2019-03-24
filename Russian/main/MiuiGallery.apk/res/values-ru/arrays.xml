@@ -9,6 +9,10 @@
         <item>Мальчик</item>
         <item>Девочка</item>
     </string-array>
+    <string-array name="baby_sexy_value">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
         <item>Ритмы жизни</item>
