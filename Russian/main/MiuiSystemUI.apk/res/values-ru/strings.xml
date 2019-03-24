@@ -656,6 +656,7 @@
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
     <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
+    <string name="face_unlock_success">Данные лица успешно проверены</string>
     <string name="face_unlock_success_stay_screen_msg">Остаться на экране блокировки после распознавания. Для перехода на рабочий стол используйте свайп вверх.</string>
     <string name="face_unlock_success_stay_screen_title">Остаться на экране блокировки после разблокировки</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
@@ -1342,6 +1343,7 @@
     <string name="quick_settings_wifi_off_label">Wi-Fi откл.</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi вкл.</string>
     <string name="quick_settings_work_mode_label">Рабочий режим</string>
+    <string name="rapid_charge_mode_tip">Быстрая зарядка</string>
     <string name="recent_cannot_dock">Нельзя использовать разделение экрана во втором пространстве</string>
     <string name="recent_dock_tip">Нажмите для выбора приложений</string>
     <string name="recent_menu_item_info">Сведения</string>
