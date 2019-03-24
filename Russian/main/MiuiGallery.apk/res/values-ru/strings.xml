@@ -213,7 +213,7 @@
     <string name="choose_some_people">Выберите альбом с %s</string>
     <string name="cleaner_empty_value_description">Всё в порядке</string>
     <string name="cleaner_photo_pick_delete_selected">Удалить выбранные файлы</string>
-    <string name="cleaner_scan_description">Оптимизация объектов освобождает место на вашем устройстве</string>
+    <string name="cleaner_scan_description">Поиск файлов для высвобождения места</string>
     <string name="cleaner_scan_exit_dialog_message">В следующий раз вам придется начать сначала. Остановить проверку?</string>
     <string name="cleaner_scan_exit_dialog_positive">Остановить</string>
     <string name="cleaner_scan_exit_dialog_title">Остановка проверки</string>
@@ -224,6 +224,9 @@
     <string name="cleaner_screen_shot_action">Удалить</string>
     <string name="cleaner_screen_shot_description">Удалите ненужные скриншоты</string>
     <string name="cleaner_screen_shot_title">Скриншоты</string>
+    <string name="cleaner_similar_action">Удалить</string>
+    <string name="cleaner_similar_description">Удаление дубликатов фотографий</string>
+    <string name="cleaner_similar_title">Дубликаты фотографий</string>
     <string name="cleaner_slim_action">Начать оптимизацию</string>
     <string name="cleaner_slim_description">Храните на своем устройстве сжатые фото. Исходные файлы будут храниться в Mi Cloud.</string>
     <string name="cleaner_slim_start">Оптимизировать</string>
@@ -588,7 +591,7 @@
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз для обновления…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Секунду…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Подождите…</string>
     <string name="hybrid_pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
@@ -633,9 +636,9 @@
     <string name="limit_width">Ширина должна быть > 0</string>
     <string name="load_complete">Больше нет объектов</string>
     <string name="load_failed">Не удалось загрузить данные, нажмите для повтора</string>
-    <string name="load_relations">Секунду…</string>
-    <string name="loading">Секунду…</string>
-    <string name="loading_dots">Секунду…</string>
+    <string name="load_relations">Подождите…</string>
+    <string name="loading">Подождите…</string>
+    <string name="loading_dots">Подождите…</string>
     <string name="loading_dual_tip">Загрузка двойных фотографий…</string>
     <string name="loading_fail">Ошибка загрузки</string>
     <string name="loading_fail_sync_off">Включите синхронизацию с Mi Cloud для загрузки</string>
@@ -923,7 +926,8 @@
     <string name="places_album_empty_title">Фото можно отсортировать по месту съемки</string>
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
-    <string name="preparing_data">Секунду…</string>
+    <string name="preparing_data">Подождите…</string>
+    <string name="print_log">Печать журнала</string>
     <string name="privacy_permission_request_message">Галерее требуется доступ к %3$s. Собранная нами информация будет использоваться в соответствии с нашими %1$s и %2$s. Разрешить?</string>
     <string name="privacy_permission_request_negative">Отмена</string>
     <string name="privacy_permission_request_positive">Разрешить</string>
@@ -997,6 +1001,11 @@
     <string name="scan_barcode_guide">Для получения QR-кода альбома нажмите на значок \"Поделиться\".</string>
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
     <string name="scan_qr_code_buttom_text">Отсканируйте QR-код для просмотра альбома</string>
+    <string name="screen_doodle_talkback_size">Ширина линии</string>
+    <string name="screen_editor_finish">Выход</string>
+    <string name="screen_save_dialog_btn_cancel">Отмена</string>
+    <string name="screen_save_dialog_btn_delete">Удалить скриншот</string>
+    <string name="screen_save_dialog_btn_save">Сохранить в Галерее</string>
     <string name="search_backup_full_screen">Включите синхронизацию с Mi Cloud для поиска объектов и людей</string>
     <string name="search_backup_now">Включить</string>
     <string name="search_backup_sub_title">Включите для поиска изображений</string>
@@ -1106,6 +1115,7 @@
     <string name="show_hidden_album_title">Невидимые альбомы</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещен, перейдите в Другие альбомы для просмотра</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещен, перейдите в Альбомы для просмотра</string>
+    <string name="similar_keep_clear">Оставить лучшие снимки</string>
     <string name="slideshow_interval_dialog_title">Введите интервал</string>
     <string name="slideshow_interval_invalid">Интервал должен составлять от 3 до 3600 секунд</string>
     <string name="slideshow_interval_title">Интервал слайд-шоу</string>
