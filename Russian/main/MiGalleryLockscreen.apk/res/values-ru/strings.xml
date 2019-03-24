@@ -19,4 +19,10 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about_download_fail">"Ошибка загрузки"</string>
+    <string name="about_downloading">Загрузка %s</string>
+    <string name="about_item_function">Новые возможности</string>
+    <string name="about_net_error">Проверьте настройки сети и попробуйте снова.</string>
+    <string name="about_newest">Карусель обоев устарела.</string>
+    <string name="about_update">Обновление</string>
 </resources>
