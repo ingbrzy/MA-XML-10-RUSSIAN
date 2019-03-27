@@ -122,11 +122,12 @@
     <string name="index_item_installing">Установка</string>
     <string name="index_item_installing2">Установка</string>
     <string name="indices_desc_humidity">Влажность %1$s%%</string>
+    <string name="indices_desc_pressure">%1$s мбар</string>
     <string name="indices_title_feel">Ощущается</string>
     <string name="indices_title_pressure">Давление</string>
     <string name="install">Установить</string>
     <string name="international_details_pressure_title">ДАВЛЕНИЕ</string>
-    <string name="international_details_real_feel_title">REAL FEEL®</string>
+    <string name="international_details_real_feel_title">ОЩУЩАЕТСЯ КАК</string>
     <string name="international_details_title">Подробности</string>
     <string name="international_details_uv_index_title">ИНДЕКС УФ</string>
     <string name="international_details_wind_title">ВЕТЕР</string>
