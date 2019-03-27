@@ -35,6 +35,8 @@
     <string name="HIPS_Perm_Calendar_Desc">чтение записей календаря</string>
     <string name="HIPS_Perm_SystemAlert">Всплывающие окна</string>
     <string name="HIPS_Perm_SystemAlert_Desc">отображение всплывающих окон</string>
+    <string name="HIPS_Perm_UDevice_ID">Поделиться информацией об устройстве с разработчиками игр, чтобы помочь им улучшить ваш игровой опыт. Согласны?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">Поделиться информацией об устройстве с разработчиками игр, чтобы помочь им улучшить ваш игровой опыт. Согласны?</string>
     <string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s запрашивает разрешение на %2$s</string>
     <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
