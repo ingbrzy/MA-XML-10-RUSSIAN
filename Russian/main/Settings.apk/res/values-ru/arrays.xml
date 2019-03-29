@@ -1237,9 +1237,9 @@
         <item>Запретить</item>
     </string-array>
     <string-array name="time_format_entries">
-        <item>12-часовой 1:00 PM</item>
-        <item>24-часовой 13:00</item>
-        <item>Автоматически (на основе системного языка)</item>
+        <item>12-часовой</item>
+        <item>24-часовой</item>
+        <item>Автоматически</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Америка</item>
