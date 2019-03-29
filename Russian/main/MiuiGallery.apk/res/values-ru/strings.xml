@@ -88,6 +88,8 @@
     <string name="alert_secret_album_message">Потяните вниз список альбомов на вкладке \"Альбомы\"</string>
     <string name="alert_secret_album_message_lower_case">  потяните вниз список альбомов</string>
     <string name="alert_secret_album_title">Просмотр скрытого альбома</string>
+    <string name="alert_selection_description">MIUI проанализирует похожие фотографии и отметит лучшие снимки.</string>
+    <string name="alert_selection_title">Выберите лучший снимок</string>
     <string name="all_faces">Фото с этим человеком</string>
     <string name="all_items_synced">Все альбомы выгружены в Mi Cloud</string>
     <string name="all_video_album_display_name">Все видео</string>
@@ -98,6 +100,7 @@
     <string name="app_name">Галерея</string>
     <string name="app_name_view_picture">Просмотреть фото</string>
     <string name="app_name_view_video">Просмотреть видео</string>
+    <string name="assistant_page_label">Сюжеты</string>
     <string name="associate_face_album">Выбрать альбом</string>
     <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
     <string name="auto_download_media_title">Автозагрузка фото из Mi Cloud</string>
@@ -378,10 +381,13 @@
     <string name="downloading_title">Загрузка фото из Mi Cloud</string>
     <string name="edit_baby_info">Показать информацию</string>
     <string name="email_picker_title">Добавить общий email</string>
+    <string name="empty_description_conditions">Храните важные сюжеты</string>
+    <string name="empty_description_no_cards">Храните важные сюжеты</string
     <string name="empty_query_text_msg">Не заданы условия поиска…</string>
     <string name="empty_recommend_back">Назад</string>
     <string name="empty_recommend_face_page_view">Больше нет рекомендаций</string>
     <string name="empty_relation">Имя группы не может быть пустым</string>
+    <string name="empty_title_no_cards">Сюжетные альбомы</string>
     <string name="empty_title_no_photos">Нет фото или видео</string>
     <string name="enable_auto_upload_tip">Включить синхронизацию с Mi Cloud для этого альбома?</string>
     <string name="enable_auto_upload_title">Включение синхронизации</string>
