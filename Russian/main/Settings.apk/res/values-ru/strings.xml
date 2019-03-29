@@ -243,6 +243,13 @@
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
     <string name="allow_data_usage_title">Передавать данные в роуминге</string>
     <string name="allow_device_id_access">Приложения с доступом к ID устройства</string>
+    <string name="allow_float_summary">Разрешить уведомления в верхней части экрана.</string>
+    <string name="allow_float_title">Всплывающие уведомления</string>
+    <string name="allow_interruption">Исключения</string>
+    <string name="allow_interruption_summary">Разрешить приложению звук, вибрацию, и/или всплывающие уведомления</string>
+    <string name="allow_keyguard_summary">Показывать уведомления на Экране блокировки</string>
+    <string name="allow_keyguard_title">Экран блокировки</string>
+    <string name="allow_lights_title">Световой индикатор</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать вашей работе с приложениями или искажать их интерфейс.</string>
@@ -343,6 +350,7 @@
     <string name="app_link_open_always">Открывать</string>
     <string name="app_link_open_ask">Всегда спрашивать</string>
     <string name="app_link_open_never">Не открывать</string>
+    <string name="app_link_title">Дополнительные настройки</string>
     <string name="app_list_memory_use">Приложения</string>
     <string name="app_list_preference_none">Нет</string>
     <string name="app_memory_use">Использование памяти</string>
@@ -380,7 +388,7 @@
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
     <string name="app_sees_restricted_accounts">Этому приложению разрешен доступ к вашим аккаунтам</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешен доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
-    <string name="app_settings_link">Доп. настройки в приложении</string>
+    <string name="app_settings_link">Дополнительные настройки</string>
     <string name="app_special_disable_dlg_text">Если вы отключите это приложение, данные будут удалены, а другие приложения и Android могут работать неправильно.</string>
     <string name="app_special_disable_dlg_title">Отключить?</string>
     <string name="app_switch_key">Кнопка \"Меню\"</string>
@@ -531,6 +539,7 @@
     <string name="backup_pw_cancel_button_text">Отмена</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
     <string name="backup_section_title">Резервное копирование и восстановление</string>
+    <string name="badge_title">Метка на иконке приложения</string>
     <string name="band_mode_failed">Сбой</string>
     <string name="band_mode_loading">Загрузка списка частот…</string>
     <string name="band_mode_set">Настроить</string>
@@ -574,6 +583,7 @@
     <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
     <string name="battery_history_seconds">%1$d с.</string>
     <string name="battery_indicator_style">Индикатор батареи</string>
+    <string name="battery_indicator_title">Индикатор батареи</string>
     <string name="battery_info_awake_battery">Работа от батареи:</string>
     <string name="battery_info_awake_plugged">Работа во время зарядки:</string>
     <string name="battery_info_health_cold">Переохлаждение</string>
@@ -1314,6 +1324,7 @@
     <string name="current_use_uicc_se">Используется элемент безопасности на SIM карте</string>
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
+    <string name="custom_carrier_title">Оператор</string>
     <string name="cutout_mode_always">Всегда показывать</string>
     <string name="cutout_mode_default">Автоматически</string>
     <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
@@ -1740,8 +1751,8 @@
     <string name="draw_overlay">Поверх других приложений</string>
     <string name="dtmf_tone_enable_title">Звук набора номера</string>
     <string name="dual_clock">Двойные часы</string>
-    <string name="dual_clock_aod_hint">"Для \"Двойных часов\" необходимо: 1. Разрешить отображение при выключенном экране в Настройки &gt; Экран; 2. Использовать для Экрана блокировки Стандартную или Классическую тему; 3. Использовать стандартный виджет часов."</string>
-    <string name="dual_clock_hint">"Для \"Двойных часов\" необходимо: 1. Использовать для Экрана блокировки Стандартную или Классическую тему; 2. Использовать стандартный виджет часов."</string>
+    <string name="dual_clock_aod_hint">"Для \"Двойных часов\" необходимо: 1. Разрешить отображение при выключенном экране в Настройки &gt; Экран; 2. На Экране блокировки использовать Стандартную или Классическую тему; 3. На Рабочем столе использовать стандартный виджет часов."</string>
+    <string name="dual_clock_hint">"Для \"Двойных часов\" необходимо: 1. На Экране блокировки использовать Стандартную или Классическую тему; 2. На Рабочем столе использовать стандартный виджет часов."</string>
     <string name="dual_clock_ok">Понятно</string>
     <string name="dual_clock_open_message">Двойные часы будут отображаться на Экране блокировки, на Рабочем столе и на выключенном экране.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -1920,6 +1931,8 @@
     <string name="ethernet_data_template">^1 (Ethernet)</string>
     <string name="ethernet_data_usage">Передача данных Ethernet</string>
     <string name="every_day">Ежедневно</string>
+    <string name="expand_button_title">Дополнительные</string>
+    <string name="expandable_under_keyguard_title">Доступ с экрана блокировки</string>
     <string name="experimental_category_title">Экспериментальная функция</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
@@ -2264,6 +2277,11 @@
     <string name="imei_multi_sim">IMEI (слот %1$d)</string>
     <string name="immediately_destroy_activities">Не хранить activities</string>
     <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
+    <string name="importance_default">По умолчанию</string>
+    <string name="importance_high">Высокая</string>
+    <string name="importance_low">Средняя</string>
+    <string name="importance_min">Низкая</string>
+    <string name="importance_title">Важность</string>
     <string name="ims_reg_status_not_registered">Не зарегистрирована</string>
     <string name="ims_reg_status_registered">Зарегистрирована</string>
     <string name="ims_reg_title">Состояние регистрации IMS</string>
@@ -2470,6 +2488,7 @@
     <string name="legal_workday_message">(пропускать праздники)</string>
     <string name="license_title">Лицензия</string>
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
+    <string name="lights_title">Световой индикатор</string>
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
@@ -2719,6 +2738,7 @@
     <string name="manage_mobile_plan_title">Тарифный план</string>
     <string name="manage_notification_access_summary_zero">Приложения не могут просматривать уведомления</string>
     <string name="manage_notification_access_title">Доступ к уведомлениям</string>
+    <string name="manage_notification_title">Уведомления приложений</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="manage_trust_agents">Агенты доверия</string>
     <string name="manage_trust_agents_summary">Нет</string>
@@ -3214,6 +3234,15 @@
     <string name="notch_force_black_desc">Включите для затемнения области вокруг выреза</string>
     <string name="notch_force_black_title">Скрыть вырез</string>
     <string name="notes_privacy_password_role_instruction">Здесь будут храниться ваши скрытые заметки</string>
+    <string name="notifi_channels">Категории уведомлений</string>
+    <string name="notifi_channels_other">Прочее</string>
+    <string name="notifi_importance_default">Уровень уведомлений по умолчанию</string>
+    <string name="notifi_importance_high">Высокий уровень уведомлений</string>
+    <string name="notifi_importance_low">Средний уровень уведомлений</string>
+    <string name="notifi_importance_min">Только в шторке уведомлений</string>
+    <string name="notifi_importance_none">Выкл.</string>
+    <string name="notifi_importance_unspecified">На усмотрение приложения</string>
+    <string name="notifi_no_channels">Это приложение не имеет уведомлений</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
     <string name="notification_badge_title">Показывать значок уведомления</string>
     <string name="notification_badging_title">Показывать значки уведомлений</string>
@@ -3280,15 +3309,18 @@
     <string name="notification_reboot_title">Требуется перезагрузка</string>
     <string name="notification_reboot_title_hm">Требуется перезагрузка</string>
     <string name="notification_ringtone_title">Звук уведомления по умолчанию</string>
+    <string name="notification_shade_shortcut_title">Ярлык настроек</string>
     <string name="notification_show_lights_title">Световая индикация</string>
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
     <string name="notification_sound_dialog_title">Звук уведомлений по умолчанию</string>
     <string name="notification_sound_title">Уведомление</string>
+    <string name="notification_style_title">Стиль уведомлений</string>
     <string name="notification_suggestion_summary">Скрыть или показать содержание уведомлений</string>
     <string name="notification_suggestion_title">Уведомления на заблокированном экране</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Уровень %d</string>
     <string name="notification_summary_none">Включены для всех приложений</string>
+    <string name="notification_switch_label">Показывать уведомления</string>
     <string name="notification_toggle_off">Откл.</string>
     <string name="notification_toggle_on">Вкл.</string>
     <string name="notification_unknown_sound_title">Звук приложения по умолчанию</string>
@@ -4399,6 +4431,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_sim_for_calls">Выберите SIM-карту</string>
     <string name="select_sim_for_data">SIM-карта для передачи данных</string>
     <string name="select_ssid_type_title">Тип подключения SSID</string>
+    <string name="select_time_format_category_title">Формат времени</string>
+    <string name="select_time_format_title">Формат времени</string>
     <string name="select_to_speak_summary">Чтобы услышать описание элемента, нажмите на него</string>
     <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>
     <string name="select_usb_configuration_title">Конфигурация USB</string>
@@ -4474,6 +4508,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
     <string name="show_all_apps">Вся информация об использовании</string>
     <string name="show_background_processes">Показать процессы в кеше</string>
+    <string name="show_carrier_under_keyguard_title">Имя оператора на экране блокировки</string>
     <string name="show_connected_devices_summary">Просмотр подключенных устройств</string>
     <string name="show_connected_devices_title">Подключенные устройства</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>
@@ -4490,9 +4525,11 @@ UT-интерфейс: %5$s"</string>
     <string name="show_ime_summary">Показывать на экране, когда физическая клавиатура включена</string>
     <string name="show_magnifier_when_input">Показывать лупу</string>
     <string name="show_menu">Вызов меню</string>
+    <string name="show_network_speed_title">Скорость сети</string>
     <string name="show_non_rect_clip">Отладка операций усечения</string>
     <string name="show_notification_channel_warnings">Показывать предупреждения канала передачи уведомлений</string>
     <string name="show_notification_channel_warnings_summary">Показывать предупреждение о новых уведомлениях приложения вне допустимого канала</string>
+    <string name="show_notification_icon_title">Значки уведомлений</string>
     <string name="show_owner_info_on_lockscreen_label">Показывать подпись на экране блокировки</string>
     <string name="show_password">Показывать пароли</string>
     <string name="show_password_summary">Ненадолго показывать символы при вводе</string>
@@ -4663,6 +4700,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_settings_summary_vibrate">Включен вибросигнал</string>
     <string name="sound_stereo_mode_summary">Доступно только при воспроизведении звука через динамик</string>
     <string name="sound_stereo_mode_title">Стереозвук</string>
+    <string name="sound_title">Звук</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="sound_work_settings">Сигналы в рабочем профиле</string>
     <string name="special_access">Специальный доступ</string>
@@ -5114,6 +5152,7 @@ UT-интерфейс: %5$s"</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа."</string>
+    <string name="toggle_collapse_after_clicked_title">Скрывать после касания</string>
     <string name="total">Не беспокоить</string>
     <string name="total_info">Отключить все звуки и вибрацию, кроме будильников</string>
     <string name="total_info_no_vibrator">Отключить все звуки, кроме будильников</string>
@@ -5518,6 +5557,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrate_input_devices">Виброотклик</string>
     <string name="vibrate_input_devices_summary">Включать виброотклик на игровом контроллере</string>
     <string name="vibrate_on_touch_title">Виброотклик</string>
+    <string name="vibrate_title">Вибрация</string>
     <string name="vibrate_when_ringing_title">Вибрация при звонке</string>
     <string name="vip_list">Разрешить входящие вызовы</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
@@ -5559,6 +5599,7 @@ UT-интерфейс: %5$s"</string>
     <string name="virus_scanner_select_trust_lib">Выберите сигнатуры</string>
     <string name="virus_scanner_title">Антивирус</string>
     <string name="virus_scanner_update_lib">Обновление базы</string>
+    <string name="visibility_override_title">На экране блокировки</string>
     <string name="vision_settings_description">Используйте специальные возможности для удобной работы с устройством. Эти параметры можно изменить в настройках.</string>
     <string name="vision_settings_title">Настройки спец. возможностей</string>
     <string name="voice_assist">Mi AI</string>
