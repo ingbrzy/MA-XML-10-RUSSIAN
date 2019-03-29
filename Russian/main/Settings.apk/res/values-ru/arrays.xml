@@ -227,7 +227,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графический</item>
-        <item>Процентный</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом)</item>
         <item>Полоска вверху экрана</item>
     </string-array>
     <string-array name="battery_labels">
@@ -414,7 +415,7 @@
     <string-array name="check_importance_entries">
         <item>Рекомендуемые</item>
         <item>Важные</item>
-        <item>Неважные</item>
+        <item>Второстепенные</item>
     </string-array>
     <string-array name="check_importance_summary">
         <item>Решение о важности уведомлений примет MIUI</item>
@@ -814,6 +815,16 @@
         <item>Может повысить производительность</item>
         <item>Может понизить производительность</item>
     </string-array>
+    <string-array name="fold_entries">
+        <item>Рекомендуемые</item>
+        <item>Важные</item>
+        <item>Второстепенные</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>Решение о важности уведомлений примет MIUI</item>
+        <item>Все уведомления в шторке уведомлений</item>
+        <item>Все уведомления в отдельной папке</item>            
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 дюйма</item>
         <item>4.0 дюйма</item>
@@ -970,6 +981,10 @@
     <string-array name="notch_battery_indicator_style_entries">
         <item>Графический</item>
         <item>Процентный</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Поиск</item>
+        <item>Настройки</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
@@ -1221,13 +1236,10 @@
         <item>Разрешить</item>
         <item>Запретить</item>
     </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Поиск</item>
-        <item>Настройки</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
+    <string-array name="time_format_entries">
+        <item>12-часовой 1:00 PM</item>
+        <item>24-часовой 13:00</item>
+        <item>Автоматически (на основе системного языка)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Америка</item>
@@ -1285,11 +1297,11 @@
         <item>400</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>    
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
