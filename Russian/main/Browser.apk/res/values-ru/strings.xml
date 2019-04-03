@@ -168,6 +168,7 @@
     <string name="cloud_tabs_sync_off">Синхронизация выключена</string>
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_up_to_loading_tips">Отпустите для синхронизации</string>
+    <string name="collect_diagnosis_log">Сбор диагностической информации</string>
     <string name="context_menu_add_to_desk_id">Добавить на Рабочий стол</string>
     <string name="context_menu_orientation_portrait_swap_id">Повернуть экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
@@ -212,12 +213,17 @@
     <string name="data_traffic_prompt_message">Использование мобильного интернета для просмотра видео увеличит расходы. При выходе за лимит, ваш оператор может взимать дополнительную плату.</string>
     <string name="data_traffic_prompt_title">Использование данных</string>
     <string name="data_traffic_stop">Остановить</string>
+    <string name="debug_mode_toast">Режим отладки включен</string>
     <string name="delete">Удалить</string>
     <string name="delete_bookmark">Удалить</string>
     <string name="delete_bookmark_action_warning">Удалить выбранное?</string>
     <string name="delete_bookmark_group_warning">Удалить \"%s\"? Все закладки в этой папке будут удалены.</string>
     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
     <string name="delete_download">Удалить</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал отладки.</string>
+    <string name="diagnosis_log_sent_format">"Журнал отладки отправлен.
+ID:%s
+Отправьте этот код техникам."</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
     <string name="dialog_clipboard_tabs_action">Открыть</string>
     <string name="dialog_clipboard_tabs_tip">Найдена скопированная ссылка</string>
@@ -317,6 +323,7 @@
     <string name="find_on_page_hint">Искать на странице</string>
     <string name="find_on_page_next">Следующий</string>
     <string name="find_on_page_prev">Предыдущий</string>
+    <string name="for_diagnosis_usage_only">Использовать эту информацию только для диагностики.</string>
     <string name="force_quick_search_title">Поиск</string>
     <string name="geolocation_permissions_prompt_dont_share">Запретить</string>
     <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
@@ -449,6 +456,7 @@
     <string name="pref_data_preload_value_always">ВСЕГДА</string>
     <string name="pref_data_preload_value_never">НИКОГДА</string>
     <string name="pref_data_preload_value_wifi_only">ТОЛЬКО WIFI</string>
+    <string name="pref_debug_mode">Режим отладки</string>
     <string name="pref_download_setting">Настройка загрузки</string>
     <string name="pref_enable_adblock_notification">Показывать уведомления блокировщика рекламы</string>
     <string name="pref_enable_news">Новости</string>
@@ -594,12 +602,16 @@
     <string name="search_label">Браузер</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_notification_btn_title">Поиск</string>
+    <string name="search_notification_guide_content">Попробуйте сейчас</string>
+    <string name="search_notification_guide_title">Проведите пальцем по верхней части экрана и попробуйте быстрый поиск</string>
     <string name="search_settings_description">Закладки и история поиска</string>
     <string name="search_title_browser">Браузер</string>
     <string name="select_dot">Выбрать текст</string>
     <string name="send_comment_button">Отправить</string>
     <string name="send_comment_title">Комментарий</string>
+    <string name="send_diagnosis_log">Отправить журнал диагностики</string>
     <string name="senddesktop">Рабочий стол</string>
+    <string name="sending">Отправка…</string>
     <string name="sendstartpage">Стартовая страница</string>
     <string name="show_security_tip_dialog_title">Политика конфиденциальности</string>
     <string name="sign_and_open">Войти и включить</string>
@@ -611,6 +623,8 @@
     <string name="small_video_ad_app_text_open">Открыть</string>
     <string name="small_video_ad_app_text_resume">Продолжить</string>
     <string name="small_video_ad_web_text">Открыть</string>
+    <string name="small_video_comment">Все комментарии</string>
+    <string name="small_video_comment_input_hint">Введите комментарий</string>
     <string name="snapshot">Локальные</string>
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
     <string name="snapshot_successed">Сохранено в Закладки -> Локальные</string>
@@ -624,7 +638,8 @@
     <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
     <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
     <string name="sync_cloud_tabs">Синхронизация</string>
-    <string name="temp_refuse">Нет, спасибо</string>    
+    <string name="temp_refuse">Нет, спасибо</string>
+    <string name="temporary_not_available">временно недоступно</string>
     <string name="translation_copy">Копировать</string>
     <string name="translation_more">Посмотреть больше</string>
     <string name="translation_query_error">Ошибка перевода</string>
