@@ -220,7 +220,7 @@
     <string name="delete_download">Удалить</string>
     <string name="dialog_cannot_resume">Загрузка прервана</string>
     <string name="dialog_clipboard_tabs_action">Открыть</string>
-    <string name="dialog_clipboard_tabs_tip">Найти уже скопированные ссылки</string>
+    <string name="dialog_clipboard_tabs_tip">Найдена скопированная ссылка</string>
     <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_downloads_message">Удалить выбранные загрузки?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Удалить выбранную загрузку?</string>
