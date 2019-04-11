@@ -3476,6 +3476,7 @@ OTG отключается автоматически через 10 минут �
     <string name="password_turned_off_text">Защита отключена</string>
     <string name="password_turned_on_text">Защита включена</string>
     <string name="payment_summary">По умолчанию: %1$s</string>
+    <string name="peek_notification_icon_title">Значки уведомлений</string>
     <string name="performance_category">Производительность</string>
     <string name="permission_detail_info">Подробности</string>
     <string name="permission_detail_info_summary">Безопасность: %1$d | Приватность: %2$d | Другие: %3$d</string>
