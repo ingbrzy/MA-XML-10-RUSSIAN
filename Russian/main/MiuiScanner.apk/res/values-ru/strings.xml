@@ -145,6 +145,7 @@
     <string name="see_app_details">Информация о приложении</string>
     <string name="select_dialog_confirm">OK</string>
     <string name="send_mail">Отправить Email</string>
+    <string name="setting_choose_every_time">Всегда спрашивать</string>
     <string name="setting_default_function">По умолчанию</string>
     <string name="setting_preference_pay">Предпочтительный способ оплаты</string>
     <string name="setting_title">Настройки</string>
