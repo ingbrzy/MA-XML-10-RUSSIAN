@@ -76,6 +76,12 @@
         <item>За 2 дня</item>
         <item>За 1 неделю</item>
     </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Только это мероприятие</item>
         <item>Это и будущие мероприятия</item>
