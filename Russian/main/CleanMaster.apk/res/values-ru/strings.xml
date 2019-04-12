@@ -343,6 +343,7 @@
     <string name="grabage_rank_title">Очищено сегодня</string>
     <string name="flow_rank_title">Потребление трафика</string>
     <string name="hot_today">Популярные сегодня</string>
+    <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
     <string name="see_more">Еще</string>
     <string name="sponsored">Реклама</string>
     <string name="hints_deepclean_list_item_from">Источник: %s</string>
