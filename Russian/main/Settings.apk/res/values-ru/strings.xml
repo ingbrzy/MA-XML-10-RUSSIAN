@@ -2326,7 +2326,7 @@
     <string name="install_whole_rom">Скачать полную прошивку</string>
     <string name="installed">Установлено</string>
     <string name="instant_app_details_summary">Подробнее (%1$s)</string>
-    <string name="instant_apps_account">Аккаунт для приложений с мгновенным запуском</string>
+    <string name="instant_apps_settings">Настройки</string>
     <string name="instruction_privacy_password">Защищаемые объекты</string>
     <string name="instruction_title">Информация о безопасности</string>
     <string name="insufficient_storage">Недостаточно места.</string>
