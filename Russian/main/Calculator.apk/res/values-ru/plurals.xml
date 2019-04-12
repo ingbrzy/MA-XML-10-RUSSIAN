@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="entries">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Детальное погашение (%d лет)</item>
+        <item quantity="one">Детальное погашение (%d год)</item>
+        <item quantity="few">Детальное погашение (%d года)</item>
+        <item quantity="many">Детальное погашение (%d лет)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Детальное погашение (%d лет), руб.</item>
+        <item quantity="one">Детальное погашение (%d год), руб.</item>
+        <item quantity="few">Детальное погашение (%d года), руб.</item>
+        <item quantity="many">Детальное погашение (%d лет), руб.</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d лет (%2$d мес.)</item>
         <item quantity="one">%1$d год (%2$d мес.)</item>
