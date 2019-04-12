@@ -212,10 +212,10 @@
         <item>Ежегодно</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
-        <item>каждый день</item>
-        <item>каждую неделю</item>
-        <item>каждый месяц</item>
-        <item>каждый год</item>
+        <item>день</item>
+        <item>неделя</item>
+        <item>месяц</item>
+        <item>год</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Нет ответа</item>
