@@ -146,6 +146,7 @@
     <string name="select_dialog_confirm">OK</string>
     <string name="send_mail">Отправить Email</string>
     <string name="setting_default_function">По умолчанию</string>
+    <string name="setting_preference_pay">Предпочтительный способ оплаты</string>
     <string name="setting_title">Настройки</string>
     <string name="setting_use_last_choose">Запомнить предыдущий выбор</string>
     <string name="shopping_searching">Поиск…</string>
