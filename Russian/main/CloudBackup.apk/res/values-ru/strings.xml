@@ -23,10 +23,10 @@
     <string name="btn_continue">Продолжить</string>
     <string name="btn_restore_abort">Прервать</string>
     <string name="btn_restore_cancel">Отмена</string>
-	<string name="btn_restore_continue">Все равно восстановить</string>
+    <string name="btn_restore_continue">Все равно восстановить</string>
     <string name="btn_restore_resume">Продолжить</string>
     <string name="btn_restore_retry">Повторить</string>
-	<string name="btn_restore_wait">Ожидание Wi-Fi</string>
+    <string name="btn_restore_wait">Ожидание Wi-Fi</string>
     <string name="btn_retry">Повторить</string>
     <string name="btn_skip">Пропустить</string>
     <string name="button_cancel">Отмена</string>
@@ -94,7 +94,7 @@
     <string name="desktop_downloading">Загрузка</string>
     <string name="desktop_failed">Ошибка</string>
     <string name="desktop_installing">Установка</string>
-	<string name="desktop_wait_network">Ожидание…</string>
+    <string name="desktop_wait_network">Ожидание…</string>
     <string name="desktop_waiting">Ожидание</string>
     <string name="device_delete_prompt">Удалить копию \"%s\"?</string>
     <string name="dialog_btn_cancel_backup">Отмена</string>
@@ -109,7 +109,7 @@
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-	<string name="doing_calc_backup_data_size">Вычисление размера…</string>
+    <string name="doing_calc_backup_data_size">Вычисление размера…</string>
     <string name="doing_restore_home">Восстановление рабочего стола и настроек…</string>
     <string name="done_remove">Удаление завершено</string>
     <string name="download_home_data">Загрузка данных рабочего стола…</string>
@@ -135,7 +135,7 @@
     <string name="menu_item_sort_size">Размер</string>
     <string name="msg_alert_cancel_restore">Идет восстановление. Остановить его?</string>
     <string name="msg_alert_restore_error">Не удалось восстановить объекты из Mi Cloud. Повторите попытку.</string>
-	<string name="msg_restore_start_with_metered_network">"Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt; Будет загружено файлов: %s&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt; Будет загружено файлов: %s&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; файл(а)(ов) будет загружен(о)."</string>
     <string name="network_error">Подключитесь к сети</string>
@@ -150,11 +150,11 @@
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
-	<string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
+    <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удалось подключиться</string>
-	<string name="provision_restore_data">Восстановление объектов</string>
-	<string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_restore_data">Восстановление объектов</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="query_restore_description">Восстановите настройки и приложения рабочего стола, используя эту копию. Это действие перезапишет данные уже установленных дублирующихся приложений. Приложения, не включенные в копию, будут перемещены на последний рабочий стол.</string>
     <string name="query_restore_summary">Найдена резервная копия Mi Cloud для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
     <string name="recover_from_micloud">Восстановить из Mi Cloud</string>
@@ -166,7 +166,7 @@
     <string name="remove_task_in_process">Удаление…</string>
     <string name="remove_task_unfinished">Удаление не завершено</string>
     <string name="remove_unfinished">Идет удаление, повторите попытку позже</string>
-	<string name="restore_app_order_finish">Готово</string>
+    <string name="restore_app_order_finish">Готово</string>
     <string name="restore_app_order_loading">Подождите…</string>
     <string name="restore_app_order_retry">Повторите попытку</string>
     <string name="restore_app_order_retry_desc">"Не удалось подключиться к сети.
@@ -180,7 +180,7 @@
     <string name="restore_cloud_backup_to_phone">Восстановить из Mi Cloud</string>
     <string name="restore_data_summary">Этой функции требуется подключение к интернету.</string>
     <string name="restore_data_title">Восстановление данных</string>
-	<string name="restore_detail_category_apps">Рабочий стол &amp; Приложения</string>
+    <string name="restore_detail_category_apps">Рабочий стол &amp; Приложения</string>
     <string name="restore_detail_category_settings">Настройки</string>
     <string name="restore_detail_more">Еще</string>
     <string name="restore_detail_title">Объекты для восстановления</string>
@@ -189,7 +189,7 @@
     <string name="restore_from_this_device">Восстановить из этой копии</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
     <string name="restore_home_screen_apps">Восстановить из Mi Cloud</string>
-	<string name="restore_init_description">Запуск восстановления</string>
+    <string name="restore_init_description">Запуск восстановления</string>
     <string name="restore_network_pause">%s (нажмите для продолжения)</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
     <string name="restore_task_cancelling">Отмена…</string>
@@ -205,7 +205,7 @@
     <string name="success_open_cloudbackup">Резервирование приложений рабочего стола включено</string>
     <string name="title_alert_cancel_restore">Предупреждение</string>
     <string name="title_alert_restore_error">Восстановление не удалось</string>
-	<string name="title_restore_with_current_network">Используется текущее сетевое подключение для загрузки файлов</string>
+    <string name="title_restore_with_current_network">Используется текущее сетевое подключение для загрузки файлов</string>
     <string name="total_space">Всего места: %s</string>
     <string name="try_again">Повторить</string>
     <string name="try_continue">Нажмите для продолжения</string>
