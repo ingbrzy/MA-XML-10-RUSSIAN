@@ -12,4 +12,8 @@
         <item>Резервируйте важные настройки, включая Wi-Fi и экран</item>
         <item>Блокируйте устройство удаленно в случае его утери</item>
     </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Просмотр синхронизированных объектов</item>
+        <item>Данные хранилища</item>
+    </string-array>
 </resources>
