@@ -18,4 +18,20 @@
         <item quantity="few">Восстановление %d файлов</item>
         <item quantity="many">Восстановление %d файлов</item>
     </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Высокий приоритет: %d объектов</item>
+        <item quantity="one">Высокий приоритет: %d объект</item>
+        <item quantity="few">Высокий приоритет: %d объекта</item>
+        <item quantity="many">Высокий приоритет: %d объектов</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Обычный приоритет: %d объектов</item>
+        <item quantity="one">Обычный приоритет: %d объект</item>
+        <item quantity="few">Обычный приоритет: %d объекта</item>
+        <item quantity="many">Обычный приоритет: %d объектов</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d apps on this device</item>
+        <item quantity="one">%d app on this device</item>
+    </plurals>
 </resources>
