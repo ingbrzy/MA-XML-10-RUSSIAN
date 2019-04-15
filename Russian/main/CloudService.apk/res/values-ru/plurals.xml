@@ -96,4 +96,10 @@
         <item quantity="few">Синхронизация продолжится через %d минуты</item>
         <item quantity="many">Синхронизация продолжится через %d минут</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s сервисов будет синхронизировано с Mi Cloud</item>
+        <item quantity="one">%s сервис будет синхронизирован с Mi Cloud</item>
+        <item quantity="few">%s сервиса будет синхронизировано с Mi Cloud</item>
+        <item quantity="many">%s сервисов будет синхронизировано с Mi Cloud</item>
+    </plurals>
 </resources>
