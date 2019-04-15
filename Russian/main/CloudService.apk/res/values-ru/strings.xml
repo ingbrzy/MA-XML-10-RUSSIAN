@@ -29,7 +29,7 @@
     <string name="enable_find_device_error">Не удалось включить Поиск устройства. %1$s</string>
     <string name="enable_find_device_success">Поиск устройства включен.</string>
     <string name="enable_micloud">Войдите для использования Mi Cloud</string>
-	<string name="enable_sync_setting_title">Настройка облачных сервисов…</string>
+    <string name="enable_sync_setting_title">Настройка облачных сервисов…</string>
     <string name="error_data_in_transfer">Синхронизация завершится в течение %s ч.</string>
     <string name="error_data_in_transfer_title">Mi Cloud недоступен</string>
     <string name="error_network">Не удалось подключиться к сети</string>
@@ -320,7 +320,7 @@
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-	<string name="provision_sync_items_loading">Подготовка к синхронизации</string>
+    <string name="provision_sync_items_loading">Подготовка к синхронизации</string>
     <string name="reading_status">Получение статуса…</string>
     <string name="reading_status_failure">Не удалось получить статус</string>
     <string name="recommend_open_all_sync">Синхронизируйте все объекты</string>
@@ -376,8 +376,8 @@
     <string name="user_agreement_link">Условия использования Mi Cloud</string>
     <string name="user_agreement_p5">""</string>
     <string name="user_agreement_title">Условия использования Mi Cloud</string>
-	<string name="user_detail_agreement">Пользовательское соглашение</string>
-	<string name="user_detail_privacy_policy">Политика конфиденциальности</string>
+    <string name="user_detail_agreement">Пользовательское соглашение</string>
+    <string name="user_detail_privacy_policy">Политика конфиденциальности</string>
     <string name="wipe_data_dialog_button_check_sync">Проверить</string>
     <string name="wipe_data_dialog_msg">Некоторые объекты %s не синхронизированы. Они будут сохранены на устройстве и не будут удалены.</string>
     <string name="wipe_data_dialog_msg_and_on">, и некоторые другие объекты</string>
