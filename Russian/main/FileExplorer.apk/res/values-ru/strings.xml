@@ -239,7 +239,7 @@
     <string name="instruction_pre_pad">Нажмите для запуска FTP-сервера</string>
     <string name="instruction_pre_phone">Нажмите для запуска FTP-сервера</string>
     <string name="interest_recommend">Рекомендуемые видео</string>
-	<string name="is_playing">Воспроизведение…</string>
+    <string name="is_playing">Воспроизведение…</string>
     <string name="just_now">только что</string>
     <string name="kilobyteShort">КБ</string>
     <string name="load_more">Показать еще</string>
