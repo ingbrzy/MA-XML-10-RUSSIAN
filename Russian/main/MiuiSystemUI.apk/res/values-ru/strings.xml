@@ -717,6 +717,7 @@
     <string name="guest_wipe_session_message">Хотите продолжить сессию?</string>
     <string name="guest_wipe_session_title">Рады видеть вас снова!</string>
     <string name="guest_wipe_session_wipe">Начать сначала</string>
+    <string name="gxzw_area">Сканер отпечатков</string>
     <string name="gxzw_long_press_tip">Нажмите и удерживайте для проверки новых функций</string>
     <string name="gxzw_press_harder">Нажмите чуть сильнее</string>
     <string name="gxzw_try_again">Повторите попытку</string>
