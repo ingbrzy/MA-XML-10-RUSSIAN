@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="extra_photo_common_permission_name">Боке</string>
+  <string name="extra_photo_common_saving">Сохранение…</string>
+  <string name="motion_photo_re_pick_title">Выберите лучшую фотографию</string>
+  <string name="motion_photo_toast_default">По умолчанию</string>
+  <string name="motion_photo_toast_suggest">Рекомендуемые</string>
+  <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
+  <string name="refocus_discard_negative_btn">Отказаться</string>
+  <string name="refocus_discard_positive_btn">Сохранить</string>
+  <string name="refocus_photo_not_support">"Не удалось применить размытие к этой фотографии"</string>
+  <string name="refocus_relighting_toast">Перемещайте круг, для регулировки угла освещения</string>
+  <string name="refocus_save_cancel">Отмена</string>
+  <string name="refocus_save_title">Выберите формат</string>
+  <string name="refocus_save_to_photo">Сохранить как изображение</string>
+  <string name="refocus_save_to_video">Сохранить как видео</string>
+  <string name="refocus_saving">Сохранение…</string>
+  <string name="refocus_title">Размытие</string>
+  <string name="refocus_type_relighting">Студийное освещение</string>
+  <string name="refocus_type_relighting_no_face">"Не удалось найти лицо"</string>
+  <string name="refocus_type_relighting_small_face">Студийное освещение работает на фотографиях, где лица занимают больше места, чем здесь.</string>
+  <string name="refocus_type_static">Уровень размытия</string>
+  <string name="refocus_type_video">Световые потоки</string>
+</resources>
