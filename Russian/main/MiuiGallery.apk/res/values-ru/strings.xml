@@ -832,6 +832,7 @@
     <string name="photo_editor_beautify">Улучшение</string>
     <string name="photo_editor_beautify_auto">Авто</string>
     <string name="photo_editor_beauty_compare">Оригинал</string>
+    <string name="photo_editor_compare_tip">Нажмите и удерживайте для просмотра исходного изображения</string>
     <string name="photo_editor_crop_and_rotate">Обрезка</string>
     <string name="photo_editor_crop_auto">Авто</string>
     <string name="photo_editor_crop_auto_tips">Обрезано автоматически</string>
@@ -868,6 +869,7 @@
     <string name="photo_editor_navigator_module_download_wait_wlan">Отложить</string>
     <string name="photo_editor_navigator_module_downloading">Загрузка %s…</string>
     <string name="photo_editor_navigator_need_download">Подключитесь к интернету для загрузки %s.</string>
+    <string name="photo_editor_remove_watermark">Удалить водяной знак</string>
     <string name="photo_editor_remover">Ластик</string>
     <string name="photo_editor_rotate">Поворот</string>
     <string name="photo_editor_saving">Сохранение…</string>
