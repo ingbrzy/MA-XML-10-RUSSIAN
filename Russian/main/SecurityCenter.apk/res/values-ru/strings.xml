@@ -212,18 +212,14 @@
     <string name="app_manager_pref_ads">Получать рекомендации</string>
     <string name="app_manager_reset_app_preferences">Сбросить настройки приложений</string>
     <string name="app_manager_reset_app_preferences_button">Сбросить</string>
-    <string name="app_manager_reset_app_preferences_desc">
-        <li>Отключенные приложения</li>
-        <li>Отключенные уведомления</li>
-        <li>Приложения по умолчанию</li>
-        <li>Ограничения фонового трафика</li>"
+    <string name="app_manager_reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-Данные приложений удалены не будут.""
-""
-""
-""Будут сброшены следующие настройки:
+"<li>Отключенные приложения</li>"
+"<li>Отключенные уведомления</li>"
+"<li>Приложения по умолчанию</li>"
+"<li>Ограничения фонового трафика</li>"
 
-"</string>
+Данные приложений удалены не будут."</string>
     <string name="app_manager_reset_app_preferences_title">Сбросить настройки приложений?</string>
     <string name="app_manager_search_prompt">Не удалось ничего найти? Просмотрите результаты для всех приложений.</string>
     <string name="app_manager_show_all_apps">Показать все приложения</string>
@@ -418,7 +414,7 @@
     <string name="battery_stats_phone_signal_label">Сигнал мобильной сети</string>
     <string name="battery_stats_screen_on_label">Экран</string>
     <string name="battery_stats_wake_lock_label">Активный режим</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+    <string name="battery_stats_wifi_running_label">Wi?Fi</string>
     <string name="battery_status_good">Нормальное</string>
     <string name="battery_status_overheat">Перегрев</string>
     <string name="battery_status_unknown">Неизвестная ошибка</string>
@@ -831,7 +827,7 @@
     <string name="firewall_restrict_notify_title">%s не может использовать сеть</string>
     <string name="firewall_restrict_wlan">Запретить использование Wi-Fi</string>
     <string name="firewall_system_title">Трафик системных приложений</string>
-    <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s​</string>
+    <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s?</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="first_aid_activity_title">Решение проблем</string>
@@ -1098,7 +1094,7 @@
     <string name="keywords_powercenter">Оптимизация питания;Перегрев;Включить;Выключить;Батарея;Истощение;Батарея;Проблемы с питанием;Заряд;Истощение;Перегрев;Оптимизация питания;Энергосбережение;Энергосбережение;Экономия заряда батареи</string>
     <string name="keywords_powercenter_powerrank">Расход заряда батареи</string>
     <string name="keywords_securitycenter">Безопасность;Проверка;Сканировать</string>
-    <string name="keywords_securitycenter_settings">Расход заряда батареи;Управление автозапуском;Установка через USB;Разрешения приложений;Купить трафик;Черный список;Трафик;Калибровка тарифного плана;Диагностика сети; Энергосбережение;Перегрев;Включить;Выключить;Батарея;Истощение;Проблемы с батареей;Заряд;Экономия заряда батареи;Энергосбережение;Энергосбережение;Экономия заряда батареи; Автозапуск;Разрешения;Авто запуск;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск; установка через USB;установка с компьютера;установка через ADB; Местоположение;Доступ к контактам; трафик;мобильный трафик;купить трафик;пополнить трафик;тарифный план; Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;черный список;черный список;мошенник;блокировать контакт;блокировать контакты; Трафик; Калибровка; Подключение;Интернет;Диагностика сети; Расход заряда батареи; Игра;ускорение;King of Glory;Ускорение процессора;Не беспокоить</string>
+    <string name="keywords_securitycenter_settings">Расход заряда батареи;Управление автозапуском;Установка через USB;Разрешения приложений;Купить трафик;Черный список;Трафик;Калибровка тарифного плана;Диагностика сети; Энергосбережение;Перегрев;Включить;Выключить;Батарея;Истощение;Проблемы с батареей;Заряд;Экономия заряда батареи;Энергосбережение;Энергосбережение;Экономия заряда батареи; Автозапуск;Разрешения;Авто запуск;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск; установка через USB;установка с компьютера;установка через ADB; Местоположение;Доступ к контактам; трафик;мобильный трафик;купить трафик;пополнить трафик;тарифный план; Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;черный список;черный список;мошенник;блокировать контакт;блокировать контакты; Трафик; Калибровка; Подключение;Интернет;Диагностика сети; Расход заряда батареи; Игра;ускорение;Ускорение процессора;Не беспокоить</string>
     <string name="keywords_usb_install">Установка через USB;установка через компьютер;установка через ADB</string>
     <string name="kilobyte_per_second">КБ/с</string>
     <string name="kilobyteShort">КБ</string>
@@ -1195,7 +1191,7 @@
 для калибровки"</string>
     <string name="main_tc_wait_result">"Ожидание ответа
 оператора"</string>
-    <string name="main_tobe_added_desc">Мобильный трафик от ¥0.03/МБ</string>
+    <string name="main_tobe_added_desc">Мобильный трафик от ?0.03/МБ</string>
     <string name="main_today_used">Расход за сегодня</string>
     <string name="main_toolbar_firewall">Сетевые подключения</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
@@ -1726,7 +1722,7 @@
     <string name="power_optimize_battery_save_idea">Оптимизация питания</string>
     <string name="power_optimize_battery_save_more">Еще</string>
     <string name="power_optimize_brightness">Яркость экрана</string>
-    <string name="power_optimize_btn_text_fixed">✓</string>
+    <string name="power_optimize_btn_text_fixed">?</string>
     <string name="power_optimize_catagory_fixed_title">Оптимизировано</string>
     <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
     <string name="power_optimize_disable_app_autostart">Запрет приложениям запускаться автоматически</string>
@@ -2360,7 +2356,7 @@
     <string name="tc_sms_report_notify_get_timeout_body">Время ожидания истекло. Уточните у оператора корректность введенного вами кода запроса SMS.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Ошибка получения SMS с данными о трафике</string>
     <string name="tc_sms_report_receive_content">Содержание отчета о трафике</string>
-    <string name="tc_sms_report_receive_content_null">Помогите нам улучшить эту функцию!&lt;br/&gt;Вот как это сделать:&lt;br/&gt;1. Перейдите в \"Проверить команды SMS\" и \"Номер получателя\"&lt;br/&gt;2. Нажмите \"Получить шаблон SMS \"&lt;br/&gt;3. Дождитесь SMS от оператора &lt;br/&gt;4. Нажмите \"Отправить\"​</string>
+    <string name="tc_sms_report_receive_content_null">Помогите нам улучшить эту функцию!&lt;br/&gt;Вот как это сделать:&lt;br/&gt;1. Перейдите в \"Проверить команды SMS\" и \"Номер получателя\"&lt;br/&gt;2. Нажмите \"Получить шаблон SMS \"&lt;br/&gt;3. Дождитесь SMS от оператора &lt;br/&gt;4. Нажмите \"Отправить\"?</string>
     <string name="tc_sms_report_receive_num">Номер получателя</string>
     <string name="tc_sms_report_send_num">Номер оператора</string>
     <string name="tc_sms_report_summary">Помогите улучшить эту функцию путем отправки отчета в случае, если информация о трафике некорректна или неактуальна</string>
