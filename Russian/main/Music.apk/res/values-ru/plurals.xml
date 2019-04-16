@@ -116,6 +116,12 @@
         <item quantity="few">Загружается &lt;font color==\"red\">%d трека&lt;/font></item>
         <item quantity="many">Загружается &lt;font color==\"red\">%d треков&lt;/font></item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">Осталось %d бесплатных скачиваний</item>
+        <item quantity="one">Осталось %d бесплатное скачивание</item>
+        <item quantity="few">Осталось %d бесплатных скачиваний</item>
+        <item quantity="many">Осталось %d бесплатных скачиваний</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
@@ -163,5 +169,11 @@
         <item quantity="one">%1$s просмотр</item>
         <item quantity="few">%1$s просмотра</item>
         <item quantity="many">%1$s просмотров</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">Осталось %d дней</item>
+        <item quantity="one">Остался %d день</item>
+        <item quantity="few">Осталось %d дня</item>
+        <item quantity="many">Осталось %d дней</item>
     </plurals>
 </resources>
