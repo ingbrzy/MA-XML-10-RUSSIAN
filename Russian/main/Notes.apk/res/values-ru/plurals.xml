@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Удалить %1$s объектов?</item>
+        <item quantity="one">Удалить %1$s объект?</item>
+        <item quantity="few">Удалить %1$s объекта?</item>
+        <item quantity="many">Удалить %1$s объектов?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">Не синхронизировано %1$s</item>
-        <item quantity="one">Не синхронизирована %1$s</item>
-        <item quantity="few">Не синхронизировано %1$s</item>
-        <item quantity="many">Не синхронизировано %1$s</item>
+        <item quantity="other">%1$s объектов не синхронизированы</item>
+        <item quantity="one">%1$s объект не синхронизирован</item>
+        <item quantity="few">%1$s объекта не синхронизированы</item>
+        <item quantity="many">%1$s объектов не синхронизированы</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s папок</item>
         <item quantity="one">%1$s папка</item>
         <item quantity="few">%1$s папки</item>
         <item quantity="many">%1$s папок</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">%1$s заметок удалены из папки</item>
+        <item quantity="one">%1$s заметка удалена из папки</item>
+        <item quantity="few">%1$s заметки удалены из папки</item>
+        <item quantity="many">%1$s заметок удалены из папки</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s заметок перемещены в %2$s</item>
+        <item quantity="one">%1$s заметка перемещена в %2$s</item>
+        <item quantity="few">%1$s заметки перемещены в %2$s</item>
+        <item quantity="many">%1$s заметок перемещены в %2$s</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s заметок</item>
@@ -24,6 +42,18 @@
         <item quantity="few">Осталось %d секунды</item>
         <item quantity="many">Осталось %d секунд</item>
     </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s заметок скрыты</item>
+        <item quantity="one">%1$s заметка скрыта</item>
+        <item quantity="few">%1$s заметки скрыты</item>
+        <item quantity="many">%1$s заметок скрыты</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s заметок сделаны видимыми</item>
+        <item quantity="one">%1$s заметка сделана видимой</item>
+        <item quantity="few">%1$s заметки сделаны видимыми</item>
+        <item quantity="many">%1$s заметок сделаны видимыми</item>
+    </plurals>    
     <plurals name="word_count">
         <item quantity="other">%d символов</item>
         <item quantity="one">%d символ</item>
