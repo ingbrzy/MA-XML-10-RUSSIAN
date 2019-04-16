@@ -3268,12 +3268,12 @@
     <string name="notification_channels_other">Другие</string>
     <string name="notification_content_block_summary">Не показывать уведомления на фоне или на периферийных устройствах</string>
     <string name="notification_content_block_title">Включить уведомления</string>
-    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Неважные уведомления помещаются в отдельную папку.</string>
+    <string name="notification_fold_description1">Папка уведомлений была введена в MIUI 9. Малозначимые уведомления помещаются в отдельную папку.</string>
     <string name="notification_fold_description2">MIUI запоминает, какие уведомления вы нажимаете, впоследствии использует несколько критериев для определения важности уведомлений.</string>
     <string name="notification_fold_description3">"Если уведомления, которые вы считаете важными, по-прежнему помещаются в папку уведомлений сообщите нам. Мы будем благодарны за обратную связь."</string>
-    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы неважных уведомлений</string>
+    <string name="notification_fold_footer_icon_summary">Показывать значки приложений для группы малозначимых уведомлений</string>
     <string name="notification_fold_footer_icon_title">Показывать значки приложений</string>
-    <string name="notification_fold_summary">Все неважные уведомления будут появляться в отдельной папке</string>
+    <string name="notification_fold_summary">Все малозначимые уведомления будут появляться в отдельной папке</string>
     <string name="notification_fold_title">Папка уведомлений</string>
     <string name="notification_importance_blocked">Отключить уведомления</string>
     <string name="notification_importance_default">Звук</string>
