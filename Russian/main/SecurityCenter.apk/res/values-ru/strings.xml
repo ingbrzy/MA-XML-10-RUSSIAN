@@ -2053,7 +2053,7 @@
     <string name="optimize_result_ads_close_text">Реклама</string>
     <string name="information_setting">Рекомендации</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
-    <string name="recommend_news">Получение рекомендаций</string>
+    <string name="recommend_news">Получать рекомендации</string>
     <string name="setting_privacy_password">Задайте графический ключ</string>
     <string name="bind_xiaomi_account_title">Привязать Mi аккаунт</string>
     <string name="bind_xiaomi_account_summary">Использовать Mi аккаунт для сброса пароля</string>
@@ -2133,7 +2133,7 @@
     <string name="app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
     <string name="app_manager_system_mobile_disable">Запретить 3G/4G</string>
     <string name="app_managere_not_have_app">Пусто</string>
-    <string name="app_manager_pref_ads">Получение рекомендаций</string>
+    <string name="app_manager_pref_ads">Получать рекомендации</string>
     <string name="install">Установить</string>
     <string name="app_manager_app_info_label">О приложении</string>
     <string name="app_manager_app_info_name">Имя приложения</string>
