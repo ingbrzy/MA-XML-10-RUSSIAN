@@ -185,7 +185,7 @@
     <string name="gift_use_confirmation_dlg_title">Отправить этот подарок?</string>
     <string name="gift_use_fail_dlg_title">Произошла ошибка</string>
     <string name="gift_used">Отправлено</string>
-	<string name="go_accessibility_setting">Выбрать</string>
+    <string name="go_accessibility_setting">Выбрать</string>
     <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_incompatible">Скрыть несовместимые %1$s</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
@@ -230,7 +230,7 @@
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
-	<string name="loop_wallpaper_is_here">Слайд-шоу обоев уже доступны</string>
+    <string name="loop_wallpaper_is_here">Слайд-шоу обоев уже доступны</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
@@ -259,7 +259,7 @@
     <string name="mix_icons_option_des">Иконки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_lockscreen_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_tip">Компоненты темы</string>
-	<string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применен для обеих SIM-карт.</string>
+    <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Больше не показывать</string>
@@ -293,7 +293,7 @@
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
     <string name="recently_used">Недавние</string>
-	<string name="reenable_accessibility">Произошла ошибка. Предоставьте права доступа снова.</string>
+    <string name="reenable_accessibility">Произошла ошибка. Предоставьте права доступа снова.</string>
     <string name="refresh_footer_all_loaded">На данный момент это всё</string>
     <string name="refresh_footer_failed">Не удалось загрузить данные</string>
     <string name="refresh_footer_finish">Загрузка завершена</string>
@@ -671,7 +671,7 @@
     <string name="wallpaper_crop">Обрезать</string>
     <string name="wallpaper_decoded_error">Ошибка</string>
     <string name="wallpaper_detail_load_page_no_network">Подключитесь к сети и повторите попытку.</string>
-	<string name="wallpaper_loop_add_success">Успешно добавлено</string>
+    <string name="wallpaper_loop_add_success">Успешно добавлено</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавить в слайд-шоу Рабочего стола</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Добавить в слайд-шоу Экрана блокировки</string>
     <string name="wallpaper_loop_desc_all_walpaper">Создание слайд-шоу обоев</string>
