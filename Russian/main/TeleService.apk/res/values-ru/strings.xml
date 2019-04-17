@@ -612,7 +612,7 @@
     <string name="voicemail_default">Мой оператор</string>
     <string name="vm_change_pin_old_pin">Текущий PIN</string>
     <string name="vm_change_pin_new_pin">Новый PIN</string>
-    <string name="vm_change_pin_progress_message">Секунду…</string>
+    <string name="vm_change_pin_progress_message">Подождите…</string>
     <string name="vm_change_pin_error_too_short">Новый PIN слишком короткий.</string>
     <string name="vm_change_pin_error_too_long">Новый PIN слишком длинный.</string>
     <string name="vm_change_pin_error_too_weak">Новый PIN слишком простой. Надежный пароль не должен содержать непрерывную последовательность чисел.</string>
@@ -840,7 +840,7 @@
     <string name="invalidPin">PIN должен содержать от 4 до 8 цифр.</string>
     <string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
     <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
-    <string name="enable_in_progress">Секунду…</string>
+    <string name="enable_in_progress">Подождите…</string>
     <string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
     <string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
     <string name="pin_failed">Введен неверный PIN</string>
