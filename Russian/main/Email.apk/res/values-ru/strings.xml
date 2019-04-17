@@ -781,7 +781,7 @@
     <string name="qq_login_webview">Авторизация в веб-клиенте QQ, нажмите Войти с помощью пароля.</string>
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
-    <string name="qq_webview_loading">Секунду…</string>
+    <string name="qq_webview_loading">Подождите…</string>
     <string name="questionnair_body_invisibility">Сообщения не отображаются</string>
     <string name="questionnair_confirm_delete">Удалить аккаунт?</string>
     <string name="questionnair_instability">Часто прекращает работу</string>
@@ -971,7 +971,7 @@
     <string name="too_large_to_attach_single">Невозможно прикрепить файлы больше %1$s.</string>
     <string name="topic_merge">Группировать сообщения</string>
     <string name="topic_merge_summary">Группировать сообщения по теме</string>
-    <string name="translation_loading">Секунду…</string>
+    <string name="translation_loading">Подождите…</string>
     <string name="translation_no_result">Нет результатов</string>
     <string name="translation_pronunciation_am">AmE</string>
     <string name="translation_pronunciation_cn">Пиньинь</string>
@@ -1000,7 +1000,7 @@
     <string name="upload_log_yes">Отправить</string>
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
-    <string name="uploading_logs">Секунду…</string>
+    <string name="uploading_logs">Подождите…</string>
     <string name="validation_failed_prompt">Невозможно подтвердить аккаунт, проверьте настройки сервера %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
