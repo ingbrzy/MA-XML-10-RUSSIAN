@@ -45,7 +45,7 @@
   <string name="google_search_hint">Google поиск</string>
   <string name="google_settings_category_title">Google поиск</string>
   <string name="hot_search">Показывать популярные</string>
-  <string name="loading">Секунду…</string>
+  <string name="loading">Подождите…</string>
   <string name="local_app">Приложения</string>
   <string name="local_setting">Настройки</string>
   <string name="menu_help">Помощь</string>
