@@ -93,7 +93,7 @@
     <string name="hint_cannot_view_hidden_note_content">Нельзя просмотреть содержимое скрытой заметки</string>
     <string name="hint_foler_name">Введите имя папки</string>
     <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
-    <string name="loading_text">Секунду…</string>
+    <string name="loading_text">Подождите…</string>
     <string name="login_sync">ОК</string>
     <string name="menu_add_audio_description">Добавить голосовую заметку</string>
     <string name="menu_add_description">Добавить заметку</string>
@@ -235,6 +235,6 @@
     <string name="unclassfied_folder_name">Без категории</string>
     <string name="undo">Отменить</string>
     <string name="unknown_source">Неизвестный источник</string>
-    <string name="widget_content_loading">Секунду…</string>
+    <string name="widget_content_loading">Подождите…</string>
     <string name="widget_havenot_content">Нажмите для создания заметки. Удерживайте виджет для изменения размера.</string>
 </resources>
