@@ -40,7 +40,7 @@
     <string name="extreme_power_config_mode_title">Максимальная экономия</string>
     <string name="extreme_power_config_mode_desc">Включите режим Максимальной экономии для отключения синхронизации, Bluetooth, GPS, NFC, двойных нажатий, подсветки кнопок, включения экрана при получении уведомлений, а также световой индикации. MIUI сосредоточится на экономии заряда батареи.</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
-    <string name="hints_loading_text">Секунду…</string>
+    <string name="hints_loading_text">Подождите…</string>
     <string name="config_mode_title">Контроль фоновой активности</string>
     <string name="config_suggest_suffix_title">Умный режим (рекомендуется)</string>
     <string name="config_no_restrict_title">Нет ограничений</string>
