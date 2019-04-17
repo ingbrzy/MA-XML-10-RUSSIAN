@@ -83,7 +83,7 @@
     <string name="hour_unit">Час +</string>
     <string name="hours">%d ч</string>
     <string name="install_weather_app_error">Не удалось загрузить приложение</string>
-    <string name="install_weather_app_loading">Секунду…</string>
+    <string name="install_weather_app_loading">Подождите…</string>
     <string name="invalid_time">Неверное время: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">Недопустимая длительность таймера</string>
     <string name="keep_screen_on">Не выключать экран</string>
