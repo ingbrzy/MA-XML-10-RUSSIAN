@@ -145,7 +145,7 @@
     <string name="free_style_edit_tab_widget">Виджеты</string>
     <string name="free_style_enter_tip">Проведите двумя пальцами сверху вниз для перехода в Mi Space</string>
     <string name="free_style_exit_tip">Проведите двумя пальцами снизу вверх для возврата на рабочий стол</string>
-    <string name="free_style_londing_text">Секунду…</string>
+    <string name="free_style_londing_text">Подождите…</string>
     <string name="gadget_calculator_label">Калькулятор</string>
     <string name="gadget_calendar_label">Календарь</string>
     <string name="gadget_clear_button_label">Очистка</string>
@@ -199,8 +199,8 @@
     <string name="launcher_title">Рабочий стол и Недавние</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
-    <string name="loading_desktop">Секунду…</string>
-    <string name="loading_wallpaper">Секунду…</string>
+    <string name="loading_desktop">Подождите…</string>
+    <string name="loading_wallpaper">Подождите…</string>
     <string name="local_wallpaper">Локальные</string>
     <string name="lock_screen">Экран блокировки</string>
     <string name="lock_screen_cells_title">Защитить от изменений</string>
