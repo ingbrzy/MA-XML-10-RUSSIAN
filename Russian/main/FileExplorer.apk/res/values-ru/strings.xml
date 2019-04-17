@@ -187,7 +187,7 @@
     <string name="file_info_location">Путь: </string>
     <string name="file_info_modified">Изменен: </string>
     <string name="file_info_size">Размер: </string>
-    <string name="file_loading">Секунду…</string>
+    <string name="file_loading">Подождите…</string>
     <string name="file_name_invalid">В имени файла не может быть следующих символов: /\\:*?&lt;&gt;</string>
     <string name="folder_name_empty">Имя папки не может быть пустым</string>
     <string name="folder_name_illegal">Недопустимое имя папки</string>
@@ -243,7 +243,7 @@
     <string name="just_now">только что</string>
     <string name="kilobyteShort">КБ</string>
     <string name="load_more">Показать еще</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="local_image">Фото</string>
     <string name="local_music">Аудио</string>
     <string name="local_video">Видео</string>
@@ -379,7 +379,7 @@
     <string name="request_document_permission_title">Требуются разрешения</string>
     <string name="restoring">Восстановление…</string>
     <string name="rlv_last_refreshing_time">Обновлено %1$s</string>
-    <string name="rlv_loading_more">Секунду…</string>
+    <string name="rlv_loading_more">Подождите…</string>
     <string name="rlv_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="rlv_refreshing">Обновление…</string>
     <string name="rlv_release_to_refresh">Отпустите для обновления</string>
@@ -436,7 +436,7 @@
     <string name="share_title_09">%s Я поделился видео, предлагаю посмотреть!</string>
     <string name="share_via_qr_code">Поделитесь с помощью QR-кода</string>
     <string name="skip_file">Пропустить</string>
-    <string name="smb_loading">Секунду…</string>
+    <string name="smb_loading">Подождите…</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
     <string name="start_server">Запустить сервер</string>
