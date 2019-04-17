@@ -22,7 +22,7 @@
     <string name="settings_safetylegal_activity_loading">Подождите…</string>
     <string name="ime_privacy_policy">Выберите способ ввода</string>
     <string name="ad_service">Рекламные сервисы</string>
-    <string name="settings_ad_loading">Секунду…</string>
+    <string name="settings_ad_loading">Подождите…</string>
     <string name="settings_ad_loading_unavailable">Не удалось загрузить данные.</string>
     <string name="autoconnect">Подключаться автоматически</string>
     <string name="poco_privacy_policy">Политика конфиденциальности и Условия использования POCO Launcher</string>
