@@ -182,7 +182,7 @@
     <string name="cloud_antispam_title">Определитель номеров</string>
     <string name="cloud_recommend_msg">Нажмите для синхронизации контактов с Mi Cloud.</string>
     <string name="cloud_state_disabled">Синхронизация с Mi Cloud отключена</string>
-    <string name="cloud_state_loading">Секунду…</string>
+    <string name="cloud_state_loading">Подождите…</string>
     <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
     <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -395,7 +395,7 @@
     <string name="dialer_addAnotherCall">Добавить вызов</string>
     <string name="dialer_copy_view_delete_description">Очистить скопированный номер</string>
     <string name="dialer_digits_copy_number_label">Скопированный номер</string>
-    <string name="dialer_empty_text_loading">Секунду…</string>
+    <string name="dialer_empty_text_loading">Подождите…</string>
     <string name="dialer_empty_text_no_call_log">Нет вызовов</string>
     <string name="dialer_empty_text_no_search_result">Контакты не найдены</string>
     <string name="dialer_firewall_entry_name">Заблокированные вызовы</string>
@@ -587,10 +587,10 @@
     <string name="list_filter_customize">Настроить</string>
     <string name="list_filter_phones">Все контакты с номерами телефонов</string>
     <string name="list_filter_single">Контакт</string>
-    <string name="loading_accounts">Секунду…</string>
-    <string name="loading_group_members">Секунду…</string>
-    <string name="loading_groups">Секунду…</string>
-    <string name="loading_recent">Секунду…</string>
+    <string name="loading_accounts">Подождите…</string>
+    <string name="loading_group_members">Подождите…</string>
+    <string name="loading_groups">Подождите…</string>
+    <string name="loading_recent">Подождите…</string>
     <string name="local_invisible_directory">Другое</string>
     <string name="local_profile_title">Мой профиль</string>
     <string name="local_search_label">Все контакты</string>
@@ -918,7 +918,7 @@
     <string name="profile_name">Мой профиль</string>
     <string name="profile_name_photo">Фото</string>
     <string name="pull_to_refresh_pull_label">Потяните вниз для обновления</string>
-    <string name="pull_to_refresh_refreshing_label">Секунду…</string>
+    <string name="pull_to_refresh_refreshing_label">Подождите…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="qr_card_card">QR-код</string>
     <string name="qrcode_card_title">QR-код</string>
@@ -1071,7 +1071,7 @@
     <string name="smart_group_frequency_4">Более 6 месяцев назад</string>
     <string name="smart_group_frequency_label">Давность</string>
     <string name="smart_group_label">Умные группы</string>
-    <string name="smart_group_loading">Секунду…</string>
+    <string name="smart_group_loading">Подождите…</string>
     <string name="smart_group_location_label">Места</string>
     <string name="smart_group_location_unavailable">Нет кода региона</string>
     <string name="sms">Текстовое сообщение</string>
