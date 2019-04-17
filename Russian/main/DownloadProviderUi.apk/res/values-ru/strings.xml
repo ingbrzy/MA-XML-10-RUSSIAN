@@ -148,7 +148,7 @@
     <string name="insufficient_space">Недостаточно места</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="load_finish_hint">На данный момент это всё</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="media_filter">Медиа</string>
     <string name="menu_all_task_pause">Остановить все</string>
     <string name="menu_all_task_start">Запустить все</string>
