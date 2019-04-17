@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_to_recover">Секунду…</string>
+    <string name="about_to_recover">Подождите…</string>
     <string name="app_is_running">Задача выполняется…</string>
     <string name="app_name">Резервирование в Mi Cloud</string>
     <string name="arrange_restore_order">Упорядочивание приложений…</string>
@@ -62,7 +62,7 @@
     <string name="cloud_back_up_frequence_short">Каждый день</string>
     <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
-    <string name="cloud_back_up_opening">Секунду…</string>
+    <string name="cloud_back_up_opening">Подождите…</string>
     <string name="cloud_back_up_share_activity_confirm">Повысить</string>
     <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
     <string name="cloud_back_up_share_activity_title">Повысить Mi аккаунт</string>
