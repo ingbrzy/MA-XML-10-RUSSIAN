@@ -632,7 +632,7 @@
     <string name="delete_input">Удалить</string>
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="descx_quick_scan_cancel">Проверка отменена</string>
-    <string name="descx_quick_scan_preparation">Секунду…</string>
+    <string name="descx_quick_scan_preparation">Подождите…</string>
     <string name="detail_app_button">Сведения</string>
     <string name="details_subtitle">Подробности</string>
     <string name="device_manager_apply_step_1">Активировать администратора устройства?</string>
@@ -913,7 +913,7 @@
     <string name="game_booster">Ускорение игр</string>
     <string name="game_booster_close">Ускорение игр отключено</string>
     <string name="game_booster_intro">Об Ускорении игр</string>
-    <string name="game_booster_jump_webview">Секунду…</string>
+    <string name="game_booster_jump_webview">Подождите…</string>
     <string name="game_booster_tab_top">Лучшее</string>
     <string name="game_booster_title">Ускорение</string>
     <string name="game_bootser_tab_settings">Настройки</string>
@@ -969,7 +969,7 @@
     <string name="gb_sign_notification_summary">Отмечайтесь ежедневно для ускорения Xunyou</string>
     <string name="gb_sign_notification_title">Ускорение сети для игр</string>
     <string name="gb_signed_gift_loading_fail">Ошибка загрузки</string>
-    <string name="gb_signed_gift_loading_summary">Секунду…</string>
+    <string name="gb_signed_gift_loading_summary">Подождите…</string>
     <string name="gb_signed_title">Отметились в этом месяце</string>
     <string name="gb_xunyou_gift_type_one">Ускорение Xunyou на 1 день</string>
     <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
@@ -1112,7 +1112,7 @@
     <string name="leisure_usage_dialog_title">Превышен лимит трафика</string>
     <string name="list_empty_text">Список пуст</string>
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
     <string name="lock_mode_title">Режим защиты</string>
     <string name="lock_screen_traffic_guide_notification_summary">Используется на экране блокировки: %s</string>
@@ -1913,7 +1913,7 @@
     <string name="renew_ip">Повторить</string>
     <string name="renew_now">Продлить</string>
     <string name="repair">Исправить</string>
-    <string name="repair_loading_text">Секунду…</string>
+    <string name="repair_loading_text">Подождите…</string>
     <string name="repeated_marked_number_summary">Не блокировать повторный вызов с того же отмеченного номера в течение 3 минут</string>
     <string name="repeated_marked_number_title">Не блокировать повторные вызовы</string>
     <string name="replace_dns">Автоматическая замена DNS</string>
@@ -2565,7 +2565,7 @@
     <string name="updating_diagnostic_botton">Анализ данных…</string>
     <string name="usage_sorted_activity_lable">Передача данных</string>
     <string name="usage_sorted_empty_text">Пусто</string>
-    <string name="usage_sorted_loading_text">Секунду…</string>
+    <string name="usage_sorted_loading_text">Подождите…</string>
     <string name="usage_type_audio">Аудио</string>
     <string name="usage_type_cpu">ЦП – всего</string>
     <string name="usage_type_cpu_foreground">ЦП – активный режим</string>
