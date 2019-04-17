@@ -249,7 +249,7 @@
     <string name="hybrid_network_access_denied">В доступе к сети отказано</string>
     <string name="hybrid_network_unavaliable">Не удалось подключиться к сети</string>
     <string name="hybrid_pull_to_refresh_pull_label">Потяните вниз для обновления…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Секунду…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Подождите…</string>
     <string name="hybrid_pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="hybrid_service_unavailiable">Сервис недоступен</string>
     <string name="hybrid_try_again">Повторить</string>
@@ -264,9 +264,9 @@
     <string name="invalid_recipient_message">Убедитесь, что все получатели указаны верно.</string>
     <string name="kilobyte">КБ</string>
     <string name="layout_selector_title">"Макет слайд-шоу "</string>
-    <string name="loading_all_messages">Секунду…</string>
-    <string name="loading_conversations">Секунду…</string>
-    <string name="loading_mms">Секунду…</string>
+    <string name="loading_all_messages">Подождите…</string>
+    <string name="loading_conversations">Подождите…</string>
+    <string name="loading_mms">Подождите…</string>
     <string name="manage_permission_app_label">Разрешения управления устройством</string>
     <string name="mark_number_by_own_dialog_subtitle">Отмечен как %1$s</string>
     <string name="me">Я</string>
