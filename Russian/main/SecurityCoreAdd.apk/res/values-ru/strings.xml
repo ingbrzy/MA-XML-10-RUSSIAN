@@ -53,10 +53,10 @@
     <string name="goToSecondSpacce">Перейти во второе пространство</string>
     <string name="newSecondSpace">Создать второе пространство</string>
     <string name="closeSecondSpace">Удаление второго пространства</string>
-    <string name="loading_space">Секунду…</string>
+    <string name="loading_space">Подождите…</string>
     <string name="private_space_setting">Управление</string>
     <string name="exit_private_space">Переход</string>
-    <string name="wating">Секунду…</string>
+    <string name="wating">Подождите…</string>
     <string name="Active">Активировать</string>
     <string name="ok_button">OK</string>
     <string name="remove_button">Удалить</string>
@@ -328,7 +328,7 @@
     <string name="same_qr_code_enter_space">Перейти в рабочее пространство</string>
     <string name="same_qr_code_create_space">Создать еще одно</string>
     <string name="not_support_air_space">Эта функция не поддерживается на вашем телефоне</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="contact_us">Свяжитесь с нами</string>
     <string name="space_deleted">Это пространство было удалено</string>
     <string name="function_not_support">Не поддерживается на этом устройстве</string>
