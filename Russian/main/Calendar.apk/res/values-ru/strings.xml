@@ -250,7 +250,7 @@
     <string name="installing_email">Установка…</string>
     <string name="item_num_selected">Выбрано: %1$d</string>
     <string name="load_more_hint">Загрузить данные из %1$d</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="local_calendar_display_name">Локальный календарь</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
     <string name="lunar_date">Лунная дата</string>
@@ -457,7 +457,7 @@
     <string name="travel_item_weather_now">Погода в пункте назначения</string>
     <string name="travel_load_failed">Ошибка загрузки</string>
     <string name="travel_loaded">Поддержка: Veryzhun</string>
-    <string name="travel_loading">Секунду…</string>
+    <string name="travel_loading">Подождите…</string>
     <string name="travel_local">Пункт назначения</string>
     <string name="travel_seat_number_text">Место</string>
     <string name="travel_train_number_text">Поезд</string>
