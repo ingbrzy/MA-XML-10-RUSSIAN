@@ -19,7 +19,7 @@
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
     <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого компьютера, подключенного к Интернету.</string>
-    <string name="settings_safetylegal_activity_loading">Секунду…</string>
+    <string name="settings_safetylegal_activity_loading">Подождите…</string>
     <string name="ime_privacy_policy">Выберите способ ввода</string>
     <string name="ad_service">Рекламные сервисы</string>
     <string name="settings_ad_loading">Секунду…</string>
