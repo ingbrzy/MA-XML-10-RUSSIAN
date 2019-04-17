@@ -117,7 +117,7 @@
 "</string>
     <string name="pause_prompt_yes">Да</string>
     <string name="pause_prompt_no">Нет</string>
-    <string name="waiting_close_airplane_mode">Секунду…</string>
+    <string name="waiting_close_airplane_mode">Подождите…</string>
     <string name="unlock_phone">Разблокировать</string>
     <string name="remind_unlock_message">Ваше устройство заблокировано. \"%s\" будет доступно после разблокировки. Разблокировать его?</string>
     <string name="user_locked_prompt">Разблокируйте устройство для доступа к контактам.</string>
