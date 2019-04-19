@@ -447,28 +447,24 @@
         <item quantity="many">%d объектов</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Разблокировался %d раз сегодня</item>
-        <item quantity="one">Разблокировался %d раз сегодня</item>
-        <item quantity="few">Разблокировался %d раза сегодня</item>
-        <item quantity="many">Разблокировался %d раз сегодня</item>
+        <item quantity="other">Разблокирован сегодня: %d раз</item>
+        <item quantity="one">Разблокирован сегодня: %d раз</item>
+        <item quantity="few">Разблокирован сегодня: %d раза</item>
+        <item quantity="many">Разблокирован сегодня: %d раз</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Разблокировался %d раз за 7 дней</item>
-        <item quantity="one">Разблокировался %d раз за 7 дней</item>
-        <item quantity="few">Разблокировался %d раза за 7 дней</item>
-        <item quantity="many">Разблокировался %d раз за 7 дней</item>
+        <item quantity="other">Разблокирован за 7 дней: %d раз</item>
+        <item quantity="one">Разблокирован за 7 дней: %d раз</item>
+        <item quantity="few">Разблокирован за 7 дней: %d раза</item>
+        <item quantity="many">Разблокирован за 7 дней: %d раз</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Получено %d уведомлений сегодня</item>
-        <item quantity="one">Получено %d уведомление сегодня</item>
-        <item quantity="few">Получено %d уведомления сегодня</item>
-        <item quantity="many">Получено %d уведомлений сегодня</item>
+        <item quantity="other">Уведомлений сегодня: %d</item>
+        <item quantity="one">Уведомлений сегодня: %d</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Получено %d уведомлений за 7 дней</item>
-        <item quantity="one">Получено %d уведомление за 7 дней</item>
-        <item quantity="few">Получено %d уведомления за 7 дней</item>
-        <item quantity="many">Получено %d уведомлений за 7 дней</item>
+        <item quantity="other">Уведомлений за 7 дней: %d</item>
+        <item quantity="one">Уведомлений за 7 дней: %d</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ч.</item>
