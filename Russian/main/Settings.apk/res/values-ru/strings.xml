@@ -5379,42 +5379,42 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_access_description">Доступ к истории использования позволяет отслеживать, какие приложения вы используете и как часто, а также определять оператора сети, язык и другие параметры.</string>
     <string name="usage_access_title">Приложения с доступом к данным</string>
     <string name="usage_log">Статистика приложения</string>
-    <string name="usage_state_app_timer">Использование экрана</string>
+    <string name="usage_state_app_timer">Время экрана</string>
     <string name="usage_state_app_usage_detail_title">Статистика приложения</string>
-    <string name="usage_state_app_usage_list_title">"Использование приложениями (сегодня)"</string>
-    <string name="usage_state_app_usage_list_week_title">"Использование приложениями (7 дней)"</string>
-    <string name="usage_state_app_usage_tip_title" formatted="false">Использование экрана с %d:00 до %d:00</string>
-    <string name="usage_state_app_use_time">Использование экрана</string>
+    <string name="usage_state_app_usage_list_title">"'Время экрана' в приложениях"</string>
+    <string name="usage_state_app_usage_list_week_title">"'Время экрана' в приложениях"</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">'Время экрана' с %d:00 до %d:00</string>
+    <string name="usage_state_app_use_time">Время экрана</string>
     <string name="usage_state_channel_mouth">30 дней</string>
     <string name="usage_state_channel_week">7 дней</string>
-    <string name="usage_state_device_noti_today_tip_title" formatted="false">Уведомления с %d:00 до %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Разблокировка с %d:00 до %d:00</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">Уведомлений с %d:00 до %d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Разблокировок с %d:00 до %d:00</string>
     <string name="usage_state_friday">Пт</string>
     <string name="usage_state_go_more">Другие приложения</string>
     <string name="usage_state_hour_minute" formatted="false">%d ч. %d мин.</string>
     <string name="usage_state_less_one_minute">Меньше 1 мин.</string>
     <string name="usage_state_monday">Пн</string>
-    <string name="usage_state_mourth_day">"'Использование экрана' d MMM"</string>
-    <string name="usage_state_noti_mourth_day">"'Уведомления' d MMM"</string>
+    <string name="usage_state_mourth_day">"'Время экрана' d MMM"</string>
+    <string name="usage_state_noti_mourth_day">"'Уведомлений' d MMM"</string>
     <string name="usage_state_notification">Управление уведомлениями</string>
     <string name="usage_state_notification_manager">Уведомления приложений</string>
-    <string name="usage_state_remind_summary">Включить предупреждения о длительности использования экрана. Можно установить отдельные лимиты времени для рабочих и выходных дней.</string>
-    <string name="usage_state_remind_title">Лимит длительности использования</string>
+    <string name="usage_state_remind_summary">Включить предупреждение о лимитах 'времени экрана'. Можно установить свои лимиты для рабочих и выходных дней.</string>
+    <string name="usage_state_remind_title">Лимит 'времени экрана'</string>
     <string name="usage_state_rest_day">Выходные дни</string>
     <string name="usage_state_saturday">Сб</string>
     <string name="usage_state_set_invalid_time_toast">"Нельзя установить лимит меньше 1 минуты"</string>
     <string name="usage_state_sunday">Вск</string>
     <string name="usage_state_thursday">Чт</string>
     <string name="usage_state_today">Сегодня</string>
-    <string name="usage_state_today_total_text">Использование экрана сегодня</string>
+    <string name="usage_state_today_total_text">'Время экрана' сегодня</string>
     <string name="usage_state_tuesday">Вт</string>
-    <string name="usage_state_unlock_mourth_day">"'Разблокировка' d MMM"</string>
-    <string name="usage_state_usage_time">Использование экрана</string>
-    <string name="usage_state_usage_time_remind">Настройка уведомлений</string>
-    <string name="usage_state_use_time_remind_title">Настройка уведомлений</string>
+    <string name="usage_state_unlock_mourth_day">"'Разблокирован' d MMM"</string>
+    <string name="usage_state_usage_time">Лимит 'времени экрана'</string>
+    <string name="usage_state_usage_time_remind">Настройка лимитов</string>
+    <string name="usage_state_use_time_remind_title">Настройка лимитов</string>
     <string name="usage_state_wednesday">Ср</string>
     <string name="usage_state_week_day_hour_minute" formatted="false">Выходные дни: %d ч. %d мин.</string>
-    <string name="usage_state_week_total_text">Использование экрана (7 дней)</string>
+    <string name="usage_state_week_total_text">'Время экрана' (7 дней)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Рабочие дни</string>
     <string name="usage_state_work_day_hour_minute" formatted="false">Рабочие дни: %d ч. %d мин.</string>
@@ -5454,13 +5454,13 @@ UT-интерфейс: %5$s"</string>
     <string name="usagestats_app_category_miui_undefined">Другое</string>
     <string name="usagestats_app_category_miui_video_etc">Музыка и видео</string>
     <string name="usagestats_device_notification_des">Лимит на сегодня: %s</string>
-    <string name="usagestats_device_notification_des_over">"Вы достигли лимита использования экрана на сегодня."</string>
+    <string name="usagestats_device_notification_des_over">"Вы достигли лимита 'времени экрана' на сегодня."</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Лимит на сегодня: %s | %s осталось</string>
-    <string name="usagestats_device_notification_title">Лимит использования экрана</string>
+    <string name="usagestats_device_notification_title">Лимит 'времени экрана'</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Вы сегодня использовали устройство %d ч. %d мин. Сделайте перерыв."</string>
     <string name="usagestats_device_timeout_negative">Напомнить через 1 час</string>
     <string name="usagestats_device_timeout_positive">Понятно</string>
-    <string name="usagestats_device_timeout_title">Лимит использования экрана</string>
+    <string name="usagestats_device_timeout_title">Лимит 'времени экрана'</string>
     <string name="usb_adb_input">Отладка по USB (Настройки безопасности)</string>
     <string name="usb_adb_input_desc">Разрешить предоставление разрешений и имитацию ввода с помощью отладки через USB</string>
     <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
