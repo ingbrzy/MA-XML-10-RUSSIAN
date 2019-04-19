@@ -2,7 +2,12 @@
 <resources>
     <string name="app_name">Калькулятор</string>
     <string name="app_name_danfa">Калькулятор</string>
+    <string name="app_notification_info">Калькулятор работает в фоне</string>
     <string name="base_rate">Базовая процентная ставка</string>
+    <string name="btn_float_window_alpha">Регулировка прозрачности</string>
+    <string name="btn_float_window_back_to_app">Полноэкранный режим</string>
+    <string name="btn_float_window_close">Закрыть</string>
+    <string name="btn_float_window_resize">Изменить размер</string>
     <string name="cal_convert_to_word_figure">Перевести в финансовые иероглифы</string>
     <string name="cal_copy">Копировать</string>
     <string name="cal_edit_mode">Режим редактирования</string>
@@ -59,6 +64,7 @@
     <string name="error">Ошибка</string>
     <string name="error_fomrat">Неправильный формат</string>
     <string name="factorialDesc">факториал</string>
+    <string name="float_window_guide_text">Нажмите, чтобы свернуть калькулятор</string>
     <string name="fund" />
     <string name="fund_loan">Ссудный фонд</string>
     <string name="global_network_confirm_content">Для нормальной работы конвертеру валют требуется подключение к интернету.</string>
@@ -77,6 +83,8 @@
     <string name="global_search_key_word_figure">Финансовые иероглифы</string>
     <string name="golbal_search_calculator_setting">Калькулятор;Настройки калькулятора;Настройки</string>
     <string name="golbal_search_path_calculator_setting">Системные приложения/Калькулятор/Настройки</string>
+    <string name="help_content_desc">Помощь</string>
+    <string name="hint_floatwindow_alpha_guide_text">Нажмите для регулировки прозрачности</string>
     <string name="home_title_calculator">Калькулятор</string>
     <string name="income_type" />
     <string name="install">Установить</string>
@@ -536,6 +544,7 @@
     <string name="unit_year">Г</string>
     <string name="unit_year_format">Год %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="view_float_window_move">Перемещение калькулятора</string>
     <string name="voiceDesc">Голосовое управление</string>
     <string name="wf_word_figure">Финансовые иероглифы</string>
     <string name="word_figure_big_unit_fen">分</string>
