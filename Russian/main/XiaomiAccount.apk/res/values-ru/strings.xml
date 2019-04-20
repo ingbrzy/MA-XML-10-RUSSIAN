@@ -5,7 +5,7 @@
     <string name="passport_login_prompt">Один Mi аккаунт. Все Mi сервисы.</string>
     <string name="passport_login_using_other_ways">Другие способы входа</string>
     <string name="passport_register_using_other_ways">Другие способы регистрации</string>
-    <string name="passport_login_title">Войдите в Mi аккаунт</string>
+    <string name="passport_login_title">Вход в Mi аккаунт</string>
     <string name="passport_login">Войти</string>
     <string name="passport_relogin">Войти повторно</string>
     <string name="passport_skip_login">Пропустить</string>
@@ -13,6 +13,7 @@
     <string name="passport_skip_setup_account_msg">Вы можете настроить Mi аккаунт позже.</string>
     <string name="passport_confirm_login">Продолжить</string>
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
+    <string name="passport_first_login_prompt">Mi Account будет создан автоматически при первом входе в систему.</string>
     <string name="passport_title_reg">Создание Mi аккаунта</string>
     <string name="passport_reg_prompt">Нет Mi аккаунта? Создайте его бесплатно.</string>
     <string name="passport_uplink_reg">Использовать номер телефона</string>
@@ -179,8 +180,8 @@
     <string name="passport_trust_device">Доверять этому устройству</string>
     <string name="passport_barcode_add_account_prompt">Для подключения аккаунта отсканируйте QR-код после авторизации.</string>
     <string name="passport_quick_register_notice"><u>Нет Mi аккаунта? Создайте его сейчас.</u></string>
-    <string name="passport_password_phone_login">Войти через Mi аккаунт</string>
-    <string name="passport_sms_verification_code_login">Войти через SMS</string>
+    <string name="passport_password_phone_login">Вход через Mi аккаунт</string>
+    <string name="passport_sms_verification_code_login">Вход через SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Войти или создать аккаунт через SMS</string>
     <string name="passport_login_other_account">Другой аккаунт</string>
     <string name="passport_reg_new_account">Создать аккаунт</string>
@@ -193,7 +194,7 @@
     <string name="passport_error_verify_activator_phone_title">Не удалось проверить номер телефона</string>
     <string name="passport_error_verify_activator_phone_message">Убедитесь, что SIM-карта активирована и устройство подключено к сети.</string>
     <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
-    <string name="passport_phone_ticket_login">Войти через SMS</string>
+    <string name="passport_phone_ticket_login">Вход через SMS</string>
     <string name="passport_quick_register">Регистрация</string>
     <string name="passport_account_set_password">Задать пароль</string>
     <string name="passport_account_set_password_title">Задайте пароль</string>
@@ -255,6 +256,7 @@
     <string name="bind_weibo_description">Добавьте друзей из Sina Weibo</string>
     <string name="bind_sns_description">Входите в Mi аккаунт с помощью %s</string>
     <string name="add_account">Подключить аккаунт</string>
+    <string name="agreement_and_privacy">Пользовательское соглашение и Политика конфиденциальности</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">QQ</string>
     <string name="exit">Выход</string>
@@ -308,6 +310,7 @@
     <string name="account_user_avatar_from_album">Выбрать фото</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="used_cloud_storage_info">Использовано %s</string>
     <string name="user_avatar_uploading">Секунду…</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
@@ -370,6 +373,7 @@
     <string name="loading_micloud_sync_data">Секунду…</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="scan_barcode_title">Для входа в Mi аккаунт отсканируйте QR-код</string>
+    <string name="scan_barcode">Отсканируйте QR-код</string>
     <string name="talkback_scan_barcode">Отсканируйте QR-код</string>
     <string name="authorize_title">Авторизация</string>
     <string name="my_device_title">Текущее устройство</string>
