@@ -3564,6 +3564,8 @@ OTG отключается автоматически через 10 минут �
     <string name="power_key_how_start_detail">Удерживайте кнопку питания в течение 0.5 с. Отпустите и говорите.</string>
     <string name="power_key_start_enjoy">Узнать больше о Google Ассистенте</string>
     <string name="power_key_start_guide">Запуск Google Ассистента кнопкой питания на полноэкранных устройствах</string>
+    <string name="power_menu_under_keyguard_summary">Разрешить доступ к меню питания на экране блокировки</string>
+    <string name="power_menu_under_keyguard_title">Меню питания</string>
     <string name="power_last_full_charge_summary">^1 назад</string>
     <string name="power_mgr">Батарея</string>
     <string name="power_mode">Режим питания</string>
