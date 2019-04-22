@@ -41,4 +41,9 @@
         <item quantity="one">Просмотреть %d комментарий</item>
         <item quantity="few">Просмотреть все %d комментария</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> подписчиков</item>
+        <item quantity="one"> подписчик</item>
+        <item quantity="few"> подписчика</item>
+    </plurals>
 </resources>
