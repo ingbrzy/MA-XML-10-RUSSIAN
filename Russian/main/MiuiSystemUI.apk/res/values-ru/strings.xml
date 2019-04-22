@@ -722,7 +722,8 @@
     <string name="gxzw_press_harder">Нажмите чуть сильнее</string>
     <string name="gxzw_try_again">Повторите попытку</string>
     <string name="gxzw_try_more_again">Повторите попытку</string>
-    <string name="gxzw_use_password">Введите пароль</string>
+    <string name="gxzw_use_password">Используйте пароль</string>
+    <string name="gxzw_use_password_to_unlock">Введите пароль</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="headset">Гарнитура</string>
