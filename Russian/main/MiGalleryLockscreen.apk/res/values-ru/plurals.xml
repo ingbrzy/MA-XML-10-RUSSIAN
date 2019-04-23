@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="feed_article_entrance_title">
+        <item quantity="other">%d подборок на эту тему</item>
+        <item quantity="one">%d подборка на эту тему</item>
+        <item quantity="few">%d подборки на эту тему</item>
+        <item quantity="many">%d подборок на эту тему</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s подписчиков</item>
+        <item quantity="one">%1$s подписчик</item>
+        <item quantity="few">%1$s подписчика</item>
+        <item quantity="many">%1$s подписчиков</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s обоев</item>
+        <item quantity="one">%1$s обои</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="many">%d дней назад</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">%d час назад</item>
+        <item quantity="few">%d часа назад</item>
+        <item quantity="many">%d часов назад</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">%d минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="many">%d минут назад</item>
+    </plurals>
+</resources>
