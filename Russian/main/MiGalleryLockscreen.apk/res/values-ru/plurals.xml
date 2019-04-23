@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%d подборок на эту тему</item>
-        <item quantity="one">%d подборка на эту тему</item>
-        <item quantity="few">%d подборки на эту тему</item>
-        <item quantity="many">%d подборок на эту тему</item>
+        <item quantity="other">%d историй на эту тему</item>
+        <item quantity="one">%d история на эту тему</item>
+        <item quantity="few">%d истории на эту тему</item>
+        <item quantity="many">%d историй на эту тему</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s подписчиков</item>
