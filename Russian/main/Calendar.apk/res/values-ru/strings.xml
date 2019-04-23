@@ -278,7 +278,6 @@
     <string name="month_view">Месяц</string>
     <string name="monthly">Ежемесячно</string>
     <string name="monthly_on_day">Ежемесячно (в эту же дату)</string>
-    <string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
     <string name="movie_event_delete_successfully">Билет успешно удален</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="new_event_description">Новое</string>
