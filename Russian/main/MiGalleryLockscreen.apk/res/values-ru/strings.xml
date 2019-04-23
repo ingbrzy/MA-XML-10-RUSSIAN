@@ -26,7 +26,7 @@
   <string name="ad_pop_btn_hidden">Скрыть</string>
   <string name="ad_pop_des">Загрузка приложения:</string>
   <string name="add_cw_fail_tip">"Не удалось добавить обои"</string>
-  <string name="add_cw_success_tip">Обои добавлены успешно</string>
+  <string name="add_cw_success_tip">Обои успешно добавлены</string>
   <string name="add_launch_hint_text">Добавить ярлык на рабочий стол</string>
   <string name="add_to_cw">Добавить в слайд-шоу</string>
   <string name="add_to_trust_device">Это проверенные устройства</string>
@@ -56,7 +56,7 @@
   <string name="carousel_declaration_cta_btn_text">Принять и включить</string>
   <string name="carousel_declaration_des">Смотрите красивые места, получайте захватывающие сюрпризы в Карусели обоев</string>
   <string name="carousel_declaration_des2">Добавляйте ваши изображения в Карусель обоев</string>
-  <string name="carousel_declaration_des_new">Получайте ежедневно индивидуальные рекомендации, свежие изображения и истории на экране блокировки.</string>
+  <string name="carousel_declaration_des_new">Получайте ежедневно индивидуальные рекомендации, свежие изображения и подборки на экране блокировки.</string>
   <string name="carousel_declaration_title">Подписка</string>
   <string name="carousel_declaration_title_new">Новые обои ежедневно</string>
   <string name="carousel_suggest">Внимание</string>
@@ -85,7 +85,7 @@
   <string name="cw_add_success">Успешно добавлено в слайд-шоу</string>
   <string name="cw_add_tip_fail">"Ошибка добавления"</string>
   <string name="cw_add_wallpaper">Добавить обои</string>
-  <string name="cw_add_wallpaper_more_recomm">Дополнительные рекомендации</string>
+  <string name="cw_add_wallpaper_more_recomm">Дополнительные подборки</string>
   <string name="cw_added">Добавлено</string>
   <string name="cw_added_fav_fail">"Не удалось загрузить данные"</string>
   <string name="cw_added_fav_no_pic">Ничего нет.</string>
@@ -107,8 +107,8 @@
   <string name="cw_my_fav">Избранное</string>
   <string name="cw_permission_tip">Разрешите Карусели обоев доступ к памяти в Разрешениях приложений.</string>
   <string name="cw_wallpaper_empty_dlg_btn">Понятно</string>
-  <string name="cw_wallpaper_empty_dlg_content">"Вы не добавили ни одного объекта в слайд-шоу. Переход в рекомендации."</string>
-  <string name="cw_wallpaper_empty_dlg_title">Ничего нет</string>
+  <string name="cw_wallpaper_empty_dlg_content">"Вы не добавили ни одного изображения в слайд-шоу. Будет сделан переход к Подборкам."</string>
+  <string name="cw_wallpaper_empty_dlg_title">Изображения не добавлены</string>
   <string name="cw_wallpaper_manager">Управление обоями</string>
   <string name="day">Каждый день</string>
   <string name="declaration">Получайте каждый день бесплатно новые обои прямо на экран блокировки.</string>
@@ -149,8 +149,8 @@
   <string name="explorer_activity_title">Карусель обоев</string>
   <string name="facebook_application_id"/>
   <string name="favor_list_no_data">Ничего нет.</string>
-  <string name="favor_list_title">Избранные</string>
-  <string name="favor_success">Успешно добавлено в избранные</string>
+  <string name="favor_list_title">Избранное</string>
+  <string name="favor_success">Успешно добавлено в избранное</string>
   <string name="feed_article_entrance_about">О \"%s\"</string>
   <string name="find_psw">Забыли пароль</string>
   <string name="from_migallerylockscreen">Из Mi Карусель обоев</string>
@@ -160,12 +160,14 @@
   <string name="history_list_no_data">Ничего нет</string>
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
-  <string name="idbct_desc">Выберите качество загружаемых изображений, в зависимости от типа сети</string>
-  <string name="idbct_opt_auto_select_desc_text">Загружать в обычном качестве через мобильный интернет и в HD качестве по Wi-Fi</string>
+  <string name="idbct_desc">"Выберите качество загружаемых изображений, 
+в зависимости от типа сети"</string>
+  <string name="idbct_opt_auto_select_desc_text">"Загружать в обычном качестве через мобильный интернет, 
+в HD качестве по Wi-Fi"</string>
   <string name="idbct_opt_auto_select_main_text">Авто</string>
   <string name="idbct_opt_high_def_desc_text">Всегда загружать в HD качестве</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
-  <string name="idbct_title">Тип сети</string>
+  <string name="idbct_title">Качество изображений</string>
   <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
   <string name="like">Добавить в избранное</string>
   <string name="liked">Добавлено в избранное</string>
@@ -183,7 +185,7 @@
   <string name="llks_pop_top_title">Новые обои</string>
   <string name="llks_pop_top_title_backup">Свежие изображения</string>
   <string name="load_hdpicture_complete">Изображение успешно загружено</string>
-  <string name="loading">&lt;CDATA&gt;Подождите&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="loading">Подождите…</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lockscreen_h5_back_tv">Назад</string>
@@ -203,7 +205,7 @@
   <string name="mode_ok">Переключиться</string>
   <string name="mode_title">Показывать рекомендации</string>
   <string name="more_article">Больше подборок</string>
-  <string name="need_open_gallery">Включите Карусель обоев</string>
+  <string name="need_open_gallery">Включить Карусель обоев</string>
   <string name="new_feature_title">"Что нового"</string>
   <string name="nick_name">Имя</string>
   <string name="no_long_show">"не показывать снова"</string>
@@ -216,8 +218,8 @@
   <string name="ok_network">Принять</string>
   <string name="open_btn_finish">Готово</string>
   <string name="open_btn_next">Следующий</string>
-  <string name="open_btn_start">Включите Карусель обоев</string>
-  <string name="open_des">Включите Карусель обоев, чтобы ежедневно получать свежие изображения и истории на экран блокировки.</string>
+  <string name="open_btn_start">Включить Карусель обоев</string>
+  <string name="open_des">Включите Карусель обоев, чтобы ежедневно получать свежие изображения и подборки на экран блокировки.</string>
   <string name="open_freq_title">Частота обновления</string>
   <string name="open_guid_des">Перейдите в Настройки &gt; Разрешения &gt; Другие разрешения &gt; Карусель обоев и дайте приложению все необходимые разрешения.</string>
   <string name="open_sub_title">Выберите категории</string>
@@ -262,9 +264,9 @@
   <string name="platform_unavailable_wechat">Установите WeChat</string>
   <string name="platform_unavailable_wechatmoment">Установите WeChat</string>
   <string name="platform_unavailable_weibo">Установите Weibo</string>
-  <string name="prv_end">&lt;CDATA&gt;"Больше ничего нет."&lt;/CDATA&gt;</string>
-  <string name="prv_loading">&lt;CDATA&gt;Подождите&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="prv_nodata">&lt;CDATA&gt;Нет данных&lt;/CDATA&gt;</string>
+  <string name="prv_end">Больше ничего нет.</string>
+  <string name="prv_loading">Подождите…</string>
+  <string name="prv_nodata">Нет данных</string>
   <string name="psw_hint">Пароль</string>
   <string name="psw_sign_in">Войти с паролем</string>
   <string name="pull_to_refresh_pull_down_label">Потяните вниз для обновления</string>
@@ -277,7 +279,7 @@
   <string name="resource_apply">Применить</string>
   <string name="resource_no_network_text">Проверьте настройки сети и повторите попытку</string>
   <string name="rv_with_footer_empty">Пока ничего нет.</string>
-  <string name="rv_with_footer_loading">&lt;CDATA&gt;Подождите&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="rv_with_footer_loading">Подождите…</string>
   <string name="rv_with_footer_pull_load_more">Потяните вниз, чтобы увидеть больше</string>
   <string name="save_hdpicture_in_favor">Просмотр HD изображений в \"Избранном\"</string>
   <string name="save_picture_success">Успешно сохранено</string>
@@ -305,12 +307,12 @@
   <string name="sign_in_title">Войти с помощью Mi Аккаунт</string>
   <string name="sliding_on_unlock">Свайп вверх для разблокировки</string>
   <string name="sns_sign_in">Другой способ входа</string>
-  <string name="sst_auto_recommand_desc">Подпишитесь на любимые категории, чтобы ежедневно получать свежие изображения и истории на ваш экран блокировки.</string>
-  <string name="sst_auto_recommand_title">Получать рекомендации</string>
-  <string name="sst_change_wallpaper_desc">"Выбор экранов для применения обоев"</string>
+  <string name="sst_auto_recommand_desc">Подпишитесь на любимые категории, чтобы ежедневно получать свежие изображения и подборки на ваш экран блокировки.</string>
+  <string name="sst_auto_recommand_title">Подборки</string>
+  <string name="sst_change_wallpaper_desc">"Выбор экранов для применения"</string>
   <string name="sst_change_wallpaper_lock">Экран блокировки</string>
   <string name="sst_change_wallpaper_lock_desk">Экран блокировки и рабочий стол</string>
-  <string name="sst_change_wallpaper_title">Применить обои</string>
+  <string name="sst_change_wallpaper_title">Выбор экранов</string>
   <string name="sst_close_wallpaper">Выключить Карусель обоев</string>
   <string name="sst_cover_chg_enable_desc">Показывать Карусель обоев во время зарядки устройства</string>
   <string name="sst_cover_chg_enable_title">Показывать при зарядке</string>
@@ -318,9 +320,9 @@
   <string name="sst_custom_wallpaper_title">Пользовательское слайд-шоу</string>
   <string name="sst_custom_wallpaper_title2">Слайд-шоу</string>
   <string name="sst_disable_unopen">Бета-функции</string>
-  <string name="sst_effect_next_wallpaper">Установите новые обои для применения изменений</string>
-  <string name="sst_favor_desc">Просмотр избранных обоев</string>
-  <string name="sst_favor_title">Избранные</string>
+  <string name="sst_effect_next_wallpaper">Установите новые обои чтобы увидеть изменения</string>
+  <string name="sst_favor_desc">Просмотр избранного</string>
+  <string name="sst_favor_title">Избранное</string>
   <string name="sst_feedback_title">Отзыв</string>
   <string name="sst_grid_view_select_all">Выбрать все</string>
   <string name="sst_grid_view_unselect_all">Снять выделение</string>
@@ -328,37 +330,38 @@
   <string name="sst_lockscreen_show_headline_title">Название на экране блокировки</string>
   <string name="sst_logo_desc">Новые обои ежедневно</string>
   <string name="sst_mode_selection">Выбор режима</string>
-  <string name="sst_more_subscription">Дополнительные подписки</string>
-  <string name="sst_morning_greeting_desc">Получать свежее изображение каждое утро</string>
+  <string name="sst_more_subscription">Управление подписками</string>
+  <string name="sst_morning_greeting_desc">Загружать свежие изображения каждое утро</string>
   <string name="sst_morning_greeting_disable_toast">Эта функция будет доступна позже</string>
   <string name="sst_morning_greeting_title">Утренние приветствия</string>
-  <string name="sst_new_feature">Новые функции</string>
+  <string name="sst_new_feature">Новая функция</string>
   <string name="sst_no_favor_wallpaper_hint">Нет избранных обоев</string>
   <string name="sst_privacy_policy_title">Политика конфиденциальности</string>
   <string name="sst_prov_enable_desc">Регулярно получать новые обои на экран блокировки</string>
-  <string name="sst_prov_enable_title">Включите Карусель обоев</string>
-  <string name="sst_recomm">Рекомендации</string>
+  <string name="sst_prov_enable_title">Включить Карусель обоев</string>
+  <string name="sst_recomm">Подборки</string>
   <string name="sst_require_one_category_hint">Выберите хотя бы одну категорию</string>
-  <string name="sst_selected_tip">Текущие</string>
+  <string name="sst_selected_tip">Активно</string>
   <string name="sst_show_lockscreen_entry_desc">Показывать ярлык на экране блокировки</string>
   <string name="sst_show_lockscreen_entry_title">Ярлык на экране блокировки</string>
   <string name="sst_sliding_checkbox_checked">Вкл.</string>
   <string name="sst_sliding_checkbox_unchecked">Выкл.</string>
-  <string name="sst_sti_desc">Установите частоту обновления обоев</string>
+  <string name="sst_sti_desc">Установите частоту обновления</string>
   <string name="sst_sti_title">Частота обновления</string>
   <string name="sst_subscribe_title">Подписки</string>
   <string name="sst_subscrible_manager_title_bar_text">Управление подписками</string>
-  <string name="sst_subscripted">В подписках</string>
-  <string name="sst_switch_wallpaper_order_desc">Выберите порядок обновления обоев</string>
+  <string name="sst_subscripted">Подписки</string>
+  <string name="sst_switch_wallpaper_order_desc">Выберите порядок обновления</string>
   <string name="sst_switch_wallpaper_order_fixed">Последовательно</string>
   <string name="sst_switch_wallpaper_order_random">Случайно</string>
   <string name="sst_switch_wallpaper_order_title">Порядок обновления</string>
   <string name="sst_wallpaper_define_desc">Управление</string>
   <string name="sst_wallpaper_define_title">Мои слайд-шоу</string>
-  <string name="sst_wallpaper_history_des">Посмотреть недавние рекомендации</string>
-  <string name="sst_wallpaper_history_title">История</string>
-  <string name="sst_wifi_only_desc">Отключить и обновлять обои только через Wi-Fi</string>
-  <string name="sst_wifi_only_title">Обновление обоев через мобильный интернет</string>
+  <string name="sst_wallpaper_history_des">Просмотр подборок</string>
+  <string name="sst_wallpaper_history_title">Подборки</string>
+  <string name="sst_wifi_only_desc">Не использовать мобильный интернет, 
+обновлять только по Wi-Fi</string>
+  <string name="sst_wifi_only_title">Обновление только по Wi-Fi</string>
   <string name="subscribe_item_checked">В подписках</string>
   <string name="subscribe_item_unchecked">Без подписки</string>
   <string name="summary">"Для просмотра онлайн контента необходимо принять нашу &lt;a href='%s'&gt;Политику конфиденциальности&lt;/a&gt; В случае отказа будут доступны только локальные обои."</string>
@@ -381,7 +384,7 @@
   <string name="toast_ad_down_tip2">Загрузка %s…</string>
   <string name="toast_load_hd_fail">"Не удалось загрузить исходное изображение"</string>
   <string name="toast_neterror_tip">Ошибка сети</string>
-  <string name="top_search_tip">Поиск избранных категорий</string>
+  <string name="top_search_tip">Поиск по категориям</string>
   <string name="uninstall_introducation_text_desc">Карусель обоев загружает новые качественные изображения прямо на экран блокировки. Убедитесь, что вы можете обойтись без его функций, прежде чем удалить приложение.</string>
   <string name="uninstall_introduction_text_title">О Карусели обоев</string>
   <string name="uninstall_warning_text_desc">"Без Карусели обоев вы не сможете регулярно получать новые обои экрана блокировки. Однако вы можете позже снова загрузить и установить приложение. Удалить Карусель обоев?"</string>
@@ -397,6 +400,6 @@
   <string name="wechat_state"/>
   <string name="weibo_application_id"/>
   <string name="weibo_redirect_uri"/>
-  <string name="wlan_download">Обновление только через Wi-Fi</string>
-  <string name="wlan_download_cn">Обновление только через Wi-Fi</string>
+  <string name="wlan_download">Обновление только по Wi-Fi</string>
+  <string name="wlan_download_cn">Обновление только по Wi-Fi</string>
 </resources>
