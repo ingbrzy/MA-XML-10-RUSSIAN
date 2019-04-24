@@ -1399,7 +1399,7 @@
     <string name="usb_mtp_launch_notification_description">Нажмите, чтобы просмотреть файлы</string>
     <string name="usb_mtp_launch_notification_title">Подключено к %1$s</string>
     <string name="usb_mtp_notification_title">Передача файлов через USB</string>
-    <string name="usb_notification_message">Нажмите, чтобы показать дополнительные параметры.</string>
+    <string name="usb_notification_message">Нажмите, чтобы посмотреть дополнительные параметры.</string>
     <string name="usb_ptp_notification_title">Передача фото через USB</string>
     <string name="usb_supplying_notification_title">Подача питания на подключенное устройство через USB</string>
     <string name="usb_unsupported_audio_accessory_message">Подсоединенное устройство несовместимо с этим телефоном. Нажмите, чтобы узнать подробности.</string>
