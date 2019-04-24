@@ -2491,7 +2491,7 @@
     <string name="layout_size_small_text">Очень мелкий</string>
     <string name="led_colors_summary">Уведомления</string>
     <string name="led_frequence_summary">Задать интервал</string>
-    <string name="led_pulse_summary">Индикатор будет мерцать при получении новых уведомлений</string>
+    <string name="led_pulse_summary">Индикатор будет мигать при получении новых уведомлений</string>
     <string name="led_settings">Световой индикатор</string>
     <string name="legal_information">Юридическая информация</string>
     <string name="legal_workday">По рабочим дням</string>
