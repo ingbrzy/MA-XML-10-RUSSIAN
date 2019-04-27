@@ -1474,6 +1474,9 @@
     <string name="date_time_set_timezone_title">Часовой пояс</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="day_of_week">Повтор</string>
+    <string name="dc_light_dialog_summary">Качество изображения может ухудшиться при включенном режиме антимерцания. Все равно включить?</string>
+    <string name="dc_light_summary">Затемнение по постоянному току для уменьшения нагрузки на глаза</string>
+    <string name="dc_light_title">Режим антимерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -2717,7 +2720,7 @@
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Войти</string>
     <string name="lockscreen_magazine">Карусель обоев</string>
-    <string name="lockscreen_magazine_summary">Сменные обои высокого качества</string>
+    <string name="lockscreen_magazine_summary">Карусель обоев высокого качества</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
@@ -3924,8 +3927,8 @@ UT-интерфейс: %5$s"</string>
 "<li>Мобильный Интернет</li>"
 "<li>Bluetooth</li></string>
     <string name="reset_network_final_button_text">Да</string>
-    <string name="reset_network_final_desc">Сброшенные настройки нельзя будет восстановить. Продолжить?</string>
-    <string name="reset_network_title">Сбросить сетевые настройки</string>
+    <string name="reset_network_final_desc">Сбросить все настройки сети? Это может занять несколько секунд. Вы не сможете отменить это действие.</string>
+    <string name="reset_network_title">Сброс настроек сети</string>
     <string name="reset_network_wifi">Wi‑Fi</string>
     <string name="reset_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="reset_second_space_passwd_cancel">Отмена</string>
@@ -6080,8 +6083,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_priority_type_title">Задать приоритет AP вручную</string>
     <string name="wifi_property">Свойства Wi-Fi</string>
     <string name="wifi_protection_on">Вкл.</string>
-    <string name="wifi_protection_settings_title">"Функция Wi-Fi Probe Protection"</string>
-    <string name="wifi_protection_tip">"MIUI автоматически включит функцию Wi-Fi Probe Protection при использовании Wi-Fi. Когда телефон сканирует Wi-Fi сети, будет генерироваться случайный MAC-адрес при запросах Wi-Fi Probe для предотвращения отслеживания телефона по его реальному MAC-адресу."</string>
+    <string name="wifi_protection_settings_title">"Защита от запросов Wi-Fi probe"</string>
+    <string name="wifi_protection_tip">"MIUI защитит ваши личные данные от запросов Wi-Fi probe, поступающих со случайных MAC-адресов, и анализаторов этих запросов, когда ваше устройство ищет Wi-Fi сети."</string>
     <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Сохранено</string>
