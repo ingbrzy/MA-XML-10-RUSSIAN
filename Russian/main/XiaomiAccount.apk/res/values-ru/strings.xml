@@ -65,7 +65,7 @@ ID вашего аккаунта: %s"</string>
   <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
   <string name="activity_not_found_notice">Приложение не найдено</string>
   <string name="add_account">Подключить аккаунт</string>
-  <string name="agreement_and_privacy">Пользовательское соглашение и Политика конфиденциальности</string>
+  <string name="agreement_and_privacy">Политика конфиденциальности</string>
   <string name="app_name">Mi Аккаунт</string>
   <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
   <string name="authorize_title">Авторизация</string>
@@ -447,7 +447,7 @@ ID:%s
   <string name="restart_action">Начать сначала</string>
   <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
   <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
-  <string name="scan_barcode">Отсканируйте QR-код</string>
+  <string name="scan_barcode">Вход с помощью QR-кода</string>
   <string name="scan_barcode_title">Для входа в Mi аккаунт отсканируйте QR-код</string>
   <string name="search_account_security">Безопасность аккаунта</string>
   <string name="search_account_security_desc">Настройки аккаунта</string>
