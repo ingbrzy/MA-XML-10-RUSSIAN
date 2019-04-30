@@ -1749,7 +1749,7 @@
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_mode_auto_exit_summary">Автоматическое отключение энергосбережения при заряде 60% и более</string>
     <string name="power_save_mode_auto_exit_title">Автоматическое отключение</string>
-    <string name="power_save_mode_close_warn_text">Энергосбережение ограничивает фоновую активность и синхронизацию. Если вы решите использовать ее при заряженной батарее, некоторые функции могут работать неправильно. Оставить Энергосбережение включенным?</string>
+    <string name="power_save_mode_close_warn_text">Энергосбережение ограничивает фоновую активность и синхронизацию. Если вы решите использовать ее при заряженной батарее, некоторые функции могут работать неправильно. Оставить энергосбережение включенным?</string>
     <string name="power_save_mode_close_warn_title">Энергосбережение</string>
     <string name="power_save_mode_enable">Включение энергосбережения</string>
     <string name="power_save_mode_end_time">Окончание</string>
@@ -1767,10 +1767,14 @@
     <string name="power_save_on_time_option_title">Выбор режима</string>
     <string name="power_save_on_time_start_time_summary">Начало</string>
     <string name="power_save_on_time_start_time_summary_na">Начало</string>
+    <string name="power_save_ps_clean">Очистить кэш при блокировке устройства</string>
+    <string name="power_save_ps_close_setting">Выключить фоновые сервисы (синхронизация, GPS) для энергосбережения</string>
+    <string name="power_save_ps_freeze">Заморозить приложения в фоновом режиме</string>
+    <string name="power_save_ps_limit">Ограничить активность системных приложений</string>
     <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_title">Расписание</string>
-    <string name="power_save_started_summary_text">Включено Энергосбережение. Это снижает фоновую активность приложений, останавливает синхронизацию и сводит к минимуму системные анимации.</string>
-    <string name="power_save_summary_text">Включение Энергосбережения для снижения фоновой активности приложений, остановки синхронизации и уменьшения системной анимации</string>
+    <string name="power_save_started_summary_text">Включено энергосбережение. Это снижает фоновую активность приложений, останавливает синхронизацию и сводит к минимуму системные анимации.</string>
+    <string name="power_save_summary_text">Включение энергосбережения для снижения фоновой активности приложений, остановки синхронизации и уменьшения системной анимации</string>
     <string name="power_save_title_text">Энергосбережение</string>
     <string name="power_screen">Экран</string>
     <string name="power_settings_category_title">Индикатор батареи</string>
