@@ -307,9 +307,14 @@
     <string name="battery_info_status_full">Заряжена</string>
     <string name="battery_info_status_not_charging">Подключено, не заряжается</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
+    <string name="battery_low_button_not_open_power_save">Не сейчас</string>
+    <string name="battery_low_button_open_power_save">Включить</string>
     <string name="battery_low_percent_format">Осталось %d%%</string>
+    <string name="battery_low_percent_format_save_mode_closed">Осталось менее %d%% заряда. Зарядите устройство.</string>
+    <string name="battery_low_percent_format_save_mode_open">Осталось менее %d%% заряда. Включите Энергосбережение.</string>
     <string name="battery_low_percent_format_saver_started">Осталось %s. Включена экономия батареи.</string>
     <string name="battery_low_title">Батарея разряжена</string>
+    <string name="battery_low_title_power_save">Энергосбережение</string>
     <string name="battery_low_why">Настройки</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Использование батареи</string>
@@ -543,6 +548,7 @@
     <string name="dlg_summary_nfc">Отключить NFC</string>
     <string name="dlg_summary_title">Максимальная экономия останавливает всю фоновую активность приложения после выхода из него и возврата на рабочий стол. Если вы хотите, чтобы приложение работало в фоновом режиме, добавьте его в список исключений.</string>
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключен</string>
+    <string name="dnd_notification_warnings_title">Звонки и уведомления будут без звука, пока включен режим \"Не беспокоить\"</string>
     <string name="do_disclosure_generic">Это устройство управляется вашей организацией</string>
     <string name="do_disclosure_with_name">Это устройство управляется %s</string>
     <string name="do_not_silence">Показывать со звуком</string>
@@ -620,6 +626,7 @@
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать их для разблокировки устройства.</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
     <string name="face_data_manage_unlock_msg">Разблокировать устройство с помощью данных лица</string>
     <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
@@ -636,7 +643,8 @@
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
     <string name="face_unlock_fail">"Не удалось распознать"</string>
-    <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите иконку для повторной попытки."</string>
+    <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите выше, чтобы повторить попытку"</string>
+    <string name="face_unlock_fail_retry_global">Нажмите выше, чтобы использовать разблокировку по лицу</string>
     <string name="face_unlock_identify_error">Ошибка распознавания</string>
     <string name="face_unlock_not_found">Не удалось распознать</string>
     <string name="face_unlock_offset_bottom">Немного опустите телефон</string>
@@ -1103,6 +1111,7 @@
     <string name="notification_channel_controls_closed_accessibility">Настройки уведомлений для приложения %1$s закрыты</string>
     <string name="notification_channel_controls_opened_accessibility">Настройки уведомлений для приложения %1$s открыты</string>
     <string name="notification_channel_disabled">Вы больше не будете получать эти уведомления.</string>
+    <string name="notification_channel_dnd">Не беспокоить</string>
     <string name="notification_channel_general">Сообщения</string>
     <string name="notification_channel_location">Местоположение</string>
     <string name="notification_channel_screenbutton">Кнопки</string>
@@ -1229,6 +1238,16 @@
     <string name="power_remaining_charging_duration_only">%1$s до окончания</string>
     <string name="power_remaining_duration_only">Заряда хватит примерно на %1$s</string>
     <string name="power_remaining_duration_only_short">Заряда хватит на %1$s</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">Телефон может скоро отключиться</string>
+    <string name="power_remaining_duration_shutdown_imminent">Телефон может скоро отключитьс (%1$s)</string>
+    <string name="power_remaining_less_than_duration">Осталось менее %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Осталось менее %1$s</string>
+    <string name="power_remaining_more_than_subtext">Осталось более %1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">осталось более %1$s</string>
+    <string name="power_save_ps_clean">Очистить кэш при блокировке устройства</string>
+    <string name="power_save_ps_close_setting">Выключить фоновые сервисы (синхронизация, GPS) для энергосбережения</string>
+    <string name="power_save_ps_freeze">Заморозить приложения в фоновом режиме</string>
+    <string name="power_save_ps_limit">Ограничить активность системных приложений</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
     <string name="prompt_danger">Угроза</string>
     <string name="prompt_detecting">Обнаружение</string>
