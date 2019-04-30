@@ -110,13 +110,6 @@
         <item>5</item>
         <item>Чемпионат Франции</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
-        <item>трет.</item>
-        <item>четверт.</item>
-        <item>последн.</item>
-    </string-array>
     <string-array name="pisces_info">
         <item>рыбы</item>
         <item>Рыбы</item>
@@ -216,6 +209,43 @@
         <item>неделя</item>
         <item>месяц</item>
         <item>год</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>первый понедельник</item>
+        <item>первый вторник</item>
+        <item>первая среда</item>
+        <item>первый четверг</item>
+        <item>первая пятница</item>
+        <item>первая суббота</item>
+        <item>первое воскресенье</item>
+        <item>второй понедельник</item>
+        <item>второй вторник</item>
+        <item>вторая среда</item>
+        <item>второй четверг</item>
+        <item>вторая пятница</item>
+        <item>вторая суббота</item>
+        <item>второе воскресенье</item>
+        <item>третий понедельник</item>
+        <item>третий вторник</item>
+        <item>третья среда</item>
+        <item>третий четверг</item>
+        <item>третья пятница</item>
+        <item>третья суббота</item>
+        <item>третье воскресенье</item>
+        <item>четвертый понедельник</item>
+        <item>четвертый вторник</item>
+        <item>четвертая среда</item>
+        <item>четвертый четверг</item>
+        <item>четвертая пятница</item>
+        <item>четвертая суббота</item>
+        <item>четвертое воскресенье</item>
+        <item>последний понедельник</item>
+        <item>последний вторник</item>
+        <item>последняя среда</item>
+        <item>последний четверг</item>
+        <item>последняя пятница</item>
+        <item>последняя суббота</item>
+        <item>последнее воскресенье</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Нет ответа</item>
