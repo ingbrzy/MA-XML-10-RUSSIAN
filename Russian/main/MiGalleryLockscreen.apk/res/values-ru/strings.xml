@@ -107,7 +107,7 @@
   <string name="cw_my_fav">Избранное</string>
   <string name="cw_permission_tip">Разрешите Карусели обоев доступ к памяти в Разрешениях приложений.</string>
   <string name="cw_wallpaper_empty_dlg_btn">Понятно</string>
-  <string name="cw_wallpaper_empty_dlg_content">"Вы не добавили ни одного изображения в слайд-шоу. Будет сделан переход к Подборкам."</string>
+  <string name="cw_wallpaper_empty_dlg_content">"Ни одно изображение не добавлено в слайд-шоу. Будет сделан возврат к Историям."</string>
   <string name="cw_wallpaper_empty_dlg_title">Изображения не добавлены</string>
   <string name="cw_wallpaper_manager">Управление обоями</string>
   <string name="day">Каждый день</string>
