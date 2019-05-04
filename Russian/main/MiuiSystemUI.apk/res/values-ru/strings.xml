@@ -643,8 +643,8 @@
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
     <string name="face_unlock_fail">"Не удалось распознать"</string>
-    <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите выше, чтобы повторить попытку"</string>
-    <string name="face_unlock_fail_retry_global">Нажмите выше, чтобы использовать разблокировку по лицу</string>
+    <string name="face_unlock_fail_retry">"Не удалось распознать. Нажмите выше для повтора"</string>
+    <string name="face_unlock_fail_retry_global">Нажмите выше для разблокировки по лицу</string>
     <string name="face_unlock_identify_error">Ошибка распознавания</string>
     <string name="face_unlock_not_found">Не удалось распознать</string>
     <string name="face_unlock_offset_bottom">Немного опустите телефон</string>
