@@ -198,7 +198,7 @@
   <string name="look_str">Популярные</string>
   <string name="main_fragment_title_discover">Тематические</string>
   <string name="main_fragment_title_home">Рекомендуемые</string>
-  <string name="main_fragment_title_search">Лучшие</string>
+  <string name="main_fragment_title_search">Популярные</string>
   <string name="main_fragment_title_user">Настройки</string>
   <string name="minutes_15">Каждые 15 минут</string>
   <string name="mode_des">Карусель обоев показывает сейчас Истории. Для просмотра пользовательских изображений переключитесь на слайд-шоу.</string>
@@ -384,7 +384,7 @@
   <string name="toast_ad_down_tip2">Загрузка %s…</string>
   <string name="toast_load_hd_fail">"Не удалось загрузить исходное изображение"</string>
   <string name="toast_neterror_tip">Ошибка сети</string>
-  <string name="top_search_tip">Поиск по категориям</string>
+  <string name="top_search_tip">Поиск</string>
   <string name="uninstall_introducation_text_desc">Карусель обоев загружает новые качественные изображения прямо на экран блокировки. Убедитесь, что вы можете обойтись без его функций, прежде чем удалить приложение.</string>
   <string name="uninstall_introduction_text_title">О Карусели обоев</string>
   <string name="uninstall_warning_text_desc">"Без Карусели обоев вы не сможете регулярно получать новые обои на экран блокировки. Однако вы можете позже снова загрузить и установить приложение. Удалить Карусель обоев?"</string>
