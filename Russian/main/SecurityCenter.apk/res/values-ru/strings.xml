@@ -1768,7 +1768,7 @@
     <string name="power_save_on_time_start_time_summary">Начало</string>
     <string name="power_save_on_time_start_time_summary_na">Начало</string>
     <string name="power_save_ps_clean">Очистить кэш при блокировке устройства</string>
-    <string name="power_save_ps_close_setting">Выключить фоновые сервисы (синхронизация, GPS) для энергосбережения</string>
+    <string name="power_save_ps_close_setting">Отключить фоновые сервисы (синхронизация, GPS)</string>
     <string name="power_save_ps_freeze">Заморозить приложения в фоновом режиме</string>
     <string name="power_save_ps_limit">Ограничить активность системных приложений</string>
     <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
