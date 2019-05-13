@@ -121,6 +121,7 @@
     <string name="error_retry_later">Действие не выполнено. Подождите немного и повторите попытку…</string>
     <string name="error_unknown">Произошла ошибка</string>
     <string name="get_device_id_error">Не удалось получить ID устройства</string>
+    <string name="hint_restore_cross_space">Элементы рабочего стола могут отображаться некорректно при перемещении объектов между пространствами.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Другой рабочий стол</string>
     <string name="home_restore_error">Не удалось восстановить рабочий стол</string>
@@ -196,6 +197,7 @@
     <string name="restore_task_in_process">Восстановление…</string>
     <string name="restore_unfinished">Идет восстановление, повторите попытку позже</string>
     <string name="retry">Повторить</string>
+    <string name="selected">Выбрано</string>
     <string name="self_device_main_space">Первое пространство этого устройства</string>
     <string name="self_device_second_space">Второе пространство этого устройства</string>
     <string name="settings_backup">Настройки системы</string>
@@ -209,6 +211,7 @@
     <string name="total_space">Всего места: %s</string>
     <string name="try_again">Повторить</string>
     <string name="try_continue">Нажмите для продолжения</string>
+    <string name="unselected">Не выбрано</string>
     <string name="unsupported_home">Обновите MIUI до последней версии.</string>
     <string name="wait_icon_download">Загрузка значков приложений</string>
 </resources>
