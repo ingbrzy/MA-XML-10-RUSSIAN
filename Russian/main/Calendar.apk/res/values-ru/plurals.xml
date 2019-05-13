@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">За %d дней</item>
-        <item quantity="one">За %d день</item>
-        <item quantity="few">За %d дня</item>
-        <item quantity="many">За %d дней</item>
+        <item quantity="other">%d дней до мероприятия</item>
+        <item quantity="one">%d день до мероприятия</item>
+        <item quantity="few">%d дня до мероприятия</item>
+        <item quantity="many">%d дней до мероприятия</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Через %1$d дней в %2$s</item>
@@ -13,28 +13,28 @@
         <item quantity="many">Через %1$d дней в %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">За %1$d дней в %2$s</item>
-        <item quantity="one">За %1$d день в %2$s</item>
-        <item quantity="few">За %1$d дня в %2$s</item>
-        <item quantity="many">За %1$d дней в %2$s</item>
+        <item quantity="other">%1$d дней до мероприятия в %2$s</item>
+        <item quantity="one">%1$d день до мероприятия в %2$s</item>
+        <item quantity="few">%1$d дня до мероприятия в %2$s</item>
+        <item quantity="many">%1$d дней до мероприятия в %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">За %d часов</item>
-        <item quantity="one">За %d час</item>
-        <item quantity="few">За %d часа</item>
-        <item quantity="many">За %d часов</item>
+        <item quantity="other">%d часов до мероприятия</item>
+        <item quantity="one">%d час до мероприятия</item>
+        <item quantity="few">%d часа до мероприятия</item>
+        <item quantity="many">%d часов до мероприятия</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">За %d минут</item>
-        <item quantity="one">За %d минуту</item>
-        <item quantity="few">За %d минуты</item>
-        <item quantity="many">За %d минут</item>
+        <item quantity="other">%d минут до мероприятия</item>
+        <item quantity="one">%d минута до мероприятия</item>
+        <item quantity="few">%d минуты до мероприятия</item>
+        <item quantity="many">%d минут до мероприятия</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">За %d недель</item>
-        <item quantity="one">За %d неделю</item>
-        <item quantity="few">За %d недели</item>
-        <item quantity="many">За %d недель</item>
+        <item quantity="other">%d недель до мероприятия</item>
+        <item quantity="one">%d неделя до мероприятия</item>
+        <item quantity="few">%d недели до мероприятия</item>
+        <item quantity="many">%d недель до мероприятия</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s дней</item>
@@ -125,6 +125,24 @@
         <item quantity="one">+1</item>
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" дней"</item>
+        <item quantity="one">" день"</item>
+        <item quantity="few">" дня"</item>
+        <item quantity="many">" дней"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" часов"</item>
+        <item quantity="one">" час"</item>
+        <item quantity="few">" часа"</item>
+        <item quantity="many">" часов"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" минут"</item>
+        <item quantity="one">" минута"</item>
+        <item quantity="few">" минуты"</item>
+        <item quantity="many">" минут"</item>
     </plurals>
     <plurals name="reminder_later_toast">
         <item quantity="other">Следующее напоминание через %1$d минут</item>
