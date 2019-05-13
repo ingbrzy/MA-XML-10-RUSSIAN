@@ -9,10 +9,19 @@
         <item>Мальчик</item>
         <item>Девочка</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Резервное копирование фотографий</item>
+        <item>Синхронизация фотографий с Mi Cloud</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
         <item>Ритмы жизни</item>
         <item>Воспоминания о выходных</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Перемещение</item>
+        <item>Копирование</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Январь</item>
