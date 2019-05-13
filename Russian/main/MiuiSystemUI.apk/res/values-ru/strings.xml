@@ -639,8 +639,8 @@
     <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Распознавание по лицу при включенном экране и разблокировка (например, при поступлении уведомлений). Возможен более быстрый разряд батареи.</string>
-    <string name="face_unlock_by_notification_screen_on_title">Распознавание при включенном экране</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при поступлении уведомлений. Возможен более быстрый разряд батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Разблокировка при включении экрана</string>
     <string name="face_unlock_check_failed">Не удалось вас узнать</string>
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
@@ -672,11 +672,11 @@
     <string name="face_unlock_success_show_message_dialog_negative_btn">Нет, спасибо</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешить</string>
     <string name="face_unlock_success_show_message_dialog_title">Уведомления на экране блокировки</string>
-    <string name="face_unlock_success_show_message_msg">Показывать на заблокированном устройстве только источник уведомлений, добавлять содержимое уведомлений после проверки данных лица</string>
+    <string name="face_unlock_success_show_message_msg">Показывать на заблокированном устройстве только источник уведомлений и добавлять содержимое уведомлений после проверки данных лица</string>
     <string name="face_unlock_success_show_message_title">Отображение содержимого уведомлений</string>
     <string name="face_unlock_success_show_message_toast">Уведомления будут отображаться на экране блокировки</string>
-    <string name="face_unlock_success_stay_screen_msg">Остаться на экране блокировки после распознавания. Для перехода на рабочий стол используйте свайп вверх.</string>
-    <string name="face_unlock_success_stay_screen_title">Поведение после разблокировки</string>
+    <string name="face_unlock_success_stay_screen_msg">Остаться на экране блокировки после распознавания по лицу. Для перехода на рабочий стол используется свайп вверх.</string>
+    <string name="face_unlock_success_stay_screen_title">Остаться на экране блокировки</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
