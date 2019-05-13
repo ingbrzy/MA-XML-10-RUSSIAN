@@ -160,8 +160,10 @@
     <string name="edit_event_confirm_message">Отменить изменения?</string>
     <string name="edit_event_countdown_name_empty_hint">Введите название события</string>
     <string name="edit_event_countdown_name_hint">Событие</string>
+    <string name="edit_event_custom_reminder_time_dup">Пользовательское напоминание: %1$s</string>
+    <string name="edit_event_custom_reminder_title">Пользовательское напоминание</string>
     <string name="edit_event_from_label">Начало</string>
-    <string name="edit_event_input_year">Указать год</string>
+    <string name="edit_event_input_year">Укажите год</string>
     <string name="edit_event_label">Подробности</string>
     <string name="edit_event_no_reminder_value">Не напоминать</string>
     <string name="edit_event_reminder_3_days_before">Напомнить за 3 дня</string>
@@ -199,6 +201,7 @@
     <string name="event_info_when">Когда</string>
     <string name="event_info_where">Место</string>
     <string name="event_reminder_allday_day_zero">В тот же день в %2$s</string>
+    <string name="event_reminder_custom">Выбрать</string>
     <string name="event_reminder_value_zero">В момент начала</string>
     <string name="event_title">Название</string>
     <string name="event_view">Просмотреть мероприятие</string>
@@ -294,8 +297,9 @@
     <string name="no_storage">Недостаточно памяти</string>
     <string name="no_title_label">(Нет заголовка)</string>
     <string name="no_visiable_calendar_message">Необходимо добавить аккаунт календаря. Нажмите \"Добавить аккаунт\" для продолжения.</string>
-    <string name="no_visiable_calendar_select_account">Добавление аккаунта</string>
-    <string name="no_visiable_calendar_title">Добавить аккаунт</string>
+    <string name="no_visiable_calendar_message_only_for_xiaomi_account">Необходимо добавить аккаунт календаря. Нажмите \"Добавить аккаунт\" для продолжения.</string>
+    <string name="no_visiable_calendar_select_account">Добавить</string>
+    <string name="no_visiable_calendar_title">Добавление аккаунта</string>
     <string name="not_synced">не синхронизирован</string>
     <string name="notification_channel_name">Напоминания Календаря</string>
     <string name="notification_open_setting_button_exit">Нет, спасибо</string>
