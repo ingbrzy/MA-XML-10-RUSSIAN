@@ -785,6 +785,11 @@
         <item>10 мин.</item>
         <item>30 мин.</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом)</item>
+    </string-array>
     <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
