@@ -173,6 +173,8 @@
   <string name="liked">Добавлено в избранное</string>
   <string name="lks_left_net_deny">Сетевое подключение ограничено</string>
   <string name="lks_left_net_error">"Не удалось подключиться к сети."</string>
+  <string name="lks_left_top_notice">Нажмите здесь, чтобы вернуться к началу</string>
+  <string name="lks_left_top_notice_refresh">Нажмите для обновления</string>
   <string name="lks_logo_desc2">Новые обои ежедневно</string>
   <string name="lks_subscription_toast">Обои успешно изменены</string>
   <string name="llks_pop_btm_des">Начните день с улыбки</string>
@@ -184,6 +186,12 @@
   <string name="llks_pop_top_des_backup">Получать ежедневно</string>
   <string name="llks_pop_top_title">Новые обои</string>
   <string name="llks_pop_top_title_backup">Свежие изображения</string>
+  <string name="llks_setting_view_title">Дополнительный экран</string>
+  <string name="llks_simple_mode">Облегченный режим</string>
+  <string name="llks_simple_mode_desc">Упрощенная компоновка и дополнительные ярлыки</string>
+  <string name="llks_standard_mode">По умолчанию</string>
+  <string name="llks_standard_mode_desc">Обои, истории и ежедневные рекомендации</string>
+  <string name="llks_tools_gallery_name">Карусель обоев</string>
   <string name="load_hdpicture_complete">Изображение успешно загружено</string>
   <string name="loading">Подождите…</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
@@ -361,6 +369,8 @@
   <string name="sst_wallpaper_history_title">Истории</string>
   <string name="sst_wifi_only_desc">Не использовать мобильный интернет, 
 обновлять только по Wi-Fi</string>
+  <string name="subscribe_apply_wp">Обои для экрана блокировки успешно применены</string>
+  <string name="subscribe_dlg_content">Подпишитесь, чтобы ежедневно получать свежие обои на экран блокировки и утренние приветствия.</string>
   <string name="sst_wifi_only_title">Обновление только по Wi-Fi</string>
   <string name="subscribe_item_checked">В подписках</string>
   <string name="subscribe_item_unchecked">Без подписки</string>
@@ -369,13 +379,17 @@
   <string name="summary_international">"Используя эту функцию, вы соглашаетесь с нашими &lt;a href ='%1$s'&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href='%2$s'&gt;Политикой конфиденциальности&lt;/a&gt;. Эта функция требует подключение к интернету для нормальной работы.​"</string>
   <string name="tab_user_title_bar_text">Настройки</string>
   <string name="theme_apply_failured">"Не удалось применить, повторите попытку позже"</string>
+  <string name="theme_apply_lockscreen_success">Успешно применено</string>
   <string name="theme_apply_success">Успешно применено</string>
   <string name="theme_applying">Применение…</string>
+  <string name="theme_close_maml">Карусель обоев заменит обои экрана блокировки.</string>
   <string name="theme_des">Примените тему по умолчанию и снова включите Карусель обоев.</string>
   <string name="theme_des_lock_style">Примените экран блокировки по умолчанию и снова включите Карусель обоев.</string>
+  <string name="theme_des_maml">"Другие компоненты текущей темы затронуты не будут. Тема будет обновлена для применения изменений."</string>
   <string name="theme_ok">Настройки</string>
   <string name="theme_title">Переключиться на тему по умолчанию</string>
   <string name="theme_title_lock_style">Переключиться на экран блокировки по умолчанию</string>
+  <string name="theme_title_subscribe">Подписаться на Карусель обоев</string>
   <string name="ticket_hint">Код подтверждения</string>
   <string name="ticket_invalid">Введен некорректный код</string>
   <string name="ticket_sign_in">Вход через SMS</string>
@@ -384,6 +398,7 @@
   <string name="toast_ad_down_tip2">Загрузка %s…</string>
   <string name="toast_load_hd_fail">"Не удалось загрузить исходное изображение"</string>
   <string name="toast_neterror_tip">Ошибка сети</string>
+  <string name="toast_update_no_more_newest_feeds">Ничего нового пока нет</string>
   <string name="top_search_tip">Поиск</string>
   <string name="uninstall_introducation_text_desc">Карусель обоев загружает новые качественные изображения прямо на экран блокировки. Убедитесь, что вы можете обойтись без его функций, прежде чем удалить приложение.</string>
   <string name="uninstall_introduction_text_title">О Карусели обоев</string>
