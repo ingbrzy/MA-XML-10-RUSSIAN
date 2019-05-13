@@ -18,11 +18,6 @@
         <item>Ритмы жизни</item>
         <item>Воспоминания о выходных</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Перемещение</item>
-        <item>Копирование</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Январь</item>
         <item>Февраль</item>
