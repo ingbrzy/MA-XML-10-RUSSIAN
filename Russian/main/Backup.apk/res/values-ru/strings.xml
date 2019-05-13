@@ -289,6 +289,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="perm_read_phone_state">Чтение статуса телефона</string>
   <string name="perm_read_sms">Чтение SMS</string>
   <string name="perm_storage">Чтение и запись на внешний накопитель</string>
+  <string name="phone_title">Настройки телефона</string>
   <string name="platform_chooser_item_android_mi">Mi Phone</string>
   <string name="platform_chooser_item_android_others">Другие марки</string>
   <string name="platform_chooser_item_ios">Устройство iOS</string>
