@@ -153,7 +153,7 @@
     <plurals name="repeat_custom_prompt">
         <item quantity="other"> %1$s: %2$s</item>
         <item quantity="one"> %1$s: %2$s</item>
-        <item quantity="two"> %1$s: %2$s</item>
+        <item quantity="few"> %1$s: %2$s</item>
         <item quantity="many"> %1$s: %2$s</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
