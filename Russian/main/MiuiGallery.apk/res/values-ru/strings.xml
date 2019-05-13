@@ -687,8 +687,9 @@
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
     <string name="month_view_tip_button_text">Понятно</string>
-    <string name="month_view_tip_sub_title">Сделайте щипок на экране чтобы переключиться на просмотр месяца</string>
-    <string name="month_view_tip_title">Просмотр месяца</string>
+    <string name="month_view_tip_sub_title">"Сделайте щипок на экране, чтобы переключиться 
+на просмотр по месяцам"</string>
+    <string name="month_view_tip_title">Просмотр по месяцам</string>
     <string name="more">Еще</string>
     <string name="more_album_hint">, и т.д.</string>
     <string name="more_face">Еще похожие люди</string>
