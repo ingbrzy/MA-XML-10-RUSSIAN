@@ -43,9 +43,10 @@
     <string name="day">день</string>
     <string name="degDesc">Угол</string>
     <string name="deleteDesc">удалить</string>
-    <string name="description_content">Помимо основных функций, Калькулятор также работает как многофункциональный конвертер, ипотечный и налоговый калькулятор. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
+    <string name="description_content">Помимо основных функций, Калькулятор содержит многоцелевой конвертер, ипотечный и налоговый калькулятор. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="description_title">О приложении</string>
     <string name="devided_by_zero_reminder_message">Разделить на ноль нельзя</string>
+    <string name="dialog_privacy_content">Помимо основных функций, Калькулятор содержит научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к Интернету. Перед использованием вы должны принять %1$s и %2$s.</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
