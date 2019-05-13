@@ -6,6 +6,18 @@
         <item quantity="few">%d истории на эту тему</item>
         <item quantity="many">%d историй на эту тему</item>
     </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d объектов</item>
+        <item quantity="one">%d объект</item>
+        <item quantity="few">%d объекта</item>
+        <item quantity="many">%d объектов</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d устройств</item>
+        <item quantity="one">%d устройство</item>
+        <item quantity="few">%d устройства</item>
+        <item quantity="many">%d устройств</item>
+    </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s подписчиков</item>
         <item quantity="one">%1$s подписчик</item>
