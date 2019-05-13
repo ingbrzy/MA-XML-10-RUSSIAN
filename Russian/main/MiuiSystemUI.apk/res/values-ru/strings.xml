@@ -438,6 +438,9 @@
     <string name="category_work">Работа</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
+    <string name="choose_clock_title_left_top">Слева</string>
+    <string name="choose_clock_title_middle">По центру</string>
+    <string name="choose_clock_title_vertical">Вертикально</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="clear_adb_keys">Отзыв разрешений на отладку по USB</string>
     <string name="clear_all_notifications_text">Очистить все</string>
@@ -548,7 +551,7 @@
     <string name="dlg_summary_nfc">Отключить NFC</string>
     <string name="dlg_summary_title">Максимальная экономия останавливает всю фоновую активность приложения после выхода из него и возврата на рабочий стол. Если вы хотите, чтобы приложение работало в фоновом режиме, добавьте его в список исключений.</string>
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключен</string>
-    <string name="dnd_notification_warnings_title">Звонки и уведомления будут без звука, пока включен режим \"Не беспокоить\"</string>
+    <string name="dnd_notification_warnings_title">Режим \"Не беспокоить\" включен. Звуки звонков и уведомлений отключены.</string>
     <string name="do_disclosure_generic">Это устройство управляется вашей организацией</string>
     <string name="do_disclosure_with_name">Это устройство управляется %s</string>
     <string name="do_not_silence">Показывать со звуком</string>
@@ -627,7 +630,7 @@
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать их для разблокировки устройства.</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
     <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
-    <string name="face_data_manage_unlock_msg">Разблокировать устройство с помощью данных лица</string>
+    <string name="face_data_manage_unlock_msg">Разблокировка устройства с помощью данных лица</string>
     <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
@@ -636,8 +639,8 @@
     <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
-    <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включен (например, при поступлении уведомлений). Возможен более быстрый разряд батареи.</string>
-    <string name="face_unlock_by_notification_screen_on_title">Распознавать лица при включенном экране</string>
+    <string name="face_unlock_by_notification_screen_on_msg">Распознавание по лицу при включенном экране и разблокировка (например, при поступлении уведомлений). Возможен более быстрый разряд батареи.</string>
+    <string name="face_unlock_by_notification_screen_on_title">Распознавание при включенном экране</string>
     <string name="face_unlock_check_failed">Не удалось вас узнать</string>
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
@@ -665,8 +668,15 @@
     <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
     <string name="face_unlock_success">Данные лица успешно проверены</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Разрешить просмотр уведомлений на экране блокировки</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Нет, спасибо</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешить</string>
+    <string name="face_unlock_success_show_message_dialog_title">Уведомления на экране блокировки</string>
+    <string name="face_unlock_success_show_message_msg">Показывать на заблокированном устройстве только источник уведомлений, добавлять содержимое уведомлений после проверки данных лица</string>
+    <string name="face_unlock_success_show_message_title">Отображение содержимого уведомлений</string>
+    <string name="face_unlock_success_show_message_toast">Уведомления будут отображаться на экране блокировки</string>
     <string name="face_unlock_success_stay_screen_msg">Остаться на экране блокировки после распознавания. Для перехода на рабочий стол используйте свайп вверх.</string>
-    <string name="face_unlock_success_stay_screen_title">Остаться на экране блокировки после разблокировки</string>
+    <string name="face_unlock_success_stay_screen_title">Поведение после разблокировки</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки %1$s</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
@@ -1134,7 +1144,7 @@
     <string name="notification_low_battery_action_btn">Включить</string>
     <string name="notification_low_battery_need_charge">Батарея разряжена. Зарядите устройство.</string>
     <string name="notification_low_battery_open_save_mode">Включите экономию энергии</string>
-    <string name="notification_low_battery_title">Батарея разряжена: %d%%</string>
+    <string name="notification_low_battery_title">Осталось меньше %d%% заряда батареи</string>
     <string name="notification_manager">Управление уведомлениями</string>
     <string name="notification_manager_des">Фильтрация и управление уведомлениями</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
