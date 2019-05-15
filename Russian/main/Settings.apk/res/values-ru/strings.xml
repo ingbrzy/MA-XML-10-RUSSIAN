@@ -542,6 +542,19 @@
     <string name="backup_pw_cancel_button_text">Отмена</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
     <string name="backup_section_title">Резервное копирование и восстановление</string>
+    <string name="backup_set_clear_success">Пароль резервного копирования успешно отключен</string>
+    <string name="backup_set_clear_title">Отключение пароля</string>
+    <string name="backup_set_confirm">ОК</string>
+    <string name="backup_set_confirm_clear">Отключить</string>
+    <string name="backup_set_enter_new_pw">Введите новый пароль резервного копирования</string>
+    <string name="backup_set_enter_new_pw_again">Подтвердите новый пароль резервного копирования</string>
+    <string name="backup_set_enter_old_pw">Введите старый пароль резервного копирования</string>
+    <string name="backup_set_enter_pw_title">Ввод пароля</string>
+    <string name="backup_set_error_pw">Неверный пароль</string>
+    <string name="backup_set_modify_title">Изменение пароля</string>
+    <string name="backup_set_new_pw_title">Ввод нового пароля</string>
+    <string name="backup_set_null_pw">Введите пароль</string>
+    <string name="backup_set_pw_confirm_title">Подтверждение пароля</string>
     <string name="badge_title">Метка на иконке приложения</string>
     <string name="band_mode_failed">Сбой</string>
     <string name="band_mode_loading">Загрузка списка частот…</string>
@@ -1130,10 +1143,14 @@
     <string name="checking_for_updates">Проверка обновлений…</string>
     <string name="child_mode_settings">Родительский контроль</string>
     <string name="choose_a_card_to_reset">Выберите SIM карту для сброса</string>
+    <string name="choose_keyguard_clock_style">Формат часов экрана блокировки</string>
+    <string name="choose_keyguard_clock_summary">"Изменение формата часов работает только со стандартным экраном блокировки"</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="choose_smartcover_type">Тип передней крышки</string>
     <string name="choose_spell_checker">Проверка правописания</string>
-    <string name="choose_timezone">Выбрать часовой пояс</string>
+    <string name="choose_timezone">Выбор часового пояса</string>
+    <string name="choose_unlock_face_msg">Настройте защиту устройства перед добавлением данных лица.</string>
+    <string name="choose_unlock_fingerprint_msg">Настройте защиту устройства перед добавлением отпечатка.</string>
     <string name="choose_voice_input_title">Выберите голосовой сервис</string>
     <string name="cleaner">Очистка</string>
     <string name="clear_activities">Удалить настройки по умолчанию</string>
@@ -2030,6 +2047,8 @@
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
     <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет также установить дополнительный способ разблокировки.</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
+    <string name="fingerprint_wakeup_summary">Пробуждать устройство в случае отсутствия отпечатков пальцев для разблокировки.</string>
+    <string name="fingerprint_wakeup_title">Пробуждать сканером отпечатков</string>
     <string name="finish_application">Закрыть</string>
     <string name="finish_button">Завершить</string>
     <string name="finish_button_label">Готово</string>
@@ -2210,7 +2229,7 @@
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Ритм</string>
     <string name="gxzw_anim_title">Анимация отпечатка</string>
-    <string name="gxzw_aod_show_summary">Значок отпечатка будет отображаться при выключенном экране. Эта функция увеличивает расход батареи.</string>
+    <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка пальца. Эта функция увеличивает расход батареи.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
     <string name="gxzw_dialog_message">Для нормальной работы экранного сканера отпечатков не используйте средства защиты экрана. Если вы считаете, что защита экрана всё же необходима, выберите один из совместимых вариантов.</string>
     <string name="gxzw_dialog_not_show_again">Больше не показывать</string>
@@ -2394,7 +2413,6 @@
     <string name="keyguard_notification_status_title">Уведомления</string>
     <string name="keyguard_security_setting_others">Прочее</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
-    <string name="keyguard_vertical_clock_title">Вертикальные часы</string>
     <string name="keywords_accounts">аккаунт</string>
     <string name="keywords_airplane">Самолет;Режим полета;Самолет;Режим полета;Полет;Режим полета</string>
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
@@ -2921,6 +2939,8 @@
     <string name="miui_lab_features">Функции лаборатории MIUI</string>
     <string name="miui_lab_gallery_search_desc">Улучшенный поиск изображений</string>
     <string name="miui_lab_gallery_search_title">Поиск фото в Галерее</string>
+    <string name="miui_lab_gesture_desc">Отключите кнопки и наслаждайтесь полноэкранными жестами</string>
+    <string name="miui_lab_gesture_title">Полноэкранные жесты</string>
     <string name="miui_lab_install_drive_mode_error">Ошибка установки, повторите попытку.</string>
     <string name="miui_lab_install_drive_mode_summary">Режим \"За рулем\" является системным приложением. Для его установки не требуется интернет.</string>
     <string name="miui_lab_install_drive_mode_title">Установить Режим \"За рулем\"</string>
@@ -4188,6 +4208,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиа режим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
+    <string name="search_ambient_display_screen_title">Интерактивный дисплей</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
     <string name="search_app_invisible">Скрытое приложение;Скрытые приложения</string>
@@ -4225,6 +4246,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Исключения;Белый список;разрешенные номера</string>
     <string name="search_dndm_wristband">Активировать с помощью Mi Band;Mi Band</string>
     <string name="search_do_not_disturb_mode">Не беспокоить</string>
+    <string name="search_doze_always_on_title">Всегда включено</string>
     <string name="search_dtmf_tone_enable_title">Включить звук при наборе номера;Звук набора номера;звук набора;звук набора;звуки набора;звуки номеронабирателя</string>
     <string name="search_empty">Ничего не найдено</string>
     <string name="search_enable_adb">Отладка по USB</string>
@@ -4507,7 +4529,6 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="settings_shortcut">Ярлык настроек</string>
     <string name="settings_toggle_position_divider_list">Переключатели над этой строкой активны</string>
-    <string name="setup_choose_unlock_fingerprint_msg">Настройте защиту перед добавлением отпечатка.</string>
     <string name="setup_choose_unlock_mixed_password">Пароль</string>
     <string name="setup_choose_unlock_mixpassword_title">Задайте пароль</string>
     <string name="setup_choose_unlock_password">ПИН-код</string>
@@ -5399,8 +5420,8 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_state_hour_minute" formatted="false">%d ч. %d мин.</string>
     <string name="usage_state_less_one_minute">Меньше 1 мин.</string>
     <string name="usage_state_monday">Пн</string>
-    <string name="usage_state_mourth_day">"Время экрана d MMM"</string>
-    <string name="usage_state_noti_mourth_day">"'Уведомлений' d MMM"</string>
+    <string name="usage_state_mourth_day">Время экрана %s</string>
+    <string name="usage_state_noti_mourth_day">Уведомлений %s</string>
     <string name="usage_state_notification">Управление уведомлениями</string>
     <string name="usage_state_notification_manager">Уведомления приложений</string>
     <string name="usage_state_remind_summary">"Включить предупреждение о лимитах времени экрана. Можно установить свои лимиты для рабочих и выходных дней."</string>
@@ -5413,7 +5434,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_state_today">Сегодня</string>
     <string name="usage_state_today_total_text">"Время экрана сегодня"</string>
     <string name="usage_state_tuesday">Вт</string>
-    <string name="usage_state_unlock_mourth_day">"'Разблокирован' d MMM"</string>
+    <string name="usage_state_unlock_mourth_day">Разблокирован %s</string>
     <string name="usage_state_usage_time">"Время экрана"</string>
     <string name="usage_state_usage_time_remind">Лимит времени экрана</string>
     <string name="usage_state_use_time_remind_title">Лимит времени экрана</string>
