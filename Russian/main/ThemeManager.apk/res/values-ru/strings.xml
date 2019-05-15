@@ -61,6 +61,7 @@
     <string name="apply_theme_with_ringtones">Применять с мелодией</string>
     <string name="audio_duration_minutes_format">%1$d мин</string>
     <string name="audio_duration_seconds_format">%1$d с</string>
+    <string name="audition_ringtone">Воспроизвести</string>
     <string name="automatically_update_using_theme_tips">Обновлять тему автоматически</string>
     <string name="backup_theme_dialog_message">Сохранить текущую тему?</string>
     <string name="backup_theme_dialog_ok">Сохранить</string>
@@ -87,6 +88,7 @@
     <string name="component_title_settings_video_wallpaper">Обои со спецэффектами</string>
     <string name="component_title_video_wallpaper">Живые обои</string>
     <string name="component_title_wallpaper">Обои</string>
+    <string name="count_down_tip">%ds осталось</string>
     <string name="current_using_desktop_wallpaper_text">Рабочий стол</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
     <string name="current_version_incompatible">Несовместимо</string>
@@ -213,6 +215,7 @@
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодия</string>
     <string name="lab">Лаборатория тем</string>
+    <string name="like_list">Отмеченные</string>
     <string name="live_wallpaper">Живые обои</string>
     <string name="loading">Подождите…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
@@ -230,7 +233,7 @@
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
-    <string name="loop_wallpaper_is_here">Доступны слайд-шоу обоев</string>
+    <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
@@ -594,7 +597,7 @@
     <string name="theme_import_from_sdcard">Импорт</string>
     <string name="theme_is_external_priority_storage">Сохранять на SD карту</string>
     <string name="theme_is_external_priority_storage_summary">Приложение \"Темы\" будет перезапущено для применения изменений</string>
-    <string name="theme_multiple_button_title_customize">Компоненты</string>
+    <string name="theme_multiple_button_title_customize">Компоненты тем</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_purchased_list_empty">Нет приобретенных тем</string>
     <string name="theme_purchased_non_local">Не локально</string>
@@ -616,7 +619,7 @@
     <string name="theme_yes">ОК</string>
     <string name="third_party_pickers_activity_title">Добавить %1$s</string>
     <string name="tips_theme_gate_transfer_fail">Не удалось открыть страницу. Подождите немного и повторите попытку.</string>
-    <string name="title_component">Компоненты</string>
+    <string name="title_component">Компоненты тем</string>
     <string name="title_my_audio_resource">Мои мелодии</string>
     <string name="title_my_miwallpaper_desktop_effects">Эффекты рабочего стола</string>
     <string name="title_my_miwallpaper_resource">Мои живые обои</string>
