@@ -33,6 +33,7 @@
     <string name="blog">Weibo</string>
     <string name="business_card">Визитка</string>
     <string name="business_card_title">Разместите визитку внутри рамки</string>
+    <string name="business_card_with_qr_code">Разместите визитку или QR-код внутри рамки</string>
     <string name="business_copy">Копировать</string>
     <string name="business_new_contacts">Создать контакт</string>
     <string name="business_no_result">Не удалось распознать визитку. Повторите попытку.</string>
