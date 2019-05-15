@@ -255,7 +255,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>
     <string name="open_personal_assistant_dialog_desc">Вы не сможете использовать Ассистент и получать его обновления. Отключить?</string>
-    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции вы не сможете использовать Ассистент (Мероприятия, Быстрые заметки, Ярлыки и прочее)</string>
+    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции вы не сможете использовать Ассистент (мероприятия, быстрые заметки, ярлыки и другие функции)</string>
     <string name="open_personal_assistant_dialog_title">Отключить Ассистент</string>
     <string name="open_personal_assistant_title">Ассистент</string>
     <string name="out_of_space">На этом экране нет свободного места</string>
