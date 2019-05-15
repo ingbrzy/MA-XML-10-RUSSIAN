@@ -6,6 +6,18 @@
         <item quantity="few">%d отзыва</item>
         <item quantity="many">%d отзывов</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f пунктов</item>
+        <item quantity="one">%1$.1f пункт</item>
+        <item quantity="few">%1$.1f пункта</item>
+        <item quantity="many">%1$.1f пунктов</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s рингтонов</item>
+        <item quantity="one">%1$s рингтон</item>
+        <item quantity="few">%1$s рингтона</item>
+        <item quantity="many">%1$s рингтонов</item>
+    </plurals>    
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">Доступны обновления для %1$d тем.</item>
         <item quantity="one">Доступны обновления для %1$d темы.</item>
@@ -35,6 +47,18 @@
         <item quantity="one">%1$d приложение найдено</item>
         <item quantity="few">%1$d приложения найдено</item>
         <item quantity="many">%1$d приложений найдено</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Вы сможете попробовать \"%2$s\" бесплатно через %1$d часов"</item>
+        <item quantity="one">"Вы сможете попробовать \"%2$s\" бесплатно через %1$d час"</item>
+        <item quantity="few">"Вы сможете попробовать \"%2$s\" бесплатно через %1$d часа"</item>
+        <item quantity="many">"Вы сможете попробовать \"%2$s\" бесплатно через %1$d часов"</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3-дневная бесплатная пробная версия (%1$d объектов осталось на сегодня)</item>
+        <item quantity="one">3-дневная бесплатная пробная версия (%1$d объект остался на сегодня)</item>
+        <item quantity="few">3-дневная бесплатная пробная версия (%1$d объекта осталось на сегодня)</item>
+        <item quantity="many">3-дневная бесплатная пробная версия (%1$d объектов осталось на сегодня)</item>
     </plurals>
     <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d объектов</item>
