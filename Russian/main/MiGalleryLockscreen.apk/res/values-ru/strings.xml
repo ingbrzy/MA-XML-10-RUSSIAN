@@ -293,7 +293,7 @@
   <string name="save_picture_success">Успешно сохранено</string>
   <string name="save_to_album">Успешно сохранено в Галерее</string>
   <string name="save_to_album_fail">"Не удалось сохранить"</string>
-  <string name="scribe_btn_ok">Включить</string>
+  <string name="scribe_btn_ok">Подписаться</string>
   <string name="scribe_title1">Включить Карусель обоев</string>
   <string name="search">Поиск</string>
   <string name="search_menu_title">Поиск</string>
@@ -338,7 +338,7 @@
   <string name="sst_lockscreen_show_headline_title">Название на экране блокировки</string>
   <string name="sst_logo_desc">Новые обои ежедневно</string>
   <string name="sst_mode_selection">Выбор режима</string>
-  <string name="sst_more_subscription">Управление подписками</string>
+  <string name="sst_more_subscription">Выбор категорий</string>
   <string name="sst_morning_greeting_desc">Загружать ежедневно свежие изображения</string>
   <string name="sst_morning_greeting_disable_toast">Эта функция будет доступна позже</string>
   <string name="sst_morning_greeting_title">Утренние приветствия</string>
@@ -357,8 +357,8 @@
   <string name="sst_sti_desc">Установите частоту обновления</string>
   <string name="sst_sti_title">Частота обновления</string>
   <string name="sst_subscribe_title">Категории</string>
-  <string name="sst_subscrible_manager_title_bar_text">Выбор категорий</string>
-  <string name="sst_subscripted">Отключить</string>
+  <string name="sst_subscrible_manager_title_bar_text">Управление подписками</string>
+  <string name="sst_subscripted">Подписки</string>
   <string name="sst_switch_wallpaper_order_desc">Выберите порядок обновления</string>
   <string name="sst_switch_wallpaper_order_fixed">Последовательно</string>
   <string name="sst_switch_wallpaper_order_random">Случайно</string>
