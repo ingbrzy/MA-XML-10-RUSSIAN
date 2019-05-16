@@ -363,7 +363,7 @@
   <string name="sst_switch_wallpaper_order_fixed">Последовательно</string>
   <string name="sst_switch_wallpaper_order_random">Случайно</string>
   <string name="sst_switch_wallpaper_order_title">Порядок обновления</string>
-  <string name="sst_wallpaper_define_desc">Управление</string>
+  <string name="sst_wallpaper_define_desc">Управление обоями</string>
   <string name="sst_wallpaper_define_title">Слайд-шоу</string>
   <string name="sst_wallpaper_history_des">Просмотр историй</string>
   <string name="sst_wallpaper_history_title">Истории</string>
