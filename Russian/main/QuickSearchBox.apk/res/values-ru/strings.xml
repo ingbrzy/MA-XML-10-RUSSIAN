@@ -39,12 +39,12 @@
   <string name="device_settings_category_title">Очистить ярлыки</string>
   <string name="distance_unit_kilometer">км</string>
   <string name="distance_unit_meter">м</string>
-  <string name="entrance_setting">Открытие поиска</string>
+  <string name="entrance_setting">Запуск поиска</string>
   <string name="google_app_label">Google поиск</string>
   <string name="google_search_description">Предложения Google поиска</string>
   <string name="google_search_hint">Google поиск</string>
   <string name="google_settings_category_title">Google поиск</string>
-  <string name="hot_search">Показывать популярные</string>
+  <string name="hot_search">Показывать популярные запросы</string>
   <string name="loading">Подождите…</string>
   <string name="local_app">Приложения</string>
   <string name="local_setting">Настройки</string>
@@ -97,8 +97,8 @@
   <string name="settings_description">Установленные приложения</string>
   <string name="show_more">Показать больше</string>
   <string name="suggest_open_app_failed">Ошибка открытия приложения</string>
-  <string name="swipe_up_summary">Поиск свайпом вверх на Рабочем столе</string>
-  <string name="swipe_up_title">Поиск на Рабочем столе</string>
+  <string name="swipe_up_summary">Запуск поиска свайпом вверх на рабочем столе</string>
+  <string name="swipe_up_title">Поиск на рабочем столе</string>
   <string name="switch_application">Приложения</string>
   <string name="switch_browser">Браузер</string>
   <string name="switch_contacts">Контакты</string>
