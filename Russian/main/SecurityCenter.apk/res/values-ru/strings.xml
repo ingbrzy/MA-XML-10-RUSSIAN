@@ -545,6 +545,7 @@
     <string name="charging_text_battery_nearly_full">Почти 100%</string>
     <string name="charging_text_battery_perfect">Полностью заряжена</string>
     <string name="choose">Выбрать</string>
+    <string name="choose_gs_show_way">Ориентация рабочего стола</string>
     <string name="clean_immediately">Очистить</string>
     <string name="cleaned">Очищено</string>
     <string name="clear_garbage">Удаление мусора для высвобождения места</string>
@@ -900,8 +901,12 @@
     <string name="free_time_traffic_title">Введите лимит льготного трафика</string>
     <string name="free_traffic_settings">Контроль льготного трафика</string>
     <string name="function_close">Откл</string>
-    <string name="function_shield_summary">Отключение автояркости, жестов скриншота и Режима чтения</string>
-    <string name="function_shield_summary_m">Отключение автояркости и жестов скриншота</string>
+    <string name="function_shield_auto_bright">Выключить автояркость</string>
+    <string name="function_shield_eye_shield">Выключить режим чтения</string>
+    <string name="function_shield_pull_notification_bar">"Заблокировать шторку уведомлений"</string>
+    <string name="function_shield_settings_title">Ограничить указанные функции во время игр</string>
+    <string name="function_shield_summary">Ограничить выбранные функции системы во время игр</string>
+    <string name="function_shield_three_finger">Отключить жесты скриншота</string>
     <string name="function_shield_title">Улучшенное восприятие</string>
     <string name="fw_blocked">Антиспам</string>
     <string name="fw_blocked_count">"Заблокировано: "</string>
@@ -1010,6 +1015,9 @@
     <string name="gs_open_game_booster_summary">Ускорение сети для игр</string>
     <string name="gs_performance_mode">Ускорение процессора</string>
     <string name="gs_performance_mode_detail">Увеличить нагрузку на процессор</string>
+    <string name="gs_show_way">Ориентация рабочего стола</string>
+    <string name="gs_show_way_horizontal">Горизонтальная</string>
+    <string name="gs_show_way_vertical">Вертикальная</string>
     <string name="gs_sign_notification">Напоминать об отмечании в 8 вечера ежедневно</string>
     <string name="gs_slip_gamebox_detail">Используйте слайдер для отображения панели ярлыков. Доступны функции быстрых ответов и записи экрана.</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -1873,8 +1881,7 @@
     <string name="privacy_apps_manage_dialog_title">О скрытых приложениях</string>
     <string name="privacy_apps_manager_dialog_message">После скрытия этого приложения его значок не будет отображаться на рабочем столе. Скрыть приложение?</string>
     <string name="privacy_apps_tutorial">Руководство</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"При скрытии приложения оно перемещается в скрытую папку. Его ярлык удаляется с рабочего стола.
-Эта функция не поддерживается системными приложениями."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Эта функция позволяет скрыть значки приложений на рабочем столе."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">После ввода пароля появится папка со скрытыми приложениями.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">Разведите два пальца на экране. Появится сообщение с просьбой ввести пароль защиты приложений.</string>
     <string name="privacy_declare_dialog_title">Условия использования</string>
