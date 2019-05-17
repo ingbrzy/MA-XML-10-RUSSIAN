@@ -66,6 +66,8 @@
     <string name="ks_update_fail_request_timeout">Время ожидания истекло. Подождите немного и повторите попытку.</string>
     <string name="ks_update_success">Обновление завершено</string>
     <string name="ks_update_wait">Подождите…</string>
+    <string name="last_sync_time_just_now">Только что</string>
+    <string name="last_sync_time_yesterday">Вчера</string>
     <string name="license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s.</string>
     <string name="loading">Подождите…</string>
     <string name="master_alert_notif_content">Ошибка синхронизации</string>
@@ -247,6 +249,31 @@
     <string name="micloud_manual_all_sync_off_summary">Восстановление синхронизированных данных на новых устройствах с помощью Mi Cloud</string>
     <string name="micloud_manual_all_sync_off_title">Синхронизация с Mi Cloud отключена</string>
     <string name="micloud_manual_buy_vip">Обновить план Mi Cloud</string>
+    
+    <string name="micloud_manual_cloud_storage_full_button_text">Обновить</string>
+    <string name="micloud_manual_cloud_storage_full_summary">Обновите план Mi Cloud для возможности синхронизации фото, контактов и прочего</string>
+    <string name="micloud_manual_cloud_storage_full_title">Mi Cloud хранилище заполнено. Синхронизация приостановлена.</string>
+    <string name="micloud_manual_cloud_storage_low_button_text">Обновить</string>
+    <string name="micloud_manual_cloud_storage_low_summary">>Обновите план Mi Cloud чтобы получить больше места для хранения</string>
+    <string name="micloud_manual_cloud_storage_low_title">Недостаточно места в Mi Cloud. Фото могут быть не синхронизированы.</string>
+    <string name="micloud_manual_grant_permission">Дать разрешения</string>
+    <string name="micloud_manual_local_storage_low_button_text">Очистить</string>
+    <string name="micloud_manual_local_storage_low_summary">"Не удается возобновить синхронизацию из-за нехватки памяти. Освободите место."</string>
+    <string name="micloud_manual_local_storage_low_title">Недостаточно памяти</string>
+    <string name="micloud_manual_network_disconnet_button_text">Параметры сети</string>
+    <string name="micloud_manual_network_disconnet_title">"Нет подключения к сети"</string>
+    <string name="micloud_manual_paused">Приостановлено</string>
+    <string name="micloud_manual_pausing">Синхронизация приостановлена</string>
+    <string name="micloud_manual_pending">Ожидание…</string>
+    <string name="micloud_manual_reactivate">Реактивировать</string>
+    <string name="micloud_manual_sync_all">Синхронизировать все элементы</string>
+    <string name="micloud_manual_sync_now">Синхронизировать</string>
+    <string name="micloud_manual_sync_pause">Приостановить</string>
+    <string name="micloud_manual_sync_resume">Возобновить</string>
+    <string name="micloud_manual_syncing">Синхронизация…</string>
+    <string name="micloud_manual_title">Ручная синхронизация</string>
+
+    
     <string name="micloud_member_net_error_alert_message">Отсутствует подключение к интернету.</string>
     <string name="micloud_member_net_error_alert_title">Не удалось подключиться к сети</string>
     <string name="micloud_member_pay_miid_error_toast">Ошибка аккаунта</string>
@@ -266,6 +293,7 @@
     <string name="micloud_notif_title_multi_user_error">Ошибка синхронизации</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Не удалось включить сервисы Mi Cloud</string>
     <string name="micloud_notif_title_sync_with_off">Синхронизация с Mi Cloud</string>
+    <string name="micloud_preference_last_sync_time">Последняя синхронизация: %s</string>
     <string name="micloud_privacy_cloud_off">Синхронизация отключена</string>
     <string name="micloud_privacy_cloud_sync">Включить сервисы Mi Cloud</string>
     <string name="micloud_privacy_explanation">Предоставьте разрешение на включение сервисов Mi Cloud</string>
@@ -409,7 +437,7 @@
     <string name="warning_bar_action_turn_on_sync">Включить</string>
     <string name="warning_bar_action_upgrade_vip">Обновить план Mi Cloud</string>
     <string name="warning_bar_add_short_cut_success">Успешно добавлено</string>
-    <string name="warning_bar_title_cloud_space_already_full">Недостаточно места в Mi Cloud. Фотографии могут быть не синхронизированы.</string>
+    <string name="warning_bar_title_cloud_space_already_full">Недостаточно места в Mi Cloud. Фото могут быть не синхронизированы.</string>
     <string name="warning_bar_title_cloud_space_full">Mi Cloud хранилище заполнено. Синхронизация приостановлена.</string>
     <string name="warning_bar_title_master_sync_off">Автосинхронизация отключена</string>
     <string name="warning_bar_title_network_unconnected">"Не удалось подключиться к сети"</string>
