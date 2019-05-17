@@ -256,6 +256,8 @@ ID:%s
     <string name="document_open_file">Открыть %s</string>
     <string name="document_open_other">Другие приложения</string>
     <string name="document_open_title">Открыть с помощью</string>
+    <string name="document_open_txt_message">Чтобы повысить удобство и безопасность чтения, используйте Книжную полку</string>
+    <string name="document_open_txt_start_read">Начать чтение</string>
     <string name="dont_remind_again">Запомнить этот выбор</string>
     <string name="download_btn_select_all">Выбрать все</string>
     <string name="download_btn_select_none">Снять выделение</string>
