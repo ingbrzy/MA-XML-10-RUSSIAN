@@ -133,6 +133,7 @@
     <string name="dialog_report_confirm">Отчет</string>
     <string name="disclaimer_content">Эта функция предоставлена %1$s. %1$s несет всю ответственность за предоставляемые услуги. Вы можете связаться с %1$s если есть какие-либо вопросы.</string>
     <string name="disclaimer_title">Отказ от ответственности</string>
+    <string name="display_weather_default">Нажмите для получения информации о погоде</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
     <string name="exercise_setting_brief">Измерение расстояния и подсчет ежедневных шагов</string>
     <string name="fav_init_guide_title">Об Избранном</string>
