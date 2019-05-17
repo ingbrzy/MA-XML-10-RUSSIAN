@@ -667,7 +667,6 @@
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
     <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
     <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
-    <string name="face_unlock_success">Данные лица успешно проверены</string>
     <string name="face_unlock_success_show_message_dialog_msg">Разрешить просмотр уведомлений на экране блокировки</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Нет, спасибо</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешить</string>
@@ -853,7 +852,6 @@
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_charging_back_to_lockscreen">Назад к экрану блокировки</string>
     <string name="keyguard_charging_info_battery_used_time_text">Без подзарядки</string>
-    <string name="keyguard_charging_info_click_to_detail">Нажмите для просмотра</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Расход заряда</string>
     <string name="keyguard_charging_info_last_charge_time">dd.MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
@@ -865,6 +863,9 @@
     <string name="keyguard_charging_info_tip_text4">Не следует активно использовать устройство во время зарядки во избежание перегрева.</string>
     <string name="keyguard_charging_info_tip_text5">Батарея будет заряжаться дольше при повышенной температуре.</string>
     <string name="keyguard_charging_info_tip_text6">Для охлаждения выключите экран и отложите устройство в сторону.</string>
+    <string name="keyguard_charging_normal_and_level_tip">Зарядка %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">Быстрая зарядка %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">Ускоренная зарядка %d%%</string>
     <string name="keyguard_indication_charging_time">Зарядка (%s до окончания)</string>
     <string name="keyguard_indication_charging_time_fast">Быстрая зарядка (%s до окончания)</string>
     <string name="keyguard_indication_charging_time_slowly">Медленная зарядка (%s до окончания)</string>
@@ -976,9 +977,11 @@
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_screen_magazine_default_content">Свежие обои ежедневно</string>
     <string name="lock_screen_magazine_default_title">Карусель обоев</string>
+    <string name="lock_screen_magazine_global_button_text">Больше</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Больше</string>
+    <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Вход</string>
     <string name="lock_screen_no_sim_card_emergency_only">Только экстренные вызовы</string>
     <string name="lock_screen_no_sim_card_no_service">Нет сети</string>
-    <string name="lock_wallpaper_enter">Вход</string>
     <string name="lock_wallpaper_learn_more">Подробнее</string>
     <string name="lockscreen_access_pattern_area">Область ввода ключа.</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
