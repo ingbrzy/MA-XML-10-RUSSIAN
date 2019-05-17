@@ -224,8 +224,8 @@
     <string name="micloud_main_space_low">Место заканчивается</string>
     <string name="micloud_main_sync_init">Получение данных…</string>
     <string name="micloud_main_sync_now">Синхронизировать</string>
-    <string name="micloud_main_sync_mode_summary">Синхронизировать когда подключено зарядное устройство и экран выключен</string>
-    <string name="micloud_main_sync_mode_title">Экономия батареи при синхронизации</string>
+    <string name="micloud_main_sync_mode_summary">Когда эта функция включена, синхронизация будет осуществляться в режиме реального времени. Это может увеличить расход заряда батареи.</string>
+    <string name="micloud_main_sync_mode_title">Синхронизация в реальном времени</string>
     <string name="micloud_main_sync_on">Включить</string>
     <string name="micloud_main_sync_pause">Синхронизация приостановлена</string>
     <string name="micloud_main_sync_pending">Ожидание синхронизации</string>
