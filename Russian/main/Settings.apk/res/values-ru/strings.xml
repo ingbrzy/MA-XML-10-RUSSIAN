@@ -1492,7 +1492,8 @@
     <string name="date_time_settings">Дата и время</string>
     <string name="day_of_week">Повтор</string>
     <string name="dc_light_dialog_summary">Качество изображения может ухудшиться при включенном режиме антимерцания. Все равно включить?</string>
-    <string name="dc_light_summary">Затемнение по постоянному току для уменьшения нагрузки на глаза</string>
+    <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
+    <string name="dc_light_summary_new">Затемнение по постоянному току уменьшает нагрузку на глаза в условиях низкой освещенности. Однако качество изображения может ухудшиться, если включен режим анти-мерцания.</string>
     <string name="dc_light_title">Режим антимерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
@@ -2939,7 +2940,7 @@
     <string name="miui_lab_features">Функции лаборатории MIUI</string>
     <string name="miui_lab_gallery_search_desc">Улучшенный поиск изображений</string>
     <string name="miui_lab_gallery_search_title">Поиск фото в Галерее</string>
-    <string name="miui_lab_gesture_desc">Отключите кнопки и наслаждайтесь полноэкранными жестами</string>
+    <string name="miui_lab_gesture_desc">Используйте вместо кнопок жесты для навигации</string>
     <string name="miui_lab_gesture_title">Полноэкранные жесты</string>
     <string name="miui_lab_install_drive_mode_error">Ошибка установки, повторите попытку.</string>
     <string name="miui_lab_install_drive_mode_summary">Режим \"За рулем\" является системным приложением. Для его установки не требуется интернет.</string>
@@ -4205,6 +4206,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_accessibility_screen_magnification_title">Жесты увеличения;Увеличение</string>
     <string name="search_accessibility_settings">Специальные возможности</string>
     <string name="search_account_list">Другие аккаунты;Аккаунт;Аккаунты</string>
+    <string name="search_add_facerecoginition_text">Разблокировка по лицу;Распознавание лица</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиа режим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
@@ -4272,6 +4274,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_lock_settings">Блокировка и защита;разблокировка по Bluetooth;секретный код;Разблокировка устройством Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Звук блокировки экрана;Включить звук блокировки экрана</string>
     <string name="search_manage_device_admin">Администраторы устройства;Админ;Администратор</string>
+    <string name="search_manage_facerecoginition_text">Разблокировка по лицу;Распознавание лица</string>
     <string name="search_manage_notification_access_title">Доступ к уведомлениям;Уведомления;Разрешения уведомлений</string>
     <string name="search_master_clear_title">Сброс настроек</string>
     <string name="search_menu">Поиск настроек</string>
