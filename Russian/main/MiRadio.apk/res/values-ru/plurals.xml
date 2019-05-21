@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="check_in_day_label">
+    <item quantity="other">%1$d дней</item>
+    <item quantity="one">%1$d день</item>
+    <item quantity="few">%1$d дня</item>
+    <item quantity="many">%1$d дней</item>
+  </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">%d комментариев</item>
+    <item quantity="one">%d комментарий</item>
+    <item quantity="few">%d комментария</item>
+    <item quantity="many">%d комментариев</item>
+  </plurals>
+  <plurals name="comment_input_length_invalid">
+    <item quantity="other">Вы можете ввести до %1$d символов.</item>
+    <item quantity="one">Вы можете ввести %1$d символ.</item>
+    <item quantity="few">Вы можете ввести до %1$d символов.</item>
+    <item quantity="many">Вы можете ввести до %1$d символов.</item>
+  </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">Удалить %d объектов?</item>
+    <item quantity="one">Удалить %d объект?</item>
+    <item quantity="few">Удалить %d объекта?</item>
+    <item quantity="many">Удалить %d объектов?</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+    <item quantity="other">Удалить %d песен?</item>
+    <item quantity="one">Удалить %d песню?</item>
+    <item quantity="few">Удалить %d песни?</item>
+    <item quantity="many">Удалить %d песен?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+    <item quantity="other">Удалить %d песен?</item>
+    <item quantity="one">Удалить %d песню?</item>
+    <item quantity="few">Удалить %d песни?</item>
+    <item quantity="many">Удалить %d песен?</item>
+  </plurals>
+  <plurals name="dialog_remove_from_cloud_descript">
+    <item quantity="other">Удалить %d песен из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
+    <item quantity="one">Удалить %d песню из Mi Cloud? Она также будут удалена из локальных плейлистов.</item>
+    <item quantity="few">Удалить %d песни из Mi Cloud? Они также будут удалены из локальных плейлистов</item>
+    <item quantity="many">Удалить %d песен из Mi Cloud? Они также будут удалены из локальных плейлистов</item>
+  </plurals>
+  <plurals name="download_finished">
+    <item quantity="other">&lt;font color=\"red\"&gt;%d песен&lt;/font&gt; загружено</item>
+    <item quantity="one">&lt;font color==\"red\"&gt;%d песня&lt;/font&gt; загружена</item>
+    <item quantity="few">&lt;font color==\"red\"&gt;%d песни&lt;/font&gt; загружены</item>
+    <item quantity="many">&lt;font color==\"red\"&gt;%d песен&lt;/font&gt; загружено</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%d загрузок удалено</item>
+    <item quantity="one">%d загрузка удалена</item>
+    <item quantity="few">%d загрузки удалено</item>
+    <item quantity="many">%d загрузок удалено</item>
+  </plurals>
+  <plurals name="download_running">
+    <item quantity="other">&lt;font color=\"red\"&gt;%d песен&lt;/font&gt; загружается</item>
+    <item quantity="one">&lt;font color==\"red\"&gt;%d песня&lt;/font&gt; загружается</item>
+    <item quantity="few">&lt;font color==\"red\"&gt;%d песни&lt;/font&gt; загружаются</item>
+    <item quantity="many">&lt;font color==\"red\"&gt;%d песен&lt;/font&gt; загружается</item>
+  </plurals>
+  <plurals name="multichoice_title">
+    <item quantity="other">%d объектов выбрано</item>
+    <item quantity="one">%d объект выбран</item>
+    <item quantity="few">%d объекта выбрано</item>
+    <item quantity="many">%d объектов выбрано</item>
+  </plurals>
+  <plurals name="Nalbum_total_songs">
+    <item quantity="other">Всего %d песен</item>
+    <item quantity="zero">Всего %d песен</item>
+    <item quantity="one">Всего %d песня</item>
+    <item quantity="few">Всего %d песни</item>
+    <item quantity="many">Всего %d песен/item>
+  </plurals>
+  <plurals name="Nassociate_songs">
+    <item quantity="other">Поиск обложек и текстов (%1$d/%2$d)</item>
+    <item quantity="one">Поиск обложек и текстов (%1$d/%2$d)</item>
+    <item quantity="few">Поиск обложек и текстов (%1$d/%2$d)</item>
+    <item quantity="many">Поиск обложек и текстов (%1$d/%2$d)</item>
+  </plurals>
+  <plurals name="Nbackup_songs">
+    <item quantity="other">Резервное копирование песен, %1$d песен осталось (%2$.1f Мб)</item>
+    <item quantity="one">Резервное копирование песен, %1$d песня осталась (%2$.1f Мб)</item>
+    <item quantity="few">Резервное копирование песен, %1$d песни осталось (%2$.1f Мб)</item>
+    <item quantity="many">Резервное копирование песен, %1$d песен осталось (%2$.1f Мб)</item>
+  </plurals>
+  <plurals name="Ndownload_fee_alert_message">
+    <item quantity="other">"По просьбе правообладателя %d выбранных песен не может быть скачано бесплатно. Эти песни добавлены в загрузки."</item>
+    <item quantity="one">"По просьбе правообладателя %d выбранная песня не может быть скачана бесплатно. Эта песня  добавлена в загрузки."</item>
+    <item quantity="few">"По просьбе правообладателя %d выбранных песни не может быть скачаны бесплатно. Эти песни добавлены в загрузки."</item>
+    <item quantity="many">"По просьбе правообладателя %d выбранных песен не может быть скачано бесплатно. Эти песни добавлены в загрузки."</item>
+  </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d песен)</item>
+    <item quantity="one">(%d песня)</item>
+    <item quantity="few">(%d песни)</item>
+    <item quantity="many">(%d песен)</item>
+  </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">Загрузка %1$d песен</item>
+    <item quantity="one">Загрузка %1$d песни</item>
+    <item quantity="few">Загрузка %1$d песен</item>
+    <item quantity="many">Загрузка %1$d песен</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">"Не удалось загрузить %1$d песен"</item>
+    <item quantity="one">"Не удалось загрузить %1$d песню"</item>
+    <item quantity="few">"Не удалось загрузить %1$d песни"</item>
+    <item quantity="many">"Не удалось загрузить %1$d песен"</item>
+  </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d песен</item>
+    <item quantity="one">%1$d песня</item>
+    <item quantity="few">%1$d песни</item>
+    <item quantity="many">%1$d песен</item>
+  </plurals>
+  <plurals name="notification_rec_content">
+    <item quantity="other">%d FM записей</item>
+    <item quantity="one">%d FM запись</item>
+    <item quantity="few">%d FM записи</item>
+    <item quantity="many">%d FM записей</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+    <item quantity="other">Плейер остановится через %d минут</item>
+    <item quantity="one">Плейер остановится через %d минуту</item>
+    <item quantity="few">Плейер остановится через %d минуты</item>
+    <item quantity="many">Плейер остановится через %d минут</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning">
+    <item quantity="other">%d минут осталось</item>
+    <item quantity="one">%d минута осталось</item>
+    <item quantity="few">%d минуты осталось</item>
+    <item quantity="many">%d минут осталось</item>
+  </plurals>
+  <plurals name="Nsleep_quit_warning_custom">
+    <item quantity="other">Заказ: %d минут осталось</item>
+    <item quantity="one">Заказ: %d минута осталось</item>
+    <item quantity="few">Заказ: %d минуты осталось</item>
+    <item quantity="many">Заказ: %d минут осталось</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">Создано на %1$s | всего %2$d песен</item>
+    <item quantity="zero">Создано на %1$s | всего %2$d песен</item>
+    <item quantity="one">Создано на %1$s | всего %2$d песня</item>
+    <item quantity="few">Создано на %1$s | всего %2$d песни</item>
+    <item quantity="many">Создано на %1$s | всего %2$d песен</item>
+  </plurals>
+  <plurals name="Nstop_backup_songs_message">
+    <item quantity="other">"%d песен не сохранено в Mi Cloud. Прервать?"</item>
+    <item quantity="one">"%d песня не сохранена в Mi Cloud. Прервать?"</item>
+    <item quantity="few">"%d песни не сохранены в Mi Cloud. Прервать?"</item>
+    <item quantity="many">"%d песен не сохранено в Mi Cloud. Прервать?"</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">%d песен добавлено в плейлист</item>
+    <item quantity="one">%d песня добавлена в плейлист</item>
+    <item quantity="few">%d песни добавлено в плейлист</item>
+    <item quantity="many">%d песен добавлено в плейлист</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d песен</item>
+    <item quantity="one">%d песня</item>
+    <item quantity="few">%d песни</item>
+    <item quantity="many">%d песен</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">%d песен удалено из плейлиста</item>
+    <item quantity="one">%d песня удалена из плейлиста</item>
+    <item quantity="few">%d песни удалено из плейлиста</item>
+    <item quantity="many">%d песен удалено из плейлиста</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d похожих песен</item>
+    <item quantity="one">%d похожая песня</item>
+    <item quantity="few">%d похожие песни</item>
+    <item quantity="many">%d похожих песен</item>
+  </plurals>
+  <plurals name="Nunbackup_audios">
+    <item quantity="other">"%1$d песен не были сохранены (%2$.1f Мб)"</item>
+    <item quantity="one">"%1$d песня не была сохранена (%2$.1f Мб)"</item>
+    <item quantity="few">"%1$d песни не были сохранены (%2$.1f Мб)"</item>
+    <item quantity="many">"%1$d песен не были сохранены (%2$.1f Мб)"</item>
+  </plurals>
+  <plurals name="Nupload_song_button">
+    <item quantity="other">Резервное копирование %1$d песен (%2$.1f Мб)</item>
+    <item quantity="one">Резервное копирование %1$d песни (%2$.1f Мб)</item>
+    <item quantity="few">Резервное копирование %1$d песен (%2$.1f Мб)</item>
+    <item quantity="many">Резервное копирование %1$d песен (%2$.1f Мб)</item>
+  </plurals>
+  <plurals name="reader_count">
+    <item quantity="other">%d подписчиков</item>
+    <item quantity="one">%d подписчик</item>
+    <item quantity="few">%d подписчика</item>
+    <item quantity="many">%d подписчиков</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="other">%d песен будет отправлено</item>
+    <item quantity="one">%d песня будет отправлена</item>
+    <item quantity="few">%d песни будет отправлено</item>
+    <item quantity="many">%d песен будет отправлено</item>
+  </plurals>
+  <plurals name="skipped_online_songs_tips">
+    <item quantity="other">Пропущено %d песен. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+    <item quantity="one">Пропущена %d песня. Включите онлайн-сервисы в настройках, чтобы прослушать ее.</item>
+    <item quantity="few">Пропущено %d песни. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+    <item quantity="many">Пропущено %d песен. Включите онлайн-сервисы в настройках, чтобы прослушать их.</item>
+  </plurals>
+  <plurals name="song_already_favorite">
+    <item quantity="other">Песни добавлены в избранное.</item>
+    <item quantity="one">Песня добавлена в избранное.</item>
+  </plurals>
+  <plurals name="songs_count">
+    <item quantity="other">%d песен</item>
+    <item quantity="one">%d песня</item>
+    <item quantity="few">%d песни</item>
+    <item quantity="many">%d песен</item>
+  </plurals>
+  <plurals name="swipe_to_load_head_complete_success">
+    <item quantity="other">Вот %1$d обновлений для вас: </item>
+    <item quantity="one">Вот %1$d обновление для вас: </item>
+    <item quantity="few">Вот %1$d обновления для вас: </item>
+    <item quantity="many">Вот %1$d обновлений для вас: </item>
+  </plurals>
+  <plurals name="toast_channel_searched">
+    <item quantity="other">Найдено %1$d станций</item>
+    <item quantity="one">Найдена %1$d станция</item>
+    <item quantity="few">Найдено %1$d станции</item>
+    <item quantity="many">Найдено %1$d станций</item>  </plurals>
+</resources>
