@@ -75,7 +75,7 @@
   <string name="music_headset_calibrate_volume_up">Увеличить громкость</string>
   <string name="music_headset_calibrate_wrong_key">"Неверная кнопка"</string>
   <string name="music_headset_mode_music">Управление треками</string>
-  <string name="music_headset_mode_settings">Функции клавиш</string>
+  <string name="music_headset_mode_settings">Функции кнопок</string>
   <string name="music_headset_mode_volume">Управление громкостью</string>
   <string name="music_headset_no_contected">Наушники не найдены</string>
   <string name="music_headset_settings">Наушники и звуковые эффекты</string>
