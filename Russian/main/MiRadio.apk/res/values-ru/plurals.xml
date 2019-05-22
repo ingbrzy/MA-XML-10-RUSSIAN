@@ -71,7 +71,7 @@
     <item quantity="zero">Всего %d песен</item>
     <item quantity="one">Всего %d песня</item>
     <item quantity="few">Всего %d песни</item>
-    <item quantity="many">Всего %d песен/item>
+    <item quantity="many">Всего %d песен</item>
   </plurals>
   <plurals name="Nassociate_songs">
     <item quantity="other">Поиск обложек и текстов (%1$d/%2$d)</item>
@@ -226,5 +226,6 @@
     <item quantity="other">Найдено %1$d станций</item>
     <item quantity="one">Найдена %1$d станция</item>
     <item quantity="few">Найдено %1$d станции</item>
-    <item quantity="many">Найдено %1$d станций</item>  </plurals>
+    <item quantity="many">Найдено %1$d станций</item>
+  </plurals>
 </resources>
