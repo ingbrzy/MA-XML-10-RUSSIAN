@@ -5,11 +5,11 @@
   <string name="eq_blues">Блюз</string>
   <string name="eq_cancel">Отмена</string>
   <string name="eq_classical">Классика</string>
-  <string name="eq_country">Страна</string>
+  <string name="eq_country">Кантри</string>
   <string name="eq_dance">Танцевальная</string>
   <string name="eq_delete">Удалить</string>
   <string name="eq_delete_success">Готово</string>
-  <string name="eq_electronic">Электроника</string>
+  <string name="eq_electronic">Электро</string>
   <string name="eq_flat">По умолчанию</string>
   <string name="eq_hiphop">Хип хоп</string>
   <string name="eq_jazz">Джаз</string>
@@ -73,7 +73,7 @@
   <string name="music_headset_calibrate_success">Настройки применены</string>
   <string name="music_headset_calibrate_volume_down">Уменьшить громкость</string>
   <string name="music_headset_calibrate_volume_up">Увеличить громкость</string>
-  <string name="music_headset_calibrate_wrong_key">"Неверная кнопка"</string>
+  <string name="music_headset_calibrate_wrong_key">"Кнопка не соответствует"</string>
   <string name="music_headset_mode_music">Управление треками</string>
   <string name="music_headset_mode_settings">Функции кнопок</string>
   <string name="music_headset_mode_volume">Управление громкостью</string>
