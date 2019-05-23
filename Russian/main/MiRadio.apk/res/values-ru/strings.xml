@@ -335,7 +335,7 @@
   <string name="filter_by_size_prefix">"Hide files smaller than "</string>
   <string name="filter_by_size_summary">Hide small audio files</string>
   <string name="filter_size_unit">%d Кб</string>
-  <string name="fm_browser_label">FM</string>
+  <string name="fm_browser_label">FM Радио</string>
   <string name="fm_has_turned_off">FM Радио выключено</string>
   <string name="fm_history">Play History</string>
   <string name="fm_progress">played: %1$s%%</string>
@@ -377,8 +377,8 @@
   <string name="global_search_title_cantonese">Cantonese songs</string>
   <string name="global_search_title_child">"Children's songs"</string>
   <string name="global_search_title_classics">Classical music</string>
-  <string name="global_search_title_entry">Music</string>
-  <string name="global_search_title_fm">Online FM</string>
+  <string name="global_search_title_entry">Музыка</string>
+  <string name="global_search_title_fm">Онлайн FM</string>
   <string name="global_search_title_hot">Hot song list</string>
   <string name="global_search_title_internet">Web charts</string>
   <string name="global_search_title_movie">Movie soundtracks</string>
@@ -531,8 +531,8 @@
   <string name="noheadset_dialog_more">Начать прослушивание</string>
   <string name="normal_quality">Хорошее</string>
   <string name="not_login">Not signed in</string>
-  <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
-  <string name="notif_text_engine_on">Accelerating…</string>
+  <string name="notif_text_engine_off">Xunlei ускорение отключено.</string>
+  <string name="notif_text_engine_on">Ускорение…</string>
   <string name="notif_title_file_size">всего: %1$d</string>
   <string name="notif_title_single_downloading">Downloading %1$s</string>
   <string name="notification_channel_play">play</string>
