@@ -526,7 +526,7 @@
   <string name="no_results_return">Результаты поиска отсутствуют</string>
   <string name="no_scanned_songs">Ничего нет</string>
   <string name="no_song_downloaded">"Не удалось подключиться к серверу"</string>
-  <string name="noheadset_dialog_info">В случае плохого FM-сигнала рекомендуем онлайн-контент</string>
+  <string name="noheadset_dialog_info">В случае плохого приема сигнала рекомендуем онлайн-контент</string>
   <string name="noheadset_dialog_insert">Вставьте гарнитуру</string>
   <string name="noheadset_dialog_more">Начать прослушивание</string>
   <string name="normal_quality">Хорошее</string>
