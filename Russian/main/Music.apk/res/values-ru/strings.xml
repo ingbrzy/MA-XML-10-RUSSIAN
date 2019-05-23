@@ -716,6 +716,7 @@
     <string name="view_album">Просмотреть альбом</string>
     <string name="vip_required">Приобретите пакет Премиум, чтобы воспроизвести этот трек. Пока пропустим его.</string>
     <string name="vip_required_with_song">Трек %s доступен только PRO подписчикам. Пока пропустим его.</string>
+    <string name="voice_search_first_hint">Попробуйте голосовой поиск</string>
     <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
 
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
