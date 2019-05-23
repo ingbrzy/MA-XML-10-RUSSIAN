@@ -61,9 +61,9 @@
   <string name="music_dolby_mode_off">Откл.</string>
   <string name="music_equalizer">Эквалайзер</string>
   <string name="music_equalizer_summary">Индивидуальные установки для различных типов музыки.</string>
-  <string name="music_hd_title">HD Sound audio</string>
+  <string name="music_hd_title">HD Sound аудио</string>
   <string name="music_headphone_settings">Тип наушников</string>
-  <string name="music_headset_button_settings">Назначение кнопок</string>
+  <string name="music_headset_button_settings">Кнопки наушников</string>
   <string name="music_headset_calibrate">Назначение кнопок</string>
   <string name="music_headset_calibrate_apply">Применить</string>
   <string name="music_headset_calibrate_confirm">Применить эти настройки?</string>
@@ -84,5 +84,5 @@
   <string name="music_mi_effect_summary">Использовать усилитель Mi Sound при прослушивании через наушники</string>
   <string name="music_mi_effect_title">Усилитель звука Mi Sound</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="music_unsupport_effect_summary">"USB-гарнитуры не поддерживаются"</string>
+  <string name="music_unsupport_effect_summary">"USB-гарнитура не поддерживается"</string>
 </resources>
