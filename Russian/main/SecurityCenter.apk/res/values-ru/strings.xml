@@ -1406,6 +1406,8 @@
     <string name="note_list_none">Список пуст</string>
     <string name="note_sms_none">Нет сообщений</string>
     <string name="notification_battery_consume_abnormal_title">Быстрый разряд батареи</string>
+    <string name="notification_battery_scan_consume_abnormal_summary">Нажмите, чтобы устранить проблему</string>
+    <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
     <string name="notification_exit_power_save_mode">Энергосбережение отключено</string>
     <string name="notification_exit_power_save_mode_subtitle">Заряд батареи %s</string>
     <string name="notification_mask_summary">Скрывать содержимое уведомлений на экране блокировки и в шторке уведомлений</string>
@@ -1538,6 +1540,13 @@
     <string name="path_securitycenter">Системные приложения/Безопасность</string>
     <string name="path_securitycenter_settings">Системные приложения/Безопасность</string>
     <string name="path_usb_install">Системные приложения/Безопасность/Разрешения/Установка через USB</string>
+    <string name="pc_abnormal_scan_button_text">Закрыть приложения</string>
+    <string name="pc_abnormal_scan_reason_prevent_standby">Не дает системе перейти в спящий режим</string>
+    <string name="pc_abnormal_scan_reason_reconnect">Слишком часто пытается подключиться к сети</string>
+    <string name="pc_abnormal_scan_reason_runtime_exception">Аномальное поведение</string>
+    <string name="pc_abnormal_scan_reason_scan_wifi">Слишком часто сканирует Wi-Fi</string>
+    <string name="pc_abnormal_scan_reason_use_GPS">Слишком часто использует службы определения местоположения</string>
+    <string name="pc_abnormal_scan_reason_wake_system">Слишком часто пробуждает систему</string>
     <string name="pc_activity_title">Оптимизация питания</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Установка через USB</string>
