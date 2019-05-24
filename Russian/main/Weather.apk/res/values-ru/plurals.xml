@@ -48,6 +48,30 @@
         <item quantity="few">"&lt;font color='#20a7ff'>%1$s&lt;/font> голоса"</item>
         <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> голосов"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Максимальная температура: %1$s градусов по Цельсию</item>
+        <item quantity="one">Максимальная температура: %1$s градус по Цельсию</item>
+        <item quantity="few">Максимальная температура: %1$s градуса по Цельсию</item>
+        <item quantity="many">Максимальная температура: %1$s градусов по Цельсию</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Максимальная температура: %1$s градусов по Фаренгейту</item>
+        <item quantity="one">Максимальная температура: %1$s градус по Фаренгейту</item>
+        <item quantity="few">Максимальная температура: %1$s градуса по Фаренгейту</item>
+        <item quantity="many">Максимальная температура: %1$s градусов по Фаренгейту</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Минимальная температура: %1$s градусов по Цельсию</item>
+        <item quantity="one">Минимальная температура: %1$s градус по Цельсию</item>
+        <item quantity="few">Минимальная температура: %1$s градуса по Цельсию</item>
+        <item quantity="many">Минимальная температура: %1$s градусов по Цельсию</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Минимальная температура: %1$s градусов по Фаренгейту</item>
+        <item quantity="one">Минимальная температура: %1$s градус по Фаренгейту</item>
+        <item quantity="few">Минимальная температура: %1$s градуса по Фаренгейту</item>
+        <item quantity="many">Минимальная температура: %1$s градусов по Фаренгейту</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>
         <item quantity="one">Ясно</item>
