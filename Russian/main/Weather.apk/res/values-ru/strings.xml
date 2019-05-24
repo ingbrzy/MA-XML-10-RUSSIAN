@@ -224,13 +224,12 @@
     <string name="traffic_control_tomorrow_numbers">Завтра: %1$s</string>
     <string name="traffic_controls">Состояние дорог</string>
     <string name="translate_notification_info">Перевод в фоновом режиме…</string>
+    <string name="tts_best_aqi">Лучшее качество воздуха</string>
+    <string name="tts_hour_weather_date_time">С %2$s по %1$s до %4$s по %3$s</string>
+    <string name="tts_max_wind_power">Максимальная скорость ветра</string>
     <string name="tts_report_aqi" />
     <string name="tts_report_defautl_head" />
     <string name="tts_report_split" />
-    <string name="tts_report_temperature_high_centigrade" />
-    <string name="tts_report_temperature_high_fahrenheit" />
-    <string name="tts_report_temperature_low_centigrade" />
-    <string name="tts_report_temperature_low_fahrenheit" />
     <string name="tts_report_weather_desc" />
     <string name="tts_report_wind" />
     <string name="unit">Единицы измерения</string>
