@@ -332,6 +332,12 @@
     <item quantity="few">Разряд %2$d%% за последние %1$d минуты</item>
     <item quantity="many">Разряд %2$d%% за последние %1$d минут</item>
   </plurals>
+  <plurals name="notification_battery_scan_consume_abnormal_title_split">
+    <item quantity="other">%2$d приложений, включая %1$s, разряжают батарею</item>
+    <item quantity="one">%2$d приложение, включая %1$s, разряжают батарею</item>
+    <item quantity="few">%2$d приложения, включая %1$s, разряжают батарею</item>
+    <item quantity="many">%2$d приложений, включая %1$s, разряжают батарею</item>
+  </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">%d дней с момента последней проверки</item>
     <item quantity="one">%d день с момента последней проверки</item>
@@ -385,6 +391,12 @@
     <item quantity="one">+%d</item>
     <item quantity="few">+%d</item>
     <item quantity="many">+%d</item>
+  </plurals>
+  <plurals name="pc_abnormal_scan_result_model_result_title">
+    <item quantity="other">%d приложений разряжают батарею</item>
+    <item quantity="one">%d приложение разряжают батарею</item>
+    <item quantity="few">%d приложения разряжают батарею</item>
+    <item quantity="many">%d приложений разряжают батарею</item>
   </plurals>
   <plurals name="people">
     <item quantity="other">Загрузок: %1$d</item>
