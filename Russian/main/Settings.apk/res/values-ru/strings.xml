@@ -1242,7 +1242,8 @@
     <string name="confirm_frp_credential_title">Разблокировка после сброса</string>
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
     <string name="confirm_privacy_password">Введите пароль защиты личных данных</string>
-    <string name="confirm_privacy_password_fingerprint">Отсканируйте отпечаток пальца или введите пароль защиты личных данных</string>
+    <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток пальца или 
+введите пароль защиты личных данных"</string>
     <string name="confirm_reset_aaid">OK</string>
     <string name="connect_mode">Режим соединения</string>
     <string name="connect_to_internet">Подключение к интернету</string>
