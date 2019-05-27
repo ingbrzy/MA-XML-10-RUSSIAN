@@ -245,6 +245,7 @@
     <string name="turn_off_this_repeat_alarm">Отключить насовсем</string>
     <string name="upcoming_alarm">Будильник в %s</string>
     <string name="upcoming_alarm_hint">Вы можете отключить его.</string>
+    <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="vibrate_pref_summary">Вибрировать при сигнале</string>
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
