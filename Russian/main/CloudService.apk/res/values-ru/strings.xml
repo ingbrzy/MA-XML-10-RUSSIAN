@@ -39,8 +39,7 @@
     <string name="find_device_dspt_provision">При утере устройства вы можете перейти на %s для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="find_device_error_network">Проверьте подключение и повторите попытку</string>
     <string name="find_device_error_server">Ошибка сервера</string>
-    <string name="find_device_gdpr_prompt">Включив Поиск устройства, вы принимаете нашу Политику конфиденциальности. Для отзыва разрешения отключите эту функцию.</string>
-    <string name="find_device_gdpr_prompt_policy_doc_name">Политика конфиденциальности</string>
+    <string name="find_device_gdpr_prompt">Включив Поиск устройства, вы принимаете нашу &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/u&gt;. Для отзыва разрешения отключите эту функцию.</string>
     <string name="find_device_operation_failure_rpc">Не удалось выполнить операцию из-за ошибки RPC.</string>
     <string name="find_device_send_sms_alert">При замене SIM карты может быть автоматически отправлено SMS для повторной активации.</string>
     <string name="find_device_service_title">Поиск устройства</string>
