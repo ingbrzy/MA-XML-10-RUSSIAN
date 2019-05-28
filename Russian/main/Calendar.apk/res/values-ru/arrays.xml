@@ -28,6 +28,10 @@
         <item>Только это мероприятие</item>
         <item>Все мероприятия в серии</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Только в этот раз</item>
+        <item>Отключить повторное напоминание</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Вперед</item>
         <item>Назад</item>
@@ -81,6 +85,7 @@
         <item>10 минут</item>
         <item>15 минут</item>
         <item>30 минут</item>
+        <item>1 час</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Только это мероприятие</item>
