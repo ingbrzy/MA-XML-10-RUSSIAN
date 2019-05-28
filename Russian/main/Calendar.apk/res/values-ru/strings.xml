@@ -337,7 +337,7 @@
     <string name="pref_title_alarm_remind">Напоминать мелодией</string>
     <string name="pref_title_no_remind">Не напоминать</string>
     <string name="pref_title_notification_remind">Напоминать уведомлением</string>
-    <string name="preferences_alarm_default_event_title">Установить оповещения будильника</string>
+    <string name="preferences_alarm_default_event_title">Установить сигнал напоминаний</string>
     <string name="preferences_alarms_category_title">Сигнал напоминаний</string>
     <string name="preferences_alarms_default_event">Выберите события</string>
     <string name="preferences_alarms_sound">Мелодия</string>
