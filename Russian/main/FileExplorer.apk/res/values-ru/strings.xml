@@ -37,6 +37,12 @@
     <string name="app_name_miuiwallpaper">Обои</string>
     <string name="app_name_screenshot">Скриншоты</string>
     <string name="auto">Система</string>
+    <string name="auto_play">Воспроизводить автоматически при подключении к Wi-Fi</string>
+    <string name="auto_play_later">Позже</string>
+    <string name="auto_play_now">Включить</string>
+    <string name="auto_play_recommend">Автоматическое воспроизведение</string>
+    <string name="auto_play_recommend_tips">Воспроизведить видео автоматически</string>
+    <string name="auto_play_toast">Видео будет воспроизводиться автоматически. Вы можете изменить это в настройках.</string>
     <string name="big5_summary">Традиционная китайская кодировка Windows по умолчанию</string>
     <string name="byteShort">Б</string>
     <string name="can_not_send_with_too_many">Слишком много объектов для отправки</string>
@@ -340,6 +346,8 @@
     <string name="partial_cancel_successful">Не удалось скрыть некоторые файлы. Остальные перемещены в %s.</string>
     <string name="partial_delete_failure">Ошибка удаления некоторых файлов, повторите попытку</string>
     <string name="partial_encrypt_success">Не удалось скрыть некоторые файлы, повторите попытку</string>
+    <string name="path_download">Управление загрузками</string>
+    <string name="path_recent_file">Управление файлами на устройстве</string>
     <string name="permission_denial">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
     <string name="petabyteShort">ПБ</string>
