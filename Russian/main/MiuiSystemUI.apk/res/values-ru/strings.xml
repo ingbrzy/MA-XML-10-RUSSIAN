@@ -333,7 +333,10 @@
     <string name="block_record_notification_title">Уведомления скрыты</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
-    <string name="bluetooth_connected">Подключено%1$s</string>
+    <string name="bluetooth_active_battery_level">Активно, батарея %1$s</string>
+    <string name="bluetooth_active_no_battery_level">Активно</string>
+    <string name="bluetooth_battery_level">батарея %1$s</string>
+    <string name="bluetooth_connected">Подключено %1$s</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио) %1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Батарея %1$s%2$s</string>
