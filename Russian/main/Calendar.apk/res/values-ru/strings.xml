@@ -135,6 +135,7 @@
     <string name="date_jump_title">Переход к дате</string>
     <string name="date_today">" (сегодня)"</string>
     <string name="day_view_new_event_hint">+ Новое мероприятие</string>
+    <string name="default_reminder_later_time">Интервал по умолчанию для \"Напомнить позже\"</string>
     <string name="default_reminder_mode">Напоминания</string>
     <string name="delete_calendar">Отписаться</string>
     <string name="delete_recurring_event_title">Удалить %s?</string>
