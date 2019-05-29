@@ -244,6 +244,9 @@
     <string name="cleaner_video_description">Удалите ненужные видео</string>
     <string name="cleaner_video_pick_delete_selected">Удалить выбранные файлы</string>
     <string name="cleaner_video_title">Видео</string>
+    <string name="clear_dup_medias">Очистка дубликатов фото</string>
+    <string name="clear_dup_success">Успешно очищено</string>
+    <string name="clear_dup_tip">Очистка дубликатов фото</string>
     <string name="click_download_gif">Нажмите для загрузки GIF</string>
     <string name="click_top_right">Нажмите на значок вверху справа</string>
     <string name="close">Закрыть</string>
