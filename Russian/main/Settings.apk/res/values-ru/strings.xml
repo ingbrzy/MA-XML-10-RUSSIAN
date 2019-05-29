@@ -5210,7 +5210,7 @@ UT-интерфейс: %5$s"</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа."</string>
-    <string name="toggle_auto_speaker_preference_summary">Переключаться на динамик, когда вы отодвигаете устройство от уха во время разговора. Функция работает только когда TalkBack включен.</string>
+    <string name="toggle_auto_speaker_preference_summary">Переключаться на динамик, когда вы отодвигаете устройство от уха во время разговора. Функция работает только когда включен TalkBack.</string>
     <string name="toggle_auto_speaker_preference_title">Автоматическое переключение на динамик</string>
     <string name="toggle_collapse_after_clicked_title">Скрывать после касания</string>
     <string name="total">Не беспокоить</string>
