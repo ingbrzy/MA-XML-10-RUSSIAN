@@ -73,11 +73,12 @@
     <string name="account_setup_basics_manual_setup_action">Ручная настройка</string>
     <string name="account_setup_basics_mi_mail_login_help">Вам может потребоваться проверка учетной записи через SMS, чтобы получать сообщения электронной почты</string>
     <string name="account_setup_basics_password_label">Введите пароль</string>
+    <string name="account_setup_basics_password_label_authcode">Введите пароль или код подтверждения</string>
     <string name="account_setup_basics_title">Новый аккаунт</string>
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Получение информации аккаунта…"</string>
-    <string name="account_setup_correct_address_tips">Введите адрес электронной почты</string>
+    <string name="account_setup_correct_address_tips">Неверный адрес электронной почты</string>
     <string name="account_setup_creating_account_msg">"    Создание аккаунта…"</string>
     <string name="account_setup_deleting_account_msg">"    Удаление аккаунта…"</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
@@ -163,6 +164,7 @@
     <string name="add_account_keywords">Добавить аккаунт;добавить аккаунт почты</string>
     <string name="add_attachment">Добавить вложение</string>
     <string name="add_calendar">Напомнить</string>
+    <string name="add_file_exception">"Не удалось добавить. Попробуйте добавить это вложение из другого места."</string>
     <string name="add_label">Добавить папку</string>
     <string name="add_pre_message_attachments">Добавить вложения предыдущего сообщения?</string>
     <string name="add_pre_message_attachments_no">Не добавлять</string>
@@ -172,10 +174,10 @@
     <string name="always_bcc_myself">Отправлять себе скрытую копию</string>
     <string name="always_show_images">Всегда показывать изображения этого отправителя</string>
     <string name="app_name">Почта</string>
-    <string name="appraise_des">Мы прилагаем все усилия для разработки продуктов, отвечающим вашим потребностям. Пожалуйста, поддержите нас своими комментариями.</string>
-    <string name="appraise_good">Похвала и поощрение</string>
-    <string name="appraise_ignore">Временная оценка</string>
-    <string name="appraise_negative">Негативный комментарий</string>
+    <string name="appraise_des">Вам нравится приложение?</string>
+    <string name="appraise_good">Да</string>
+    <string name="appraise_ignore">"Не могу сказать сейчас"</string>
+    <string name="appraise_negative">Нет</string>
     <string name="archive">Архивировать</string>
     <string name="archived">Архивировано</string>
     <string name="att_download_failed_content">Не удалось загрузить вложение</string>
@@ -204,6 +206,7 @@
     <string name="attachment_not_exists">Вложение недоступно</string>
     <string name="attachment_open_SecurityException_hint">Отсутствует разрешение на открытие файла или файл поврежден.</string>
     <string name="attachment_open_SecurityException_title">Не удается открыть файл</string>
+    <string name="attachment_opening_mode">Приложения для вложений</string>
     <string name="attachment_size_exceed_limit">Похоже, что размер приложения превысил лимит</string>
     <string name="attachment_stop_all">Остановить</string>
     <string name="attachment_text">Текст</string>
@@ -343,11 +346,13 @@
     <string name="debug_mode_preferencecategory">Настройка вывода журнала</string>
     <string name="debug_mode_settings">Настройки режима отладки</string>
     <string name="default_">ПО УМОЛЧАНИЮ</string>
+    <string name="default_opening_attchemnt_mode">Открывать вложения с помощью приложений по умолчанию</string>
     <string name="default_setup">ПАРАМЕТРЫ ПО УМОЛЧАНИЮ</string>
     <string name="default_signature">Отправлено с Mi Phone</string>
     <string name="default_signature_2">Отправлено с %s</string>
     <string name="del_account_questionnair_hint">Почему вы хотите удалить этот аккаунт?</string>
     <string name="delete">Удалить</string>
+    <string name="delete_contact_content">Удалить этот контакт?</string>
     <string name="delete_message_flow">Удалить диалог</string>
     <string name="delete_message_flow_keywords">удалить диалог;удалить перенаправление</string>
     <string name="deleted">Удалено</string>
@@ -359,6 +364,7 @@
     <string name="device_not_activiey_lint2">Почтовая служба не работает с сервером Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Вы решили синхронизировать почту вручную. Обновите для синхронизации.</string>
     <string name="dialog_change_sync_lookback">Почта, полученная %s назад, будет удалена автоматически. Нажмите, чтобы изменить.</string>
+    <string name="dialog_disagree">"Не согласен"</string>
     <string name="dialog_insufficient_space_on_external">Невозможно загрузить вложение. Недостаточно памяти.</string>
     <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти.</string>
     <string name="dialog_system_auto_sync_account_no_open">Включите синхронизацию аккаунта для автоматической загрузки писем</string>
@@ -413,7 +419,11 @@
     <string name="empty_trash_dialog_title">Очистить корзину?</string>
     <string name="enable_sync_in_account_settings">Включить в %1$s</string>
     <string name="error">Ошибка</string>
-    <string name="exception_cancel">Следующее событие было отменено: %s</string>
+    <string name="exception_cancel">"
+        Следующее событие было отменено:
+        
+        %s
+   "</string>
     <string name="exception_updated">Детали этого события были изменены на: %s</string>
     <string name="exchange_name">Корпоративный</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -426,6 +436,7 @@
     <string name="failed_read_write_contacts_permission">Разрешить доступ к контактам</string>
     <string name="feedback">Отправить отчет</string>
     <string name="feedback_body">Текст отчета</string>
+    <string name="feedback_body_domestic"/>
     <string name="feedback_sent">Спасибо за ваш отзыв</string>
     <string name="feedback_user_edit_hint">Опишите проблему здесь. Мы ответим вам письмом на электронную почту.</string>
     <string name="feedback_user_edit_tag">От MIUI</string>
@@ -445,7 +456,7 @@
     <string name="folder_empty_to_fresh">"Почта не синхронизирована. Потяните вниз для синхронизации."</string>
     <string name="folder_list_display_all">Отображать все папки</string>
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
-    <string name="folder_no_mails">Нет писем в этой папке</string>
+    <string name="folder_no_mails">Нет писем в этой папке.</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из %1$s</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
@@ -483,7 +494,7 @@
     <string name="header_category_other">Отзывы</string>
     <string name="header_label_general_preferences">Основные настройки</string>
     <string name="help_and_info">Помощь</string>
-    <string name="help_me_get_qq_auth">Помощь в получении кода авторизации QQ</string>
+    <string name="help_me_get_qq_auth">Получить код авторизации QQ</string>
     <string name="hide_elided">▼ Скрыть цитирование</string>
     <string name="hide_password">Скрыть пароль</string>
     <string name="hint_quick_reply_all">Ответить всем</string>
@@ -502,15 +513,18 @@
     <string name="invalid_recipient">Адрес %s неверен.</string>
     <string name="invalid_recipient_title">Неверный получатель</string>
     <string name="kilobytes">%s КБ</string>
+    <string name="list_empty_to_fresh">Пока нет писем.</string>
     <string name="load_from_remote">Поиск на сервере</string>
     <string name="load_more">Загрузить еще</string>
     <string name="loading_conversation">Загрузка…</string>
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Загрузка…</string>
     <string name="local_search">Локальный поиск</string>
+    <string name="local_search_result">Результатов в синхронизированных сообщениях: %s</string>
     <string name="log_save_path">Путь к журналу</string>
     <string name="login">Вход</string>
     <string name="login139">Войти с помощью China Mobile</string>
+    <string name="login_err_message">Неверный пароль. Вам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://email.163.com/ чтобы посмотреть доступные способы.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_support_tip_text">Поддерживаются все основные сервисы</string>
@@ -550,17 +564,50 @@
     <string name="mark_unread">Не прочитано</string>
     <string name="me_object_pronun">Я</string>
     <string name="me_subject_pronun">Я</string>
-    <string name="meeting_accepted">Принято: %s</string>
-    <string name="meeting_allday">Когда: %s (весь день)</string>
-    <string name="meeting_allday_recurring">Когда: %s (весь день, с повтором)</string>
-    <string name="meeting_canceled">Отменено: %s</string>
-    <string name="meeting_declined">Отклонено: %s</string>
-    <string name="meeting_recurring">Когда: %s (с повтором)</string>
+    <string name="meeting_accepted">"
+        Принято:
+        %s
+    "</string>
+    <string name="meeting_allday">"
+        Когда:
+        %s
+        (весь день)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Когда:
+        %s
+        (весь день, с повтором)
+    "</string>
+    <string name="meeting_canceled">"
+        Отменено:
+        %s
+    "</string>    
+    <string name="meeting_declined">"
+        Отклонено:
+        %s
+    "</string>
+    <string name="meeting_recurring">"
+        Когда:
+        %s
+        (с повтором)
+    "</string>
     <string name="meeting_responded_failed">Не отвечает</string>
-    <string name="meeting_tentative">Под вопросом: %s</string>
-    <string name="meeting_updated">Обновлено: %s</string>
-    <string name="meeting_when">Когда: %s</string>
-    <string name="meeting_where">Где: %s</string>
+    <string name="meeting_tentative">"
+        Под вопросом:
+        %s
+    "</string>
+    <string name="meeting_updated">"
+        Обновлено:
+        %s
+    "</string>
+    <string name="meeting_when">"
+        Когда:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Где:
+        %s
+    "</string>
     <string name="megabytes">%s МБ</string>
     <string name="menu_att_mgr">Вложения</string>
     <string name="menu_att_mgr_order_default">Недавно просмотренные</string>
@@ -638,6 +685,11 @@
     <string name="notification_action_undo_delete">Удалено</string>
     <string name="notification_action_undo_remove_label">Метка удалена</string>
     <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
+    <string name="notify_channel_new_mail">Уведомлять о новых сообщениях</string>
+    <string name="notify_channel_no_disterb">Режим \"Не беспокоить\"</string>
+    <string name="notify_channel_permission_notice">Требуются разрешения</string>
+    <string name="notify_channel_send_fail">Уведомлять о неудачной доставке</string>
+    <string name="notify_channel_service">Уведомлять о фоновой синхронизации</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
     <string name="oauth_gmail_login_notify">Введите логин и пароль аккаунта Google в следующей форме.</string>
     <string name="oauth_login_continue">Продолжить</string>
@@ -755,6 +807,9 @@
     <string name="preview_attachment">Просмотр</string>
     <string name="previous_action">Назад</string>
     <string name="print">Печать</string>
+    <string name="print_scheduler_title">Распечатать весь планировщик</string>
+    <string name="privacy_des">"Журналы содержат отладочную информацию почтового клиента и информацию об устройстве. Эта информация используется для более быстрой локализации проблем. Нажав \"%1$s\" ниже, вы соглашаетесь с \"%2$s\"."</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol_setting_toast">Нажмите на правый верхний угол для перехода к настройкам</string>
     <string name="pull_to_refresh">Потяните вниз для обновления</string>
@@ -775,11 +830,13 @@
     <string name="qq_bar_send_message">Отправить SMS</string>
     <string name="qq_login_basecode">Авторизация в веб-почте QQ. Введите независимый пароль.</string>
     <string name="qq_login_get_auth">Включите защиту паролем, если вы не можете получить SMS</string>
+    <string name="qq_login_notice">"Примечание: если вы уже установили пароль, необходимо подтвердить его при входе в систему."</string>
     <string name="qq_login_open_imap">Нажмите \"Помощь\", чтобы включить IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Введите имя пользователя и пароль для входа в ></string>
     <string name="qq_login_send_message">Нажмите \"Отправить SMS\", чтобы получить код подтверждения</string>
     <string name="qq_login_webview">Авторизация в веб-клиенте QQ, нажмите Войти с помощью пароля.</string>
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
+    <string name="qq_pwd_or_qq_auth_code">Введите QQ код подтверждения или пароль почты</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
     <string name="qq_webview_loading">Подождите…</string>
     <string name="questionnair_body_invisibility">Сообщения не отображаются</string>
@@ -840,6 +897,7 @@
     <string name="refreshing_done">Готово</string>
     <string name="release_to_refresh">Отпустите для обновления</string>
     <string name="remind_attachment_size_limit">Размер письма не должен превышать %s МБ</string>
+    <string name="remote_no_mail">"На сервере больше нет писем."</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_folder">Удалить из папки \"%1$s\"</string>
     <string name="remove_star">Снять отметку</string>
@@ -953,12 +1011,13 @@
     <string name="three_day">3 дня</string>
     <string name="to">Кому</string>
     <string name="to_heading">"Кому: "</string>
-    <string name="toast_bar_fail_synchronization">Не удается подключиться к сети</string>
+    <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
     <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно памяти.</string>
     <string name="toast_bar_invalid_account">Срок информации об учетной записи истек. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
     <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Включите прокси Gmail.</string>
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
+    <string name="toast_bar_sync_failed_mi_authority">"Не удалось синхронизировать. Повторите попытку позже. Если это первый вход в систему, авторизуйте свое устройство через интранет/SMS-токен."</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Чтобы синхронизировать данные календаря и контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_calendar_permission_switch_close">Чтобы получать напоминания календаря, предоставьте приложению Почта необходимые разрешения в Настройках</string>
     <string name="toastbar_contacts_permission_switch_close">Чтобы добавить контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
@@ -991,6 +1050,8 @@
     <string name="unread_string">диалог не прочитан</string>
     <string name="unzip_file_failed">Не удалось распаковать файл</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+    <string name="update_domain_summary">Обновить список доменов и конфигурацию</string>
+    <string name="update_domain_title">Обновить домен</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="upload_log">Отправить отчет</string>
     <string name="upload_log_failed">Не удалось отправить</string>
@@ -1011,6 +1072,8 @@
     <string name="wait_for_manual_sync_body">"Этот аккаунт не настроен для автоматической синхронизации.
 Нажмите "<b>Синхронизировать</b> для однократной синхронизации или <b>Настройки синхронизации</b> для изменения параметров.</string>
     <string name="wait_for_sync_title">Ожидание синхронизации</string>
+    <string name="wait_help_context">подождите</string>
+    <string name="wait_while_update_db">Подождите, идет обновление базы данных.</string>
     <string name="webview_logout">Вы можете повторить вход</string>
     <string name="webview_logout_cancel">Не сейчас</string>
     <string name="webview_logout_sure">Повторить</string>
