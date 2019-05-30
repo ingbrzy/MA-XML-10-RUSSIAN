@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>Время до будильника: менее минуты</item>
-        <item>Время до будильника: %1$s</item>
-        <item>Время до будильника: %2$s</item>
-        <item>Время до будильника: %1$s %2$s</item>
-        <item>Время до будильника: %3$s</item>
-        <item>Время до будильника: %1$s %3$s</item>
-        <item>Время до будильника: %2$s %3$s</item>
-        <item>Время до будильника: %1$s %2$s %3$s</item>
+        <item>Осталось менее минуты</item>
+        <item>Зазвонит через %1$s</item>
+        <item>Зазвонит через %2$s</item>
+        <item>Зазвонит через %1$s %2$s</item>
+        <item>Зазвонит через %3$s</item>
+        <item>Зазвонит через %1$s %3$s</item>
+        <item>Зазвонит через %2$s %3$s</item>
+        <item>Зазвонит через %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Однократно</item>
@@ -28,11 +28,11 @@
         <item>Будильник зазвонит менее чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>
         <item>Будильник зазвонит через %2$s</item>
-        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %1$s %2$s</item>
         <item>Будильник зазвонит через %3$s</item>
-        <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
-        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s %3$s</item>
+        <item>Будильник зазвонит через %2$s %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s %3$s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Хороший</item>
