@@ -178,6 +178,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="flash_drive_restore_btn">Восстановить с USB</string>
   <string name="flash_drive_search_backup_files">"Поиск резервных копий на USB…
 Не изменяйте файлы резервных копий."</string>
+  <string name="gallery_summary">Настройки галереи (не включая фото)</string>
   <string name="guarded_mode_dialog_backup_message">Нельзя использовать Резервирование в режиме \"Гость\".</string>
   <string name="guarded_mode_dialog_title">Активен режим \"Гость\"</string>
   <string name="guarded_mode_dialog_transfer_message">Нельзя использовать Mi Mover в режиме \"Гость\".</string>
@@ -284,7 +285,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="notif_trans_sending_failed">Не удалось отправить данные</string>
   <string name="notif_trans_wait_for_reconnecting">Соединение прервано. Подключитесь заново.</string>
   <string name="old_soft_name">Подключение через QR-код</string>
-  <string name="old_way">Вы можете подключиться с помощью QR-кода. Нажмите, чтобы сгенерировать код.</string>
+  <string name="old_way">Вы также можете создать QR-код на новом устройстве и отсканировать его с помощью старого.</string>
   <string name="page_loading">Секунду…</string>
   <string name="password">Пароль</string>
   <string name="password_null">Пароль не может быть пустым</string>
@@ -627,14 +628,16 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
   <string name="usb_trans_old_phone_low_space_title">Недостаточно места</string>
   <string name="usb_trans_select_data_no_space">"На USB накопителе доступно только %s.
 Освободите место или передайте только важные объекты."</string>
+  <string name="user_feedback">Обратная связь</string>
   <string name="user_name">Apple ID или почта</string>
   <string name="user_name_null">Имя не может быть пустым</string>
   <string name="user_notice_declaration_ignore">Больше не показывать</string>
   <string name="user_notice_message">Для нормальной работы приложению требуется подключение к интернету.</string>
   <string name="user_notice_title">Внимание</string>
   <string name="view_password_description">Показать пароль</string>
-  <string name="wait_link">"Подключите старое устройство к этой точке доступа 
-и дождитесь установки соединения."</string>
+  <string name="wait_link">"Откройте Mi Mover на старом устройстве,
+нажмите \"Я отправитель\" и выберите точку доступа для подключения.
+Не закрывайте страницу до установления соединения."</string>
   <string name="waiting">Подождите…</string>
   <string name="wifi_title">Настройки Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">Не удалось начать загрузку. Убедитесь в том, что диспетчер загрузок работает нормально.</string>
