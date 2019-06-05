@@ -653,6 +653,9 @@
     <string name="menu_set_ring_tone">Мелодия контакта</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_share">Отправить</string>
+    <string name="menu_share_qrcode">QR-код</string>
+    <string name="menu_share_text">Текст</string>
+    <string name="menu_share_vcard_file">Файл</string>
     <string name="menu_show_all_calls">Показать все вызовы</string>
     <string name="menu_show_voicemails_only">Показать только голосовые сообщения</string>
     <string name="menu_splitAggregate">Разделить</string>
@@ -1025,8 +1028,10 @@
     <string name="set_data_package">Выберите тариф</string>
     <string name="set_default">Установить как основной</string>
     <string name="set_photo_failed_msg">Не удалось назначить изображение</string>
+    <string name="share_contact_as">Отправить контакт как</string>
     <string name="share_error">Не удалось передать данные</string>
     <string name="share_over_limit">Нельзя передать более 1000 контактов</string>
+    <string name="share_qrcode">Отправить QR-код</string>
     <string name="share_via">Отправить с помощью</string>
     <string name="share_visible_contacts">Отправить контакты</string>
     <string name="shortcutActivityTitle">Выберите функцию ярлыка</string>
