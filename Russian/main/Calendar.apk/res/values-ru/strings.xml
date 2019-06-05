@@ -332,7 +332,11 @@
     <string name="passenger">Пассажир</string>
     <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
     <string name="phone_num">Номер телефона</string>
+    <string name="prefDefault_alerts_vibrateWhen">никогда</string>
+    <string name="prefDefault_alerts_vibrate_false">никогда</string>
+    <string name="prefDefault_alerts_vibrate_true">всегда</string>
     <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
+    <string name="pref_default_popup_alert_value">умные</string>
     <string name="pref_error_no_ringtone_select">Мелодия по умолчанию</string>
     <string name="pref_reminder_time">Время напоминания</string>
     <string name="pref_title_alarm_remind">Напоминать мелодией</string>
@@ -352,6 +356,9 @@
     <string name="preferences_default_reminder_title">Время напоминания</string>
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
     <string name="preferences_notification_ringtone_title">Мелодия</string>
+    <string name="preferences_popup_alert_smart_summary">MIUI автоматически определит, какие события наиболее актуальны</string>
+    <string name="preferences_popup_alert_smart_tips">"Замените традиционные уведомления всплывающими уведомлениями, чтобы не пропустить важные события. Всплывающие уведомления не будут появляться, когда вы играете в игры, смотрите полноэкранные видеоролики или используете автомобильный режим."</string>
+    <string name="preferences_popup_alert_title">Всплывающие уведомления</string>
     <string name="preferences_title">Календарь</string>
     <string name="preferences_use_home_tz_descrip">Во время поездок отображать календари и события в домашнем часовом поясе</string>
     <string name="preferences_use_home_tz_title">Домашний часовой пояс</string>
