@@ -124,10 +124,20 @@
         <item>Рыбы</item>
         <item>19.02-20.03</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Выкл.</item>
+        <item>Для всех событий</item>
+        <item>Для наиболее актуальных событий</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
         <item>Только в режиме \"Без звука\"</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>нет</item>
+        <item>все</item>
+        <item>умные</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Региональные настройки</item>
