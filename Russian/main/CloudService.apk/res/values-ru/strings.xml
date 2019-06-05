@@ -36,7 +36,7 @@
     <string name="error_server">Ошибка сервера</string>
     <string name="error_unknown">Ошибка авторизации</string>
     <string name="find_device">Поиск устройства</string>
-    <string name="find_device_dspt_provision">При утере устройства вы можете перейти на %s для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
+    <string name="find_device_dspt_provision">При утере устройства вы можете перейти на  &lt;font color=#ff0000&gt;%s&lt;/font&gt; для его обнаружения, блокировки или очистки данных. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="find_device_error_network">Проверьте подключение и повторите попытку</string>
     <string name="find_device_error_server">Ошибка сервера</string>
     <string name="find_device_gdpr_prompt">Включив Поиск устройства, вы принимаете нашу &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/u&gt;. Для отзыва разрешения отключите эту функцию.</string>
@@ -225,7 +225,7 @@
     <string name="micloud_main_space_low">Место заканчивается</string>
     <string name="micloud_main_sync_init">Получение данных…</string>
     <string name="micloud_main_sync_now">Синхронизировать</string>
-    <string name="micloud_main_sync_mode_summary">Когда эта функция включена, синхронизация будет осуществляться в режиме реального времени. Это может увеличить расход заряда батареи.</string>
+    <string name="micloud_main_sync_mode_summary">Синхронизация всех элементов, за исключением фото и видео, в режиме реального времени. Это может увеличить расход заряда батареи.</string>
     <string name="micloud_main_sync_mode_title">Синхронизация в реальном времени</string>
     <string name="micloud_main_sync_on">Включить</string>
     <string name="micloud_main_sync_pause">Синхронизация приостановлена</string>
