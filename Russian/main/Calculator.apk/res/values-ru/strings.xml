@@ -253,6 +253,8 @@
     <string name="tax_medical">Медицинский</string>
     <string name="tax_param_error">Введите правильную ставку страхования</string>
     <string name="tax_payment_period">Количество платежей</string>
+    <string name="tax_rate_provider">Рассчитывается в соответствии с новыми налоговыми правилами. Данные предоставлены hexun.com и East Money.</string>
+    <string name="tax_rate_provider_east_money">Рассчитывается в соответствии с новыми налоговыми правилами. Данные предоставлены East Money.</string>
     <string name="tax_result_real_get">С налогом</string>
     <string name="tax_social_insurance">Социальное страхование</string>
     <string name="tax_thershold_foreign">%s (иностранные граждане)</string>
