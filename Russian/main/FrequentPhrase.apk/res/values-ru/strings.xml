@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_frequent_phrases">Добавить частые фразы</string>
+  <string name="delete_frequent_phrases">Удалить частые фразы</string>
+  <string name="delete_frequent_phrases_confirm">Удалить выбранные частые фразы?</string>
+  <string name="edit_frequent_phrases">Редактировать частые фразы</string>
+  <string name="frequent_phrases_des">Вводите частые фразы с помощью всего нескольких нажатий во время редактирования текста</string>
+  <string name="frequent_phrases_size_exceeded">Можно добавить до %1$d частых фраз. Удалите ненужные, чтобы добавить больше.</string>
+  <string name="menu_add_frequent_phrases">Добавить</string>
+  <string name="menu_delete">Удалить</string>
+  <string name="menu_edit">Редактировать</string>
+  <string name="sync_phrase_label">Частые фразы</string>
+</resources>
