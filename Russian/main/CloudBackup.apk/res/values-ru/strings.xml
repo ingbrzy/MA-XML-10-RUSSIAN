@@ -8,9 +8,12 @@
     <string name="as_new_device_summary">Удалить предыдущие копии Mi Cloud</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="back_up_task_in_process">Резервирование…</string>
-    <string name="back_up_task_unfinished">Резервирование не завершено</string>
+    <string name="back_up_task_unfinished">Не удалось создать резервную копию</string>
     <string name="backing_up_to_micloud">Резервирование…</string>
     <string name="backup_fail_wifi_needed">Резервирование не удалось, требуется Wi-Fi</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Mi Cloud. Обновите свой план или освободите место.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
+    <string name="backup_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="backup_finished_notification_content">Резервирование завершено</string>
     <string name="backup_now">Начать</string>
     <string name="backup_size">Размер: %s</string>
@@ -185,6 +188,8 @@
     <string name="restore_detail_category_settings">Настройки</string>
     <string name="restore_detail_more">Еще</string>
     <string name="restore_detail_title">Объекты для восстановления</string>
+    <string name="restore_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
+    <string name="restore_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
     <string name="restore_from_cloud">Восстановить из Mi Cloud</string>
     <string name="restore_from_this_device">Восстановить из этой копии</string>
@@ -195,6 +200,7 @@
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
     <string name="restore_task_cancelling">Отмена…</string>
     <string name="restore_task_in_process">Восстановление…</string>
+    <string name="restore_task_unfinished">"Не удалось восстановить"</string>
     <string name="restore_unfinished">Идет восстановление, повторите попытку позже</string>
     <string name="retry">Повторить</string>
     <string name="selected">Выбрано</string>
