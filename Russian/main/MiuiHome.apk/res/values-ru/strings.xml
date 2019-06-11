@@ -30,6 +30,7 @@
     <string name="announce_for_open_default_preview">Открыты настройки выбора основного экрана</string>
     <string name="announce_for_open_folder">Открыта папка %1$s</string>
     <string name="announce_for_open_launcher_menu">Меню открыто</string>
+    <string name="announce_for_search_bar">Панель поиска</string>
     <string name="announce_for_show_uninstall_dialog">Появился диалог удаления. Отмените или подтвердите.</string>
     <string name="announce_for_unchecked">%1$s, выбор отменен</string>
     <string name="announce_for_widget_span">Ширина %1$d, высота %2$d</string>
@@ -288,6 +289,8 @@
     <string name="preferences_general_title">Дополнительные настройки</string>
     <string name="preferences_title">Настройки рабочего стола</string>
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
+    <string name="privacy_thumbnail_blur_summary">Размывать превью приложений в Недавних приложениях</string>
+    <string name="privacy_thumbnail_blur_title">Размытие превью приложений</string>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recents_config_title">Недавние приложения</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
