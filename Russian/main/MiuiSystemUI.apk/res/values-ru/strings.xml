@@ -981,6 +981,7 @@
     <string name="lock_screen_magazine_default_content">Свежие обои ежедневно</string>
     <string name="lock_screen_magazine_default_title">Карусель обоев</string>
     <string name="lock_screen_magazine_global_button_text">Больше</string>
+    <string name="lock_screen_magazine_label">Открыть Карусель обоев</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Больше</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Вход</string>
     <string name="lock_screen_no_sim_card_emergency_only">Только экстренные вызовы</string>
