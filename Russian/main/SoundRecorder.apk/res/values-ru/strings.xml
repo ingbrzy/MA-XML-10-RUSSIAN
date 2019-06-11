@@ -9,6 +9,9 @@
     <string name="button_queue_for_wifi">Отложить</string>
     <string name="button_start_now">Продолжить</string>
     <string name="call_record">Записи вызовов</string>
+    <string name="call_record_list_group_all">Все</string>
+    <string name="call_record_list_group_connected">Подключенные</string>
+    <string name="call_record_list_group_unconnected">Не подключенные</string>
     <string name="clear_records">Удаление записей из Mi Cloud</string>
     <string name="cloud_record_open">Синхронизация записей</string>
     <string name="cloud_record_tip">Синхронизировать записи с Mi Cloud.</string>
@@ -27,6 +30,7 @@
     <string name="dialog_content_storage_full">Запись была остановлена из-за нехватки места в памяти устройства.</string>
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Mi Cloud.</string>
     <string name="dialog_title_storage_full">Недостаточно места</string>
+    <string name="download">Загрузить</string>
     <string name="duration_format_hour">%s ч</string>
     <string name="duration_format_minute">%s мин</string>
     <string name="duration_format_second">%s с</string>
@@ -71,10 +75,11 @@
     <string name="preference_enable_earpiece_summary">Использовать разговорный динамик для воспроизведения</string>
     <string name="preference_enable_earpiece_title">Разговорный динамик</string>
     <string name="preference_led_indicator">Индикация записи</string>
-    <string name="preference_led_indicator_prompt">Во время записи показывать значок в строке состояния или мигать индикатором, если экран заблокирован</string>
+    <string name="preference_led_indicator_prompt">Во время записи показывать значок в строке состояния или мигать индикатором</string>
     <string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
     <string name="preference_scenes">Режим записи</string>
     <string name="preference_silent_mode">Режим \"Без звука\" при записи</string>
+    <string name="preference_status_bar_indicator_prompt">Показывать ярлык строки состояния во время записи</string>
     <string name="preference_tip_rename">Именовать записи вручную</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="recognition_error_cancel">Отменено</string>
@@ -133,6 +138,9 @@
     <string name="search_tip_rename">Именовать записи вручную</string>
     <string name="share">Отправить</string>
     <string name="share_dialog_title">Отправить с помощью</string>
+    <string name="shortcut_records">Записи</string>
+    <string name="shortcut_start_record">Начать запись</string>
+    <string name="shortcut_stop_record">Остановить запись</string>
     <string name="sound_recorder_settings">Настройки</string>
     <string name="speech_recognition_complete">Завершено</string>
     <string name="speech_recognition_running_tip">Запущено</string>
