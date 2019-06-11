@@ -170,6 +170,9 @@
     <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
     <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
     <string name="settings">Настройки</string>
+    <string name="shortcut_new_alarm">Установка будильника</string>
+    <string name="shortcut_start_timer">Запуск таймера</string>
+    <string name="shortcut_stop_watch">Запуск секундомера</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
     <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 5 минут позже момента выключения устройства</string>
