@@ -78,6 +78,12 @@
         <item quantity="few">%d объекта Ленты виджетов</item>
         <item quantity="many">%d объектов Ленты виджетов</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d частых фраз</item>
+        <item quantity="one">%d частая фраза</item>
+        <item quantity="few">%d частые фразы</item>
+        <item quantity="many">%d частых фраз</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">Не синхронизировано %d скрытых фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
         <item quantity="one">Не синхронизировано %d скрытое фото. Выйдите после синхронизации всех объектов, чтобы сохранить их; в противном случае объекты будут удалены.</item>
