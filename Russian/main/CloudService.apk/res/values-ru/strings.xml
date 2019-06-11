@@ -149,7 +149,7 @@
     <string name="micloud_dspt">Используйте Mi Cloud для синхронизации данных, поиска устройства</string>
     <string name="micloud_dspt_provision">Используйте Mi Cloud для синхронизации данных, поиска устройства и обмена информацией с друзьями.</string>
     <string name="micloud_dspt_provision_xms">Используйте Mi Cloud для синхронизации данных.</string>
-    <string name="micloud_find_device_close_alert_content">При отключении этой функции вы не сможете найти устройство в случае его утери.</string>
+    <string name="micloud_find_device_close_alert_content">При отключении функции \"Поиск устройства\" вы не сможете найти устройство в случае его утери. Если ваш телефон поддерживает функцию NFC, все ваши банковские карты и карты-ключи будут удалены из Mi Pay.</string>
     <string name="micloud_find_device_close_alert_negtive">Отключить</string>
     <string name="micloud_find_device_close_alert_positive">Не отключать</string>
     <string name="micloud_find_device_close_alert_title">Отключить Поиск устройства?</string>
