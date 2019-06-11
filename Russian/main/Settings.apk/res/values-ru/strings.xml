@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Аккаунты</string>
+    <string name="a11y_settings_label">Спец. возможности</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -61,7 +62,14 @@
     <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
     <string name="accessibility_lock_screen_progress">Использовано %1$d из %2$d символов</string>
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
+    <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
+    <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
+    <string name="accessibility_menu_description">"Меню \"Спец. возможности\" предоставляет дополнительные ярлыки, для управления устройством.
+
+Включите эту функцию и нажмите кнопку \"Спец. возможности\" внизу экрана, чтобы открыть меню."</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
+    <string name="accessibility_menu_service_name">Меню \"Спец. возможности\"</string>
+    <string name="accessibility_menu_summary">Дополнительные ярлыки для управления устройством</string>
     <string name="accessibility_more_settings">Дополнительные настройки</string>
     <string name="accessibility_no_service_selected">Сервис не выбран</string>
     <string name="accessibility_no_services_installed">Службы не установлены</string>
@@ -539,6 +547,10 @@
     <string name="backup_set_enter_pw_title">Ввод пароля</string>
     <string name="backup_set_error_pw">Неверный пароль</string>
     <string name="backup_set_modify_title">Изменение пароля</string>
+    <string name="backup_set_new_continue">Продолжить</string>
+    <string name="backup_set_new_exit">Выход</string>
+    <string name="backup_set_new_pw_confirm_hint">Внимание</string>
+    <string name="backup_set_new_pw_confirm_summary">Выполняется автоматическое резервное копирование. Создание пароля резервного копирования прервет процесс. Продолжить?</string>
     <string name="backup_set_new_pw_title">Ввод нового пароля</string>
     <string name="backup_set_null_pw">Введите пароль</string>
     <string name="backup_set_pw_confirm_title">Подтверждение пароля</string>
@@ -1606,6 +1618,7 @@
     <string name="device_miui_more">Показать еще</string>
     <string name="device_miui_version">Версия MIUI</string>
     <string name="device_miui_version_for_POCO">Версия MIUI (для POCO)</string>
+    <string name="device_miui_version_parameters">Версия MIUI</string>
     <string name="device_miui_version_update">Доступно обновление</string>
     <string name="device_name">Имя устройства</string>
     <string name="device_name_input_error">Не удалось сохранить имя устройства</string>
@@ -1788,7 +1801,7 @@
     <string name="dual_clock_open_message">Двойные часы будут отображаться на экране блокировки, на рабочем столе.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="dump_log">Собрать журналы проблем</string>
+    <string name="dump_log">Сбор журналов проблем</string>
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Альфа и Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
@@ -2211,6 +2224,7 @@
     <string name="global_locale_change_title">Измените язык</string>
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
+    <string name="google_assistant_label">Google Ассистент</string>
     <string name="google_backup_enable">Включить резервирование</string>
     <string name="google_backup_section_title">Резервирование Google</string>
     <string name="google_title">Google</string>
@@ -2742,6 +2756,7 @@
     <string name="lockscreen_glogin_checking_password">Проверка…</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Войти</string>
+    <string name="lockscreen_label">Блокировка</string>
     <string name="lockscreen_magazine">Карусель обоев</string>
     <string name="lockscreen_magazine_summary">Карусель обоев высокого качества</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
@@ -3592,6 +3607,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_key_how_start_detail">Удерживайте кнопку питания в течение 0.5 с. Отпустите и говорите.</string>
     <string name="power_key_start_enjoy">Узнать больше о Google Ассистенте</string>
     <string name="power_key_start_guide">Запуск Google Ассистента кнопкой питания на полноэкранных устройствах</string>
+    <string name="power_label">Меню питания</string>
     <string name="power_menu_under_keyguard_summary">Разрешить доступ к меню питания на экране блокировки</string>
     <string name="power_menu_under_keyguard_title">Меню питания</string>
     <string name="power_last_full_charge_summary">^1 назад</string>
@@ -3821,7 +3837,9 @@ OTG отключается автоматически через 10 минут �
     <string name="qtifeedback_settings_subtitle">Отчеты Qualcomm Technologies</string>
     <string name="qtifeedback_settings_title">Отзывы по оборудованию</string>
     <string name="query_hint_text">Поиск настроек</string>
+    <string name="quick_reply_title">Быстрые ответы</string>
     <string name="quick_settings_developer_tiles">Фрагменты быстрых настроек</string>
+    <string name="quick_settings_label">Переключатели</string>
     <string name="quiet">Не беспокоить</string>
     <string name="quiet_group">Не беспокоить</string>
     <string name="quiet_important_interruptions_mode">Разрешить исключения</string>
@@ -3903,6 +3921,8 @@ UT-интерфейс: %5$s"</string>
     <string name="really_remove_account_title">Удалить аккаунт?</string>
     <string name="rebootiing_for_updates">Перезагрузка…</string>
     <string name="receiver_clean">Очистить память</string>
+    <string name="recent_app_category_title">Недавно открытые приложения</string>
+    <string name="recent_apps_label">Недавние приложения</string>
     <string name="recent_location_requests_summary">Просмотр приложений, запросивших доступ к данным вашего местоположения</string>
     <string name="recent_location_requests_title">Запросы на доступ</string>
     <string name="recommend_item_1">Чехол для телефона</string>
@@ -4165,9 +4185,10 @@ UT-интерфейс: %5$s"</string>
     <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
     <string name="screensaver_settings_title">Заставка</string>
     <string name="screensaver_settings_when_to_dream">Когда запускать</string>
-    <string name="screenshot">Снимок экрана</string>
-    <string name="screenshot_three_gesture">Снимок экрана тремя пальцами</string>
-    <string name="screenshot_three_gesture_summary">Проведите вниз тремя пальцами для создания снимка. Другие жесты тремя пальцами будут отключены.</string>
+    <string name="screenshot">Скриншот</string>
+    <string name="screenshot_label">Скриншот</string>
+    <string name="screenshot_three_gesture">Скриншот тремя пальцами</string>
+    <string name="screenshot_three_gesture_summary">Проведите вниз тремя пальцами для создания скриншота. Другие жесты тремя пальцами будут отключены.</string>
     <string name="sd_card_settings_label">SD-карта</string>
     <string name="sd_card_storage">SD-карта</string>
     <string name="sd_eject">Извлечь SD-карту</string>
@@ -5740,6 +5761,7 @@ UT-интерфейс: %5$s"</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Громкость</string>
     <string name="volume_hifi_description">Настройки Hi-Fi</string>
+    <string name="volume_label">Громкость</string>
     <string name="volume_media_description">Музыка, видео, игры и медиафайлы</string>
     <string name="volume_media_mute">Отключить звук</string>
     <string name="volume_notification_description">Уведомления</string>
