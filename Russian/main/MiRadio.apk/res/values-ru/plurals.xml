@@ -115,12 +115,6 @@
     <item quantity="few">%1$d песни</item>
     <item quantity="many">%1$d песен</item>
   </plurals>
-  <plurals name="notification_rec_content">
-    <item quantity="other">%d FM записей</item>
-    <item quantity="one">%d FM запись</item>
-    <item quantity="few">%d FM записи</item>
-    <item quantity="many">%d FM записей</item>
-  </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">Плейер остановится через %d минут</item>
     <item quantity="one">Плейер остановится через %d минуту</item>
