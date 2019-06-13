@@ -15,7 +15,7 @@
     <string name="add_to_album_success">Успешно добавлено</string>
     <string name="add_to_album_tip">Фото из облака</string>
     <string name="add_to_favorites_failed">Ошибка добавления в Избранные</string>
-    <string name="add_to_secret_exist">Фото уже существует в скрытом альбоме</string>
+    <string name="add_to_secret_exist">Этот элемент уже существует в скрытом альбоме</string>
     <string name="add_to_secret_fail">Ошибка добавления в скрытый альбом</string>
     <string name="add_to_secret_failed_with_reason">Ошибка добавления в скрытый альбом. %1$s.</string>
     <string name="add_to_secret_successful">Добавлено в скрытый альбом</string>
@@ -190,6 +190,13 @@
     <string name="begin_share_toast">Создать отдельный альбом для этого ребенка?</string>
     <string name="blank_app_name" />
     <string name="browse_category_title">Отображение</string>
+    <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
+    <string name="burst_preview_title">Серийный снимок</string>
+    <string name="burst_save_all">Сохранить все</string>
+    <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
+    <string name="burst_save_confirm_dialog_title">Сохранение фото</string>
+    <string name="burst_save_error_msg">"Ошибка сохранения"</string>
+    <string name="burst_save_processing">Обработка…</string>
     <string name="buy_member_tip">Приобрести подписку</string>
     <string name="by_email">По Email</string>
     <string name="by_others">Прочее</string>
@@ -337,6 +344,8 @@
     <string name="custom_select_title_select_item">Выберите объекты</string>
     <string name="debugging_info">Данные отладки сгенерированы успешно. Нажмите OK для открытия папки.</string>
     <string name="debugging_tip">Генерация данных отладки</string>
+    <string name="decrypt_video_failed">"Ошибка подготовки видео"</string>
+    <string name="decrypting_video">Подготовка видео…</string>
     <string name="default_relation_name">Новая группа</string>
     <string name="define_by_user">Особый</string>
     <string name="delete">Удалить</string>
@@ -390,6 +399,10 @@
     <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
     <string name="downloading_title">Загрузка фото из Mi Cloud</string>
     <string name="edit_baby_info">Показать информацию</string>
+    <string name="editor_cancel">Отмена</string>
+    <string name="editor_export">Сохранить</string>
+    <string name="editor_talkback_redo">Повторить</string>
+    <string name="editor_talkback_undo">Отменить</string>
     <string name="editor_cancel">Отмена</string>
     <string name="editor_export">Сохранить</string>
     <string name="email_picker_title">Добавить общий email</string>
@@ -564,7 +577,7 @@
     <string name="filter_people_movie">Фильм</string>
     <string name="filter_people_nature">Натуральный</string>
     <string name="filter_people_pink">Румянец</string>
-    <string name="filter_people_riddle">Загадка</string>
+    <string name="filter_people_riddle">Конфета</string>
     <string name="filter_people_roman">Романтика</string>
     <string name="filter_people_story">История</string>
     <string name="filter_scene_city">Город</string>
@@ -575,7 +588,6 @@
     <string name="filter_scene_series">Отражения</string>
     <string name="filter_scene_vivid">Яркий</string>
     <string name="filter_scene_warm">Солнце</string>
-    
     <string name="filter_sky_cloudy">Облачно</string>
     <string name="filter_sky_detect_forbidden_tips">"Не удалось определить небо"</string>
     <string name="filter_sky_download_failed">"Ошибка загрузки плагина. Проверьте сетевые настройки и повторите попытку."</string>
@@ -587,9 +599,9 @@
     <string name="filter_sky_rainbow">Радуга</string>
     <string name="filter_sky_sunny">Солнечно</string>
     <string name="filter_sky_sunset">Закат</string>
-    
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" создан в Mi Cloud</string>
     <string name="finish_fill_baby">Создать</string>
+    <string name="first_time_add_video_to_secret_tips">Обновите галерею, чтобы иметь возможность скрывать видео</string>
     <string name="flash_off">Без вспышки</string>
     <string name="flash_on">Со вспышкой</string>
     <string name="frame_not_support_image_ratio">Это соотношение не поддерживается</string>
@@ -897,6 +909,7 @@
     <string name="photo_editor_navigator_module_downloading">Загрузка %s…</string>
     <string name="photo_editor_navigator_need_download">Подключитесь к интернету для загрузки %s.</string>
     <string name="photo_editor_remove_watermark">Удалить водяной знак</string>
+    <string name="photo_editor_remove_watermark_on">Добавить водяной знак</string>
     <string name="photo_editor_remover">Ластик</string>
     <string name="photo_editor_rotate">Поворот</string>
     <string name="photo_editor_saving">Сохранение…</string>
@@ -905,6 +918,7 @@
     <string name="photo_editor_talkback_confirm">Подтвердить</string>
     <string name="photo_editor_talkback_crop_16_9">Шестнадцать к девяти</string>
     <string name="photo_editor_talkback_crop_1_1">Один к одному</string>
+    <string name="photo_editor_talkback_crop_2_3">Два к трем</string>
     <string name="photo_editor_talkback_crop_3_4">Три к четырем</string>
     <string name="photo_editor_talkback_crop_4_3">Четыре к трем</string>
     <string name="photo_editor_talkback_crop_9_16">Девять к шестнадцати</string>
@@ -1169,6 +1183,12 @@
     <string name="slim_running">Оптимизация…</string>
     <string name="slim_space">освобождено</string>
     <string name="slim_stop">Остановить</string>
+    <string name="special_type_eye_repair">Исправление закрытых глаз при помощи AI</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">AI улучшение при низкой освещенности</string>
+    <string name="special_type_night_mode">AI ночной режим</string>
+    <string name="special_type_portrait">AI портретная светопись</string>
+    <string name="special_type_wide_angle">AI ультра-широкий угол</string>
     <string name="start_debug">Отладка Галереи</string>
     <string name="start_to_use_face_albumset">Начать использование</string>
     <string name="sticker_ad">Листовки</string>
@@ -1290,14 +1310,14 @@
     <string name="video_editor_adjust">Улучшение</string>
     <string name="video_editor_analyzing">Анализ видео…</string>
     <string name="video_editor_audio">Аудио</string>
+    <string name="video_editor_audio_antiquity">Ретро</string>
     <string name="video_editor_audio_custom">Выбрать</string>
-    <string name="video_editor_audio_dynamic">Техно</string>
-    <string name="video_editor_audio_love">Романтик</string>
-    <string name="video_editor_audio_memory">Память</string>
+    <string name="video_editor_audio_dream">Дрим</string>
+    <string name="video_editor_audio_electronics">Электро</string>
     <string name="video_editor_audio_none">Нет</string>
-    <string name="video_editor_audio_rock">Рок</string>
-    <string name="video_editor_audio_sad">Баллада</string>
-    <string name="video_editor_audio_young">Укулеле</string>
+    <string name="video_editor_audio_quiet">Дзен</string>
+    <string name="video_editor_audio_summertime">Летняя</string>
+    <string name="video_editor_audio_vitality">Энергия</string>
     <string name="video_editor_auto_trim">Автообрезка</string>
     <string name="video_editor_auto_trim_tip">Обрезка видео…</string>
     <string name="video_editor_cancel">Отменить</string>
