@@ -271,8 +271,6 @@
     <string name="micloud_manual_sync_resume">Возобновить</string>
     <string name="micloud_manual_syncing">Синхронизация…</string>
     <string name="micloud_manual_title">Ручная синхронизация</string>
-
-    
     <string name="micloud_member_net_error_alert_message">Отсутствует подключение к интернету.</string>
     <string name="micloud_member_net_error_alert_title">Не удалось подключиться к сети</string>
     <string name="micloud_member_pay_miid_error_toast">Ошибка аккаунта</string>
@@ -306,6 +304,7 @@
     <string name="micloud_request_permission_confirm">Понятно</string>
     <string name="micloud_request_permission_content">Mi Cloud требуются разрешения для синхронизации данных. Разрешите Mi Cloud доступ к Календарю, Контактам, Mi аккаунту, статусу SIM карты, журналу вызовов и сообщениям.</string>
     <string name="micloud_request_permission_title">Mi Cloud требуются разрешения</string>
+    <string name="micloud_request_sync_too_frequent">Слишком много запросов. Повторите попытку позже.</string>
     <string name="micloud_sec_dspt">и обмена информацией с друзьями.</string>
     <string name="micloud_setting_antispam_summary">Номера черного и белого списков</string>
     <string name="micloud_setting_browser_summary">Закладки и история</string>
@@ -420,6 +419,7 @@
     <string name="sync_sub_1_sms_1_intl_sms">Для активации данной услуги может потребоваться отправка 1 местного и 1 международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="sync_sub_2_intl_sms">Для активации данной услуги может потребоваться отправка 2 международных SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="sync_sub_2_sms">Для активации данной услуги может потребоваться отправка 2 SMS. Оплата взимается согласно тарифу вашего оператора.</string>
+    <string name="system_busy_or_network_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="title_back">Назад</string>
     <string name="title_reg">Создание Mi аккаунта</string>
     <string name="trying_to_connect_to_network">Подключение к сети…</string>
@@ -430,6 +430,7 @@
     <string name="user_detail_agreement">Пользовательское соглашение</string>
     <string name="user_detail_privacy_policy">Политика конфиденциальности</string>
     <string name="user_storage_info_available_text_prefix">%s доступно</string>
+    <string name="waiting_for_sync">Ожидание…</string>
     <string name="warning_bar_action_add_short_cut">Добавить</string>
     <string name="warning_bar_action_close">Закрыть</string>
     <string name="warning_bar_action_turn_on_master_sync">Включить</string>
