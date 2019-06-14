@@ -399,8 +399,8 @@
     <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
     <string name="downloading_title">Загрузка фото из Mi Cloud</string>
     <string name="edit_baby_info">Показать информацию</string>
-    <string name="editor_talkback_redo">Повторить</string>
-    <string name="editor_talkback_undo">Отменить</string>
+    <string name="editor_talkback_redo">Повтор</string>
+    <string name="editor_talkback_undo">Отмена</string>
     <string name="editor_cancel">Отмена</string>
     <string name="editor_export">Сохранить</string>
     <string name="email_picker_title">Добавить общий email</string>
