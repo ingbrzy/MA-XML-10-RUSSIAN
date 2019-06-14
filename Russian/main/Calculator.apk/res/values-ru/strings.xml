@@ -47,6 +47,7 @@
     <string name="description_title">О приложении</string>
     <string name="devided_by_zero_reminder_message">Разделить на ноль нельзя</string>
     <string name="dialog_privacy_content">Помимо основных функций, Калькулятор содержит научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к Интернету. Перед использованием вы должны принять %1$s и %2$s.</string>
+    <string name="dialog_privacy_title">Условия и положения</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -189,6 +190,7 @@
     <string name="preference_settings">Настройки</string>
     <string name="preference_use_degress_summary">Использовать углы вместо радианов в тригонометрических функциях</string>
     <string name="preference_use_degress_title">Использовать углы</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="radDesc">Радиан</string>
     <string name="rate_data_provider">Процентные ставки предоставлены hexun.com</string>
     <string name="reciprocalDesc">Обратная величина</string>
@@ -547,6 +549,8 @@
     <string name="unit_year">Г</string>
     <string name="unit_year_format">Год %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">Обновление калькулятора…</string>
+    <string name="user_agreement">Пользовательское соглашение</string>
     <string name="view_float_window_move">Перемещение калькулятора</string>
     <string name="voiceDesc">Голосовое управление</string>
     <string name="wf_word_figure">Финансовые иероглифы</string>
