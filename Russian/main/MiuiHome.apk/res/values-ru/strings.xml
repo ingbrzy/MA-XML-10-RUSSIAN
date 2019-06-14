@@ -289,7 +289,7 @@
     <string name="preferences_general_title">Дополнительные настройки</string>
     <string name="preferences_title">Настройки рабочего стола</string>
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
-    <string name="privacy_thumbnail_blur_summary">Размывать превью приложений в Недавних приложениях</string>
+    <string name="privacy_thumbnail_blur_summary">Размывать превью приложений в списке Недавних приложений</string>
     <string name="privacy_thumbnail_blur_title">Размытие превью приложений</string>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recents_config_title">Недавние приложения</string>
