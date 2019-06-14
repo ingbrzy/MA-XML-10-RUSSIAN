@@ -1006,6 +1006,8 @@
     <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
     <string name="lockscreen_unlock_left">Левый ярлык также разблокирует экран</string>
     <string name="lockscreen_unlock_right">Правый ярлык также разблокирует экран</string>
+    <string name="long_screenshot_guide_text">"Нажмите для создания
+скриншота с прокруткой"</string>
     <string name="long_screenshot_not_support_msg">Приложение не поддерживает скриншоты с прокруткой</string>
     <string name="long_screenshot_out_of_memory_error">Изображение слишком большое</string>
     <string name="long_screenshot_processing">Обработка…</string>
