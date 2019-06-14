@@ -64,7 +64,7 @@
     <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
-    <string name="accessibility_menu_description">"Меню \"Спец. возможности\" предоставляет дополнительные ярлыки, для управления устройством.
+    <string name="accessibility_menu_description">"Меню \"Спец. возможности\" предоставляет дополнительные ярлыки для управления устройством.
 
 Включите эту функцию и нажмите кнопку \"Спец. возможности\" внизу экрана, чтобы открыть меню."</string>
     <string name="accessibility_menu_item_settings">Настройки</string>
