@@ -1174,6 +1174,7 @@
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
+    <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия превью"</string>
     <string name="cloud_backup_section_title">Резервирование в Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Настройки резервирования</string>
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
@@ -1250,12 +1251,15 @@
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="confirm_erase">Удалить</string>
+    <string name="confirm_fingerprint">Проверка отпечатка пальца</string>
     <string name="confirm_fingerprint_icon_content_description">Чтобы продолжить, используйте цифровой отпечаток</string>
     <string name="confirm_fingerprint_msg">Приложите палец к сканеру</string>
     <string name="confirm_frp_credential_message">Настройки устройства были сброшены. Вы можете разблокировать его с помощью своего предыдущего пароля.</string>
     <string name="confirm_frp_credential_skip_txt">Использовать аккаунт Google</string>
     <string name="confirm_frp_credential_title">Разблокировка после сброса</string>
     <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
+    <string name="confirm_password_with_fingerprint">Используйте отпечаток пальца</string>
+    <string name="confirm_password_with_password">Введите пароль</string>
     <string name="confirm_privacy_password">Введите пароль защиты личных данных</string>
     <string name="confirm_privacy_password_fingerprint">"Отсканируйте отпечаток пальца или 
 введите пароль защиты личных данных"</string>
@@ -1850,6 +1854,8 @@
     <string name="enable_service_pin_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести ПИН-код.</string>
     <string name="enable_service_title">Служба будет выполнять следующие действия:</string>
     <string name="enable_snapshot_screenlock">Удерживайте кнопку \"Назад\", чтобы сделать фото</string>
+    <string name="enable_tcp_rtt_support">Вывод TCP RTT</string>
+    <string name="enable_tcp_rtt_support_summary">Оценка производительности качества сетевой связи</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_text">Включить</string>
@@ -3433,6 +3439,7 @@
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
     <string name="open_optimization_message">Включите оптимизацию и наслаждайтесь плавным, быстрым интерфейсом.</string>
     <string name="open_optimization_option">Включить</string>
+    <string name="open_privacy_thumbnail_blur_title">Приложения с размытием превью</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Профилем управляет</string>
@@ -3783,6 +3790,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_relative">Разрешения приватности</string>
     <string name="privacy_settings">Резервирование и сброс</string>
     <string name="privacy_settings_title">Резервное копирование</string>
+    <string name="privacy_thumbnail_blur_progress_message">Подождите…</string>
+    <string name="privacy_thumbnail_blur_title">Размытие превью приложений</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
     <string name="private_gallery_recording_intro_header">Нарисуйте графический ключ</string>
     <string name="private_gallery_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
