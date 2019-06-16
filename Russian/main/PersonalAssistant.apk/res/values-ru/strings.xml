@@ -139,6 +139,9 @@
     <string name="disclaimer_title">Отказ от ответственности</string>
     <string name="display_weather_default">Нажмите для получения информации о погоде</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
+    <string name="empty_card_title">Нет данных</string>
+    <string name="empty_fav_card_btn">Все избранное</string>
+    <string name="empty_fav_card_tip">Ничего нет</string>
     <string name="exercise_setting_brief">Измерение расстояния и подсчет ежедневных шагов</string>
     <string name="express_icon_tip_link">Безопасность и конфиденциальность</string>
     <string name="fav_init_guide_title">Об Избранном</string>
@@ -167,6 +170,15 @@
     <string name="favorite_add_home_process">Добавление…</string>
     <string name="favorite_all_selec">Выбрать все</string>
     <string name="favorite_cancel">Отмена</string>
+    <string name="favorite_clipboard_tip">Добавить адрес из буфера обмена в избранное?/string>
+    <string name="favorite_delete">Удалить</string>
+    <string name="favorite_important">Важные</string>
+    <string name="favorite_label">Избранное</string>
+    <string name="favorite_main">История</string>
+    <string name="favorite_title_limit">Введите до 40 символов</string>
+    <string name="favorite_title_modify">Изменить</string>
+    <string name="favorite_title_modify_failed">"Не удалось изменить название"</string>
+    <string name="favorite_title_modify_success">Успешно изменено</string>
     <string name="flybird_auto_switch_channel">Совет системы</string>
     <string name="flybird_baoxian_close_text">Страховка аккаунта 1 млн</string>
     <string name="flybird_baoxian_open_text">Аккаунт застрах.</string>
