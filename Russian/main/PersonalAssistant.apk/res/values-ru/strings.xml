@@ -170,7 +170,7 @@
     <string name="favorite_add_home_process">Добавление…</string>
     <string name="favorite_all_selec">Выбрать все</string>
     <string name="favorite_cancel">Отмена</string>
-    <string name="favorite_clipboard_tip">Добавить адрес из буфера обмена в избранное?/string>
+    <string name="favorite_clipboard_tip">Добавить адрес из буфера обмена в избранное?</string>
     <string name="favorite_delete">Удалить</string>
     <string name="favorite_important">Важные</string>
     <string name="favorite_label">Избранное</string>
