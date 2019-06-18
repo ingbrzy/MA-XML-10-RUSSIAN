@@ -1174,7 +1174,7 @@
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
-    <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия превью"</string>
+    <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия"</string>
     <string name="cloud_backup_section_title">Резервирование в Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Настройки резервирования</string>
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
@@ -3439,7 +3439,7 @@
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
     <string name="open_optimization_message">Включите оптимизацию и наслаждайтесь плавным, быстрым интерфейсом.</string>
     <string name="open_optimization_option">Включить</string>
-    <string name="open_privacy_thumbnail_blur_title">Приложения с размытием превью</string>
+    <string name="open_privacy_thumbnail_blur_title">Приложения с размытием</string>
     <string name="open_wifi_connect_summary">Нажмите для просмотра.</string>
     <string name="open_wifi_connect_title">Подключено к %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Профилем управляет</string>
@@ -3791,7 +3791,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_settings">Резервирование и сброс</string>
     <string name="privacy_settings_title">Резервное копирование</string>
     <string name="privacy_thumbnail_blur_progress_message">Подождите…</string>
-    <string name="privacy_thumbnail_blur_title">Размытие превью приложений</string>
+    <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
     <string name="private_gallery_recording_intro_header">Нарисуйте графический ключ</string>
     <string name="private_gallery_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
