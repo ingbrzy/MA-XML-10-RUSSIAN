@@ -188,6 +188,7 @@
     <string name="gift_use_fail_dlg_title">Произошла ошибка</string>
     <string name="gift_used">Отправлено</string>
     <string name="go_accessibility_setting">Выбрать</string>
+    <string name="goto_purchased_list">История покупок</string>
     <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_incompatible">Скрыть несовместимые %1$s</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
