@@ -227,8 +227,8 @@
     <string name="app_manager_show_detail_infos">Показать все</string>
     <string name="app_manager_start_by">Запущено приложением %s</string>
     <string name="app_manager_system_mobile_disable">Запретить 3G/4G</string>
-    <string name="app_manager_thumbnail_blur_summary">Размывать превью приложений в списке Недавних приложений</string>
-    <string name="app_manager_thumbnail_blur_title">Размытие превью приложений</string>
+    <string name="app_manager_thumbnail_blur_summary">Размывать миниатюры приложений в Недавних</string>
+    <string name="app_manager_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="app_manager_title">Приложения</string>
     <string name="app_manager_total_size">Всего</string>
     <string name="app_manager_uninstall">Удаление</string>
