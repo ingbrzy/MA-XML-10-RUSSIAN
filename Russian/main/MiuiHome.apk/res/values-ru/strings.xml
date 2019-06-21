@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
+    <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
     <string name="add_screen">Добавить экран</string>
     <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
     <string name="announce_for_checked">%1$s, выбрано</string>
@@ -93,6 +94,7 @@
     <string name="defalut_launcher_title">Рабочий стол</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Игры</string>
+    <string name="default_folder_title_meitu">Meitu приложения</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">Другие</string>
     <string name="default_folder_title_security">Система</string>
@@ -316,6 +318,9 @@
     <string name="setting_wallpaper_tip">Перемещайте или меняйте размер</string>
     <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
+    <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек значками</string>
+    <string name="shake_to_align_icons_summary">Встряхните устройство в режиме редактирования для автоматического заполнения пустых ячеек.</string>
+    <string name="shake_to_align_icons_title">Заполнение пустых ячеек встряхиванием</string>
     <string name="share">Поделиться</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
@@ -330,6 +335,7 @@
     <string name="status_installing">Установка</string>
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
+    <string name="system_shortcuts_more_operation">О приложении</string>
     <string name="title_jeejen">Рабочий стол Jeejen</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
