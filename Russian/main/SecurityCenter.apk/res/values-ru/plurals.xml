@@ -464,6 +464,60 @@
     <item quantity="few"> %s минуты</item>
     <item quantity="many"> %s минут</item>
   </plurals>
+  <plurals name="power_main_battery_last_day">
+    <item quantity="other">Осталось %s дней</item>
+    <item quantity="one">Остался %s день</item>
+    <item quantity="few">Осталось %s дня</item>
+    <item quantity="many">Осталось %s дней</item>
+  </plurals>
+  <plurals name="power_main_battery_last_hour">
+    <item quantity="other">Осталось %s часов</item>
+    <item quantity="one">Остался %s час</item>
+    <item quantity="few">Осталось %s часа</item>
+    <item quantity="many">Осталось %s часов</item>
+  </plurals>
+  <plurals name="power_main_battery_last_minute">
+    <item quantity="other">Осталось %s минут</item>
+    <item quantity="one">Осталась %s минута</item>
+    <item quantity="few">Осталось %s минуты</item>
+    <item quantity="many">Осталось %s минут</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_day">
+    <item quantity="other">Осталось %s дней</item>
+    <item quantity="one">Остался %s день</item>
+    <item quantity="few">Осталось %s дня</item>
+    <item quantity="many">Осталось %s дней</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_hour">
+    <item quantity="other">Осталось %s часов</item>
+    <item quantity="one">Остался %s час</item>
+    <item quantity="few">Осталось %s часа</item>
+    <item quantity="many">Осталось %s часов</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_minute">
+    <item quantity="other">Осталось %s минут</item>
+    <item quantity="one">Осталась %s минута</item>
+    <item quantity="few">Осталось %s минуты</item>
+    <item quantity="many">Осталось %s минут</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_day">
+    <item quantity="other">%s дней до полной зарядки</item>
+    <item quantity="one">%s день до полной зарядки</item>
+    <item quantity="few">%s дня до полной зарядки</item>
+    <item quantity="many">%s дней до полной зарядки</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_hour">
+    <item quantity="other">%s часов до полной зарядки</item>
+    <item quantity="one">%s час до полной зарядки</item>
+    <item quantity="few">%s часа до полной зарядки</item>
+    <item quantity="many">%s часов до полной зарядки</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_minute">
+    <item quantity="other">%s минут до полной зарядки</item>
+    <item quantity="one">%s минута до полной зарядки</item>
+    <item quantity="few">%s минуты до полной зарядки</item>
+    <item quantity="many">%s минут до полной зарядки</item>
+  </plurals>
   <plurals name="power_center_menu_text">
     <item quantity="other">проблем</item>
     <item quantity="one">проблема</item>
