@@ -470,6 +470,7 @@
     <string name="button_background_connection">Разрешить</string>
     <string name="button_block_calls_from_cantacts">Разблокировать</string>
     <string name="button_block_calls_from_strangers">Разблокировать</string>
+    <string name="button_dark_mode">Исправить</string>
     <string name="button_do_not_disturb">Отключить</string>
     <string name="button_eye_shield">Отключить</string>
     <string name="button_first_aid_kit">Исправить</string>
@@ -1602,6 +1603,15 @@
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_install_manager">Установка через USB</string>
     <string name="pc_main_activity_back">Назад</string>
+    <string name="pc_main_battery_text_day">Добавлено: %1$s мин., примерно осталось: %2$s д.</string>
+    <string name="pc_main_battery_text_day_hour">Добавлено: %1$s мин., примерно осталось: %2$s д. %3$s ч.</string>
+    <string name="pc_main_battery_text_hour">Добавлено: %1$s мин., примерно осталось: %2$s ч.</string>
+    <string name="pc_main_battery_text_hour_minute">Добавлено: %1$s мин., примерно осталось: %2$s ч. %3$s мин.</string>
+    <string name="pc_main_battery_text_minute">Добавлено: %1$s мин., примерно осталось: %2$s мин.</string>
+    <string name="pc_main_power_manager_day_hour">%1$s д. %2$s ч. до полной зарядки</string>
+    <string name="pc_main_power_manager_hour_minute">%1$s ч. %2$s мин. до полной зарядки</string>
+    <string name="pc_main_sub_battery_text_day_hour">Осталось: %1$s д. %2$s ч.</string>
+    <string name="pc_main_sub_battery_text_hour_minute">Осталось: %1$s ч. %2$s мин.</string>
     <string name="pc_settings_title">Настройки оптимизации питания</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
@@ -1754,6 +1764,8 @@
     <string name="power_dialog_wifi_title">Wi-Fi</string>
     <string name="power_exitlowbattery_whencharge">Выход при зарядке</string>
     <string name="power_idle">Режим ожидания</string>
+    <string name="power_main_battery_last_day_hour">Осталось: %1$s д. %2$s ч.</string>
+    <string name="power_main_battery_last_hour_minute">Осталось: %1$s ч.  %2$s мин.</string>
     <string name="power_mode_airplane_mode">Режим полета</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Через %1$d мин.</string>
     <string name="power_mode_auto_clean_memory">Очистка процессов</string>
@@ -2334,6 +2346,7 @@
     <string name="summary_cloud_space_full">Получите больше места в облачном хранилище, а также доступ к новым функциям</string>
     <string name="summary_cmcc_app_check">Не удалось проверить некоторые приложения</string>
     <string name="summary_consume_power">Найдены проблемы, влияющие на энергосбережение</string>
+    <string name="summary_dark_mode">Некоторые страницы отображаются чёрным из-за сторонних сервисов</string>
     <string name="summary_data_flow">Контроль мобильного трафика для уменьшения дополнительных затрат</string>
     <string name="summary_default_app">%s не используется как системное приложение по умолчанию</string>
     <string name="summary_dev">Избегайте вирусов и защищайте личные данные</string>
@@ -2494,12 +2507,14 @@
     <string name="title_block_calls_from_strangers">Пропускаете важные звонки?</string>
     <string name="title_chain_start">Взаимный запуск ограничен</string>
     <string name="title_cleaner_cloudscan">Облачная проверка мусора</string>
+    <string name="toast_dark_mode_fixed">Успешно исправлено. Закройте страницу для применения изменений.</string>
     <string name="title_cloud_account">Mi аккаунт</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="title_cloud_space_almost_full">Облачное хранилище заполнено, синхронизация приостановлена</string>
     <string name="title_cloud_space_full">Память Mi Cloud заполнена</string>
     <string name="title_cmcc_app_check">Проверка не завершена</string>
     <string name="title_consume_power_rank">Расход заряда батареи</string>
+    <string name="title_dark_mode">"Некоторые элементы отображаются неправильно"</string>
     <string name="title_data_flow">Управление трафиком</string>
     <string name="title_data_flow_monitor">Монитор трафика включен</string>
     <string name="title_dev_model_off">Режим разработчика отключен</string>
