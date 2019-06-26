@@ -16,6 +16,8 @@
     <string name="channel_downloading">Прогресс загрузки</string>
     <string name="channel_update">Доступна новая версия</string>
     <string name="check_new_version">Проверить</string>
+    <string name="default_filedownloader_notification_content">Идет загрузка файла.</string>
+    <string name="default_filedownloader_notification_title">Загрузчик файлов</string>
     <string name="dialog_3g_desc">Помните, что использование мобильных данных для загрузки прошивки может привести к повышенному расходу вашего траффика.</string>
     <string name="dialog_3g_title">Внимание!</string>
     <string name="dialog_btn_3g">Все равно продолжить</string>
@@ -29,7 +31,7 @@
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идет загрузка, проверьте статус в области уведомлений.</string>
-    <string name="install_desc">Устройство перезагрузится в Recovery и установит выбранный файл:<b> %1$s</b>"
+    <string name="install_desc">Устройство перезагрузится в Recovery и установит выбранный файл: &lt;b&gt;%1$s&lt;/b&gt;"
 Все данные будут сохранены."</string>
     <string name="install_title">Вы уверены, что хотите продолжить?</string>
     <string name="menu_title_current_version_log">Что нового?</string>
