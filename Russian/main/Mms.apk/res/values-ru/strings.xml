@@ -88,16 +88,7 @@
     <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
     <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
-    <string name="complain_input_number">Введите номер телефона</string>
-    <string name="complain_jump">Пропустить</string>
-    <string name="complain_message_title">Пожаловаться</string>
-    <string name="complain_ok">OK</string>
-    <string name="complain_phone_number">номер телефона</string>
-    <string name="complain_reason">Почему вы жалуетесь на это сообщение?</string>
-    <string name="complain_success">Спасибо за ваш отчет. Он помогает сделать Сообщения лучше!</string>
-    <string name="complain_tips">"Содержимое самого последнего сообщения, на которое вы жалуетесь, будет загружено на наши серверы вместе с предоставленным вами номером телефона. Наши поставщики услуг рассмотрят его.
-"</string>
-    <string name="complain_upload">Жалоба отправлена</string>
+    <string name="complain_message_title">Отчет</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
@@ -156,6 +147,7 @@
     <string name="delete_wild_sims_title">Удаление выбранных номеров</string>
     <string name="delivery_report_activity">Отчет о доставке</string>
     <string name="delivery_toast_body">Сообщение для %s доставлено</string>
+    <string name="dialog_complain_tips">Разрешить Сообщениям подключение к сети, для возможности отчетов.</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
     <string name="dialog_message_mx">Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Перед использованием Mi сообщений вы должны принять наши \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Для нормальной работы Сообщениям и Справочнику требуется подключение к интернету и доступ к вашему местоположению. Разрешить?</string>
@@ -394,7 +386,7 @@
     <string name="networking_allow_desc_without_mx">Для нормальной работы Mi сообщениям требуется подключение к интернету. Для распознавания неизвестных номеров, фильтрации спама и включения других функций, Mi сообщения должны использовать Справочник. Разрешить Справочнику подключаться к интернету, получать информацию о вашем местоположении и читать ваши контакты?</string>
     <string name="networking_allow_title">Внимание</string>
     <string name="new_message">Новое сообщение</string>
-    <string name="new_message_arrived">Получено новое сообщение</string>
+    <string name="new_message_arrived">Нажмите для просмотра</string>
     <string name="new_phrase">Новый шаблон</string>
     <string name="new_phrase_hint">Введите текст</string>
     <string name="no">Отмена</string>
@@ -633,7 +625,7 @@
     <string name="security_alert_dialog_title">Отчет</string>
     <string name="select_audio">Выберите аудио</string>
     <string name="select_bottom_text">Текст внизу</string>
-    <string name="select_copy_text">Выберите и скопируйте текст сообщения</string>
+    <string name="select_copy_text">Выделите и скопируйте текст</string>
     <string name="select_different_media">Выберите другое %1$s.</string>
     <string name="select_link_title">Выберите действие</string>
     <string name="select_local_audio">Выбрать аудио</string>
@@ -765,7 +757,7 @@
     <string name="undelivered_msg_dialog_title">Сообщение не доставлено</string>
     <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение.</string>
     <string name="unknown_num">Неизвестный номер</string>
-    <string name="unknown_sender">Неизвестный отправитель</string>
+    <string name="unknown_sender">У вас новое сообщение</string>
     <string name="unstick">Открепить</string>
     <string name="unstick_conversation">Открепить диалог</string>
     <string name="unsticked_conversation">Диалог уже откреплен</string>
