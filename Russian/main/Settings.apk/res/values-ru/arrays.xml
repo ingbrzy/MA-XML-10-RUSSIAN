@@ -766,6 +766,24 @@
         <item>За последние 30 дней</item>
         <item>Цикл использования данных</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Сегодня (мобильные данные) "</item>
+        <item>"Этот месяц (мобильные данные) "</item>
+        <item>"Прошлый месяц (мобильные данные) "</item>
+        <item>"Today (Wi-Fi) "</item>
+        <item>"Этот месяц (Wi-Fi) "</item>
+        <item>"Прошлый месяц (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Сегодня "</item>
+        <item>"Этот месяц "</item>
+        <item>"Прошлый месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Сегодня: "</item>
+        <item>"Этот месяц: "</item>
+        <item>"Прошлый месяц: "</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Отключено</item>
         <item>Показывать области наложения</item>
