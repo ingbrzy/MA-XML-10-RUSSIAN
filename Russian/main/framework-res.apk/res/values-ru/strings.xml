@@ -782,6 +782,7 @@
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
     <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
     <string name="more_item_label">Ещё</string>
+    <string name="move_button_text">Нажмите кнопку заголовка для перемещения всего окна</string>
     <string name="muted_by">Звук отключен приложением \"%1$s\"</string>
     <string name="needPuk">SIM-карта заблокирована с помощью кода PUK. Для разблокировки введите код PUK.</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
