@@ -132,13 +132,13 @@
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Не запрашивать подтверждение при удалении заметки с помощью жеста</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_title_cloud_trash_bin">Удаленные заметки в Mi Cloud</string>
     <string name="pref_title_common">Дополнительные настройки</string>
     <string name="pref_title_font_size">Размер шрифта</string>
     <string name="pref_title_note_style">Стиль</string>
     <string name="pref_title_show_root_folder_in_homepage">Показывать только быстрые заметки на главной странице</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Быстрое удаление</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Удаление жестом</string>
     <string name="recover_notes_hint">Произошла ошибка, посетите i.mi.com для восстановления заметок.</string>
     <string name="redo">Вернуть</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Дождитесь загрузки заметки и повторите попытку</string>
@@ -207,7 +207,7 @@
     <string name="toast_notes_hidden_edit">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
     <string name="toast_notes_hidden_home">Заметка успешно скрыта. Потяните вниз для просмотра скрытых заметок.</string>
     <string name="toast_notes_unhidden">Скрытие заметки отменено</string>
-    <string name="toast_notes_unhidden_count">Скрытие отменено: %1$s</string>
+    <string name="toast_pic_is_not_really">Сохранение изображения…</string>
     <string name="toast_reach_text_limit_attachment">Невозможно прикрепить файл. Нет свободного места в заметке.</string>
     <string name="toast_reach_text_limit_checkbox">Невозможно добавить флажок. Нет свободного места в заметке.</string>
     <string name="toast_reach_text_limit_truncate">Заметка слишком длинная. Текст в конце был обрезан.</string>
