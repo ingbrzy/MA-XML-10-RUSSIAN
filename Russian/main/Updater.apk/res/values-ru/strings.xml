@@ -43,9 +43,9 @@
     <string name="new_version">Найдена новая версия!</string>
     <string name="no_info">Информация недоступна.</string>
     <string name="no_network">Сеть недоступна.</string>
-    <string name="no_update">Установлена последняя прошивка или проблема с сервером, проверьте наличие новой версии на xiaomi.eu</string>
-    <string name="no_xioamieu">"Установлена прошивка не от команды Xiaomi.eu!
-Обновления для вас недоступны!"</string>
+    <string name="no_update">Установлена последняя версия или проблема с сервером, проверьте наличие новой версии на xiaomi.eu</string>
+    <string name="no_xioamieu">"Установлена прошивка не xiaomi.eu!
+Обновления недоступны!"</string>
     <string name="notif_cancel">Отмена</string>
     <string name="notif_install">Установка</string>
     <string name="notif_new_summary">Нажмите, чтобы получить подробную информацию</string>
