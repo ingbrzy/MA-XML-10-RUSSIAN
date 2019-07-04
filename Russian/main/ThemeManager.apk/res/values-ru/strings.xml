@@ -739,4 +739,11 @@
     <string name="xiaoai_speech_not_installed_download">Загрузить</string>
     <string name="xiaoai_speech_not_installed_message">Для продолжения загрузите и установите голосовой помощник Mi AI.</string>
     <string name="xiaoai_speech_not_installed_title">Голосовой помощник Mi AI не установлен</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Ошибка подключения диспетчера загрузки, проверьте состояние диспетчера загрузки в разделе управления приложениями.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
+Размер: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s
+Размер обновления: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
 </resources>
