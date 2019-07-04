@@ -140,6 +140,8 @@
   <string name="err_volume_not_enough">Недостаточно места</string>
   <string name="exit_private_space">Переход</string>
   <string name="experience_more_features">Добавьте устройство для просмотра всех функций</string>
+  <string name="facebook_login">Войти с помощью Facebook</string>
+  <string name="facebook_send">Отправить в Facebook</string>
   <string name="finger_print_num">Отпечаток пальца %d</string>
   <string name="finger_print_of_use">Применение отпечатка</string>
   <string name="fingerprint_number_upper_limit">Слишком много неудачных попыток</string>
@@ -189,12 +191,13 @@
   <string name="import_photo_suc">Фото импортированы</string>
   <string name="input_space_finger">Добавить</string>
   <string name="input_space_password">Задать</string>
+  <string name="instagram_send">Отправить в Instagram</string>
   <string name="install">Установить</string>
   <string name="install_error">Ошибка установки. Повторите попытку.</string>
   <string name="invalid_qr_code">Неверный QR-код</string>
   <string name="kid_mode_label">Детское пространство</string>
   <string name="list_empty_text">Список пуст</string>
-  <string name="list_empty_text_xspace">Установите WeChat/QQ/Weibo и создайте его клон</string>
+  <string name="list_empty_text_xspace">Создайте клон приложения и повторите попытку</string>
   <string name="loading">Подождите…</string>
   <string name="loading_apps">Загрузка списка приложений…</string>
   <string name="loading_space">Подождите…</string>
@@ -374,7 +377,7 @@
   <string name="start_setting_guide_desc_title">Осталось еще несколько настроек</string>
   <string name="startSet">Задать</string>
   <string name="startTransfer">Переместить</string>
-  <string name="stop_xspace_alert_content">Все клоны приложений и их данные будут удалены навсегда. Для применения изменений потребуется перезагрузка. Удалить аккаунты?</string>
+  <string name="stop_xspace_alert_content">Удалить все клоны приложений с учетными записями и данными? Устройство будет перезагружено для применения изменений.</string>
   <string name="stop_xspace_alert_title">Удаление аккаунтов клонов</string>
   <string name="summary_switch_apps_settings">Выберите приложения, используемые в текущем пространстве</string>
   <string name="support_desc">Сервисы безопасности предоставлены Spaces Mobile</string>
@@ -423,7 +426,8 @@
   <string name="undo_grant_dialog_message">После отзыва разрешения Xiaomi прекратит сбор данных, требуемых для этой функции (IMEI, ID устройства, версия системы, регион и т.д.). Отозвать разрешение?</string>
   <string name="undo_privacy_menu">Отозвать разрешение</string>
   <string name="undo_success">Разрешение отозвано</string>
-  <string name="use_xiaoai_open">Голосовая активация</string>
+  <string name="use_xiaoai_open">Активация с помощью Google Ассистент</string>
+  <string name="use_xiaoai_open">Активация с помощью Mi AI</string>
   <string name="wating">Подождите…</string>
   <string name="weibo_send">Отправить в Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
@@ -432,13 +436,13 @@
   <string name="xspace_account">Аккаунты клонов</string>
   <string name="xspace_chocie">Поддерживают клонирование</string>
   <string name="xspace_creating">Создание клона приложения…</string>
-  <string name="xspace_default_app_summary">Задайте приложение по умолчанию для платежей, обмена, избранных и т.д.</string>
-  <string name="xspace_default_app_title">Приложение по умолчанию</string>
+  <string name="xspace_default_app_summary">Выберите приложения по умолчанию для входа, обмена и голосового помощника</string>
+  <string name="xspace_default_app_title">Персонализация</string>
   <string name="xspace_default_guide_notification_content">Нажмите для изменения.</string>
   <string name="xspace_default_guide_notification_main_title">Основное приложение</string>
   <string name="xspace_default_guide_notification_xspace_title">Клон приложения</string>
   <string name="xspace_default_setting_dialog_title"> по умолчанию</string>
-  <string name="xspace_default_setting_label">Приложение по умолчанию</string>
+  <string name="xspace_default_setting_label">Персонализация</string>
   <string name="xspace_description">"Клоны - это копии приложений, которые могут использоваться отдельно с другой учетной записью.
 
 Некоторые клоны требуют поддержки Google Services Framework. В таких случаях создается клон Google Services Framework."</string>
