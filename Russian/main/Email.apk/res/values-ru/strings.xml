@@ -909,7 +909,6 @@
     <string name="refreshing_done">Готово</string>
     <string name="release_to_refresh">Отпустите для обновления</string>
     <string name="remind_attachment_size_limit">Размер письма не должен превышать %s МБ</string>
-    <string name="remote_no_mail">"На сервере больше нет писем."</string>
     <string name="remote_search_body_too_large_prompt">"Это письмо слишком длинное.
 Дождитесь полной синхронизации или просмотрите его на омпьютере."</string>
     <string name="remove_account">Удалить аккаунт</string>
