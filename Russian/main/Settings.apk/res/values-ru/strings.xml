@@ -763,6 +763,8 @@
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Перезагрузить устройство?</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
+    <string name="bluetooth_disable_inband_ringing">Отключить рингтоны на Bluetooth-гарнитурах</string>
+    <string name="bluetooth_disable_inband_ringing_summary">Не воспроизводить пользовательские рингтоны на Bluetooth-гарнитурах</string>
     <string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
     <string name="bluetooth_disabled">Не виден другим устройствам</string>
@@ -1366,6 +1368,8 @@
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
+    <string name="custom_wifi_name_title">Wi-Fi сеть</string>
+    <string name="customize_function">Доступные шаблоны</string>
     <string name="cutout_mode_always">Всегда показывать</string>
     <string name="cutout_mode_default">Автоматически</string>
     <string name="cutout_mode_settings_title">Некоторые приложения могут отображаться неправильно в случае изменения способа отображения выреза.</string>
@@ -2215,11 +2219,19 @@
     <string name="game_controller_settings_category">Игровые контроллеры</string>
     <string name="game_mode_settings">Игровой режим</string>
     <string name="game_storage_settings">Игры</string>
+    <string name="gesture_c">C шаблон</string>
+    <string name="gesture_m">M шаблон</string>
+    <string name="gesture_open_alipay">Открыть Alipay</string>
+    <string name="gesture_open_camera">Открыть Камеру</string>
+    <string name="gesture_open_music">Открыть Музыку</string>
+    <string name="gesture_open_wechat">Открыть WeChat</string>
     <string name="gesture_preference_summary">Жесты для управления телефоном</string>
     <string name="gesture_preference_title">Жесты</string>
     <string name="gesture_setting_off">Выкл.</string>
     <string name="gesture_setting_on">Вкл.</string>
+    <string name="gesture_w">W шаблон</string>
     <string name="gesture_wakeup_title">Пробуждать двойным касанием</string>
+    <string name="gesture_z">Z шаблон</string>
     <string name="giga_hertz">ГГц</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства.</string>
@@ -2948,6 +2960,11 @@
     <string name="miui_allow_vibrate">Вибрация</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
+    <string name="miui_input_method_settings">Настройки метода ввода</string>
+    <string name="miui_lab_3d_gesture_desc">Перейдите на рабочий стол и нарисуйте в воздухе один из шаблонов, чтобы открыть назначенное приложение.</string>
+    <string name="miui_lab_3d_gesture_slogan">Нарисуйте шаблон в воздухе с помощью телефона, чтобы открыть приложение</string>
+    <string name="miui_lab_3d_gesture_summary">Нарисуйте шаблон в воздухе с помощью телефона, чтобы открыть приложение</string>
+    <string name="miui_lab_3d_gesture_title">3D шаблоны</string>
     <string name="miui_ime_xiaoai_voice_hint">Более быстрый и удобный способ ввода текста</string>
     <string name="miui_ime_xiaoai_voice_title">Голосовой ввод Mi AI</string>
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
@@ -2963,6 +2980,8 @@
     <string name="miui_lab_gallery_search_title">Поиск фото в Галерее</string>
     <string name="miui_lab_gesture_desc">Используйте вместо кнопок жесты для навигации</string>
     <string name="miui_lab_gesture_title">Полноэкранные жесты</string>
+    <string name="miui_lab_home_feed_desc">Яркие идеи. Интересные истории..</string>
+    <string name="miui_lab_home_feed_title">Медиацентр</string>
     <string name="miui_lab_install_drive_mode_error">Ошибка установки, повторите попытку.</string>
     <string name="miui_lab_install_drive_mode_summary">Режим \"За рулем\" является системным приложением. Для его установки не требуется интернет.</string>
     <string name="miui_lab_install_drive_mode_title">Установить Режим \"За рулем\"</string>
@@ -5102,6 +5121,7 @@ UT-интерфейс: %5$s"</string>
     <string name="support_account_picker_add_account">Добавить аккаунт</string>
     <string name="support_account_request_prefix">Запрос от:</string>
     <string name="support_country_format">%1$s – %2$s</string>
+    <string name="support_gesture_title">3D шаблоны</string>
     <string name="support_country_list_title">Служба поддержки:</string>
     <string name="support_disclaimer_do_not_show">Больше не показывать</string>
     <string name="support_disclaimer_title">Отправьте информацию о системе</string>
