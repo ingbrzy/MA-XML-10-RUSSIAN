@@ -24,7 +24,7 @@
     <string name="action">Войти</string>
     <string name="action_imme_open">Открыть сразу</string>
     <string name="action_menu_account_not_login">Вход не выполнен</string>
-    <string name="action_menu_account_not_login_hint">Войдите, чтобы выполнить синхронизацию с Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Войдите для синхронизации с Mi Cloud</string>
     <string name="action_menu_download">Загрузить</string>
     <string name="action_menu_request_desktop_site">Полная версия</string>
     <string name="action_menu_request_desktop_site_off">Мобильная версия</string>
