@@ -80,9 +80,13 @@
     <string name="card_retry">Повторить</string>
     <string name="change_host_hint">Сменить хост</string>
     <string name="change_wallpaper">Обои</string>
+    <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="check_has_new_version">Доступно обновление</string>
     <string name="classification_more_understand_you">Выберите любимую категорию</string>
     <string name="close">Закрыть</string>
+    <string name="common_applying">Применение…</string>
+    <string name="common_downloading">Загрузка…</string>
+    <string name="common_skip">Пропустить</string>
     <string name="component_backup_preference_title">Сохранить тему</string>
     <string name="component_category_finest_title">Основные</string>
     <string name="component_category_more_title">Дополнительные</string>
@@ -93,6 +97,7 @@
     <string name="count_down_tip">%ds осталось</string>
     <string name="current_using_desktop_wallpaper_text">Рабочий стол</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
+    <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимо</string>
     <string name="deleting">Удаление…</string>
     <string name="description_author">Автор</string>
@@ -191,6 +196,7 @@
     <string name="gift_used">Отправлено</string>
     <string name="go_accessibility_setting">Выбрать</string>
     <string name="goto_purchased_list">История покупок</string>
+    <string name="goto_wechat">Аккаунт WeChat \"%1$s\" скопирован в буфер обмена. Открыть WeChat?</string>
     <string name="hide_free">Скрыть бесплатные %1$s</string>
     <string name="hide_incompatible">Скрыть несовместимые %1$s</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
@@ -225,6 +231,7 @@
     <string name="loading_resource_detail_info">Подождите…</string>
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Разработчик: %1$s</string>
+    <string name="lock_screen_apply">Установить как экран блокировки</string>
     <string name="lockscreen_apply_failured">Не удалось установить обои на экран блокировки</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Обои рабочего стола установлены. Обои экрана блокировки установить не удалось.</string>
     <string name="lockscreen_apply_success">Обои экрана блокировки установлены</string>
@@ -265,6 +272,7 @@
     <string name="mix_icons_option_des">Иконки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_lockscreen_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_tip">Компоненты темы</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
@@ -273,6 +281,7 @@
     <string name="my_gifts">Подарки</string>
     <string name="my_gifts_purchased">Приобретено</string>
     <string name="my_gifts_received">Получено</string>
+    <string name="resource_is_off_shelf_can_not_share">"Не удалось отправить. Этот элемент больше недоступен."</string>
     <string name="no_data">Не удалось подключиться к сети</string>
     <string name="online_no_network">Не удалось подключиться к сети</string>
     <string name="online_precust_abstract">Абстракция</string>
@@ -556,6 +565,9 @@
     <string name="theme_changed_failed_message">Не удалось применить тему</string>
     <string name="theme_changed_message">Тема применена</string>
     <string name="theme_changing_dialog_title">"Применение "</string>
+    <string name="theme_comment_dialog_cancel">Не сейчас</string>
+    <string name="theme_comment_dialog_message">"Вам нравится используемая тема? Будем благодарны за отзыв!"</string>
+    <string name="theme_comment_dialog_ok">Отзыв</string>
     <string name="theme_component_title_alarm">Будильник</string>
     <string name="theme_component_title_alarmstyle">Стиль будильника</string>
     <string name="theme_component_title_all">Темы</string>
@@ -719,6 +731,7 @@
     <string name="wallpaper_settings_no_history">История пуста</string>
     <string name="wallpaper_settings_pad_more_page_title">Другие обои</string>
     <string name="wallpaper_settings_page_title">Обои</string>
+    <string name="wechat_not_found">Установите WeChat</string>
     <string name="wifi_check_cancel">Отмена</string>
     <string name="wifi_check_confirm">OK</string>
     <string name="wifi_check_message">Использовать мобильный интернет для загрузки обновлений?</string>
