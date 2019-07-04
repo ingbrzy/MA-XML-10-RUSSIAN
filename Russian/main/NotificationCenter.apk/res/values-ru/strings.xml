@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Уведомления</string>
+    <string name="default_list_type">Сортировать по времени</string>
+    <string name="disable_float_notification">Всплывающие уведомления отключены</string>
+    <string name="disable_lockscreen_notification">Уведомления на экране блокировки отключены</string>
+    <string name="disable_show_badge_notification">Метки на значках отключены</string>
+    <string name="enable_float_notification">Всплывающие уведомления включены</string>
+    <string name="enable_lockscreen_notification">Уведомления на экране блокировки включены</string>
+    <string name="enable_show_badge_notification">Метки на значках включены</string>
+    <string name="expandable_under_keyguard">Доступ с экрана блокировки</string>
+    <string name="float_notifications">Всплывающие уведомления</string>
+    <string name="hint_search_all">Поиск приложений</string>
+    <string name="hint_search_in_disabled_apps">Поиск приложений без показа уведомлений</string>
+    <string name="hint_search_in_enabled_apps">Поиск приложений с показом уведомлений</string>
+    <string name="list_title_disable_notification">Уведомления отключены</string>
+    <string name="loading">Секунду…</string>
+    <string name="lock_screen_display_rules">Формат</string>
+    <string name="lock_screen_tip_toast">Разрешите уведомления в \"Уведомлениях приложений\"</string>
+    <string name="lockscreen_notifications">Экран блокировки</string>
+    <string name="not_sent_recently">Уведомлений не было</string>
+    <string name="notification_display_setting">Шторка уведомлений</string>
+    <string name="notification_display_style">Стиль уведомлений</string>
+    <string name="notification_fold_summary">Все неважные уведомления будут появляться в отдельной папке</string>
+    <string name="notification_fold_title">Фильтр уведомлений</string>
+    <string name="notification_manager">Уведомления приложений</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Откл</string>
+    <string name="on">Вкл</string>
+    <string name="show_badge_notifications">Метка на значке приложения</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_disable_float_notification">Всплывающие уведомления отключены</string>
+    <string name="summary_disable_lockscreen_notification">Уведомления на экране блокировки отключены</string>
+    <string name="summary_disable_show_badge_notification">Метки на значках отключены</string>
+    <string name="summary_enable_float_notification">Всплывающие уведомления включены</string>
+    <string name="summary_enable_lockscreen_notification">Уведомления на экране блокировки включены</string>
+    <string name="summary_enable_show_badge_notification">Метки на значках включены</string>
+    <string name="summary_float_enable_notification_first">Разрешите уведомления для включения всплывающих уведомлений</string>
+    <string name="summary_lock_screen_enable_notification_first">Для включения уведомлений на экране блокировки разрешите уведомления</string>
+    <string name="summary_show_badge_enable_notification_first">Разрешите уведомления для включения меток на значках</string>
+</resources>

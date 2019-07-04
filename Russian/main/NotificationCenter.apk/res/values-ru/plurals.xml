@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d уведомлений в день</item>
+        <item quantity="one">%d уведомление в день</item>
+        <item quantity="few">%d уведомления в день</item>
+        <item quantity="many">%d уведомлений в день</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d уведомлений в неделю</item>
+        <item quantity="one">%d уведомление в неделю</item>
+        <item quantity="few">%d уведомления в неделю</item>
+        <item quantity="many">%d уведомлений в неделю</item>
+    </plurals>
+</resources>

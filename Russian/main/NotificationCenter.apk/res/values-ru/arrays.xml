@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drop_down_menu">
+        <item>Сортировать по времени</item>
+        <item>Сортировать по количеству</item>
+        <item>Приложения с показом уведомлений</item>
+        <item>Приложения без показа уведомлений</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_no_password">
+        <item>Показывать уведомления полностью</item>
+        <item>Не показывать уведомления</item>
+    </string-array>
+    <string-array name="lock_screen_display_rules_with_password">
+        <item>Показывать уведомления полностью</item>
+        <item>Скрывать содержимое уведомлений</item>
+        <item>Не показывать уведомления</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
+</resources>
