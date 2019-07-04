@@ -80,6 +80,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">День рождения сохранен</string>
     <string name="birthday_term">День рождения</string>
+    <string name="birthday_term_chinese_calendar">"День рождения %1$s (традиционный китайский календарь)"</string>
     <string name="button_day">День</string>
     <string name="button_month">Месяц</string>
     <string name="button_week">Неделя</string>
@@ -102,7 +103,11 @@
     <string name="chips_action_cancel">Отмена</string>
     <string name="chips_action_copy">Копировать</string>
     <string name="chips_permission_text">Разрешить предлагать контакты</string>
-    <string name="click_to_share">Поделиться</string>
+    <string name="clear_net_mock_success">Макет успешно очищен</string>
+    <string name="close_alarm">Выключить</string>
+    <string name="content_confirm_close_chinese_calendar">После отключения этой функции все события, основанные на традиционном китайском календаре, будут преобразованы в григорианский календарь. Для повторяющихся событий будут использоваться годы и месяцы григорианского календаря.</string>
+    <string name="copy_email">Копировать адрес email</string>
+    <string name="copy_number">Копировать номер телефона</string>
     <string name="countdown_event_title">Событие: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Событие: %1$s через 3 дня</string>
     <string name="countdown_notify_title">Событие: %1$s</string>
@@ -247,10 +252,10 @@
     <string name="importing">Импорт…</string>
     <string name="insert_event_dialog_btn_negative">Нет</string>
     <string name="insert_event_dialog_btn_positive">Да</string>
-    <string name="insert_event_dialog_message">Добавить это событие в календарь?</string>
+    <string name="insert_event_dialog_message">Добавить это мероприятие в календарь?</string>
     <string name="insert_event_dialog_title">Внимание</string>
     <string name="insert_event_toast_add_failed">Не удалось добавить</string>
-    <string name="insert_event_toast_add_success">Событие создано</string>
+    <string name="insert_event_toast_add_success">Мероприятие создано</string>
     <string name="install_email_app">Установить Почту</string>
     <string name="install_email_finished">Установка завершена</string>
     <string name="installing_email">Установка…</string>
@@ -260,6 +265,7 @@
     <string name="local_calendar_display_name">Локальный календарь</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
     <string name="lunar_date">Лунная дата</string>
+    <string name="lunar_to_solar_chinese_calendar">Китайский в григорианский</string>
     <string name="match_select_activity_label">Лиги</string>
     <string name="menu_general_preferences">Основные настройки</string>
     <string name="menu_preferences">Настройки</string>
@@ -306,7 +312,7 @@
     <string name="notification_channel_name">Напоминания Календаря</string>
     <string name="notification_open_setting_button_exit">Нет, спасибо</string>
     <string name="notification_open_setting_button_ok">Разрешить</string>
-    <string name="notification_open_setting_message">"Вы не сможете получать уведомления о событиях, если не дадите разрешение Календарю отправлять уведомления."</string>
+    <string name="notification_open_setting_message">"Вы не сможете получать уведомления, если не дадите Календарю разрешение отправлять уведомления."</string>
     <string name="notification_open_setting_title">Уведомления Календаря?</string>
     <string name="panchang_amanta">Аманта</string>
     <string name="panchang_amanta_month">Месяц Аманта:</string>
@@ -424,6 +430,7 @@
     <string name="setting_about_miui_version">"Версия MIUI: "</string>
     <string name="setting_about_summary">"Версия: "</string>
     <string name="setting_accounts">Аккаунты календаря</string>
+    <string name="setting_chinese_calendar">Китайский календарь</string>
     <string name="setting_daysoff_no_update">Информация о праздничных днях актуальна.</string>
     <string name="setting_daysoff_update">Обновление информации о праздничных днях</string>
     <string name="setting_daysoff_update_cta_cancel">Разрешить календарю подключение к интернету</string>
@@ -440,7 +447,13 @@
     <string name="share_image">Отправить</string>
     <string name="share_image_label">Отправить с помощью</string>
     <string name="share_title">Отправить</string>
+    <string name="shortcut_new_event">Добавить мероприятие</string>
+    <string name="shortcut_next_agenda">Следующее мероприятие</string>
+    <string name="shortcut_settings">Настройки</string>
     <string name="show_day_view">Показать день</string>
+    <string name="solar_lunar_convert_description">Григорианский в традиционный китайский</string>
+    <string name="solar_to_lunar_chinese_calendar">Григорианский в китайский</string>
+    <string name="solar_lunar_convert_tab">Конвертировать</string>
     <string name="start_date_calculate">Рассчитать</string>
     <string name="storage_permission_denied">Разрешите доступ к памяти</string>
     <string name="subscribe_card">Подписаться</string>
@@ -470,6 +483,7 @@
     <string name="template_week_num">Неделя %1$s</string>
     <string name="time_zone">Часовой пояс</string>
     <string name="timezone_label">Часовой пояс</string>
+    <string name="title_confirm_close_chinese_calendar">Отключение китайского календаря</string>
     <string name="today">Сегодня</string>
     <string name="today_at_time_fmt">Сегодня, %s</string>
     <string name="today_icon_voice_contentdescription">Возврат к сегодня</string>
