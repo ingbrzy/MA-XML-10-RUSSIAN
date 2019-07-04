@@ -70,6 +70,7 @@
     <string name="dynamic_alarm_speech">Умный будильник</string>
     <string name="edit_alarm">Изменение будильника</string>
     <string name="edit_systemtime">Настройки даты и времени</string>
+    <string name="edit_systemtime_setting_summary">Дата, время и двойные часы</string>
     <string name="every_day">Ежедневно</string>
     <string name="expired_timers_dismissed">Таймер отключен</string>
     <string name="force_touch_add_alarm">Будильник</string>
@@ -175,7 +176,7 @@
     <string name="shortcut_stop_watch">Запуск секундомера</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
     <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
-    <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 5 минут позже момента выключения устройства</string>
+    <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 10 минут позже момента выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
@@ -257,9 +258,12 @@
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>
     <string name="worldclock_input_hint_text">Поиск страны или города</string>
+    <string name="worldclock_resident_city_text">Вторые часы: %s</string>
+    <string name="worldclock_resident_city_text_detail">Двойные часы включены</string>
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
+    <string name="worldcolock_date_display_prefix">Текущие: </string>
     <string name="worldcolock_timezone_current">Текущий: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">ч</string>
