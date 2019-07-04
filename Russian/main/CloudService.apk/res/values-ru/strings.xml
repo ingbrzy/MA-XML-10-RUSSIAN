@@ -183,6 +183,7 @@
     <string name="micloud_find_device_verify_close">Отключить Поиск устройства</string>
     <string name="micloud_find_device_verify_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_verify_progress">Включение Поиска устройства…</string>
+    <string name="micloud_last_sync_canceled">Синхронизация отменена. Повторите попытку.</string>
     <string name="micloud_main_button_activate">Активировать</string>
     <string name="micloud_main_button_authorize">Разрешить</string>
     <string name="micloud_main_button_set_internet">Настройки</string>
