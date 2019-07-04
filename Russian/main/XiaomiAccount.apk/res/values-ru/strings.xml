@@ -70,14 +70,17 @@ ID вашего аккаунта: %s"</string>
   <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
   <string name="authorize_title">Авторизация</string>
   <string name="bind_facebook">Подключите аккаунт Facebook</string>
+  <string name="bind_google">Подключите аккаунт Google</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Добавьте номер телефона, чтобы в следующий раз иметь возможность войти в свой Mi аккаунт.</string>
   <string name="bind_settings">Дополнительные аккаунты</string>
   <string name="bind_sina_weibo">Подключите аккаунт Sina Weibo</string>
   <string name="bind_sns_description">Войдите в Mi аккаунт с помощью %s</string>
   <string name="bind_weibo_description">Добавьте друзей из Sina Weibo</string>
+  <string name="bind_weixin">Подключите аккаунт WeChat</string>
   <string name="binded">Подключено</string>
-  <string name="binded_description" formatted="false">%s подключен к вашему Mi аккаунту. В ваш профиль добавлена информация из аккаунта %s.</string>
+  <string name="binded_description" formatted="false">"%s подключен к вашему Mi аккаунту.
+Вы можете войти в Mi аккаунт используя %s."</string>
   <string name="button_unbind">Отключить</string>
   <string name="change_activate_email">Изменить адрес электронной почты</string>
   <string name="change_email_address">Изменить адрес электронной почты</string>
@@ -181,6 +184,7 @@ ID:%s
   <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Mi Cloud.</string>
   <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Mi Cloud</string>
   <string name="my_device_title">Текущее устройство</string>
+  <string name="need_install_wechat">Установите WeChat</string>
   <string name="no_network_btn">Обновить</string>
   <string name="no_network_title">Не удалось подключиться к сети</string>
   <string name="no_phone">Нет номера телефона</string>
