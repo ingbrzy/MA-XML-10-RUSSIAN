@@ -632,6 +632,7 @@
     <string name="deep_save_memory_clean_summary">Очистка памяти при блокировке устройства для снижения расхода заряда батареи приложениями</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Включение и выключение устройства по расписанию</string>
     <string name="delete">Удалить</string>
+    <string name="delete_all_sms">Удалить все</string>
     <string name="delete_from_manual_item_white_list">Удалить из списка</string>
     <string name="delete_input">Удалить</string>
     <string name="deleted_apps">Удаленные приложения</string>
@@ -2161,6 +2162,7 @@
     <string name="sms_blacklist">Сообщения</string>
     <string name="sms_cloud_block">Облачная блокировка</string>
     <string name="sms_contact_block">Блокировать SMS от контактов</string>
+    <string name="sms_delete_all_hint">Удалить все сообщения?</string>
     <string name="sms_delete_hint">Удалить все заблокированные сообщения с этого номера?</string>
     <string name="sms_delete_title">Удалить сообщения</string>
     <string name="sms_detail_correct_success_text">Статистика трафика из предыдущей калибровки (%1$s):</string>
