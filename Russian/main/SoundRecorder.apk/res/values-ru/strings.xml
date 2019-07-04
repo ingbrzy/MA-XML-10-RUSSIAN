@@ -163,7 +163,6 @@
     <string name="text_play_speed_1_0">Обычная скорость воспроизведения</string>
     <string name="text_play_speed_1_5">1.5X cкорость воспроизведения</string>
     <string name="text_play_speed_2_0">2X cкорость воспроизведения</string>
-    
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
