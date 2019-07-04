@@ -426,7 +426,7 @@
   <string name="undo_grant_dialog_message">После отзыва разрешения Xiaomi прекратит сбор данных, требуемых для этой функции (IMEI, ID устройства, версия системы, регион и т.д.). Отозвать разрешение?</string>
   <string name="undo_privacy_menu">Отозвать разрешение</string>
   <string name="undo_success">Разрешение отозвано</string>
-  <string name="use_xiaoai_open">Активация с помощью Google Ассистент</string>
+  <string name="use_google_open">Активация с помощью Google Ассистент</string>
   <string name="use_xiaoai_open">Активация с помощью Mi AI</string>
   <string name="wating">Подождите…</string>
   <string name="weibo_send">Отправить в Weibo</string>
