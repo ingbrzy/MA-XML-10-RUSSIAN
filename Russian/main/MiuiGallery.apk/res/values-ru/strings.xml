@@ -917,6 +917,7 @@
     <string name="photo_editor_talkback_crop_16_9">Шестнадцать к девяти</string>
     <string name="photo_editor_talkback_crop_1_1">Один к одному</string>
     <string name="photo_editor_talkback_crop_2_3">Два к трем</string>
+    <string name="photo_editor_talkback_crop_3_2">Три к двум</string>
     <string name="photo_editor_talkback_crop_3_4">Три к четырем</string>
     <string name="photo_editor_talkback_crop_4_3">Четыре к трем</string>
     <string name="photo_editor_talkback_crop_9_16">Девять к шестнадцати</string>
