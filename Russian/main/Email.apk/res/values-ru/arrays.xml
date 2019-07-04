@@ -51,6 +51,15 @@
         <item>Перейти к более старому</item>
         <item>Перейти во \"Входящие\"</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Все</item>
+        <item>Только получатели</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>более новые</item>
+        <item>более старые</item>
+        <item>по порядку</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Адрес:</item>
         <item>Телефон:</item>
