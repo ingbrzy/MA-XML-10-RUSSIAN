@@ -29,7 +29,6 @@
     <string name="off">Откл</string>
     <string name="on">Вкл</string>
     <string name="show_badge_notifications">Метка на значке приложения</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">Всплывающие уведомления отключены</string>
     <string name="summary_disable_lockscreen_notification">Уведомления на экране блокировки отключены</string>
     <string name="summary_disable_show_badge_notification">Метки на значках отключены</string>
