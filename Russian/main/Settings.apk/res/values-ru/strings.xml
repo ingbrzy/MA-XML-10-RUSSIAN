@@ -1000,7 +1000,7 @@
 
 Если вы сделали что-либо из перечисленного, свяжите аккаунт с устройством повторно, иначе вы не сможете разблокировать устройство."</string>
     <string name="bootloader_tips_ok">Понятно</string>
-    <string name="bootloader_tips_warning">"Не отключайтесь от сети, не выходите из Mi аккаунта, не выполняйте сброс настроек или не удаляйте системные данные."</string>
+    <string name="bootloader_tips_warning">"Не отключайтесь от сети, не выходите из Mi аккаунта, не выполняйте сброс настроек или очистку данных системных приложений."</string>
     <string name="breathing_light_color_menu_title">Цвет индикатора</string>
     <string name="breathing_light_color_summary">Цвет индикатора для уведомлений</string>
     <string name="breathing_light_freq_summary">Частота мерцания индикатора для уведомлений</string>
