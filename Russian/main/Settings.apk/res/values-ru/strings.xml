@@ -285,7 +285,7 @@
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="another_migration_already_in_progress">Другая операция переноса уже выполняется.</string>
     <string name="anti_spam">Антиспам</string>
-    <string name="aod_and_lock_screen_settings_title">Активный дисплей и экран блокировки</string>
+    <string name="aod_and_lock_screen_settings_title">Экран блокировки</string>
     <string name="aod_clock_style_title">Стиль часов</string>
     <string name="aod_settings_category_name">Активный дисплей</string>
     <string name="aod_settings_title">Активный дисплей</string>
@@ -5453,7 +5453,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_disable_frp_warning_title_profile">Удалить защиту профиля?</string>
     <string name="unlock_disable_lock_pin_summary">Отключить ПИН-код</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
-    <string name="unlock_mode_title">Экран блокировки</string>
+    <string name="unlock_mode_title">Блокировкa экрана</string>
     <string name="unlock_set_do_later_title">Не сейчас</string>
     <string name="unlock_set_enter_system">Пропускать экран блокировки</string>
     <string name="unlock_set_enter_system_summary">При пробуждении сразу переходить к рабочем столу</string>
