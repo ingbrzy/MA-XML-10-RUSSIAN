@@ -3348,7 +3348,7 @@
     <string name="notification_badging_title">Показывать значки уведомлений</string>
     <string name="notification_breathing_light_color_title">Цвет для уведомлений</string>
     <string name="notification_breathing_light_freq_title">Частота мерцания для уведомлений</string>
-    <string name="notification_center">Уведомления</string>
+    <string name="notification_center">Центр уведомлений</string>
     <string name="notification_channel_badge_title">Показывать значок уведомления</string>
     <string name="notification_channel_sound_title">Звук</string>
     <string name="notification_channel_title">Категория уведомления</string>
