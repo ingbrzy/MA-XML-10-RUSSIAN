@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="drop_down_menu">
-        <item>Сортировать по времени</item>
-        <item>Сортировать по количеству</item>
-        <item>Приложения с показом уведомлений</item>
-        <item>Приложения без показа уведомлений</item>
+        <item>Сортировка по времени</item>
+        <item>Сортировка по количеству</item>
+        <item>Уведомления разрешены</item>
+        <item>Уведомления запрещены</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
         <item>Показывать уведомления полностью</item>
