@@ -2823,7 +2823,7 @@
     <string name="manage_notification_access_summary_zero">Приложения не могут просматривать уведомления</string>
     <string name="manage_notification_access_title">Доступ к уведомлениям</string>
     <string name="manage_notification_title">Уведомления приложений</string>
-    <string name="manage_password">Управление паролямиs</string>
+    <string name="manage_password">Управление паролями</string>
     <string name="manage_password_summary">Автозаполнение сохраненных учетных записей и паролей</string>
     <string name="manage_space_text">Управление местом</string>
     <string name="manage_trust_agents">Агенты доверия</string>
