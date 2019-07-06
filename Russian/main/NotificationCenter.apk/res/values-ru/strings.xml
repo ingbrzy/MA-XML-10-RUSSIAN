@@ -26,9 +26,11 @@
     <string name="notification_manager">Центр уведомлений</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
-    <string name="off">ВЫКЛ.</string>
-    <string name="on">ВКЛ.</string>
+    <string name="off">Откл.</string>
+    <string name="on">Вкл.</string>
+    <string name="settings_guide_title">Нужны другие настройки?</string>
     <string name="show_badge_notifications">Метки на иконках приложений</string>
+    <string name="status_bar_setting">Строка состояния</string>
     <string name="summary_disable_float_notification">УВЕДОМЛЕНИЯ ОТКЛЮЧЕНЫ</string>
     <string name="summary_disable_lockscreen_notification">УВЕДОМЛЕНИЯ ОТКЛЮЧЕНЫ</string>
     <string name="summary_disable_show_badge_notification">МЕТКИ ОТКЛЮЧЕНЫ</string>
