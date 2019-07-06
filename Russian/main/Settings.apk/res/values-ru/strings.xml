@@ -8,8 +8,8 @@
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
-    <string name="abc_capital_off">ОТКЛ.</string>
-    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_capital_off">Откл.</string>
+    <string name="abc_capital_on">Вкл.</string>
     <string name="abc_search_hint">Поиск</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
@@ -115,8 +115,8 @@
     <string name="accessibility_shortcut_service_title">Быстрое включение сервиса</string>
     <string name="accessibility_summary_default_combination">%2$s: %1$s</string>
     <string name="accessibility_summary_source">Из приложения %s</string>
-    <string name="accessibility_summary_state_disabled">ОТКЛ.</string>
-    <string name="accessibility_summary_state_enabled">ВКЛ.</string>
+    <string name="accessibility_summary_state_disabled">Откл.</string>
+    <string name="accessibility_summary_state_enabled">Вкл.</string>
     <string name="accessibility_sync_disabled">Синхронизация отключена</string>
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
     <string name="accessibility_sync_error">Ошибка синхронизации.</string>
@@ -2633,8 +2633,8 @@
     <string name="location_neighborhood_level_wifi">Местоположение определяется по сетям Wi-Fi</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
     <string name="location_no_recent_apps">В последнее время приложения не запрашивали геоданные</string>
-    <string name="location_off_summary">ВЫКЛ.</string>
-    <string name="location_on_summary">ВКЛ.</string>
+    <string name="location_off_summary">Откл.</string>
+    <string name="location_on_summary">Вкл.</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Точнее определять местоположение, разрешив системным приложениям и сервисам постоянно искать Bluetooth-устройства поблизости</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Поиск Bluetooth-устройств</string>
     <string name="location_scanning_screen_title">Поиск</string>
@@ -2992,8 +2992,8 @@
     <string name="miui_lab_drive_mode_desc">Используйте управление голосом и слушайте сообщения WeChat</string>
     <string name="miui_lab_drive_mode_title">Режим \"За рулем\"</string>
     <string name="miui_lab_feature_applied">Применено</string>
-    <string name="miui_lab_feature_off">Откл</string>
-    <string name="miui_lab_feature_on">Вкл</string>
+    <string name="miui_lab_feature_off">Откл.</string>
+    <string name="miui_lab_feature_on">Вкл.</string>
     <string name="miui_lab_features">Функции лаборатории MIUI</string>
     <string name="miui_lab_gallery_search_desc">Улучшенный поиск изображений</string>
     <string name="miui_lab_gallery_search_title">Поиск фото в Галерее</string>
@@ -3455,6 +3455,7 @@
     <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Подключитесь к Интернету или обратитесь к оператору связи</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Недоступно на телефонах, привязанных к оператору</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
+    <string name="off">Откл.</string>
     <string name="ok_rules">Готово</string>
     <string name="okay">ОК</string>
     <string name="oldman_app_label">Простой режим</string>
@@ -3465,6 +3466,7 @@
     <string name="oldman_mode_entry_name">Простой режим</string>
     <string name="oldman_uninstalled_btn">Установить</string>
     <string name="oldman_uninstalled_des">Простой режим избавляет от беспорядка и делает ваш рабочий стол легким и понятным.</string>
+    <string name="on">Вкл.</string>
     <string name="one_cacrt">один сертификат ЦС</string>
     <string name="one_usercrt">один сертификат пользователя</string>
     <string name="one_userkey">один ключ пользователя</string>
@@ -3745,8 +3747,8 @@ OTG отключается автоматически через 10 минут �
     <string name="print_cancel">Отмена</string>
     <string name="print_cancelling_state_title_template">Отмена задания %1$s…</string>
     <string name="print_failed_state_title_template">Ошибка задания \"%1$s\"</string>
-    <string name="print_feature_state_off">ВЫКЛ</string>
-    <string name="print_feature_state_on">ВКЛ</string>
+    <string name="print_feature_state_off">Откл.</string>
+    <string name="print_feature_state_on">Вкл.</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_menu_item_add_printer">Добавить принтер</string>
@@ -5907,8 +5909,8 @@ UT-интерфейс: %5$s"</string>
     <string name="vpn_no_server_cert">(получено с сервера)</string>
     <string name="vpn_no_vpns_added">Сети VPN не добавлены</string>
     <string name="vpn_not_used">(не используется)</string>
-    <string name="vpn_off">Откл</string>
-    <string name="vpn_on">Вкл</string>
+    <string name="vpn_off">Откл.</string>
+    <string name="vpn_on">Вкл.</string>
     <string name="vpn_password">Пароль</string>
     <string name="vpn_replace">Заменить</string>
     <string name="vpn_replace_always_on_vpn_disable_message">Вы уже подключены к постоянной VPN-сети. Если выбрать другую сеть, режим постоянного подключения будет сброшен.</string>
@@ -6035,9 +6037,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Эта сеть Wi-Fi не имеет доступа в интернет. Отключиться от нее?</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Эта сеть Wi-Fi не имеет доступа в интернет. Доступны другие сети Wi-Fi. Сменить сеть?</string>
     <string name="wifi_assistant_keep_connection">Не отключаться</string>
-    <string name="wifi_assistant_off">Откл</string>
+    <string name="wifi_assistant_off">Откл.</string>
     <string name="wifi_assistant_ok">OK</string>
-    <string name="wifi_assistant_on">Вкл</string>
+    <string name="wifi_assistant_on">Вкл.</string>
     <string name="wifi_assistant_setup_wifi_assistant">Настроить</string>
     <string name="wifi_assistant_summary">Переключение между сетью Wi-Fi и мобильным интернетом при плохом качестве подключения Wi-Fi</string>
     <string name="wifi_assistant_switch_data">Использовать</string>
@@ -6368,8 +6370,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_traffic_priority">Приоритизация Wi-Fi</string>
     <string name="wifi_traffic_priority_extreme">Экстремальный режим</string>
     <string name="wifi_traffic_priority_extreme_summary">Отдавать большую часть полосы пропускания активному приложению. Возможно, что фоновые процессы не смогут подключиться к сети.</string>
-    <string name="wifi_traffic_priority_off">Откл</string>
-    <string name="wifi_traffic_priority_on">Вкл</string>
+    <string name="wifi_traffic_priority_off">Откл.</string>
+    <string name="wifi_traffic_priority_on">Вкл.</string>
     <string name="wifi_traffic_priority_regular">Обычный режим</string>
     <string name="wifi_traffic_priority_regular_summary">Делить полосу пропускания между фоновыми процессами и активным приложением</string>
     <string name="wifi_traffic_priority_summary">Автоматическая настройка приоритетов скорости</string>
@@ -6424,8 +6426,8 @@ UT-интерфейс: %5$s"</string>
     <string name="winscope_trace_quick_settings_title">Трассировка Winscope</string>
     <string name="wireless_connected">Подключено</string>
     <string name="wireless_networks_settings_title">Беспроводные сети</string>
-    <string name="wireless_off">Откл</string>
-    <string name="wireless_on">Вкл</string>
+    <string name="wireless_off">Откл.</string>
+    <string name="wireless_on">Вкл.</string>
     <string name="wizard_back">Назад</string>
     <string name="wizard_finish">Готово</string>
     <string name="wizard_next">Далее</string>
