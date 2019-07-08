@@ -609,7 +609,7 @@
     <string name="search_songs_count">Треки: %d</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
-    <string name="select_clip_desc">Выберите клип из трека</string>
+    <string name="select_clip_desc">Выберите фрагмент из трека</string>
     <string name="select_desc_sub">Вы можете выбрать до 3 языков</string>
     <string name="select_device">Выберите устройство</string>
     <string name="select_displayed_folders">Выберите папки</string>
