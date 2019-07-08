@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Нажмите и удерживайте кнопку на коробке в течение %1$d секунд</item>
+        <item quantity="one">Нажмите и удерживайте кнопку на коробке в течение %1$d секунды</item>
+    </plurals>
+</resources>
