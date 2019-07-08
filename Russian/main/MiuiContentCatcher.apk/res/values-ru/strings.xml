@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Служба расширения приложений</string>
+  <string name="auth_activity_label">Коды подтверждения</string>
+  <string name="auth_fingerprint_content">Проверка отпечатка для доступа к сохраненным паролям</string>
+  <string name="auth_fingerprint_content_message">"Не удалось проверить отпечаток, повторите попытку"</string>
+  <string name="auth_fingerprint_title">Проверка отпечатка</string>
+  <string name="autofill_description">"MIUI может шифровать и хранить ваши пароли, чтобы вводить их автоматически, когда вам нужно. Xiaomi не сможет прочитать ваши зашифрованные пароли."</string>
+  <string name="autofill_hint_email_address">Электронная почта</string>
+  <string name="autofill_hint_name">Имя</string>
+  <string name="autofill_hint_password">Пароль</string>
+  <string name="autofill_hint_phone">Номер телефона</string>
+  <string name="autofill_hint_username">Имя пользователя</string>
+  <string name="autofill_item_activity_label">Пароли приложений</string>
+  <string name="autofill_list_activity_label">Пароли приложений</string>
+  <string name="autofill_list_title">Управление паролями</string>
+  <string name="autofill_password">Автоматический ввод паролей</string>
+  <string name="autofill_password_activity_label">Коды подтверждения</string>
+  <string name="autofill_service_label">Управление паролями</string>
+  <string name="autofill_setting_activity_label">Управление паролями</string>
+  <string name="cancel">Отмена</string>
+  <string name="change_passwork_dialog_content">"Пароль для этой учетной записи уже сохранен. Обновить пароль?"</string>
+  <string name="change_passwork_dialog_title">Обновление пароля</string>
+  <string name="delete">Удалить</string>
+  <string name="invalid_package_signature">Неверная подпись приложения</string>
+  <string name="ok">ОК</string>
+  <string name="save_content_tip">"Следующие элементы могут быть сохранены: "</string>
+  <string name="search">Поиск</string>
+  <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
+  <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учетной записи и пароли на устройстве.</string>
+</resources>
