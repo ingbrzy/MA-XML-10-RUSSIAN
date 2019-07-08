@@ -43,6 +43,7 @@
     <string name="add_to_playlist_successful">Успешно добавлено</string>
     <string name="added_next_play">Добавлено в очередь</string>
     <string name="alaka_required">Необходимо заплатить за песню, чтобы прослушать ее</string>
+    <string name="alarm_clock_ringtones_successful">Будильник успешно установлен</string>
     <string name="album_label">Обложки</string>
     <string name="album_name">Альбом</string>
     <string name="all_album_count">Все альбомы (%d)</string>
@@ -88,9 +89,10 @@
     <string name="button_wait_for_wifi">Отложить</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
-    <string name="change_download_quality">Изменить качество загрузок</string>
+    <string name="change_download_quality">Изменить качество загрузки</string>
+    <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="checking_new_version">Проверка обновлений…</string>
-    <string name="choose_download_quality">Выберите качество загрузок</string>
+    <string name="choose_download_quality">Выберите качество загрузки</string>
     <string name="choose_stream_quality">Выберите качество музыки</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close_music_time">"Оставшееся время: "</string>
@@ -333,6 +335,8 @@
     <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
+    <string name="goto_local_search">Поиск на устройстве</string>
+    <string name="goto_online_search">Поиск онлайн</string>
     <string name="handle_later">Не сейчас</string>
     <string name="hd_quality_audio">Звук HD качества</string>
     <string name="headset_and_audio_effect_category">Наушники и звуковые эффекты</string>
@@ -384,6 +388,7 @@
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Подождите…</string>
     <string name="loading_hint">Подождите…</string>
+    <string name="loading_reached_the_bottom">"Больше ничего нет."</string>
     <string name="local_header_title">Локальные</string>
     <string name="local_music">Локальные</string>
     <string name="local_music_is_not_available">На вашем устройстве нет треков.</string>
@@ -437,6 +442,8 @@
     <string name="more_settings">Расширенные настройки</string>
     <string name="more_settings_summary">Таймер сна, фильтрация файлов и многое другое</string>
     <string name="more_share">Отправить</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mulit_choice_management">Управление элементами</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фильтр аудиофайлов</string>
     <string name="music_service">Сервисы музыки</string>
@@ -503,6 +510,7 @@
     <string name="open_online_service">Для использования этой функции необходимо включить онлайн-сервисы. Включить их сейчас?</string>
     <string name="open_service">Включить</string>
     <string name="other_song_in_album">Другие треки из этого альбома</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="paused_by_app">Пауза</string>
     <string name="paused_in_power_save_mode">Останавливать при включении экономии энергии</string>
     <string name="paused_insufficient_space">Ожидание</string>
@@ -569,7 +577,12 @@
     <string name="retry">Повторить</string>
     <string name="retry_after_network_available">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="retry_download">Повторить</string>
-    <string name="ringtone_not_support">Формат трека не поддерживается</string>
+    <string name="ringtone_editing">Редактор рингтонов</string>
+    <string name="ringtone_not_support">Этот формат не поддерживается</string>
+    <string name="ringtone_selected">Выбранные</string>
+    <string name="ringtones_play">Воспроизведение</string>
+    <string name="ringtones_stop">Остановить</string>
+    <string name="ringtones_successful">Рингтон установлен успешно</string>
     <string name="root_downloads">Загрузки</string>
     <string name="s1">Сохранить изображение</string>
     <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
@@ -587,11 +600,16 @@
     <string name="search_hint_local">Поиск треков на устройстве</string>
     <string name="search_hint_online">Поиск исполнителей, треков, альбомов, плейлистов и видео онлайн</string>
     <string name="search_history_clear_all">Очистить</string>
+    <string name="search_history_delete_all_dialog_titile">Очистить историю поиска?</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="search_result_local_songs">Локальные</string>
+    <string name="search_result_online_songs">Онлайн</string>
+    <string name="search_songs">Поиск треков</string>
     <string name="search_songs_count">Треки: %d</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
+    <string name="select_clip_desc">Выберите клип из трека</string>
     <string name="select_desc_sub">Вы можете выбрать до 3 языков</string>
     <string name="select_device">Выберите устройство</string>
     <string name="select_displayed_folders">Выберите папки</string>
@@ -603,6 +621,7 @@
     <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="send_to_title">Отправить (%1$s)</string>
     <string name="service_and_settings">Аккаунт и настройки</string>
+    <string name="set_as_alarm_clock_ringtone">Будильник</string>
     <string name="set_as_ring">Установить на звонок</string>
     <string name="set_ringtones_failed">Не удалось установить на звонок</string>
     <string name="set_ringtones_successful">Трек \"%s\" установлен на звонок</string>
@@ -640,6 +659,7 @@
     <string name="song_name">Трек</string>
     <string name="song_not_find">Трек недоступен.</string>
     <string name="song_offline">Этот трек больше не доступен.</string>
+    <string name="song_picker_complete">Готово</string>
     <string name="songgroup_pick_album">Альбомы</string>
     <string name="songgroup_pick_playlist">Плейлисты</string>
     <string name="sort_by_name">Название</string>
@@ -687,6 +707,7 @@
     <string name="title_online_fm_recommend">Популярные радиостанции</string>
     <string name="title_online_recommend">Популярные плейлисты</string>
     <string name="title_search_history">История поиска</string>
+    <string name="title_search_hot">Популярные</string>
     <string name="toast_download_error_by_count_limit">Вы израсходовали квоту на загрузки в этом месяце</string>
     <string name="toast_download_error_by_not_login">Войдите в Mi аккаунт и повторите попытку</string>
     <string name="toast_download_error_by_vip_required">Приобретите пакет Премиум для загрузки этого трека</string>
