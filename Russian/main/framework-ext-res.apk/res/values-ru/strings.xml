@@ -21,6 +21,10 @@
     <string name="auto_start_warning_deny">Запретить</string>
     <string name="auto_start_warning_title">Запускать %s автоматически?</string>
     <string name="autofill">Автозаполнение</string>
+    <string name="autofill_save_message">Разрешить MIUI сохранять данные учетных записей и пароли?</string>
+    <string name="autofill_save_ok">Разрешить</string>
+    <string name="autofill_save_sub_message">"Вы можете управлять сохраненными паролями в Настройки &gt; Защита и безопасность &gt; Управление паролями."</string>
+    <string name="autofill_save_title">Сохранение паролей</string>
     <string name="button_text_cancel">Отмена</string>
     <string name="button_text_delete">Удалить</string>
     <string name="button_text_delete_timer">Удалить (%d)</string>
@@ -95,10 +99,13 @@
     <string name="popup_camera_calibrate_failed">"Не удалось откалибровать. Возможно, нужно отнести устройство в сервис для диагностики проблемы"</string>
     <string name="popup_camera_calibrate_now">Калибровка</string>
     <string name="popup_camera_calibrate_success">Успешная калибровка. Можете открыть переднюю камеру.</string>
+    <string name="popup_camera_cancel_popup">Отмена</string>
+    <string name="popup_camera_continue_popup">Открыть камеру</string>
     <string name="popup_camera_front_failed">"Не удалось открыть переднюю камеру. Повторите попытку."</string>
     <string name="popup_camera_front_falied_times">"Не удалось открыть переднюю камеру несколько раз. Возможно, нужно отнести устройство в сервис для диагностики проблемы."</string>
     <string name="popup_camera_front_when_use">Фронтальная камера занята. Все равно попытаться открыть?</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Не удалось открыть переднюю камеру несколько раз. Попробуйте откалибровать камеру."</string>
+    <string name="popup_camera_remove_hid_device">Похоже, устройство подключено к игровому контроллеру. Возможно, вы не сможете открыть переднюю камеру при подключенном игровом контроллере.</string>
     <string name="popup_camera_sure">Понятно</string>
     <string name="popup_camera_sure_wait">Понятно (%ds)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Не удалось закрыть переднюю камеру несколько раз. Попробуйте откалибровать камеру."</string>
