@@ -912,6 +912,7 @@
     <string name="function_shield_summary">Ограничить выбранные функции системы во время игр</string>
     <string name="function_shield_three_finger">Отключить жесты скриншота</string>
     <string name="function_shield_title">Улучшенное восприятие</string>
+    <string name="function_shield_voice_trigger">"Не будить Mi AI с голосом"</string>
     <string name="fw_blocked">Антиспам</string>
     <string name="fw_blocked_count">"Заблокировано: "</string>
     <string name="fw_blocked_join">" и "</string>
@@ -999,6 +1000,11 @@
     <string name="gb_description_image_button_answer">Ответить</string>
     <string name="gb_description_image_button_reject">Отклонить</string>
     <string name="gb_description_image_button_video_answer">Видеовызов</string>
+    <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
+    <string name="gb_first_guide_gamebox_des">Используйте ярлыки во время игр</string>
+    <string name="gb_first_guide_handsfree_des">Отвечайте на звонки в фоновом режиме</string>
+    <string name="gb_first_guide_shortcut_des">Ярлык для Ускорения игр создан на рабочем столе</string>
+    <string name="gb_first_guide_title">Повышение производительности на системном уровне</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Используйте быстрые ответы</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Читайте текст на прозрачном фоне</string>
     <string name="gb_first_window_antimsg_title">Удобные уведомления</string>
