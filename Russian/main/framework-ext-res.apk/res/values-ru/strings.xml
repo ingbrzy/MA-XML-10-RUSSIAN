@@ -21,10 +21,10 @@
     <string name="auto_start_warning_deny">Запретить</string>
     <string name="auto_start_warning_title">Запускать %s автоматически?</string>
     <string name="autofill">Автозаполнение</string>
-    <string name="autofill_save_message">Разрешить MIUI сохранять данные учетных записей и пароли?</string>
+    <string name="autofill_save_message">Разрешить MIUI сохранять учетные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
-    <string name="autofill_save_sub_message">"Вы можете управлять сохраненными паролями в Настройки &gt; Защита и безопасность &gt; Управление паролями."</string>
-    <string name="autofill_save_title">Сохранение паролей</string>
+    <string name="autofill_save_sub_message">"Вы можете управлять сохраненными данными в Настройки &gt; Защита и безопасность &gt; Управление паролями."</string>
+    <string name="autofill_save_title">Автосохранение данных</string>
     <string name="button_text_cancel">Отмена</string>
     <string name="button_text_delete">Удалить</string>
     <string name="button_text_delete_timer">Удалить (%d)</string>
