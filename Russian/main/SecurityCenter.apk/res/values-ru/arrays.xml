@@ -23,14 +23,14 @@
         <item>"За месяц: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Вчера (3G/4G)</item>
-        <item>Сегодня (3G/4G)</item>
-        <item>За прошлый месяц (3G/4G)</item>
-        <item>За месяц (3G/4G)</item>
-        <item>Вчера (Wi-Fi)</item>
-        <item>Сегодня (Wi-Fi)</item>
-        <item>За прошлый месяц (Wi-Fi)</item>
-        <item>За месяц (Wi-Fi)</item>
+        <item>"Вчера (3G/4G) "</item>
+        <item>"Сегодня (3G/4G) "</item>
+        <item>"За прошлый месяц (3G/4G) "</item>
+        <item>"За месяц (3G/4G) "</item>
+        <item>"Вчера (Wi-Fi) "</item>
+        <item>"Сегодня (Wi-Fi) "</item>
+        <item>"За прошлый месяц (Wi-Fi) "</item>
+        <item>"За месяц (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Трафик 3G/4G "</item>
