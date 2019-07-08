@@ -31,7 +31,6 @@
   <string name="fast_connect_device_title_connecting">Подключение…</string>
   <string name="fast_connect_device_title_find_headset">Найти гарнитуру %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">Найти другую гарнитуру %1$s</string>
-  <string name="fast_connect_headset_reset">Нажмите и удерживайте кнопку на коробке в течение %1$d сек.</string>
   <string name="goto_package">Открыть %1$s</string>
   <string name="install_package">Установите %1$s для доп. функций</string>
   <string name="mi_band_vibrate_alarm">Вибрировать при сигнале</string>
