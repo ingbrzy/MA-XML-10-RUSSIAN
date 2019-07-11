@@ -418,6 +418,12 @@
         <item quantity="few">Не удалось отправить. Идет обработка %d фото…</item>
         <item quantity="many">Не удалось отправить. Идет обработка %d фото…</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>	
     <plurals name="slim_complete_photo_count">
         <item quantity="other">Оптимизировано %d фото</item>
         <item quantity="one">Оптимизировано %d фото</item>
