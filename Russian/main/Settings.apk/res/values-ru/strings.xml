@@ -271,7 +271,7 @@
     <string name="amber_alerts_summary">Получать уведомления о пропавших детях</string>
     <string name="amber_alerts_title">Оповещения AMBER</string>
     <string name="ambient_display_pickup_summary">Чтобы увидеть уведомления, возьмите телефон в руки</string>
-    <string name="ambient_display_pickup_title">Поднять, чтобы проверить уведомления</string>
+    <string name="ambient_display_pickup_title">Просмотр уведомлений</string>
     <string name="ambient_display_summary">Чтобы увидеть уведомления, дважды нажмите на экран устройства</string>
     <string name="ambient_display_title">Просмотр времени и уведомлений двойным нажатием</string>
     <string name="android_beam_disabled_summary">Для использования этой функции включите NFC</string>
@@ -287,8 +287,8 @@
     <string name="anti_spam">Антиспам</string>
     <string name="aod_and_lock_screen_settings_title">Экран блокировки</string>
     <string name="aod_clock_style_title">Стиль часов</string>
-    <string name="aod_settings_category_name">Активный дисплей</string>
-    <string name="aod_settings_title">Активный дисплей</string>
+    <string name="aod_settings_category_name">Амбиентный дисплей</string>
+    <string name="aod_settings_title">Амбиентный дисплей</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Тип аутентификации</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -4311,7 +4311,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиа режим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
-    <string name="search_ambient_display_screen_title">Интерактивный дисплей</string>
+    <string name="search_ambient_display_screen_title">Амбиентный дисплей</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
     <string name="search_app_invisible">Скрытое приложение;Скрытые приложения</string>
