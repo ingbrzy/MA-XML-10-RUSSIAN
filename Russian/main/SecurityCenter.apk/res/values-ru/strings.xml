@@ -387,6 +387,7 @@
     <string name="battery_charge_estimating">Оценка…</string>
     <string name="battery_charge_full">Заряжена</string>
     <string name="battery_charging_prompt">Заряжается</string>
+    <string name="battery_desc_ambient_display">Потребление амбиентным дисплеем</string>
     <string name="battery_desc_apps">Потребление приложением</string>
     <string name="battery_desc_bluetooth">Потребление модулем Bluetooth</string>
     <string name="battery_desc_display">Потребление экраном и подсветкой</string>
@@ -1650,6 +1651,7 @@
     <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
     <string name="power_20s_enter_mode">Переход в режим %2$s через %1$d сек.</string>
     <string name="power_20s_shutdown">Устройство выключится через %d с</string>
+    <string name="power_ambient_display">Амбиентный дисплей</string>
     <string name="power_analysis_consume_title">Расход заряда батареи</string>
     <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
     <string name="power_apply_toast">переключиться в режим %s и автоматически сохранить свой режим</string>
