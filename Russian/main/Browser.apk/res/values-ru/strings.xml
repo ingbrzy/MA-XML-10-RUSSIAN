@@ -434,6 +434,7 @@ ID:%s
     <string name="no_space_alert_clean">Освободить место</string>
     <string name="no_space_alert_text">Недостаточно места</string>
     <string name="no_space_alert_title">Загрузка приостановлена</string>
+    <string name="not_remind_again">Запомнить выбор</string>
     <string name="ok">ОК</string>
     <string name="open_cloud_sync">Включить синхронизацию с Mi Cloud</string>
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с Mi Cloud, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>
