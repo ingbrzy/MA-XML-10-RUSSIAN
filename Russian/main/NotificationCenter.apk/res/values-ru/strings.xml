@@ -8,6 +8,7 @@
     <string name="enable_float_notification">Уведомления включены</string>
     <string name="enable_lockscreen_notification">Уведомления включены</string>
     <string name="enable_show_badge_notification">Метки включены</string>
+    <string name="expand_top_notification">Разворачивать верхнее уведомление</string>
     <string name="expandable_under_keyguard">Доступ с экрана блокировки</string>
     <string name="float_notifications">Всплывающие уведомления</string>
     <string name="hint_search_all">Поиск приложений</string>
