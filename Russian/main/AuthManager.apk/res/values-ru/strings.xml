@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Управление разрешениями</string>
+  <string name="background_location_access_reminder_notification_content">Приложение имеет доступ к определению местоположения. Нажмите, чтобы изменить</string>
+  <string name="background_location_access_reminder_notification_title">%s имеет доступ к определению местоположения</string>
   <string name="current_permission_template">%1$s из %2$s</string>
   <string name="default_permission_description">выполнение неизвестных действий</string>
   <string name="grant_dialog_button_allow">Разрешить</string>
+  <string name="grant_dialog_button_allow_always">Всегда разрешать</string>
+  <string name="grant_dialog_button_allow_background">Всегда разрешать</string>
+  <string name="grant_dialog_button_allow_foreground">Разрешить только когда приложение используется</string>
   <string name="grant_dialog_button_deny">Запретить</string>
+  <string name="grant_dialog_button_deny_and_dont_ask_again">Запретить и больше не спрашивать</string>
+  <string name="grant_dialog_button_deny_background">Сохранить на время использования</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Сохранить и больше не спрашивать</string>
   <string name="HIPS_Action_Accept">Разрешить</string>
   <string name="HIPS_Action_Accept_Once">Разрешить сейчас</string>
   <string name="HIPS_Action_Reject">Запретить</string>
@@ -89,10 +97,24 @@
   <string name="location_warning">%1$s обеспечивает данные местоположения на устройстве. Доступ к местоположению можно изменить в Настройках.</string>
   <string name="never_ask_again">Больше не спрашивать</string>
   <string name="ok">OK</string>
+  <string name="permgrouprequest_storage_isolated">Разрешить %1$s доступ к фото, мультимедиа и файлам на устройстве?</string>
+  <string name="permission_description_summary_activity_recognition">Приложение может получить доступ к вашей физической активности, такие как ходьба, бег, количество шагов и т. д.</string>
+  <string name="permission_description_summary_calendar">Приложение может получить доступ к календарю</string>
+  <string name="permission_description_summary_call_log">Приложение может получить доступ к журналу вызовов</string>
+  <string name="permission_description_summary_camera">Приложение может снимать фото и видео</string>
+  <string name="permission_description_summary_contacts">Приложение может получить доступ к контактам</string>
+  <string name="permission_description_summary_generic">Приложение может получить доступ к %1$s</string>
+  <string name="permission_description_summary_location">Приложение может получить к определению местоположения</string>
+  <string name="permission_description_summary_microphone">Приложение может записывать аудио</string>
+  <string name="permission_description_summary_phone">Приложение может осуществлять вызовы</string>
+  <string name="permission_description_summary_sensors">ППриложение может получить доступ к данным датчиков о состоянии организма</string>
+  <string name="permission_description_summary_sms">Приложение может отправлять SMS</string>
+  <string name="permission_description_summary_storage">Приложение может получить доступ к фото, мультимедиа и файлам на устройстве</string>
   <string name="permission_group_title_charges_related">Телефон</string>
   <string name="permission_group_title_media_related">Медиа</string>
   <string name="permission_group_title_privacy_related">Конфиденциальность</string>
   <string name="permission_group_title_settings_related">Настройки</string>
+  <string name="permission_reminders">Уведомлять о разрешениях</string>
   <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
   <string name="permission_warning_template_ask">Предоставить %1$s следующие разрешения?</string>
   <string name="permisson_reject_notice_toast_text2">не имеет разрешений на %1$s.</string>
