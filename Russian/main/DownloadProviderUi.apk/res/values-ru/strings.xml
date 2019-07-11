@@ -176,6 +176,7 @@
     <string name="other">Прочее</string>
     <string name="other_filter">Прочее</string>
     <string name="package_filter">Пакеты</string>
+    <string name="path_no_available">Путь не доступен</string>
     <string name="pause_download">Пауза</string>
     <string name="paused">Пауза</string>
     <string name="paused_by_app">Пауза</string>
