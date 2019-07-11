@@ -101,7 +101,9 @@
     <string name="app_name">Галерея</string>
     <string name="app_name_view_picture">Просмотреть фото</string>
     <string name="app_name_view_video">Просмотреть видео</string>
+    <string name="assistant_page_discovery">Откройте для себя истории</string>
     <string name="assistant_page_label">Истории</string>
+    <string name="assistant_page_server_error">Проверьте настройки сети</string>
     <string name="associate_face_album">Выбрать альбом</string>
     <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
     <string name="auto_download_media_title">Автозагрузка фото из Mi Cloud</string>
@@ -742,6 +744,7 @@
     <string name="movie_audio_sport">Техно</string>
     <string name="movie_cancel_download">Отмена</string>
     <string name="movie_change_to_long_video">Вы выбрали более 5 фото. Будет создано длинное видео.</string>
+    <string name="movie_customer_unsupport_audio_file">Неподдерживаемый формат аудиофайла</string>
     <string name="movie_delete_disable">Для создания клипа нужно не менее 3 фото.</string>
     <string name="movie_download">Загрузить</string>
     <string name="movie_download_failed">Ошибка загрузки</string>
