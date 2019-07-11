@@ -2670,6 +2670,7 @@
     <string name="lock_screen_notifications_summary_show">Показывать уведомления полностью</string>
     <string name="lock_screen_notifications_summary_show_profile">Показывать рабочие уведомления полностью</string>
     <string name="lock_screen_notifications_title">На заблокированном экране</string>
+    <string name="lock_screen_settings_title">Экран блокировки</string>
     <string name="lock_screen_signature_summary">Заданный вами текст будет отображен на экране блокировки</string>
     <string name="lock_screen_signature_title">Подпись на экране блокировки</string>
     <string name="lock_screen_unlock_show">Пропускать экран блокировки</string>
@@ -3331,6 +3332,11 @@
     <string name="not_battery_optimizing">Режим экономии заряда отключен</string>
     <string name="not_installed">Не установлено</string>
     <string name="notch_and_status_bar_settings">Вырез и строка состояния</string>
+    <string name="notch_style_mod_description">Настройка отображения выреза</string>
+    <string name="notch_style_mod_title">Скрытие выреза</string>
+    <string name="notch_style_show">Не скрывать</string>
+    <string name="notch_style_status_bar_inside">Скрыть и оставить панель</string>
+    <string name="notch_style_status_bar_outside">Скрыть и убрать панель</string>  
     <string name="notch_force_black_desc">Включите для затемнения области вокруг выреза</string>
     <string name="notch_force_black_title">Скрыть вырез</string>
     <string name="notch_settings">Вырез</string>
@@ -6735,4 +6741,6 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_tethering_title">Точка доступа Wi-Fi</string>
     <string name="wifi_wps_fail_error">Не удалось выполнить защищенную настройку Wi-Fi, повторите попытку.</string>
     <string name="hotknot_charging_warning">Зарядка через USB может повлиять на функцию %s</string>
+    <string name="xiaomi_cloud_service_description_contact">контакты с</string>
+    <string name="xiaomi_cloud_service_description_format">MiCloud синхронизирует %s фотографии и создает резервные копии приложений и настроек.</string>
 </resources>
