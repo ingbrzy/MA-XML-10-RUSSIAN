@@ -321,14 +321,14 @@
   <string name="news_change">Изменить</string>
   <string name="no_network">Не удалось подключиться к сети, повторите попытку позже</string>
   <string name="no_network_btn">Повторить</string>
-  <string name="notification_garbage_cleanup_summary">Размер мусора достиг %s</string>
-  <string name="notification_garbage_cleanup_title">Очистить мусорные файлы</string>
+  <string name="notification_garbage_cleanup_summary">Удаление мусора (%s) для ускорения работы устройства</string>
+  <string name="notification_garbage_cleanup_title">Очистка</string>
   <string name="notification_low_memory_cache_summary">Доступно менее 1,5 ГБ дискового пространства</string>
   <string name="notification_low_memory_cache_title">Очистить кэш</string>
   <string name="notification_low_memory_deepclean_summary">Глубокая очистка может высвободить место на вашем устройстве</string>
   <string name="notification_low_memory_deepclean_title">Недостаточно места для хранения</string>
   <string name="notification_summary_after_auto_cleanup">Очищено: %s.</string>
-  <string name="notify_when">Получение уведомление, когда размер мусора достигает 100МБ</string>
+  <string name="notify_when">Получать уведомления, когда размер мусора достигает 100МБ</string>
   <string name="ok">OK</string>
   <string name="onekeyclean_boost_available">Доступно %s</string>
   <string name="onekeyclean_boost_cleaned">Очищено %s</string>
