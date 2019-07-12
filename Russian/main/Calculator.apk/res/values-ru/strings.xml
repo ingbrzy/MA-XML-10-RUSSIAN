@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="allow">Согласен</string>
     <string name="app_name">Калькулятор</string>
     <string name="app_name_danfa">Калькулятор</string>
     <string name="app_notification_info">Калькулятор работает в фоне</string>
@@ -65,6 +66,7 @@
     <string name="equalDesc">равно</string>
     <string name="error">Ошибка</string>
     <string name="error_fomrat">Неправильный формат</string>
+    <string name="exit">Выход</string>
     <string name="factorialDesc">факториал</string>
     <string name="float_window_guide_text">Нажмите, чтобы свернуть калькулятор</string>
     <string name="fund" />
@@ -155,6 +157,7 @@
     <string name="mortgage_item_years">Срок кредита</string>
     <string name="mortgage_loans_amount">Сумма кредита</string>
     <string name="mortgage_provident_found_interest_rate">Процентная ставка фонда</string>
+    <string name="mortgage_provider_east_money">Данные предоставлены East Money</string>
     <string name="mortgage_repayment_amount">Сумма погашения</string>
     <string name="mortgage_result">Результат</string>
     <string name="mortgage_show_details">Показать подробности</string>
