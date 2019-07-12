@@ -154,16 +154,18 @@
   <string name="goToSecondSpacce">Перейти во второе пространство</string>
   <string name="gpg_message">Создание клона игры требует клонирования Google Play Игр. Создать клон Google Play Игр?</string>
   <string name="gpg_title">Клонируйте Google Play Игры</string>
-  <string name="green_guard">Родительский контроль</string>
+  <string name="green_guard">Семейный защитник</string>
   <string name="green_guard_des1">Добавляйте устройства для удаленного управления</string>
   <string name="green_guard_des2">Отслеживайте местонахождение всех управляемых устройств</string>
   <string name="green_guard_des3">Контролируйте приложения и ограничивайте их использование</string>
   <string name="green_guard_title2">Местоположение</string>
   <string name="green_guard_title3">Приложения</string>
-  <string name="greenguard_child_des">Используйте наше приложение, чтобы быть на связи</string>
-  <string name="greenguard_child_des_title">Мне нужна помощь друзей и семьи</string>
-  <string name="greenguard_parent_des">Загрузите наше приложение и добавьте другие устройства</string>
-  <string name="greenguard_parent_des_title">Мне нужно помочь друзьям и семье</string>
+  <string name="greenguard_child_des">Управляйте устройствами друзей и близких</string>
+  <string name="greenguard_child_des_title">Сканирование QR-кода для добавления устройства</string>
+  <string name="greenguard_functional_description">"Удаленное управление устройствами, просмотр информации о местоположении,
+контроль установленных приложений и ограничение использования"</string>
+  <string name="greenguard_parent_des">Управляйте устройствами друзей и близких</string>
+  <string name="greenguard_parent_des_title">Используйте Kite Guard для добавления устройств</string>
   <string name="guide_contact_sub_title_desc">"Контакты, добавленные во второе пространство, будут личными.
 Сообщения будут появляться только во втором пространстве."</string>
   <string name="guide_contact_suc_sub_title_desc">Во втором пространстве будут отображаться только личные контакты и сообщения</string>
