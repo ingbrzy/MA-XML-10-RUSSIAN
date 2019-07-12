@@ -103,10 +103,10 @@
         <item quantity="many">Синхронизация продолжится через %d минут</item>
     </plurals>
         <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Синхронизация приостановлена. Возобновится через %d минут…</item>
-        <item quantity="one">Синхронизация приостановлена. Возобновится через %d минуту…</item>
-        <item quantity="few">Синхронизация приостановлена. Возобновится через %d минуты…</item>
-        <item quantity="many">Синхронизация приостановлена. Возобновится через %d минут…</item>
+        <item quantity="other">Возобновление синхронизации через %d минут…</item>
+        <item quantity="one">Возобновление синхронизации через %d минуту…</item>
+        <item quantity="few">Возобновление синхронизации через %d минуты…</item>
+        <item quantity="many">Возобновление синхронизации через %d минут…</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s минут назад</item>
