@@ -88,8 +88,8 @@
   <string name="cw_add_wallpaper_more_recomm">Дополнительные истории</string>
   <string name="cw_added">Добавлено</string>
   <string name="cw_added_fav_fail">"Не удалось загрузить данные"</string>
-  <string name="cw_added_fav_no_pic">Ничего нет.</string>
-  <string name="cw_added_toast">Уже добавлено.</string>
+  <string name="cw_added_fav_no_pic">Ничего нет</string>
+  <string name="cw_added_toast">Уже добавлено</string>
   <string name="cw_adding">Добавление (%1$d)</string>
   <string name="cw_album_no_pic">"Не удалось найти изображения на устройстве"</string>
   <string name="cw_album_no_right">Разрешить Карусели обоев доступ к Галерее</string>
@@ -148,7 +148,7 @@
   <string name="double_click_to_exit_activity">Нажмите еще раз для выхода</string>
   <string name="explorer_activity_title">Карусель обоев</string>
   <string name="facebook_application_id"/>
-  <string name="favor_list_no_data">Ничего нет.</string>
+  <string name="favor_list_no_data">Ничего нет</string>
   <string name="favor_list_title">Избранное</string>
   <string name="favor_success">Успешно добавлено в избранное</string>
   <string name="feed_article_entrance_about">О \"%s\"</string>
@@ -160,7 +160,7 @@
   <string name="history_list_no_data">Ничего нет</string>
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
-  <string name="idbct_desc">"Выбор качества загружаемых изображений"</string>
+  <string name="idbct_desc">Выбор качества загружаемых изображений</string>
   <string name="idbct_opt_auto_select_desc_text">"Загружать в обычном качестве через мобильный интернет, 
 загружать в HD качестве по Wi-Fi"</string>
   <string name="idbct_opt_auto_select_main_text">Авто</string>
@@ -335,13 +335,13 @@
   <string name="sst_grid_view_unselect_all">Снять выделение</string>
   <string name="sst_lockscreen_show_headline_desc">"Показать название обоев под часами на экране блокировки"</string>
   <string name="sst_lockscreen_show_headline_title">Название на экране блокировки</string>
-  <string name="sst_logo_desc">Новые обои ежедневно</string>
+  <string name="sst_logo_desc">Ежедневно обновляемые обои</string>
   <string name="sst_mode_selection">Выбор режима</string>
   <string name="sst_more_subscription">Выбор категорий</string>
   <string name="sst_morning_greeting_desc">Загружать ежедневно утренние приветствия</string>
   <string name="sst_morning_greeting_disable_toast">Эта функция будет доступна позже</string>
   <string name="sst_morning_greeting_title">Утренние приветствия</string>
-  <string name="sst_new_feature">Новая функция</string>
+  <string name="sst_new_feature">Слайд-шоу</string>
   <string name="sst_no_favor_wallpaper_hint">Нет избранных обоев</string>
   <string name="sst_privacy_policy_title">Политика конфиденциальности</string>
   <string name="sst_prov_enable_desc">Регулярно получать новые обои на экран блокировки</string>
