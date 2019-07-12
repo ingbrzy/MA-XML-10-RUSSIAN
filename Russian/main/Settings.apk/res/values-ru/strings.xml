@@ -1150,8 +1150,8 @@
     <string name="checking_for_updates">Проверка обновлений…</string>
     <string name="child_mode_settings">Родительский контроль</string>
     <string name="choose_a_card_to_reset">Выберите SIM карту для сброса</string>
-    <string name="choose_keyguard_clock_style">Формат часов экрана блокировки</string>
-    <string name="choose_keyguard_clock_summary">"Изменение формата часов работает только со стандартным экраном блокировки"</string>
+    <string name="choose_keyguard_clock_style">Стиль часов</string>
+    <string name="choose_keyguard_clock_summary">"Выбор стиля часов экрана блокировки. Работает только со стандартным экраном блокировки"</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="choose_smartcover_type">Тип передней крышки</string>
     <string name="choose_spell_checker">Проверка правописания</string>
@@ -2084,7 +2084,7 @@
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
     <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет также установить дополнительный способ разблокировки.</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
-    <string name="fingerprint_wakeup_summary">Пробуждать устройство в случае отсутствия отпечатков пальцев для разблокировки.</string>
+    <string name="fingerprint_wakeup_summary">Пробуждение устройства при отсутствии отпечатков для разблокировки</string>
     <string name="fingerprint_wakeup_title">Пробуждать сканером отпечатков</string>
     <string name="finish_application">Закрыть</string>
     <string name="finish_button">Завершить</string>
@@ -2671,7 +2671,7 @@
     <string name="lock_screen_notifications_summary_show_profile">Показывать рабочие уведомления полностью</string>
     <string name="lock_screen_notifications_title">На заблокированном экране</string>
     <string name="lock_screen_settings_title">Экран блокировки</string>
-    <string name="lock_screen_signature_summary">Заданный вами текст будет отображен на экране блокировки</string>
+    <string name="lock_screen_signature_summary">Введенный текст будет отображаться на экране блокировки</string>
     <string name="lock_screen_signature_title">Подпись на экране блокировки</string>
     <string name="lock_screen_unlock_show">Пропускать экран блокировки</string>
     <string name="lock_screen_unlock_show_summary">Сразу переходить к рабочем столу или вводу пароля</string>
@@ -2791,7 +2791,7 @@
     <string name="lockscreen_glogin_submit_button">Войти</string>
     <string name="lockscreen_label">Блокировка</string>
     <string name="lockscreen_magazine">Карусель обоев</string>
-    <string name="lockscreen_magazine_summary">Карусель обоев высокого качества</string>
+    <string name="lockscreen_magazine_summary">Обновляемые обои для экрана блокировки и рабочего стола</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
@@ -3677,7 +3677,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_key_start_enjoy">Узнать больше о Google Ассистенте</string>
     <string name="power_key_start_guide">Запуск Google Ассистента кнопкой питания на полноэкранных устройствах</string>
     <string name="power_label">Меню питания</string>
-    <string name="power_menu_under_keyguard_summary">Разрешить доступ к меню питания на экране блокировки</string>
+    <string name="power_menu_under_keyguard_summary">Доступ к меню питания на экране блокировки</string>
     <string name="power_menu_under_keyguard_title">Меню питания</string>
     <string name="power_last_full_charge_summary">^1 назад</string>
     <string name="power_mgr">Батарея</string>
@@ -3912,7 +3912,7 @@ OTG отключается автоматически через 10 минут �
     <string name="quick_reply_title">Быстрые ответы</string>
     <string name="quick_settings_developer_tiles">Фрагменты быстрых настроек</string>
     <string name="quick_settings_label">Переключатели</string>
-    <string name="quick_settings_under_keyguard_summary">Разрешить доступ к переключателям на экране блокировки</string>
+    <string name="quick_settings_under_keyguard_summary">Доступ к переключателям в шторке на экране блокировки</string>
     <string name="quick_settings_under_keyguard_title">Переключатели</string>
     <string name="quiet">Не беспокоить</string>
     <string name="quiet_group">Не беспокоить</string>
@@ -4169,7 +4169,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_monochrome_mode_summary">Включите монохромный режим для продления времени работы от батареи</string>
     <string name="screen_monochrome_mode_title">Монохромный режим</string>
     <string name="screen_never_timeout_title">Не выключать</string>
-    <string name="screen_on_proximity_sensor_summary">Предотвращать случайные нажатия при помещении устройства в карман</string>
+    <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий, когда устройство находится в кармане</string>
     <string name="screen_on_proximity_sensor_title">Режим \"В кармане\"</string>
     <string name="screen_optimize">Контрастность</string>
     <string name="screen_paper_mode_adjust_level">Уровень</string>
@@ -4469,7 +4469,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_vpn_enable">Включить VPN;VPN</string>
     <string name="search_vpn_settings_password">Пароль VPN;Защитить VPN</string>
     <string name="search_vpn_settings_title">VPN;Добавить VPN;Включить VPN</string>
-    <string name="search_wakeup_for_keyguard_notification_title">Пробуждать при уведомлениях;Включать экран для уведомлений;включить экран;разбудить устройство;разбудить телефон</string>
+    <string name="search_wakeup_for_keyguard_notification_title">Пробуждать для уведомлений;Включать экран для уведомлений;включить экран;разбудить устройство;разбудить телефон</string>
     <string name="search_wallpaper_settings_title">Обои;Рабочий стол;Экран блокировки</string>
     <string name="search_wfd_settings_title">Беспроводной дисплей;Включить беспроводной дисплей</string>
     <string name="search_wifi_advanced_ip_address_title">IP-адрес;IP</string>
@@ -4822,7 +4822,7 @@ UT-интерфейс: %5$s"</string>
     <string name="slot_status_title">Информация об IMEI</string>
     <string name="smallwindow_smartcover_title">С окошком</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
-    <string name="smartcover_sensitive_summary">Автоматическая блокировка/разблокировка экрана с помощью умного чехла</string>
+    <string name="smartcover_sensitive_summary">Автоматическая блокировка/разблокировка экрана умным чехлом</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
     <string name="sms_application_title">Сообщения</string>
     <string name="sms_change_default_dialog_text">Использовать приложение %1$s вместо %2$s для обмена SMS-сообщениями?</string>
@@ -5857,7 +5857,7 @@ UT-интерфейс: %5$s"</string>
     <string name="volume_category_title">Громкость</string>
     <string name="volume_hifi_description">Настройки Hi-Fi</string>
     <string name="volume_label">Громкость</string>
-    <string name="volume_launch_camera_summary">Двойное нажатие кнопки уменьшения громкости на экране блокировки запустит камеру</string>
+    <string name="volume_launch_camera_summary">Запуск камеры на экране блокировки двойным нажатием кнопки уменьшения громкости</string>
     <string name="volume_media_description">Музыка, видео, игры и медиафайлы</string>
     <string name="volume_media_mute">Отключить звук</string>
     <string name="volume_notification_description">Уведомления</string>
@@ -5953,7 +5953,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wait_for_debugger">Ожидание отладчика</string>
     <string name="wait_for_debugger_summary">Отлаживаемое приложение будет ожидать подключения отладчика</string>
     <string name="wakeup_and_sleep_settings_category_name">Настройки экрана блокировки</string>
-    <string name="wakeup_for_keyguard_notification_title">Пробуждать при уведомлениях</string>
+    <string name="wakeup_for_keyguard_notification_title">Пробуждать для уведомлений</string>
     <string name="wallpaper_attributions">Обои</string>
     <string name="wallpaper_attributions_values">"Спутниковые фотографии:
 © CNES 2014/Astrium, DigitalGlobe, Bluesky"</string>
