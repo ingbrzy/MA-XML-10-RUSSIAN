@@ -1151,7 +1151,7 @@
     <string name="child_mode_settings">Родительский контроль</string>
     <string name="choose_a_card_to_reset">Выберите SIM карту для сброса</string>
     <string name="choose_keyguard_clock_style">Стиль часов</string>
-    <string name="choose_keyguard_clock_summary">"Выбор стиля часов экрана блокировки. Работает только со стандартным экраном блокировки"</string>
+    <string name="choose_keyguard_clock_summary">Выбор стиля часов экрана блокировки. Работает только со стандартным экраном блокировки</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="choose_smartcover_type">Тип передней крышки</string>
     <string name="choose_spell_checker">Проверка правописания</string>
