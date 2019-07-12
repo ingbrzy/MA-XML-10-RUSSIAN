@@ -2183,7 +2183,7 @@
     <string name="sms_service">Блокировать сервисные SMS</string>
     <string name="sms_smart_engine_update">Автообновление базы SMS</string>
     <string name="sms_smart_engine_update_now">Обновить</string>
-    <string name="sms_stranger_block">Блокировать SMS от незнакомых</string>
+    <string name="sms_stranger_block">Заблокированные</string>
     <string name="SMSpass">Разрешить SMS</string>
     <string name="sorted_dialog_title">Тип трафика</string>
     <string name="sp_background_risk_dialog_summary">, проверьте и исправьте проблемы с оплатой.</string>
@@ -2281,7 +2281,7 @@
     <string name="st_msg_keyword_white">Белый список</string>
     <string name="st_msg_other_group">Другие сообщения</string>
     <string name="st_msg_settings">Блокировка SMS</string>
-    <string name="st_msg_stranger_group">Сообщения от незнакомых</string>
+    <string name="st_msg_stranger_group">Блокировать сообщения от незнакомых</string>
     <string name="st_settings_name">Настройки антиспама</string>
     <string name="st_share_settings">Общие настройки с SIM1</string>
     <string name="st_sub_title_customize_mode_name">Название</string>
