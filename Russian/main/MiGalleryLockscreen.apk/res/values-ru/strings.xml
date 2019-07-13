@@ -161,8 +161,8 @@
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
   <string name="idbct_desc">Выбор качества загружаемых изображений</string>
-  <string name="idbct_opt_auto_select_desc_text">"Загружать в обычном качестве через мобильный интернет, 
-загружать в HD качестве по Wi-Fi"</string>
+  <string name="idbct_opt_auto_select_desc_text">Загружать в обычном качестве через мобильный интернет, 
+загружать в HD качестве по Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Авто</string>
   <string name="idbct_opt_high_def_desc_text">Всегда загружать в HD качестве</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
