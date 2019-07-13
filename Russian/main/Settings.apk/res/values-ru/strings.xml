@@ -2241,8 +2241,8 @@
     <string name="gesture_setting_off">Выкл.</string>
     <string name="gesture_setting_on">Вкл.</string>
     <string name="gesture_w">W шаблон</string>
-    <string name="gesture_wakeup_summary">Двойное касание будет включать или выключать экран, если используется стандартная тема</string>
-    <string name="gesture_wakeup_title">Двойное касание</string>
+    <string name="gesture_wakeup_summary">Пробуждение или выключение экрана двойным касанием. Работает только со стандартным экраном блокировки</string>
+    <string name="gesture_wakeup_title">Пробуждать двойным касанием</string>
     <string name="gesture_z">Z шаблон</string>
     <string name="giga_hertz">ГГц</string>
     <string name="gigabyteShort">ГБ</string>
