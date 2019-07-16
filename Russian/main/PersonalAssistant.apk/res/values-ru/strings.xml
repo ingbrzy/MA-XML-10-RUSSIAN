@@ -123,7 +123,7 @@
     <string name="detail_action_open_in_browser">Открыть в браузере</string>
     <string name="detail_action_report_format_problem">Неверный формат</string>
     <string name="detail_action_settings">Открыть Настройки</string>
-    <string name="detail_action_share">Поделиться</string>
+    <string name="detail_action_share">Отправить</string>
     <string name="detail_title">Избранное</string>
     <string name="dialog_cancel_like">Успешно удалено</string>
     <string name="dialog_delete_cancel">Отмена</string>
@@ -352,8 +352,8 @@
     <string name="miot_device_mijia_uninstall_message">Приложение Mi Home не установлено. Хотите загрузить его из магазина приложений?</string>
     <string name="miot_device_mijia_uninstall_title">Не установлено</string>
     <string name="miot_device_network_error">Нет соединения</string>
-    <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_share">Поделиться</string>
+    <string name="miuishare_share_editor_title">Отправить</string>
+    <string name="miuishare_title_share">Отправить</string>
     <string name="msp_btn_ok">Подтвердить</string>
     <string name="msp_memo_app_cancel">Система перегружена, попробуйте позже</string>
     <string name="msp_memo_repeat_pay">Запрещено многократно оплачивать один и тот же заказ</string>
