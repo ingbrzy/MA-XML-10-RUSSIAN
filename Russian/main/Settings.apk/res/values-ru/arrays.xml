@@ -1003,7 +1003,13 @@
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Графический</item>
-        <item>Процентный</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом)</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (рядом в шторке)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Поиск</item>
