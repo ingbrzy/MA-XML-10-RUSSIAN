@@ -204,7 +204,7 @@
   <string name="lighting_pattern_stage">Сцена</string>
   <string name="live_edit_exit_confirm">Остановить</string>
   <string name="live_edit_exit_message">Остановить съемку?</string>
-  <string name="live_edit_share_title">Поделиться</string>
+  <string name="live_edit_share_title">Отправить</string>
   <string name="live_error_confirm">Настройка времени</string>
   <string name="live_error_message">Некоторые функции могут работать неправильно, если системное время некорректно.</string>
   <string name="live_error_title">"Системное время некорректно"</string>
