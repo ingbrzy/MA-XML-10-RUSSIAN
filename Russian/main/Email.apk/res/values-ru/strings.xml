@@ -240,7 +240,7 @@
     <string name="body_hint">Написать письмо</string>
     <string name="body_inline_pic_text">[Picture]</string>
     <string name="bottom_bar_more_quickreply">Быстрый ответ</string>
-    <string name="bottom_bar_more_share">Поделиться</string>
+    <string name="bottom_bar_more_share">Отправить</string>
     <string name="bottom_bar_no_quickreply_toast">Нет быстрого ответа</string>
     <string name="bytes">%s Б</string>
     <string name="calendar_remind_dialog_title">Напомнить позже</string>
@@ -980,7 +980,7 @@
     <string name="set_network">Настройка сети</string>
     <string name="settings_activity_title">Настройки</string>
     <string name="share_choose">Выберите файл для отправки</string>
-    <string name="sharing">Поделиться</string>
+    <string name="sharing">Отправить</string>
     <string name="shortcut_name_title">Название ярлыка</string>
     <string name="show_elided">▶ Показать цитирование</string>
     <string name="show_images">Загрузить и показать изображения</string>
