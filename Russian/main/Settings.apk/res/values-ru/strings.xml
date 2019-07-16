@@ -3837,6 +3837,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_remind_bindaccount_title">Привяжите Mi аккаунт</string>
     <string name="privacy_password_settings">Использовать пароль защиты личных данных</string>
     <string name="privacy_password_settings_next">Далее</string>
+    <string name="privacy_password_settings_summary">Пароль защиты личных данных защищает приложения, содержащие конфиденциальные данные</string>
     <string name="privacy_password_settings_titles">Пароль защиты личных данных защищает сообщения, фотографии, файлы и заметки</string>
     <string name="privacy_password_settings_titles_elder_mode">Пароль защиты личных данных защищает фотографии, файлы и заметки</string>
     <string name="privacy_password_settings_titles_second_space">Пароль защиты личных данных защищает сообщения, фотографии и заметки</string>
