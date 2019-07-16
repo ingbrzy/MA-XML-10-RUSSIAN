@@ -321,7 +321,7 @@
     <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек значками</string>
     <string name="shake_to_align_icons_summary">Встряхните устройство в режиме редактирования для автоматического заполнения пустых ячеек.</string>
     <string name="shake_to_align_icons_title">Заполнение пустых ячеек встряхиванием</string>
-    <string name="share">Поделиться</string>
+    <string name="share">Отправить</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
     <string name="show_recents_recommend_title">Показывать виджеты Безопасности</string>
