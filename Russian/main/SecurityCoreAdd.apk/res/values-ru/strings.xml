@@ -15,10 +15,10 @@
   <string name="bind_device">Добавить устройства</string>
   <string name="button_text_next_step">Далее</string>
   <string name="button_text_next_step_timer">Далее (%d)</string>
-  <string name="can_not_delete_when_calling">Нельзя удалить пространство во время вызова</string>
-  <string name="can_not_switch_when_calling">Нельзя менять пространство во время вызова</string>
+  <string name="can_not_delete_when_calling">Удаление пространства во время вызова запрещено</string>
+  <string name="can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
   <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещен родительским контролем</string>
-  <string name="can_not_switch_when_super_power_active">"Нельзя переключиться между пространствами при глубоком энергосбережении"</string>
+  <string name="can_not_switch_when_super_power_active">"Переключение пространства при глубоком энергосбережении недоступно"</string>
   <string name="cancel_button">Отмена</string>
   <string name="cancelClosePassword">Не отключать</string>
   <string name="changePassword">Изменение пароля</string>
