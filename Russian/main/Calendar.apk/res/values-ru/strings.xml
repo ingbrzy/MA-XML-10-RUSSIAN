@@ -358,6 +358,7 @@
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
     <string name="preferences_notification_ringtone_title">Мелодия</string>
     <string name="preferences_popup_alert_smart_summary">MIUI автоматически определит, какие события наиболее актуальны</string>
+    <string name="preferences_popup_alert_smart_summary_new">Чувствительные ко времени события - события с точным временем</string>
     <string name="preferences_popup_alert_smart_tips">"Замените традиционные уведомления всплывающими уведомлениями, чтобы не пропустить важные события. Всплывающие уведомления не будут появляться, когда вы играете в игры, смотрите полноэкранные видеоролики или используете автомобильный режим."</string>
     <string name="preferences_popup_alert_title">Всплывающие уведомления</string>
     <string name="preferences_title">Календарь</string>
@@ -435,6 +436,7 @@
     <string name="setting_daysoff_update_net_err">"Не удалось проверить наличие обновлений. Повторите попытку позже."</string>
     <string name="setting_daysoff_update_schedule">Обновление…</string>
     <string name="setting_daysoff_update_success">Успешно обновлено</string>
+    <string name="setting_desc_import_todo">Импорт запланированных задач из Заметок</string>
     <string name="setting_fb_birthdays_title">Импорт дней рождения из Facebook</string>
     <string name="setting_features_title">Настройки функций</string>
     <string name="setting_holiday_display_desc">Карточки праздников расположены под вашей повесткой дня на главной странице</string>
@@ -442,6 +444,7 @@
     <string name="setting_others">Дополнительные настройки</string>
     <string name="setting_title_about">О приложении</string>
     <string name="setting_title_holiday_display">Показывать праздники</string>
+    <string name="setting_title_import_todo">Импорт задач</string>
     <string name="share_image">Отправить</string>
     <string name="share_image_label">Отправить с помощью</string>
     <string name="share_title">Отправить</string>
@@ -486,6 +489,8 @@
     <string name="today_at_time_fmt">Сегодня, %s</string>
     <string name="today_icon_voice_contentdescription">Возврат к сегодня</string>
     <string name="today_no_events">Мероприятий не запланировано</string>
+    <string name="todo_audio_event">"[Голосовое задание] "</string>
+    <string name="todo_event">Предстоящие задачи</string>
     <string name="tomorrow">Завтра</string>
     <string name="tomorrow_at_time_fmt">Завтра, %s</string>
     <string name="too_long_content">Содержание слишком длинное</string>
