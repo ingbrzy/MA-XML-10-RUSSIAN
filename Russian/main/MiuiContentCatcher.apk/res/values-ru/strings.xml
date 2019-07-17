@@ -27,5 +27,7 @@
   <string name="save_content_tip">"Следующие элементы могут быть сохранены: "</string>
   <string name="search">Поиск</string>
   <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
+  <string name="settings_clear_data_confirmation_description">Если вы удалите пароль сейчас, вам нужно будет ввести его заново при входе в систему.
+Удалить пароль?</string>	
   <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учетной записи и пароли на устройстве.</string>
 </resources>
