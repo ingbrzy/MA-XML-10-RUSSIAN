@@ -18,6 +18,7 @@
   <string name="can_not_delete_when_calling">Нельзя удалить пространство во время вызова</string>
   <string name="can_not_switch_when_calling">Нельзя менять пространство во время вызова</string>
   <string name="can_not_switch_when_green_kid_active">Переход во второе пространство запрещен родительским контролем</string>
+  <string name="can_not_switch_when_super_power_active">"Нельзя переключиться между пространствами при глубоком энергосбережении"</string>
   <string name="cancel_button">Отмена</string>
   <string name="cancelClosePassword">Не отключать</string>
   <string name="changePassword">Изменение пароля</string>
