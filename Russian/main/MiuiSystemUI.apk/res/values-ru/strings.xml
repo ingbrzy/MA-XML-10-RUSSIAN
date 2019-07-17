@@ -773,8 +773,9 @@
     <string name="incorrect_pincode">Неверный PIN код</string>
     <string name="incorrect_pukcode">Неверный PUK код</string>
     <string name="input_password_after_boot_msg">После перезагрузки необходимо ввести пароль</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Нельзя менять пространство во время вызова</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Нельзя менять пространство при включенном родительском контроле</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещен родительским контролем</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Переключение пространства при глубоком энергосбережении недоступно"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_pattern_hint_text">Введите графический ключ</string>
@@ -1399,11 +1400,13 @@
     <string name="recents_accessibility_split_screen_top">Разделить по верхнему краю</string>
     <string name="recents_app_info_button_label">Информация о приложении</string>
     <string name="recents_caption_resize">Выберите другой макет</string>
+    <string name="recents_dimiss_task">Очистить</string>
     <string name="recents_drag_hint_message">Перетащите приложение сюда</string>
     <string name="recents_empty_message">Недавних приложений нет</string>
     <string name="recents_empty_message_dismissed_all">Все приложения закрыты</string>
     <string name="recents_empty_message_multi_window">Открыть приложение с рабочего стола</string>
     <string name="recents_exit_multi_window_mode">Выход</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"Разделение экрана недоступно во время трансляции"</string>
     <string name="recents_incompatible_app_message">Приложение не поддерживает разделение экрана</string>
     <string name="recents_launch_disabled_message">Приложение %s отключено в безопасном режиме.</string>
     <string name="recents_launch_error_message">Не удалось запустить %s.</string>
@@ -1414,6 +1417,7 @@
     <string name="recents_multistack_add_stack_dialog_split_vertical">Разделить по вертикали</string>
     <string name="recents_search_bar_label">Поиск</string>
     <string name="recents_stack_action_button_label">Закрыть все</string>
+    <string name="recents_task_screening">Трансляция</string>
     <string name="recents_title_app_manager">Приложения</string>
     <string name="recents_title_game">Игры</string>
     <string name="recents_title_garbage_cleanup">Очистка</string>
