@@ -192,6 +192,14 @@
         <item quantity="few">Используйте как минимум %d заглавные буквы</item>
         <item quantity="many">Используйте как минимум %d заглавных букв</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Можно ввести не более %d символов</item>
+        <item quantity="one">Можно ввести не более %d символа</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Введите не менее %d символов</item>
+        <item quantity="one">Введите не менее %d символа</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Код должен содержать %d цифр</item>
         <item quantity="one">Код должен содержать %d цифру</item>
