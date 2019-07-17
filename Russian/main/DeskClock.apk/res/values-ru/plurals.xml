@@ -76,6 +76,12 @@
         <item quantity="few">%1$d дня</item>
         <item quantity="many">%1$d дней</item>
     </plurals>    
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Интервал изменен на %d минут</item>
+        <item quantity="one">Интервал изменен на %d минуту</item>
+        <item quantity="few">Интервал изменен на %d минуты</item>
+        <item quantity="many">Интервал изменен на %d минут</item>
+    </plurals>	
     <plurals name="snooze_duration_summary">
         <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
         <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
