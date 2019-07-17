@@ -2524,6 +2524,7 @@
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, вызов, звонок</string>
     <string name="keywords_write_settings">запись изменение системных настроек</string>
+    <string name="kid_space_settings">Детское пространство</string>
     <string name="kilobyteShort">КБ</string>
     <string name="kilobyte_per_second">КБ/с</string>
     <string name="label_mi_stats">Mi аналитика</string>
