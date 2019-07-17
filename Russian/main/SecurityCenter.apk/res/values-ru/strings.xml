@@ -501,6 +501,7 @@
     <string name="call_blacklist">Вызовы</string>
     <string name="call_cloud_block">Облачная блокировка</string>
     <string name="call_contact_block">Блокировать вызовы от контактов</string>
+    <string name="call_delete_all_hint">Удалить все заблокированные вызовы?</string>
     <string name="call_delete_hint">Удалить все заблокированные вызовы с этого номера?</string>
     <string name="call_delete_title">Очистить журнал вызовов</string>
     <string name="call_oversea_block">Блокировать вызовы из-за границы</string>
