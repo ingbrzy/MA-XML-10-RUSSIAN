@@ -19,8 +19,6 @@
     <string name="about_app_name">О приложении</string>
     <string name="about_version_update">"Что нового"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="accessibility_setting_hint">"Нажмите кнопку в правом верхнем углу, чтобы включить эту функцию.
-Темы будут определять, какие приложения вы используете, и отображать прозрачные обои в приложениях по вашему выбору.​"</string>
     <string name="accessibiliy_description_content_account">Профиль</string>
     <string name="accessibiliy_description_content_ad">Реклама</string>
     <string name="accessibiliy_description_content_add_resource">Добавить объекты</string>
@@ -96,6 +94,7 @@
     <string name="component_title_wallpaper">Обои</string>
     <string name="count_down_tip">%ds осталось</string>
     <string name="current_using_desktop_wallpaper_text">Рабочий стол</string>
+    <string name="current_using_float_wallpaper_text">Прозрачный</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимо</string>
@@ -117,9 +116,9 @@
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
     <string name="dynamic_video_wallpaper">24-часовые обои</string>
-    <string name="enable_accessibility">Требуются права доступа</string>
-    <string name="enable_accessibility_hint">"Вы можете включить эту функцию в Темах. После этого вы сможете выбрать, какие приложения должны работать с прозрачными обоями."</string>
+    <string name="enable_all_free_mode">Загрузить</string>
     <string name="enable_transparent_wallpaper">Использовать прозрачные обои</string>
+    <string name="enabling_all_free_mode">Загрузка…</string>
     <string name="exit_extreme_mode_dialog_agree">Согласен</string>
     <string name="exit_extreme_mode_dialog_cancel">Отмена</string>
     <string name="exit_extreme_mode_dialog_title">Отключите Максимальную экономию</string>
@@ -194,10 +193,15 @@
     <string name="gift_use_confirmation_dlg_title">Отправить этот подарок?</string>
     <string name="gift_use_fail_dlg_title">Произошла ошибка</string>
     <string name="gift_used">Отправлено</string>
-    <string name="go_accessibility_setting">Выбрать</string>
     <string name="goto_purchased_list">История покупок</string>
     <string name="goto_wechat">Аккаунт WeChat \"%1$s\" скопирован в буфер обмена. Открыть WeChat?</string>
+    <string name="has_mamual_hide_font">Скрытые</string>
+    <string name="has_mamual_hide_theme">Скрытые</string>
+    <string name="has_mamual_hide_wallpaper">Скрытые</string>    
     <string name="hide_free">Скрыть бесплатные %1$s</string>
+    <string name="hide_free_font">Скрыть бесплатные шрифты</string>
+    <string name="hide_free_theme">Скрыть бесплатные темы</string>
+    <string name="hide_free_wallpaper">Скрыть бесплатные обои</string>    
     <string name="hide_incompatible">Скрыть несовместимые %1$s</string>
     <string name="home_apply_failured">Не удалось установить обои на рабочий стол</string>
     <string name="home_apply_success">Обои рабочего стола установлены</string>
@@ -223,6 +227,8 @@
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
     <string name="item_resource_audio_optional_notification_ring">Уведомление</string>
     <string name="item_resource_audio_optional_phone_ring">Мелодия</string>
+    <string name="kuyin_user_agreement_content">Подписки на пользовательские рингтоны предоставлены iFlytek. Прежде чем использовать пользовательские рингтоны, вы должны принять %s. Согласны?</string>
+    <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
     <string name="like_list">Отмеченные</string>
     <string name="live_wallpaper">Живые обои</string>
@@ -243,6 +249,7 @@
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
+    <string name="long_click_can_hide_resource">Нажмите и удерживайте для скрытия элементов</string>
     <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
@@ -310,7 +317,6 @@
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
     <string name="recently_used">Недавние</string>
-    <string name="reenable_accessibility">Произошла ошибка. Предоставьте права доступа снова.</string>
     <string name="refresh_footer_all_loaded">На данный момент это всё</string>
     <string name="refresh_footer_failed">Не удалось загрузить данные</string>
     <string name="refresh_footer_finish">Загрузка завершена</string>
@@ -430,6 +436,9 @@
     <string name="resource_get_auth_not_official">Темы из сторонних источников не поддерживаются</string>
     <string name="resource_get_auth_retrieving">Получение данных…</string>
     <string name="resource_has_been_downloaded">Тема уже загружена.</string>
+    <string name="resource_hide">Скрыть</string>
+    <string name="resource_hide_fail">"Не удалось скрыть"</string>
+    <string name="resource_hide_succ">Успешно скрыто</string>
     <string name="resource_hint">Уведомление</string>
     <string name="resource_import_failed">Ошибка импорта</string>
     <string name="resource_import_successful">Завершено</string>
@@ -466,6 +475,9 @@
     <string name="resource_ranking">Популярные</string>
     <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
+    <string name="resource_restore">Восстановить</string>
+    <string name="resource_restore_fail">"Не удалось восстановить"</string>
+    <string name="resource_restore_succ">Успешно восстановлено</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_ringtone_playing_error">Ошибка</string>
     <string name="resource_ringtone_volume_mute">Звук отключен</string>
@@ -544,8 +556,13 @@
     <string name="shortcut_message">Создайте ярлык на рабочем столе!</string>
     <string name="shortcut_show_tip">Больше не показывать</string>
     <string name="shortcut_title">Нравятся наши обои?</string>
-    <string name="show_free">Показать бесплатные %1$s</string>
+    <string name="show_free_font">Показать бесплатные шрифты</string>
+    <string name="show_free_theme">Показать бесплатные темы</string>
+    <string name="show_free_wallpaper">Показать бесплатные обои</string>
     <string name="show_incompatible">Показать несовместимые %1$s</string>
+    <string name="show_mamual_hide_font">Показать скрытые шрифты</string>
+    <string name="show_mamual_hide_theme">Показать скрытые темы</string>
+    <string name="show_mamual_hide_wallpaper">Показать скрытые обои</string>
     <string name="swipe_find_more">Проведите вверх для просмотра</string>
     <string name="system_precust">Предустановленные</string>
     <string name="the_picture_is_not_support">Изображение не поддерживается</string>
@@ -565,9 +582,13 @@
     <string name="theme_changed_failed_message">Не удалось применить тему</string>
     <string name="theme_changed_message">Тема применена</string>
     <string name="theme_changing_dialog_title">"Применение "</string>
+    <string name="theme_comment_detail_no_more">"Больше ничего нет"</string>
+    <string name="theme_comment_detail_sub_comment_title">Все ответы</string>
+    <string name="theme_comment_detail_title">Сведения</string>
     <string name="theme_comment_dialog_cancel">Не сейчас</string>
     <string name="theme_comment_dialog_message">"Вам нравится используемая тема? Будем благодарны за отзыв!"</string>
     <string name="theme_comment_dialog_ok">Отзыв</string>
+    <string name="theme_comment_sub_comment_bar_hint">Поделитесь идеями с нашим сообществом</string>
     <string name="theme_component_title_alarm">Будильник</string>
     <string name="theme_component_title_alarmstyle">Стиль будильника</string>
     <string name="theme_component_title_all">Темы</string>
@@ -654,6 +675,7 @@
     <string name="transparent_wallpaper_filter_setting">Выбранные приложения</string>
     <string name="transparent_wallpaper_guide">Перейти в Темы</string>
     <string name="transparent_wallpaper_guide_tip">Теперь вы можете выбрать прозрачные обои в Темах.</string>
+    <string name="transparent_wallpaper_is_running_in_background">Прозрачные обои запущены в фоновом режиме</string>
     <string name="transparent_wallpaper_pref_summary">Обои с частичной прозрачностью</string>
     <string name="transparent_wallpaper_white_wallpaper">Установить белый фон</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">"Не удалось установить фон"</string>
@@ -669,6 +691,7 @@
     <string name="uid_change_dialog_message">Вы удалили обновления. Для использования тем перезагрузите устройство.</string>
     <string name="uid_change_dialog_ok">Понятно</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
+    <string name="unable_connect_network">"Не удалось подключиться к сети"</string>
     <string name="up_to_the_end">На данный момент это всё. Приходите позже.</string>
     <string name="update_btn">ОБНОВИТЬ</string>
     <string name="update_check">Проверить обновления</string>
@@ -695,10 +718,13 @@
     <string name="video_data_tips_title">Предупреждение о трафике</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
     <string name="video_wallpaper_import">Нажмите чтобы добавить</string>
+    <string name="wallpaper_24h">24 часа</string>
     <string name="wallpaper_apply">Применить</string>
     <string name="wallpaper_crop">Обрезать</string>
     <string name="wallpaper_decoded_error">Ошибка</string>
+    <string name="wallpaper_delete_all">Удалить выбранные?</string>
     <string name="wallpaper_detail_load_page_no_network">Подключитесь к сети и повторите попытку.</string>
+    <string name="wallpaper_dynamic">Динамические</string>
     <string name="wallpaper_loop_add_success">Обои успешно добавлены</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавить в слайд-шоу рабочего стола</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Добавить в слайд-шоу экрана блокировки</string>
@@ -721,6 +747,9 @@
     <string name="wallpaper_loop_title">Слайд-шоу обоев</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоу обоев рабочего стола</string>
     <string name="wallpaper_loop_title_lock_walpaper">Слайд-шоу обоев экрана блокировки</string>
+    <string name="wallpaper_online">Обои онлайн</string>
+    <string name="wallpaper_online_no_more">"Больше ничего нет"</string>
+    <string name="wallpaper_online_tip">Подключитесь к сети, чтобы посмотреть больше</string>
     <string name="wallpaper_scroll_type_tips">Прокрутка обоев</string>
     <string name="wallpaper_set_as_both">Установить везде</string>
     <string name="wallpaper_set_as_desktop">Установить на рабочий стол</string>
@@ -731,6 +760,7 @@
     <string name="wallpaper_settings_no_history">История пуста</string>
     <string name="wallpaper_settings_pad_more_page_title">Другие обои</string>
     <string name="wallpaper_settings_page_title">Обои</string>
+    <string name="wallpaper_static">Статические</string>
     <string name="wechat_not_found">Установите WeChat</string>
     <string name="wifi_check_cancel">Отмена</string>
     <string name="wifi_check_confirm">OK</string>
