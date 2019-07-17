@@ -51,11 +51,11 @@
     <string name="default_alarm_title">Мелодия по умолчанию</string>
     <string name="default_label">Будильник</string>
     <string name="delete">Удалить</string>
-    <string name="delete_alarm">Удаление будильника</string>
+    <string name="delete_alarm">Удаление</string>
     <string name="delete_alarm_confirm">Удалить выбранные будильники?</string>
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timer_item_title">Удалить таймер</string>
-    <string name="delete_timezone_title">Удаление часового пояса</string>
+    <string name="delete_timezone_title">Удаление</string>
     <string name="dialog_confirm_abort">Отменить изменения?</string>
     <string name="dialog_message_agree">Согласен</string>
     <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению Часы требуется доступ к вашим контактам. Вы согласны?</string>
@@ -142,10 +142,14 @@
     <string name="module_download_success">Загрузка аудиофайлов завершена</string>
     <string name="module_download_title">Требуются аудиофайлы</string>
     <string name="module_downloading">Загрузка аудиофайлов…</string>
+    <string name="module_update_success">Обновлены аудиофайлы умного будильника.</string>
+    <string name="module_update_success_control">Понятно</string>
     <string name="monday_to_friday">По будням</string>
     <string name="more_setting">Прочие настройки</string>
     <string name="more_settings">Настройки</string>
     <string name="never">Однократно</string>
+    <string name="no_alarm_setting">Будильников нет</string>
+    <string name="no_worldclock">Часов нет</string> 
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
     <string name="other_category_title">Прочее</string>
@@ -263,7 +267,7 @@
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
-    <string name="worldcolock_date_display_prefix">Текущие: </string>
+    <string name="worldcolock_date_display_prefix">"Текущие: "</string>
     <string name="worldcolock_timezone_current">Текущий: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">ч</string>
