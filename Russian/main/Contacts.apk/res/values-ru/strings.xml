@@ -1035,6 +1035,8 @@
     <string name="share_qrcode">Отправить QR-код</string>
     <string name="share_via">Отправить с помощью</string>
     <string name="share_visible_contacts">Отправить контакты</string>
+    <string name="shortcut_new_contact_label">Новый контакт</string>
+    <string name="shortcut_scan_label">Загрузить визитку</string> 
     <string name="shortcutActivityTitle">Выберите функцию ярлыка</string>
     <string name="shortcutContact">Контакт</string>
     <string name="shortcutDialContact">"Быстрый набор "</string>
