@@ -360,6 +360,7 @@
     <string name="uninstall_xspace_dialog_title_format">Удалить клон \"%s\"?</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unnamed_folder_name">Папка</string>
+    <string name="unstable_dialog_content">"Это предварительная версия образа системы Android, которая может быть изменена. Использование этого образа системы регулируется лицензионным соглашением Android SDK Preview. Предварительный образ системы Android не является стабильной версией и может содержать ошибки и дефекты, которые могут привести к повреждению ваших компьютерных систем, устройств или данных. Предварительный образ системы Android не подлежит такому же тестированию, как заводская ОС, и может привести к тому, что это устройство, установленные службы или приложения перестанут работать."</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
     <string name="wallpaper">Обои</string>
