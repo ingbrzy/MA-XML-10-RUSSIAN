@@ -142,14 +142,14 @@
     <string name="module_download_success">Загрузка аудиофайлов завершена</string>
     <string name="module_download_title">Требуются аудиофайлы</string>
     <string name="module_downloading">Загрузка аудиофайлов…</string>
-    <string name="module_update_success">Обновлены аудиофайлы умного будильника.</string>
+    <string name="module_update_success">Аудиофайлы для умных будильников обновлены.</string>
     <string name="module_update_success_control">Понятно</string>
     <string name="monday_to_friday">По будням</string>
     <string name="more_setting">Прочие настройки</string>
     <string name="more_settings">Настройки</string>
     <string name="never">Однократно</string>
-    <string name="no_alarm_setting">Будильников нет</string>
-    <string name="no_worldclock">Часов нет</string> 
+    <string name="no_alarm_setting">Нет будильников</string>
+    <string name="no_worldclock">Нет часов</string> 
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
     <string name="other_category_title">Прочее</string>
