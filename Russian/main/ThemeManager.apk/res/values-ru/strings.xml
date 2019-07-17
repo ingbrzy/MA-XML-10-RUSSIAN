@@ -94,7 +94,7 @@
     <string name="component_title_wallpaper">Обои</string>
     <string name="count_down_tip">%ds осталось</string>
     <string name="current_using_desktop_wallpaper_text">Рабочий стол</string>
-    <string name="current_using_float_wallpaper_text">Прозрачный</string>
+    <string name="current_using_float_wallpaper_text">Прозрачные</string>
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимо</string>
