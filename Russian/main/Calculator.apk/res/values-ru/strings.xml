@@ -17,6 +17,7 @@
     <string name="cal_text_copied">Текст скопирован</string>
     <string name="cancel">Отмена</string>
     <string name="choose_currency">Выберите валюту</string>
+    <string name="choose_radix">Выберите систему счисления</string>
     <string name="choose_unit">Выберите величину</string>
     <string name="city">Город</string>
     <string name="clearDesc">очистить</string>
@@ -27,6 +28,7 @@
     <string name="convertion_unit">Конвертер величин</string>
     <string name="convertion_unit_area">Конвертер площади</string>
     <string name="convertion_unit_length">Конвертер длины</string>
+    <string name="convertion_unit_radix">Система счисления</string>
     <string name="convertion_unit_temperature">Конвертер температуры</string>
     <string name="convertion_unit_time">Конвертер времени</string>
     <string name="convertion_unit_velocity">Конвертер скорости</string>
@@ -101,6 +103,7 @@
     <string name="item_title_dress_size">Размер одежды</string>
     <string name="item_title_length_conversion">Длина</string>
     <string name="item_title_mortgage">Ипотека</string>
+    <string name="item_title_radix">Система счисления</string>
     <string name="item_title_scientific_calculator">Инженерный</string>
     <string name="item_title_tax">Налоги</string>
     <string name="item_title_temprature_conversion">Температура</string>
@@ -295,6 +298,7 @@
     <string name="unit_data_display_currency_aed">Дирхам ОАЭ</string>
     <string name="unit_data_display_currency_ars">Аргентинское песо</string>
     <string name="unit_data_display_currency_aud">Австралийский доллар</string>
+    <string name="unit_data_display_currency_bdt">Бангладешская така</string>
     <string name="unit_data_display_currency_bgn">Болгарский лев</string>
     <string name="unit_data_display_currency_bhd">Бахрейнский динар</string>
     <string name="unit_data_display_currency_bnd">Брунейский доллар</string>
@@ -385,6 +389,10 @@
     <string name="unit_data_display_length_um">Микрометры</string>
     <string name="unit_data_display_length_yd">Ярды</string>
     <string name="unit_data_display_length_zhang">Чжан</string>
+    <string name="unit_data_display_radix_10">Десятичная</string>
+    <string name="unit_data_display_radix_16">Шестнадцатиричная</string>
+    <string name="unit_data_display_radix_2">Двоичная</string>
+    <string name="unit_data_display_radix_8">Восьмеричная</string>
     <string name="unit_data_display_temperature_c">Цельсий</string>
     <string name="unit_data_display_temperature_f">Фаренгейт</string>
     <string name="unit_data_display_temperature_k">Кельвин</string>
