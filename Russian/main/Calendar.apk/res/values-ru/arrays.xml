@@ -129,6 +129,11 @@
         <item>Для всех событий</item>
         <item>Для наиболее актуальных событий</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Выкл.</item>
+        <item>Для всех событий</item>
+        <item>Для чувствительных ко времени событий</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
         <item>Только в режиме \"Без звука\"</item>
