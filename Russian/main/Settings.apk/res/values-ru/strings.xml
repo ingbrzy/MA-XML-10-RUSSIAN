@@ -3328,7 +3328,7 @@
     <string name="noise_suppression">Подавление внешних шумов</string>
     <string name="none">Нет</string>
     <string name="normal">Отключен</string>
-    <string name="normal_info">Все звуки будут работать нормально</string>
+    <string name="normal_info">Все звуки разрешены</string>
     <string name="normal_smartcover_title">Непрозрачная</string>
     <string name="not_battery_optimizing">Режим экономии заряда отключен</string>
     <string name="not_installed">Не установлено</string>
@@ -4875,7 +4875,7 @@ UT-интерфейс: %5$s"</string>
 Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
     <string name="stable_build">Стабильная</string>
     <string name="standard">Без звука</string>
-    <string name="standard_info">Отключить звуки звонков и уведомлений</string>
+    <string name="standard_info">Звуки рингтонов и уведомлений отключены</string>
     <string name="start_silent_mode">Включить режим \"Без звука\"</string>
     <string name="starting_android">Запуск Android…</string>
     <string name="status_awaiting_tap">Нажмите на метку, чтобы начать запись…</string>
@@ -5316,8 +5316,8 @@ UT-интерфейс: %5$s"</string>
     <string name="toggle_auto_speaker_preference_title">Автоматическое переключение на динамик</string>
     <string name="toggle_collapse_after_clicked_title">Скрывать после касания</string>
     <string name="total">Не беспокоить</string>
-    <string name="total_info">Отключить все звуки и вибрацию, кроме будильников</string>
-    <string name="total_info_no_vibrator">Отключить все звуки, кроме будильников</string>
+    <string name="total_info">Все звуки и вибрация отключены, кроме будильников</string>
+    <string name="total_info_no_vibrator">Все звуки отключены, кроме будильников</string>
     <string name="total_memory">Всего</string>
     <string name="total_size">%s всего</string>
     <string name="total_size_label">Всего</string>
