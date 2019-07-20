@@ -103,7 +103,7 @@
   <string name="feedback_detail_tile">Прогресс</string>
   <string name="feedback_empty_report_list">Пока нет отчетов</string>
   <string name="feedback_guess">Наше предположение</string>
-  <string name="feedback_history_remind_login_desc">Войдите в свой Mi аккаунт для просмотра подробностей о ваших отчетах</string>
+  <string name="feedback_history_remind_login_desc">Войдите в свой Mi Аккаунт для просмотра подробностей о ваших отчетах</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Key: %s</string>
   <string name="feedback_jira_key_place_holder">Создание Jira…</string>
@@ -111,7 +111,7 @@
   <string name="feedback_phone_model_label">Модель телефона</string>
   <string name="feedback_probability_label">Вероятность</string>
   <string name="feedback_remind_login_btn">Войти</string>
-  <string name="feedback_report_remind_login_desc">Войдите в свой Mi аккаунт, чтобы наши инженеры могли связаться с Вами.</string>
+  <string name="feedback_report_remind_login_desc">Войдите в свой Mi Аккаунт, чтобы наши инженеры могли связаться с Вами.</string>
   <string name="feedback_report_remind_login_desc2">Вы можете просмотреть продвижение своего отчета в разделе \"Мои отчеты\".</string>
   <string name="feedback_reproductivity_everytime">Каждый раз</string>
   <string name="feedback_reproductivity_occasionally">Редко</string>
@@ -179,7 +179,7 @@
   <string name="issue_search">Поиск</string>
   <string name="kr_authorization_agree">Принять</string>
   <string name="kr_authorization_contact">Учетные записи</string>
-  <string name="kr_authorization_contact_desc">Получение информации о Mi аккаунте и проверка учетной записи</string>
+  <string name="kr_authorization_contact_desc">Получение информации о Mi Аккаунте и проверка учетной записи</string>
   <string name="kr_authorization_exit">Выход</string>
   <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
   <string name="kr_authorization_log_protocol_desc">"Для улучшения предоставляемых услуг, мы будем загружать статистику использования и системные журналы на наши серверы. Эти данные могут включать вашу личную информацию, а также информацию о вашем устройстве и сетях. Загруженные данные будут использованы только для поиска и анализа проблем в системе."</string>
