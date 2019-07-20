@@ -33,8 +33,8 @@
     <string name="add_organization">Добавить организацию</string>
     <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
     <string name="add_wait">Добавить ожидание</string>
-    <string name="add_xiaomi_account_dialog_btn">В Mi аккаунт</string>
-    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Mi аккаунт. Он позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
+    <string name="add_xiaomi_account_dialog_btn">В Mi Аккаунт</string>
+    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Mi Аккаунт. Он позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
     <string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
     <string name="aggregation_suggestion_edit_dialog_message">Перейти к редактированию одноименного контакта? Введенная информация будет скопирована.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Имя уже существует</string>
@@ -222,7 +222,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">Не удалось обменяться визитками</string>
     <string name="contact_detail_miprofile_accept_success_toast">Обмен визитками состоялся</string>
     <string name="contact_detail_miprofile_binded_label">Подтверждено</string>
-    <string name="contact_detail_miprofile_exchange_closed">"Mi аккаунт не связан с телефонным номером
+    <string name="contact_detail_miprofile_exchange_closed">"Mi Аккаунт не связан с телефонным номером
 Визитки отключены"</string>
     <string name="contact_detail_miprofile_privacy_settings">Запрашивать разрешение на просмотр</string>
     <string name="contact_detail_miprofile_request">Обменяться визитками</string>
@@ -555,8 +555,8 @@
     <string name="import_to_xiaomi_account_confirm">Импорт</string>
     <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
     <string name="import_to_xiaomi_account_progress_message">Импорт…</string>
-    <string name="import_to_xiaomi_account_progress_title">Импорт контактов в Mi аккаунт</string>
-    <string name="import_to_xiaomi_account_title">Импорт в Mi аккаунт</string>
+    <string name="import_to_xiaomi_account_progress_title">Импорт контактов в Mi Аккаунт</string>
+    <string name="import_to_xiaomi_account_title">Импорт в Mi Аккаунт</string>
     <string name="import_vcard_description">Импорт контактов из памяти устройства</string>
     <string name="import_vcard_dialog_message">Импортировать vCard?</string>
     <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
@@ -667,7 +667,7 @@
     <string name="miprofile_alertdialog_edit">Введите имя</string>
     <string name="miprofile_alertdialog_message">Показать это имя контактам, когда вы отправляете запрос на обмен визитками.</string>
     <string name="miprofile_alertdialog_title">Введите имя</string>
-    <string name="miprofile_bind_account_alertdialog_message">Для использования этой функции необходимо добавить номер телефона в Mi аккаунт.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Для использования этой функции необходимо добавить номер телефона в Mi Аккаунт.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Добавить номер</string>
     <string name="miprofile_bind_account_alertdialog_title">Добавьте номер телефона</string>
     <string name="miprofile_contact_add">Добавить</string>
@@ -677,7 +677,7 @@
     <string name="miprofile_contact_verifying">Проверка</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
-    <string name="miprofile_error_no_miaccount">Войдите в Mi аккаунт</string>
+    <string name="miprofile_error_no_miaccount">Войдите в Mi Аккаунт</string>
     <string name="miprofile_error_not_opened">Отключить визитки</string>
     <string name="miprofile_error_not_set">Ваша визитка не синхронизирована с сервером</string>
     <string name="miprofile_error_unknown">Неизвестная ошибка</string>
@@ -750,7 +750,7 @@
     <string name="nickname_picker_nickname_column">Имя</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi аккаунта</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi Аккаунта</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
     <string name="noGroups">Нет групп</string>
@@ -861,9 +861,9 @@
     <string name="pref_key_sim_manage">Контакты SIM карты</string>
     <string name="pref_key_sim_manage1">Контакты SIM карты 1</string>
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
-    <string name="pref_summary_import_from_account">Импорт контактов из Google и Exchange в Mi аккаунт</string>
+    <string name="pref_summary_import_from_account">Импорт контактов из Google и Exchange в Mi Аккаунт</string>
     <string name="pref_title_account_import">Импорт контактов</string>
-    <string name="pref_title_import_from_account">Импорт в Mi аккаунт</string>
+    <string name="pref_title_import_from_account">Импорт в Mi Аккаунт</string>
     <string name="preference_auto_ip_summary_disable">Откл</string>
     <string name="preference_auto_ip_summary_on">IP префикс оператора: %s</string>
     <string name="preference_auto_ip_title">Автонабор IP</string>
