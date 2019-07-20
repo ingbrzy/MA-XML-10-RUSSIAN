@@ -11,8 +11,8 @@
     <string name="find_device_error_password_changed">Пароль аккаунта был недавно изменен.</string>
     <string name="find_device_error_network">Ошибка сети.</string>
     <string name="find_device_error_server">Ошибка сервера (%s).</string>
-    <string name="find_device_error_account_sys_timeout">"Не удалось подключиться к Mi аккаунту. "</string>
-    <string name="find_device_error_account_unknown_error">Ошибка Mi аккаунта (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"Не удалось подключиться к Mi Аккаунту. "</string>
+    <string name="find_device_error_account_unknown_error">Ошибка Mi Аккаунта (%s).</string>
     <string name="find_device_crash">Поиск устройства неожиданно закрыт</string>
     <string name="find_device_storage_corrupted">Хранилище повреждено. Ваше устройство под угрозой.</string>
     <string name="find_device_telephony_fault">Поиск устройства: ошибка Телефонии (%s).</string>
@@ -36,11 +36,11 @@
     <string name="unlock_error_interrupted">Прервано</string>
     <string name="unlock_error_rpc">Ошибка RPC</string>
     <string name="unlock_error_abort">Отменено пользователем</string>
-    <string name="unlock_error_passport_sdk_timeout">Mi аккаунт SDK не отвечает</string>
+    <string name="unlock_error_passport_sdk_timeout">Mi Аккаунт SDK не отвечает</string>
     <string name="open_wifi_settings">Настройки Wi-Fi</string>
     <string name="activate_xiaomi_account">Активировать устройство</string>
     <string name="login_extra_steps">Проверка входа</string>
-    <string name="phone_locked">Это устройство может быть связано с существующим Mi аккаунтом (%s). Выполните вход для активации устройства.</string>
+    <string name="phone_locked">Это устройство может быть связано с существующим Mi Аккаунтом (%s). Выполните вход для активации устройства.</string>
     <string name="phone_locked_account_email">, связанный email: %s</string>
     <string name="phone_locked_account_phone">, связанный номер телефона: %s</string>
     <string name="password">Пароль</string>
@@ -52,7 +52,7 @@
     <string name="adding_or_updating_account">Обновление аккаунта…</string>
     <string name="unlocking">Активация…</string>
     <string name="unlock">Активировать</string>
-    <string name="verify_password_failed">Не удалось проверить ID Mi аккаунта. %s.</string>
+    <string name="verify_password_failed">Не удалось проверить ID Mi Аккаунта. %s.</string>
     <string name="login_failed">Ошибка авторизации. %s.</string>
     <string name="change_find_device_status_failed">Не удалось разблокировать. %s.</string>
     <string name="unlock_help_title">Помощь по разблокировке:</string>
@@ -75,7 +75,7 @@
     <string name="device_lost">Это устройство утеряно</string>
     <string name="device_locked">Устройство заблокировано</string>
     <string name="default_lock_msg_words_with_phone">Это устройство утеряно. Не могли бы вы связаться со мной? Спасибо!</string>
-    <string name="default_lock_msg_words">Это устройство связано с существующим Mi аккаунтом. По соображениям безопасности необходимо ввести пароль для проверки устройства.</string>
+    <string name="default_lock_msg_words">Это устройство связано с существующим Mi Аккаунтом. По соображениям безопасности необходимо ввести пароль для проверки устройства.</string>
     <string name="lock_msg_phone">Контактная информация: %s</string>
     <string name="emergency_call">Экстренный вызов</string>
     <string name="return_to_call">Вернуться к разговору</string>
