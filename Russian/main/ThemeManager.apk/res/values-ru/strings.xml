@@ -168,7 +168,7 @@
     <string name="gift_owned">Локально</string>
     <string name="gift_present">Подарить</string>
     <string name="gift_present_dlg_anonymous">Анонимный подарок</string>
-    <string name="gift_present_dlg_input_hint">Телефон/ID Mi аккаунта</string>
+    <string name="gift_present_dlg_input_hint">Телефон/ID Mi Аккаунта</string>
     <string name="gift_present_dlg_no_fee">При отправке темы в подарок плата оператором взиматься не будет</string>
     <string name="gift_present_dlg_present_max_limit">Тема не может быть подарена более %1$s раз(а).</string>
     <string name="gift_present_dlg_share">Создать код и подарить тему</string>
@@ -176,7 +176,7 @@
     <string name="gift_present_fail_dlg_title">Ошибка отправки</string>
     <string name="gift_present_success_dlg_content">Пользователь получит SMS, когда ему будет доступен подарок.</string>
     <string name="gift_present_success_dlg_title">Подарок отправлен</string>
-    <string name="gift_present_success_no_sms_dlg_content">История подарков сохранена на странице вашего Mi аккаунта</string>
+    <string name="gift_present_success_no_sms_dlg_content">История подарков сохранена на странице вашего Mi Аккаунта</string>
     <string name="gift_presented">Отправлено</string>
     <string name="gift_purchase_success_dlg_content">Вы приобрели %1$s как подарок. Перейдите на страницу аккаунта тем, чтобы отправить его.</string>
     <string name="gift_purchase_success_dlg_title">Подарок приобретен</string>
@@ -255,10 +255,10 @@
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
-    <string name="miuishare_account_login_confirmation">Войдите в Mi аккаунт</string>
+    <string name="miuishare_account_login_confirmation">Войдите в Mi Аккаунт</string>
     <string name="miuishare_account_login_ok">Войти</string>
-    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi аккаунтом. Активируйте ваш Mi аккаунт.</string>
-    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi аккаунтом. Выполните вход в ваш Mi аккаунт.</string>
+    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Активируйте ваш Mi Аккаунт.</string>
+    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Выполните вход в ваш Mi Аккаунт.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Посмотрите обои, которые я нашел!</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
@@ -328,7 +328,7 @@
     <string name="resource_account_abnormal_state">Ошибка аккаунта. Подождите немного и повторите попытку.</string>
     <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
     <string name="resource_account_login">Войти</string>
-    <string name="resource_account_login_before_action">Войдите в ваш Mi аккаунт</string>
+    <string name="resource_account_login_before_action">Войдите в Mi Аккаунт</string>
     <string name="resource_account_login_title">Вход</string>
     <string name="resource_account_switch">Сменить</string>
     <string name="resource_alarm_default">Будильник</string>
@@ -661,7 +661,7 @@
     <string name="title_system_audio_notification_resource">Системные уведомления</string>
     <string name="title_system_audio_resource">Системные мелодии</string>
     <string name="title_system_wallpaper_resource">Системные обои</string>
-    <string name="to_activate_the_account">Активировать Mi аккаунт</string>
+    <string name="to_activate_the_account">Активировать Mi Аккаунт</string>
     <string name="transparency_pref_summary">Выберите уровень прозрачности обоев</string>
     <string name="transparency_pref_title">Уровень прозрачности</string>
     <string name="transparent_wallpaper">Прозрачные обои</string>
