@@ -385,9 +385,9 @@
     <string name="resource_data_empty">Нет объектов</string>
     <string name="resource_default">Мелодия по умолчанию</string>
     <string name="resource_default_name">Ресурс</string>
-    <string name="resource_delete">Удаление</string>
+    <string name="resource_delete">Удалить</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
-    <string name="resource_delete_confirm">Удалить этот ресурс?</string>
+    <string name="resource_delete_confirm">Удалить выбранный ресурс?</string>
     <string name="resource_delta_update_failed">Повторная загрузка темы…</string>
     <string name="resource_delta_update_successful">Обновление завершено</string>
     <string name="resource_delta_update_total">Обновления (%1$d) сэкономили %2$s</string>
