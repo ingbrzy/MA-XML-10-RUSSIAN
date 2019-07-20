@@ -68,7 +68,7 @@
     <string name="cloud_back_up_opening">Подождите…</string>
     <string name="cloud_back_up_share_activity_confirm">Повысить</string>
     <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
-    <string name="cloud_back_up_share_activity_title">Повысить Mi аккаунт</string>
+    <string name="cloud_back_up_share_activity_title">Повысить Mi Аккаунт</string>
     <string name="cloud_back_up_task">Резервирование…</string>
     <string name="cloud_backup">Резервирование в Mi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
@@ -143,7 +143,7 @@
     <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; файл(а)(ов) будет загружен(о)."</string>
     <string name="network_error">Подключитесь к сети</string>
-    <string name="no_account">Не выполнен вход в Mi аккаунт</string>
+    <string name="no_account">Не выполнен вход в Mi Аккаунт</string>
     <string name="no_backup">Нет резервных копий в Mi Cloud</string>
     <string name="notification_channel_remind">Напоминание</string>
     <string name="notification_channel_service">Служба</string>
