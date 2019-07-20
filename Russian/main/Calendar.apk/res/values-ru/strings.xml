@@ -111,7 +111,7 @@
     <string name="countdown_notify_title">Событие: %1$s</string>
     <string name="countdown_secondary_tag">Событие</string>
     <string name="countdown_today">Сегодня</string>
-    <string name="create_an_account_desc">"Подключите Календарь к Mi аккаунту, чтобы:
+    <string name="create_an_account_desc">"Подключите Календарь к Mi Аккаунту, чтобы:
 
 • Всегда иметь под рукой актуальные данные на любом устройстве.
 • Синхронизировать все мероприятия – вы никогда не потеряете их."</string>
@@ -537,7 +537,7 @@
     <string name="widget_select_style">Выберите стиль</string>
     <string name="work_day_default_banner_title">Удачного рабочего дня</string>
     <string name="work_day_indication">:(</string>
-    <string name="xiaomi_calendar_display_name">Календарь Mi аккаунта</string>
+    <string name="xiaomi_calendar_display_name">Календарь Mi Аккаунта</string>
     <string name="yearly">Ежегодно (%s)</string>
     <string name="yearly_plain">Ежегодно</string>
 </resources>
