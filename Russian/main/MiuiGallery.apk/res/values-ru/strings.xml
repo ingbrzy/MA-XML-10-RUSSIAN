@@ -105,7 +105,7 @@
     <string name="assistant_page_label">Истории</string>
     <string name="assistant_page_server_error">Проверьте настройки сети</string>
     <string name="associate_face_album">Выбрать альбом</string>
-    <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
+    <string name="auto_backup_introduce">Автоматическая выгрузка фото и видео (требуется Mi Аккаунт)</string>
     <string name="auto_download_media_title">Автозагрузка фото из Mi Cloud</string>
     <string name="auto_update_face">Добавлять фото автоматически</string>
     <string name="auto_update_face_summary">Загружать и добавлять фото в детский альбом автоматически</string>
@@ -436,7 +436,7 @@
     <string name="error_external_sdcard_write_action">Сменить хранилище</string>
     <string name="error_external_sdcard_write_msg">Перейдите в Настройки > Хранилище, смените хранилище и повторите попытку.</string>
     <string name="error_external_sdcard_write_tip">Невозможно сохранить на SD карту.</string>
-    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi Аккаунтом.</string>
     <string name="error_install_connect_fail">Не удалось загрузить плагин. Проверьте подключение к сети.</string>
     <string name="error_install_sdcard_not_available">Не удалось загрузить плагин из-за ошибки SD-карты.</string>
     <string name="error_install_storage_not_enough">Освободите место на устройстве для загрузки.</string>
@@ -447,8 +447,8 @@
     <string name="error_network_restrict_msg">Разрешите Галерее подключаться к сети.</string>
     <string name="error_network_restrict_tip">Не удалось подключиться к сети.</string>
     <string name="error_no_account_action">Войти</string>
-    <string name="error_no_account_msg">Войдите в Mi аккаунт и повторите попытку.</string>
-    <string name="error_no_account_tip">Войдите в Mi аккаунт</string>
+    <string name="error_no_account_msg">Войдите в Mi Аккаунт и повторите попытку.</string>
+    <string name="error_no_account_tip">Войдите в Mi Аккаунт</string>
     <string name="error_no_cta_permission_action">Разрешить</string>
     <string name="error_no_cta_permission_msg">Доступ к сети ограничен.</string>
     <string name="error_no_cta_permission_tip">Доступ к сети ограничен</string>
@@ -700,7 +700,7 @@
     <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки данных</string>
     <string name="loading_video_fail_syncing">Дождитесь окончания загрузки данных и повторите попытку</string>
     <string name="loading_video_thumbnail">Загрузка эскиза видео…</string>
-    <string name="login_and_enable_service">Войти в Mi аккаунт</string>
+    <string name="login_and_enable_service">Войти в Mi Аккаунт</string>
     <string name="long_press_to_refocus">Удерживайте для перефокусировки</string>
     <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
     <string name="main_discard_negative_btn">Не сохранять</string>
@@ -723,7 +723,7 @@
     <string name="merge_album">Объединить</string>
     <string name="merge_album_title">Объединить с человеком</string>
     <string name="messagelist_sender_self">Я</string>
-    <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi аккаунт)</string>
+    <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi Аккаунт)</string>
     <string name="month_view_tip_button_text">Понятно</string>
     <string name="month_view_tip_sub_title">"Сделайте щипок на экране, чтобы переключиться 
 на просмотр по месяцам"</string>
@@ -1088,8 +1088,8 @@
     <string name="search_image_result_title">Результаты поиска</string>
     <string name="search_login_now">Войти</string>
     <string name="search_login_sub_title">Войдите, чтобы найти больше фото</string>
-    <string name="search_login_title">Mi аккаунт</string>
-    <string name="search_login_title_full_screen">Войдите в свой Mi аккаунт для поиска объектов и людей</string>
+    <string name="search_login_title">Mi Аккаунт</string>
+    <string name="search_login_title_full_screen">Войдите в свой Mi Аккаунт для поиска объектов и людей</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Исправить</string>
     <string name="search_net_error">Произошла ошибка сети. Подключитесь к другой сети и повторите попытку.</string>
@@ -1421,7 +1421,7 @@
     <string name="welcome_to_micloud">Добро пожаловать в Mi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="who_is_this">Кто это?</string>
-    <string name="xiaomi_account_not_exists_toast">Mi аккаунт не существует</string>
+    <string name="xiaomi_account_not_exists_toast">Mi Аккаунт не существует</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="you_are">Для ребенка вы</string>
