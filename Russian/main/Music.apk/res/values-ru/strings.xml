@@ -306,7 +306,7 @@
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
-    <string name="fav_login_msg">Войдите в Mi аккаунт для загрузки треков</string>
+    <string name="fav_login_msg">Войдите в Mi Аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
     <string name="favorite_playlist">Избранные</string>
     <string name="favorite_singer">Избранные исполнители</string>
@@ -451,7 +451,7 @@
     <string name="music_settings">Музыка</string>
     <string name="mv_metered_play_summary">Не показывать предупреждение о трафике</string>
     <string name="mv_metered_play_title">Воспроизводить видео через мобильный интернет</string>
-    <string name="my_account">Mi аккаунт</string>
+    <string name="my_account">Mi Аккаунт</string>
     <string name="my_music_empty">Плейлист пуст.</string>
     <string name="my_music_empty_goto_online">Нет треков</string>
     <string name="network_error_and_retry">Не удалось подключиться, нажмите для повтора</string>
@@ -710,7 +710,7 @@
     <string name="title_search_history">История поиска</string>
     <string name="title_search_hot">Популярные</string>
     <string name="toast_download_error_by_count_limit">Вы израсходовали квоту на загрузки в этом месяце</string>
-    <string name="toast_download_error_by_not_login">Войдите в Mi аккаунт и повторите попытку</string>
+    <string name="toast_download_error_by_not_login">Войдите в Mi Аккаунт и повторите попытку</string>
     <string name="toast_download_error_by_vip_required">Приобретите пакет Премиум для загрузки этого трека</string>
     <string name="toast_download_in_process">Загрузка…</string>
     <string name="toast_is_pro">Вы уже являетесь PRO подписчиком</string>
