@@ -55,7 +55,7 @@
   <string name="adb_install_open_error">Не удалось разрешить, проверьте подключение к сети</string>
   <string name="adb_install_reject_notiy">Не допускается установка %s через USB</string>
   <string name="adb_install_reject_notiy_desc">Вы можете разрешить установку через USB в настройках разработчика</string>
-  <string name="adb_login_xiaomi_account">Сначала войдите в Mi аккаунт</string>
+  <string name="adb_login_xiaomi_account">Сначала войдите в Mi Аккаунт</string>
   <string name="add_done">Успешно добавлено</string>
   <string name="add_game">Добавить</string>
   <string name="add_game_notification_summary">Нажмите для запуска и ускорения.</string>
@@ -273,7 +273,7 @@
   <string name="application_item_already_permission">Разрешено</string>
   <string name="application_item_disable">Запрещено</string>
   <string name="applock_add_account">Привязать</string>
-  <string name="applock_add_account_info">Привяжите Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+  <string name="applock_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
   <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
   <string name="applock_bind_account_title">Забыли пароль?</string>
   <string name="applock_close_dialog_summary">Скрытие всех приложений будет отменено, их ярлыки на рабочем столе восстановлены, а ваш пароль защиты приложений удален. Отключить защиту приложений?</string>
@@ -427,10 +427,10 @@
   <string name="bg_network_exception_title">Фоновые подключения</string>
   <string name="bind_xiaomi_account_cancel">Отмена</string>
   <string name="bind_xiaomi_account_confirm">Привязать</string>
-  <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
-  <string name="bind_xiaomi_account_success">Mi аккаунт успешно привязан</string>
-  <string name="bind_xiaomi_account_summary">Использовать Mi аккаунт для сброса пароля</string>
-  <string name="bind_xiaomi_account_title">Привязать Mi аккаунт</string>
+  <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
+  <string name="bind_xiaomi_account_success">Mi Аккаунт успешно привязан</string>
+  <string name="bind_xiaomi_account_summary">Использовать Mi Аккаунт для сброса пароля</string>
+  <string name="bind_xiaomi_account_title">Привязать Mi Аккаунт</string>
   <string name="birthday">Дата рождения</string>
   <string name="bl_no_blacklist">Нет заблокированных номеров</string>
   <string name="bl_no_block_call">Нет заблокированных вызовов</string>
@@ -561,7 +561,7 @@
   <string name="cmcc_app_check_dialog_negative">Позже</string>
   <string name="cmcc_app_check_dialog_positive">Перезагрузить</string>
   <string name="cmcc_app_check_dialog_title">Система восстановлена</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi аккаунта</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
   <string name="confirm_fingerprint_msg">Подтвердите отпечаток пальца</string>
   <string name="confirm_prompt_all_permission">Запрашивать разрешения для всех приложений?</string>
   <string name="confirm_reject_all_permission">Запретить всем приложениям использовать эту функцию?</string>
@@ -1168,7 +1168,7 @@
   <string name="kilobyte_per_second">КБ/с</string>
   <string name="kilobyteShort">КБ</string>
   <string name="label_callwait">Сигнал ожидания вызова</string>
-  <string name="label_mi_stats">Mi аналитика</string>
+  <string name="label_mi_stats">Mi Аналитика</string>
   <string name="last_check_canceled">Предыдущая проверка была отменена</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">По рабочим дням</string>
@@ -1579,9 +1579,9 @@
   <string name="password_forget_pattern_message_none">Приложения не защищены. Вы можете сбросить свой пароль.</string>
   <string name="password_forget_pattern_reset">Сбросить</string>
   <string name="password_forget_pattern_title">Внимание</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Привяжите Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
   <string name="password_promotion_postbutton_text">Привязать</string>
-  <string name="password_promotion_title">Привяжите Mi аккаунт</string>
+  <string name="password_promotion_title">Привяжите Mi Аккаунт</string>
   <string name="password_type">Способ защиты</string>
   <string name="password_type_underline"><u>Способ защиты</u></string>
   <string name="password_xspace_forget_pattern_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
@@ -1985,7 +1985,7 @@
   <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
   <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
   <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
-  <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и Mi аккаунте, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
+  <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и Mi Аккаунте, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
 
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
   <string name="privacy_prompt_upload">Отправить</string>
@@ -2036,7 +2036,7 @@
   <string name="report_success">Отчет отправлен</string>
   <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
   <string name="report_warning_title">Внимание</string>
-  <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
+  <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi Аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
   <string name="reset_data_dialog_ok">Сброс настроек</string>
   <string name="reset_data_title">Невозможно восстановить пароль</string>
   <string name="resource_antispam">Антиспам</string>
@@ -2555,7 +2555,7 @@
   <string name="title_block_calls_from_strangers">Пропускаете важные звонки?</string>
   <string name="title_chain_start">Взаимный запуск ограничен</string>
   <string name="title_cleaner_cloudscan">Облачная проверка мусора</string>
-  <string name="title_cloud_account">Mi аккаунт</string>
+  <string name="title_cloud_account">Mi Аккаунт</string>
   <string name="title_cloud_service">Mi Cloud</string>
   <string name="title_cloud_space_almost_full">Облачное хранилище заполнено, синхронизация приостановлена</string>
   <string name="title_cloud_space_full">Память Mi Cloud заполнена</string>
