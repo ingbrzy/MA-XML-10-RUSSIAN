@@ -40,7 +40,7 @@
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_recording_intro_header">Нарисуйте графический ключ</string>
-    <string name="access_control_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
+    <string name="access_control_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
     <string name="accessibility_autoclick_description">Если вы используете мышь, вы можете настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определенное время.</string>
@@ -690,8 +690,8 @@
     <string name="billing_cycle_fragment_summary">Ежемесячно с %1$s-го числа</string>
     <string name="billing_cycle_summary">Платежный цикл начинается %1$s-го числа каждого месяца</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
-    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
-    <string name="bind_xiaomi_account_success">Mi аккаунт успешно привязан</string>
+    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
+    <string name="bind_xiaomi_account_success">Mi Аккаунт успешно привязан</string>
     <string name="biometric_weak_improve_matching_title">Улучшить сопоставление лиц</string>
     <string name="biometric_weak_liveliness_summary">Требуется моргать глазами при разблокировке</string>
     <string name="biometric_weak_liveliness_title">Проверять реальность человека</string>
@@ -960,11 +960,11 @@
     <string name="bootloader_apply_step_4">Это может привести к повреждению или утере данных, а также навредить аппаратным элементам устройства.</string>
     <string name="bootloader_apply_step_5">Перед включением убедитесь, что вы понимаете, как пользоваться режимом Fastboot.</string>
     <string name="bootloader_apply_title">Предупреждение</string>
-    <string name="bootloader_device_bind_already">Процесс завершен. Mi аккаунт теперь связан с этим устройством.</string>
+    <string name="bootloader_device_bind_already">Процесс завершен. Mi Аккаунт теперь связан с этим устройством.</string>
     <string name="bootloader_device_bind_exceed_sim_limit">С этой SIM картой уже связано предельное число аккаунтов.</string>
     <string name="bootloader_device_bind_fail">Ошибка проверки. Подождите немного и повторите попытку.</string>
     <string name="bootloader_device_bind_msg">Подготовка к привязке аккаунта…</string>
-    <string name="bootloader_device_bind_no_account">Сначала войдите в Mi аккаунт</string>
+    <string name="bootloader_device_bind_no_account">Сначала войдите в Mi Аккаунт</string>
     <string name="bootloader_device_bind_no_data_network">Отключите Wi-Fi и свяжите аккаунт с устройством через мобильный интернет.</string>
     <string name="bootloader_device_bind_no_network">Подключитесь к сети и повторите попытку</string>
     <string name="bootloader_device_bind_no_sim">Вставьте SIM-карту и повторите попытку.</string>
@@ -976,9 +976,9 @@
     <string name="bootloader_locked_answer_1_warning">Помните: Вы не сможете использовать \"Поиск устройства\" после разблокировки.</string>
     <string name="bootloader_locked_answer_2">"1. Убедитесь, что в устройство уже вставлена SIM-карта.
 2.Отключите Wi-Fi и включите мобильный интернет. Убедитесь, что ваше устройство может подключаться к интернету.
-3. Нажмите \"Связать аккаунт с устройством\", чтобы связать свой Mi аккаунт с этим устройством.
+3. Нажмите \"Связать аккаунт с устройством\", чтобы связать свой Mi Аккаунт с этим устройством.
 4. Загрузите утилиту разблокировки с нашего сайта. Обратите внимание, что разблокировать загрузчик нужно с компьютера. Ссылка:"</string>
-    <string name="bootloader_locked_answer_2_no_sim">"1. Нажмите \"Связать аккаунт с устройством\", чтобы связать свой Mi аккаунт с этим устройством.
+    <string name="bootloader_locked_answer_2_no_sim">"1. Нажмите \"Связать аккаунт с устройством\", чтобы связать свой Mi Аккаунт с этим устройством.
 2. Загрузите утилиту разблокировки с нашего сайта. Обратите внимание, что разблокировать загрузчик нужно с компьютера. Ссылка:"</string>
     <string name="bootloader_locked_check_status">Связать аккаунт с устройством</string>
     <string name="bootloader_locked_question_1">Зачем нужна блокировка загрузчика?</string>
@@ -987,7 +987,7 @@
     <string name="bootloader_status_locked">Заблокирован</string>
     <string name="bootloader_status_locked_info">Загрузчик заблокирован</string>
     <string name="bootloader_status_locked_summary">Устройство защищено</string>
-    <string name="bootloader_status_privacy_dialog_message">Для нормальной работы Mi Unlock требуется доступ к вашему Mi аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
+    <string name="bootloader_status_privacy_dialog_message">Для нормальной работы Mi Unlock требуется доступ к вашему Mi Аккаунту, CPU ID, IMEI, IMSI. Мы собираем, обрабатываем и используем ваши данные в соответствии с нашей %s. Вы согласны?</string>
     <string name="bootloader_status_privacy_dialog_no">Отмена</string>
     <string name="bootloader_status_privacy_dialog_title">Требуются разрешения</string>
     <string name="bootloader_status_privacy_dialog_url_text">Политика конфиденциальности</string>
@@ -1000,7 +1000,7 @@
 
 Если вы сделали что-либо из перечисленного, свяжите аккаунт с устройством повторно, иначе вы не сможете разблокировать устройство."</string>
     <string name="bootloader_tips_ok">Понятно</string>
-    <string name="bootloader_tips_warning">"Не отключайтесь от сети, не выходите из Mi аккаунта, не выполняйте сброс настроек или очистку данных системных приложений."</string>
+    <string name="bootloader_tips_warning">"Не отключайтесь от сети, не выходите из Mi Аккаунта, не выполняйте сброс настроек или очистку данных системных приложений."</string>
     <string name="breathing_light_color_menu_title">Цвет индикатора</string>
     <string name="breathing_light_color_summary">Цвет индикатора для уведомлений</string>
     <string name="breathing_light_freq_summary">Частота мерцания индикатора для уведомлений</string>
@@ -1253,7 +1253,7 @@
     <string name="configure_notification_settings">Уведомления</string>
     <string name="configure_section_header">Настройки</string>
     <string name="confirm_action">OK</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi аккаунта</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
     <string name="confirm_convert_to_fbe_warning">Удалить пользовательские данные и перейти к шифрованию?</string>
     <string name="confirm_download_cancelation_dialog_message">Отменить загрузку?</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
@@ -1657,7 +1657,7 @@
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук набора номера</string>
     <string name="dialog_chose_item">Выберите объект</string>
-    <string name="dialog_content_login">Войти в Mi аккаунт для обновления?</string>
+    <string name="dialog_content_login">Войти в Mi Аккаунт для обновления?</string>
     <string name="dialog_no">Отмена</string>
     <string name="dialog_restrict_all_mobile_summary">Мобильный интернет %s будет ограничен для всех приложений.</string>
     <string name="dialog_restrict_all_mobile_title">Ограничение %s</string>
@@ -1667,7 +1667,7 @@
     <string name="dialog_restrict_positive">Отмена</string>
     <string name="dialog_title_color_calibration">Коррекция цвета</string>
     <string name="dialog_title_hdmi_color_calibration">Коррекция цвета</string>
-    <string name="dialog_title_login">Войдите в Mi аккаунт</string>
+    <string name="dialog_title_login">Войдите в Mi Аккаунт</string>
     <string name="dialog_yes">ОК</string>
     <string name="directory_access">Доступ к каталогу</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
@@ -2170,8 +2170,8 @@
     <string name="forget_password_dialog_content_two">Как стереть данные:</string>
     <string name="forget_password_dialog_title">Сбросьте свой пароль</string>
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
-    <string name="forget_privacy_password_setting">Привязать Mi аккаунт</string>
-    <string name="forget_privacy_password_summary">Использовать Mi аккаунт для сброса пароля</string>
+    <string name="forget_privacy_password_setting">Привязать Mi Аккаунт</string>
+    <string name="forget_privacy_password_summary">Использовать Mi Аккаунт для сброса пароля</string>
     <string name="forget_wifi_message">Закрыть эту сеть Wi-Fi? Для подключения будет необходимо ввести пароль.</string>
     <string name="found_new_version">Доступно обновление</string>
     <string name="fourhours">2 часа</string>
@@ -2796,8 +2796,8 @@
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
-    <string name="login_account_dialog_message">Войдите в свой Mi аккаунт и включите синхронизацию с Mi Cloud.</string>
-    <string name="login_account_dialog_title">Войдите в Mi аккаунт</string>
+    <string name="login_account_dialog_message">Войдите в свой Mi Аккаунт и включите синхронизацию с Mi Cloud.</string>
+    <string name="login_account_dialog_title">Войдите в Mi Аккаунт</string>
     <string name="login_account_summary">Управление аккаунтами, облачными сервисами и прочим</string>
     <string name="login_action">Войти</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
@@ -3817,9 +3817,9 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_notes">Заметки</string>
     <string name="privacy_password">Защита личных данных</string>
     <string name="privacy_password_add_account">Привязать</string>
-    <string name="privacy_password_add_account_info">Привяжите Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+    <string name="privacy_password_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
     <string name="privacy_password_add_account_setting">Привязка к аккаунту Mi</string>
-    <string name="privacy_password_bind_account">Привязать Mi аккаунт</string>
+    <string name="privacy_password_bind_account">Привязать Mi Аккаунт</string>
     <string name="privacy_password_bind_account_immediate">Привязать</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Подтвердите пароль второго пространства</string>
     <string name="privacy_password_confirm_use_finger">Разблокировка отпечатком</string>
@@ -3834,8 +3834,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_never_remind">Больше не спрашивать</string>
     <string name="privacy_password_not_add_account">Не сейчас</string>
     <string name="privacy_password_not_login_account">Вход не выполнен</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Привяжите Mi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="privacy_password_remind_bindaccount_title">Привяжите Mi аккаунт</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+    <string name="privacy_password_remind_bindaccount_title">Привяжите Mi Аккаунт</string>
     <string name="privacy_password_settings">Использовать пароль защиты личных данных</string>
     <string name="privacy_password_settings_next">Далее</string>
     <string name="privacy_password_settings_summary">Пароль защиты личных данных защищает приложения, содержащие конфиденциальные данные</string>
@@ -3859,10 +3859,10 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
     <string name="private_gallery_recording_intro_header">Нарисуйте графический ключ</string>
-    <string name="private_gallery_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
+    <string name="private_gallery_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="private_sms_need_to_unlock">Введите пароль</string>
     <string name="private_sms_recording_intro_header">Нарисуйте графический ключ</string>
-    <string name="private_sms_reset_by_account">Войдите в Mi аккаунт для сброса пароля</string>
+    <string name="private_sms_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="process_dex2oat_label">Оптимизация приложений</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
     <string name="process_provider_in_use_description">Провайдер %1$s используется.</string>
@@ -4055,7 +4055,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_second_space_passwd">Сброс пароля второго пространства</string>
     <string name="reset_second_space_passwd_cancel">Отмена</string>
     <string name="reset_second_space_passwd_confirm">Продолжить</string>
-    <string name="reset_second_space_passwd_detail">Введите пароль Mi аккаунта, используемый в первом пространстве</string>
+    <string name="reset_second_space_passwd_detail">Введите пароль Mi Аккаунта, используемый в первом пространстве</string>
     <string name="reset_shortcut_manager_throttling">Сброс счетчиков ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Готово</string>
     <string name="resetting_second_space_passwd">Сброс пароля второго пространства</string>
@@ -4460,7 +4460,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_trusted_credentials">Надежные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
     <string name="search_tts_settings_title">Озвучивание текста;Синтез речи</string>
     <string name="search_turn_on_security_lock">Способ защиты;Блокировка экрана;Включить защиту;блокировка экрана</string>
-    <string name="search_unlogin_account_title">Mi аккаунт; Mi аккаунт ID;Аккаунт;Аккаунт ID</string>
+    <string name="search_unlogin_account_title">Mi Аккаунт; Mi Аккаунт ID;Аккаунт;Аккаунт ID</string>
     <string name="search_usb_tethering_button_text">USB-модем;Модем;USB</string>
     <string name="search_user_agreement">Условия использования</string>
     <string name="search_user_dict_settings_title">Личный словарь;Словарь</string>
@@ -4490,7 +4490,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_wifi_wapi_cert_install">Установка сертификата WAPI;Сертификаты WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Удаление сертификата WAPI;Сертификаты WAPI;WAPI</string>
     <string name="search_wps_connect_title">Кнопка WPS;Подключение WPS;WPS</string>
-    <string name="search_xiaomi_account">Mi аккаунт;Mi аккаунт ID;Аккаунт;Аккаунт ID</string>
+    <string name="search_xiaomi_account">Mi Аккаунт;Mi Аккаунт ID;Аккаунт;Аккаунт ID</string>
     <string name="search_xspace">Двойное приложение;Двойные приложения;Двойное приложение;Двойные приложения;Клонировать приложение;Клонировать приложения;Клон приложения;Клоны приложений;Два аккаунта;2 аккаунта</string>
     <string name="second_space">Второе пространство</string>
     <string name="secondspace_category">Второе пространство</string>
@@ -5310,7 +5310,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_layout_v2">Размер текста и масштаб</string>
     <string name="to_close">Отключить</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
-    <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="toast_need_login">Войдите в Mi Аккаунт</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Передача недоступна, если установлено Wi-Fi соединение и включена точка доступа."</string>
     <string name="toggle_auto_speaker_preference_summary">Переключаться на динамик, когда вы отодвигаете устройство от уха во время разговора. Функция работает только когда включен TalkBack.</string>
     <string name="toggle_auto_speaker_preference_title">Автоматическое переключение на динамик</string>
@@ -5496,8 +5496,8 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_title">ПИН-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">Включив блокировку экрана, выберите \"Настройки > Безопасность\", чтобы отсканировать и сохранить отпечаток пальца.</string>
-    <string name="unlogin_account_summary">Все Mi сервисы. Один Mi аккаунт</string>
-    <string name="unlogin_account_title">Вход в Mi аккаунт</string>
+    <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
+    <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
     <string name="unmute_sound_title">Звук отключения режима "Без звука"</string>
     <string name="unrestrict_max_aspect_ratio_title">Оптимизированы для полноэкранного режима</string>
@@ -6322,7 +6322,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_share">Поделиться сетью</string>
     <string name="wifi_share_action_turn_off">Остановить доступ к сети</string>
     <string name="wifi_share_action_turn_on">Поделиться доступом Wi-Fi</string>
-    <string name="wifi_share_action_turn_on_summary">Необходимо войти в Mi аккаунт</string>
+    <string name="wifi_share_action_turn_on_summary">Необходимо войти в Mi Аккаунт</string>
     <string name="wifi_share_add">Добавить публичную сеть Wi-Fi</string>
     <string name="wifi_share_add_summary">Делясь своими публичными сетями, вы можете использовать сети других пользователей</string>
     <string name="wifi_share_connect">Подключиться</string>
@@ -6480,7 +6480,7 @@ UT-интерфейс: %5$s"</string>
     <string name="write_system_settings">Изменить системные настройки</string>
     <string name="write_tag">Записать</string>
     <string name="wrong_pin_code_pukked">Неверный ПИН-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
-    <string name="xiaomi_account">Mi аккаунт</string>
+    <string name="xiaomi_account">Mi Аккаунт</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_description">Mi Cloud синхронизирует контакты, фото и другие объекты между вашими устройствами. Для работы Поиска устройства также требуется Mi Cloud.</string>
     <string name="xiaomi_cloud_service_disabled">Откл</string>
