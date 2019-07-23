@@ -106,4 +106,10 @@
     <item quantity="few">%2$d объекта с меткой \"%1$s\"</item>
     <item quantity="many">%2$d объектов с меткой \"%1$s\"</item>
   </plurals>
+  <plurals name="text_group_count">
+    <item quantity="other">%d объектов</item>
+    <item quantity="one">%d объект</item>
+    <item quantity="few">%d объекта</item>
+    <item quantity="many">%d объектов</item>
+  </plurals>
 </resources>
