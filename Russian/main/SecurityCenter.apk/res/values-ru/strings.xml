@@ -74,6 +74,9 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
   <string name="adjust_traffic_data">Расход трафика</string>
   <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
+  <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
+  <string name="alert_back_diving_mode_title">Режим погружения</string>
+  <string name="alert_back_milink_hangup_tips_content">"Трансляция не будет прервана, пока вы делаете вызов. Чтобы включить экран, нажмите кнопку питания."</string>
   <string name="all_address_choose_hint">Все номера в этой провинции</string>
   <string name="already_close_gamebooster">Ускорение игр отключено</string>
   <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
@@ -102,7 +105,7 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Названия и данные приложений будут загружаться на сервер и проверяться на наличие вирусов.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">При использовании функции ID вашего устройства шифруется и отправляется на серверы Avast, AVL и Tencent (%s).</string>
-  <string name="antivirus_privacy_dialog_summary_link">просмотреть Политику конфиденциальности</string>
+  <string name="antivirus_privacy_dialog_summary_link">Политика конфиденциальности</string>
   <string name="antivirus_privacy_dialog_title">Политика конфиденциальности</string>
   <string name="antivirus_sec_network_unavailable">Приложение \"Безопасность\" не может обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?</string>
   <string name="antivirus_toast_already_update">Обновление не требуется</string>
@@ -962,6 +965,7 @@
   <string name="gamebox_immersion_tips_content">Режим погружения ограничивает все функции SIM-карты, за исключением мобильной передачи данных. Звонки и уведомления о пропущенных вызовах не будут беспокоить вас. Все функции SIM-карты будут восстановлены при отключении режима погружения. Включить режим погружения?</string>
   <string name="gamebox_immersion_tips_title">Внимание</string>
   <string name="gamebox_immerson_open">"Включение режима погружения, не переключайте сети…"</string>
+  <string name="gamebox_milink">Трансляция</string>
   <string name="gamebox_positive_button_text">ОК (%1$ds)</string>
   <string name="gamebox_qq_not_find">Установите QQ и повторите попытку.</string>
   <string name="gamebox_recent_task_expand_fail">"Приложения для работы с ярлыками не установлены"</string>
@@ -1569,6 +1573,7 @@
   <string name="other">Прочие настройки</string>
   <string name="other_exception_summary">Отсутствует подключение к интернету</string>
   <string name="other_exception_title">Проверка наличия других проблем</string>
+  <string name="other_milink_connect">"Невозможно начать трансляцию. Идет другая трансляция."</string>
   <string name="package_change_notification_summary">Нажмите для просмотра.</string>
   <string name="package_change_notification_title">Автоматическая регулировка лимита</string>
   <string name="package_setted_error_notification_summary">Нажмите для просмотра.</string>
@@ -2341,6 +2346,7 @@
   <string name="status_bar_network_flow_purchase">"     Купить &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"     Настроить тариф &gt;"</string>
   <string name="still_retain_btn">Оставить</string>
+  <string name="stop_milink_connect">Трансляция прекращена</string>
   <string name="suggest_app_tolock">Предложения</string>
   <string name="suggest_app_tolock_masked">Скрытые</string>
   <string name="suggest_app_tolock_unmasked">Видимые</string>
@@ -2424,13 +2430,21 @@
   <string name="system_app">Системные приложения</string>
   <string name="system_application">Системные приложения</string>
   <string name="system_permission_declare_agree">Согласен</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_disagree">Не согласен</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! Приложение предоставляет следующие функции: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Если вы не предоставите необходимые разрешения, приложение не сможет нормально работать."</string>
   <string name="system_permission_declare_privacy_declare">"Мы уважаем и защищаем вашу конфиденциальность.
-Обратите внимание, что %1s необходимы следующие разрешения для нормальной работы:"</string>
+Обратите внимание, что приложению %1s необходимы следующие разрешения для нормальной работы:"</string>
   <string name="system_permission_declare_revoke_path">Вы можете удалить это приложение, выйти из своей учетной записи или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
+  <string name="system_permission_declare_privacy_no_permission">"Обратите внимание, что приложению %1s необходим доступ к вашим данным для нормальной работы.
+Мы уважаем и защищаем вашу конфиденциальность."</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &amp;lt;a href=\"%1$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Вы можете удалить это приложение или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
+  <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Вызовы</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
