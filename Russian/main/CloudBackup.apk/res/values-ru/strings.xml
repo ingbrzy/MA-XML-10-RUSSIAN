@@ -161,7 +161,6 @@
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="query_restore_description">Восстановите настройки и приложения рабочего стола, используя эту копию. Это действие перезапишет данные уже установленных дублирующихся приложений. Приложения, не включенные в копию, будут перемещены на последний рабочий стол.</string>
     <string name="query_restore_summary">Найдена резервная копия Mi Cloud для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
-    <string name="recover_from_micloud">Восстановить из Mi Cloud</string>
     <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
     <string name="recover_miui_settings">Восстановить настройки системы</string>
     <string name="recover_settings_description">Не выключайте устройство</string>
@@ -202,6 +201,7 @@
     <string name="restore_task_in_process">Восстановление…</string>
     <string name="restore_task_unfinished">"Не удалось восстановить"</string>
     <string name="restore_unfinished">Идет восстановление, повторите попытку позже</string>
+    <string name="restoring_data">Восстановление данных…</string>
     <string name="retry">Повторить</string>
     <string name="selected">Выбрано</string>
     <string name="self_device_main_space">Первое пространство этого устройства</string>
