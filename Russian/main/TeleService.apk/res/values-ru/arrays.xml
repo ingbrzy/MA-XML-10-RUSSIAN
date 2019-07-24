@@ -107,16 +107,16 @@
         <item>Стерео</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Оптимизировать качество звука (990/909 Кбит/с)</item>
-        <item>Баланс качества звука и скорости подключения (660/606 кбит/с)</item>
-        <item>Оптимизировать скорость подключения (330/303 Кбит/с)</item>
-        <item>Лучший возможный результат (адаптивный битрейт)</item>
+        <item>Качество звука (990/909 Кбит/с)</item>
+        <item>Баланс качества и скорости (660/606 кбит/с)</item>
+        <item>Скорость подключения (330/303 Кбит/с)</item>
+        <item>Лучшее возможное (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Оптимизировать качество звука</item>
-        <item>Баланс качества звука и скорости подключения</item>
-        <item>Оптимизировать скорость подключения</item>
-        <item>Лучший возможный результат (адаптивный битрейт)</item>
+        <item>Качество звука</item>
+        <item>Баланс качества и скорости</item>
+        <item>Скорость подключения</item>
+        <item>Лучшее возможное (адаптивный битрейт)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Выкл.</item>
