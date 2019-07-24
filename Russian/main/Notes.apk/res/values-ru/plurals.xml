@@ -79,10 +79,10 @@
         <item quantity="many">%1$d дней назад</item>
     </plurals>
     <plurals name="todo_alert_message_delete">
-        <item quantity="other">Удалить %1$s заданий?</item>
-        <item quantity="one">Удалить %1$s задание?</item>
-        <item quantity="few">Удалить %1$s задания?</item>
-        <item quantity="many">Удалить %1$s заданий?</item>
+        <item quantity="other">Удалить %1$s задач?</item>
+        <item quantity="one">Удалить %1$s задачу?</item>
+        <item quantity="few">Удалить %1$s задачи?</item>
+        <item quantity="many">Удалить %1$s задач?</item>
     </plurals>
     <plurals name="todo_event_description_days_ago">
         <item quantity="other">%1$d дней назад</item>
