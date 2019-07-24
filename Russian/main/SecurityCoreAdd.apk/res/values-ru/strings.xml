@@ -34,7 +34,7 @@
   <string name="closeSecondSpace">Удаление второго пространства</string>
   <string name="closeSecondSpaceSummary">Удалить второе пространство вместе с данными</string>
   <string name="closeSuccess">Отключено</string>
-  <string name="close_kid_space_success">Детское пространство удалено</string>
+  <string name="close_kid_space_success">Пространство Детского режима удалено</string>
   <string name="complete_setting">Завершить</string>
   <string name="complete_setting_sub_title">Вы можете вернуться позже для изменения настроек</string>
   <string name="complete_setting_title">Настройка завершена!</string>
