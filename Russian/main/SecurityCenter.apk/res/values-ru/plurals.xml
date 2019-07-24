@@ -525,16 +525,16 @@
     <item quantity="many">проблем</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">Скрыто %d приложений</item>
-    <item quantity="one">Скрыто %d приложение</item>
-    <item quantity="few">Скрыто %d приложения</item>
-    <item quantity="many">Скрыто %d приложений</item>
+    <item quantity="other">Скрыты значки %d приложений</item>
+    <item quantity="one">Скрыт значок %d приложения</item>
+    <item quantity="few">Скрыты значки %d приложений</item>
+    <item quantity="many">Скрыты значки %d приложений</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">Можно скрыть %d приложений</item>
-    <item quantity="one">Можно скрыть %d приложение</item>
-    <item quantity="few">Можно скрыть %d приложения</item>
-    <item quantity="many">Можно скрыть %d приложений</item>
+    <item quantity="other">Можно скрыть значки %d приложений</item>
+    <item quantity="one">Можно скрыть значок %d приложения</item>
+    <item quantity="few">Можно скрыть значки %d приложений</item>
+    <item quantity="many">Можно скрыть значки %d приложений</item>
   </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d проблем с питанием</item>
