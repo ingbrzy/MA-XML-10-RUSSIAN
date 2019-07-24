@@ -210,8 +210,8 @@
   <string name="turn_off">Отключить</string>
   <string name="twohours">1 час</string>
   <string name="unknown_caller">Неизвестный номер</string>
-  <string name="user_switching_dialog_switch_into_kid_space">Переход в детское пространство…</string>
-  <string name="user_switching_dialog_switch_out_kid_space">Выход из детского пространства…</string>
+  <string name="user_switching_dialog_switch_into_kid_space">Переключение в Детский режим…</string>
+  <string name="user_switching_dialog_switch_out_kid_space">Выход из Детского режима…</string>
   <string name="user_switching_dialog_text">Переключение…</string>
   <string name="voice_begin">Что вы ищете?</string>
   <string name="voice_button_action_down">Отпустите для поиска</string>
