@@ -198,7 +198,7 @@
   <string name="install">Установить</string>
   <string name="install_error">Ошибка установки. Повторите попытку.</string>
   <string name="invalid_qr_code">Неверный QR-код</string>
-  <string name="kid_mode_label">Детское пространство</string>
+  <string name="kid_mode_label">Детский режим</string>
   <string name="list_empty_text">Список пуст</string>
   <string name="list_empty_text_xspace">Создайте клон приложения и повторите попытку</string>
   <string name="loading">Подождите…</string>
