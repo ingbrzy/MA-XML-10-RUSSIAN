@@ -288,13 +288,36 @@
         <item>Качество звука</item>
         <item>Баланс качества и скорости</item>
         <item>Скорость подключения</item>
-        <item>Лучший возможный</item>
+        <item>Лучшее возможное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Качество звука (990/909 Кбит/с)</item>
         <item>Баланс качества и скорости (660/606 Кбит/с)</item>
         <item>Скорость подключения (330/303 Кбит/с)</item>
-        <item>Лучший возможный (адаптивный битрейт)</item>
+        <item>Лучшее возможное (адаптивный битрейт)</item>
+    </string-array>
+    
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Короткая задержка</item>
+        <item>Средняя задержка</item>
+        <item>Длинная задержка</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Короткая задержка (50~100 мс)</item>
+        <item>Средняя задержка (150~200 мс)</item>
+        <item>Длинная задержка (300~500 мс)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Скорость подключения</item>
+        <item>Баланс качества и скорости</item>
+        <item>Качество звука</item>
+        <item>Лучшее возможное (автоопределение битрейта)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Скорость подключения (400 Кбит/с)</item>
+        <item>Баланс качества и скорости (500/560 Кбит/с)</item>
+        <item>Качество звука (900 Кбит/с)</item>
+        <item>Лучшее возможное (автоопределение битрейта)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Выбор системы</item>
@@ -318,6 +341,7 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
@@ -329,6 +353,7 @@
         <item>Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
