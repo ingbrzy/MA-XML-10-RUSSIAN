@@ -12,6 +12,18 @@
         <item quantity="few">%1$s объекта не синхронизированы</item>
         <item quantity="many">%1$s объектов не синхронизированы</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d дней после</item>
+        <item quantity="one">%1$d день после</item>
+        <item quantity="few">%1$d дня после</item>
+        <item quantity="many">%1$d дней после</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d дней до</item>
+        <item quantity="one">%1$d день до</item>
+        <item quantity="few">%1$d дня до</item>
+        <item quantity="many">%1$d дней до</item>
+    </plurals>    
     <plurals name="folder_terms">
         <item quantity="other">%1$s папок</item>
         <item quantity="one">%1$s папка</item>
@@ -53,6 +65,36 @@
         <item quantity="one">Отменено скрытие %1$s заметки</item>
         <item quantity="few">Отменено скрытие %1$s заметок</item>
         <item quantity="many">Отменено скрытие %1$s заметок</item>
+    </plurals>    
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Через %1$d дней</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
+        <item quantity="many">Через %1$d дней</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Удалить %1$s заданий?</item>
+        <item quantity="one">Удалить %1$s задание?</item>
+        <item quantity="few">Удалить %1$s задания?</item>
+        <item quantity="many">Удалить %1$s заданий?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Через %1$d дней</item>
+        <item quantity="one">Через %1$d день</item>
+        <item quantity="few">Через %1$d дня</item>
+        <item quantity="many">Через %1$d дней</item>
     </plurals>    
     <plurals name="word_count">
         <item quantity="other">%d символов</item>
