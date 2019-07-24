@@ -899,6 +899,10 @@
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Режим аудиоканала"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения LDAC</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Качество воспроизведения"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Время задержки LHDC</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Время задержки"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Качество воспроизведения LHDC</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Качество воспроизведения"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Частота дискретизации"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
@@ -1022,15 +1026,23 @@
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
-    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_summary">Обеспечивает высокое качество звучания</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
+    <string name="bt_lhdc_declaration">Если устройство Bluetooth поддерживает LHDC, он будет подключен по умолчанию. LHDC обеспечивает высокое качество звука, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи.
+Эту функцию можно отключить в [Настройках]"</string>
+    <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_open_dialog_title">Включить LHDC?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Свойства</string>
     <string name="bt_ldac_remember_choice">Запомнить выбор</string>
     <string name="bt_ldac_settings">Настройки</string>
     <string name="bt_pre_summary">Обеспечивает высокое качество звука</string>
@@ -2527,7 +2539,7 @@
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, вызов, звонок</string>
     <string name="keywords_write_settings">запись изменение системных настроек</string>
-    <string name="kid_space_settings">Детское пространство</string>
+    <string name="kid_space_settings">Детский режим</string>
     <string name="kilobyteShort">КБ</string>
     <string name="kilobyte_per_second">КБ/с</string>
     <string name="label_mi_stats">Mi аналитика</string>
