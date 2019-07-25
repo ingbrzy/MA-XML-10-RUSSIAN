@@ -42,9 +42,11 @@
     <string name="alipay_processing">Загрузка</string>
     <string name="alipay_redo">Попробовать еще раз</string>
     <string name="all_function_title">Все ярлыки</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Завершено:</string>
     <string name="already_connect">Соединено</string>
     <string name="already_download">Загружено</string>
+    <string name="announce_for_drag">Перетаскивание одного элемента</string>
     <string name="app_label">Ассистент</string>
     <string name="app_setting">Настройки Ассистента</string>
     <string name="app_setting_add_header_bg">Обложка</string>
@@ -62,6 +64,7 @@
     <string name="app_suggest_setting_brief_detail">Рекомендации приложений основаны на ваших предпочтениях в использовании</string>
     <string name="app_suggest_setting_title">Рекомендации приложений</string>
     <string name="apps_label">Приложения</string>
+    <string name="baidu_map">Baidu карты</string>
     <string name="battery_history">Батарея</string>
     <string name="bl_open_failed">Не удалось подключить Браслет, Вы можете кликнуть на другой Браслет и повторить попытку</string>
     <string name="bl_open_failed_exit">Не удалось подключить Браслет</string>
@@ -74,9 +77,9 @@
     <string name="calendar_name">Создать</string>
     <string name="calendar_parent">Календарь</string>
     <string name="card_menu_edit">Редактировать</string>
+    <string name="card_menu_remove">Удалить</string>
     <string name="card_menu_setting">Настройки</string>
     <string name="card_note_finish">Готово</string>
-    <string name="card_setting_btn">Настроить</string>
     <string name="card_settings">Настроить</string>
     <string name="card_title_empty_note">Создать</string>
     <string name="card_example">Карточка</string>
@@ -382,6 +385,7 @@
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
     <string name="phone_check">Оптимизация</string>
+    <string name="preference_privacy_settings">Настройки конфиденциальности</string>
     <string name="preferences">Настройки</string>
     <string name="preferences_label">Настройки</string>
     <string name="preload_empty">Ничего нет. Потяните вниз для обновления.</string>
@@ -423,6 +427,7 @@
     <string name="setting_btn_added">Добавлено</string>
     <string name="setting_btn_remove">Удалить</string>
     <string name="setting_btn_setting">Настройки</string>
+    <string name="setting_cancel_sticky">Открепить</string>
     <string name="setting_cards_all_added">Все функции добавлены</string>
     <string name="setting_cards_more">Доступно</string>
     <string name="setting_common_private">Безопасность и конфиденциальность</string>
@@ -445,15 +450,21 @@
     <string name="setting_note_brief">Создание быстрых заметок</string>
     <string name="setting_place_next">Следующий</string>
     <string name="setting_pref_confirm">Закончить</string>
+    <string name="setting_sticky">Закрепить</string>
+    <string name="setting_sticky_canceled">Откреплено</string>
+    <string name="setting_sticky_done">Закреплено</string>
     <string name="setting_stock">Акции</string>
     <string name="setting_title_resident_function">Постоянные функции</string>
     <string name="shortcut">Ярлыки</string>
     <string name="shopping_source">От %s</string>
     <string name="show_more">Показать больше</string>
+    <string name="sport_headline">"Активность сегодня"</string>
     <string name="start_download">Начало загрузки…</string>
     <string name="step_km"> км</string>
     <string name="step_setting_tip">ИСТОЧНИК</string>
     <string name="step_vip_action_bar">Шаги</string>
+    <string name="steps">шаги</string>
+    <string name="steps_auto_misport">Разрешить автозапуск</string>
     <string name="steps_get_misport">Установить Mi Fit</string>
     <string name="steps_misport">Выбранный Mi Fit</string>
     <string name="steps_misport_dialog_content">"Mi Fit не установлен. Чтобы иметь возможность считать шаги, загрузите и установите приложение."</string>
@@ -470,6 +481,7 @@
     <string name="system_favorite_dialog_positive">Разрешить</string>
     <string name="system_favorite_dialog_title_confirm">Требуется авторизация</string>
     <string name="temp_support_xiaomi">Временно поддерживаются только браслеты Xiaomi</string>
+    <string name="timeline_headline">Предстоящие</string>
     <string name="toast_function_add_limit">Можно добавить не более %d ярлыков</string>
     <string name="toast_function_remove_not_allowed">Необходимо добавить хотя бы 1 ярлык</string>
     <string name="uninstall">Не установлен</string>
