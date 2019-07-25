@@ -1,9 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Через %d минут</item>
+        <item quantity="one">Через %d минуту</item>
+        <item quantity="few">Через %d минуты</item>
+        <item quantity="many">Через %d минут</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Через %d дней</item>
+        <item quantity="one">Через %d день</item>
+        <item quantity="few">Через %d дня</item>
+        <item quantity="many">Через %d дней</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d д. назад</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ч. назад</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Удалить %s элементов из избранных?</item>
+        <item quantity="one">Удалить %s элемент из избранных?</item>
+        <item quantity="few">Удалить %s элемента из избранных?</item>
+        <item quantity="many">Удалить %s элементов из избранных?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">Помечено %s элементов как важные</item>
+        <item quantity="one">Помечен %s элемент как важный</item>
+        <item quantity="few">Помечено %s элемента как важные</item>
+        <item quantity="many">Помечено %s элементов как важные</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Выбрано %s элементов</item>
+        <item quantity="one">Выбран %s элемент</item>
+        <item quantity="few">Выбрано %s элемента</item>
+        <item quantity="many">Выбрано %s элементов</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d мин. назад</item>
+    </plurals>
     <plurals name="steps">
         <item quantity="other">%d|шагов</item>
         <item quantity="one">%d|шаг</item>
         <item quantity="few">%1d|шага</item>
         <item quantity="many">%1d|шагов</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">%d час назад</item>
+        <item quantity="few">%d часа назад</item>
+        <item quantity="many">%d часов назад</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">%d минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="many">%d минут назад</item>
     </plurals>
 </resources>
