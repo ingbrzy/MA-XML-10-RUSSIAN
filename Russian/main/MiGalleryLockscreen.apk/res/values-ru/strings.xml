@@ -404,7 +404,7 @@
   <string name="uninstall_warning_text_desc">"Без Карусели обоев вы не сможете получать обновляемые обои на экран блокировки. Однако вы можете позже снова загрузить и установить приложение. Удалить Карусель обоев?"</string>
   <string name="uninstall_warning_text_title">Удаление Карусели обоев</string>
   <string name="user_ac_click_to_login">Нажмите для входа</string>
-  <string name="user_ac_not_login">Не авторизован</string>
+  <string name="user_ac_not_login">Вход</string>
   <string name="user_id_hint">Электронная почта/Телефон</string>
   <string name="v_code_title">Введите 2-шаговый проверочный код</string>
   <string name="wallpaper_feed_title">Вам также может понравиться</string>
