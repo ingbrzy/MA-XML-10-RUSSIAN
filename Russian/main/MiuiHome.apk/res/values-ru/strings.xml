@@ -208,7 +208,7 @@
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_pull_down_title">Свайп вниз на рабочем столе</string>
     <string name="launcher_slide_up_title">Свайп вверх на рабочем столе</string>
-    <string name="launcher_sliding_up_gesture">Поиск свайпом вверх на рабочем столе</string>
+    <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол и Недавние</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
@@ -223,7 +223,7 @@
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$sB памяти</string>
     <string name="menu_add">Добавить</string>
-    <string name="menu_auto_fill_of_uninstall">Заполнять ячейки удаленных приложений</string>
+    <string name="menu_auto_fill_of_uninstall">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
     <string name="menu_cell_setting">Сетка рабочего стола</string>
     <string name="menu_customize">Настройки</string>
@@ -318,9 +318,9 @@
     <string name="setting_wallpaper_tip">Перемещайте или меняйте размер</string>
     <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
-    <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек значками</string>
-    <string name="shake_to_align_icons_summary">Встряхните устройство в режиме редактирования для автоматического заполнения пустых ячеек.</string>
-    <string name="shake_to_align_icons_title">Заполнение пустых ячеек встряхиванием</string>
+    <string name="shake_to_align_icons">Встряхните устройство для заполнения пустых ячеек</string>
+    <string name="shake_to_align_icons_summary">Встряхните устройство для автоматического заполнения пустых ячеек в режиме редактирования рабочего стола.</string>
+    <string name="shake_to_align_icons_title">Заполнять пустые ячейки встряхиванием</string>
     <string name="share">Отправить</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
