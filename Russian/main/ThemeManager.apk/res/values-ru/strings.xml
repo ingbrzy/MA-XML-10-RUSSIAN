@@ -306,7 +306,7 @@
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="present_local_fonts">Мои шрифты</string>
     <string name="present_local_themes">Мои темы</string>
-    <string name="present_local_themes_subtitle">Настройте ваше устройство</string>
+    <string name="present_local_themes_subtitle">Выберите оформление</string>
     <string name="present_official_themes">Наш выбор</string>
     <string name="present_online_themes">Получить больше онлайн-тем</string>
     <string name="provision_default_theme_title">По умолчанию</string>
@@ -599,7 +599,7 @@
     <string name="theme_component_title_contact">Телефон</string>
     <string name="theme_component_title_font">Шрифты</string>
     <string name="theme_component_title_framework">Система</string>
-    <string name="theme_component_title_homepage">Основной экран</string>
+    <string name="theme_component_title_homepage">Домашняя страница</string>
     <string name="theme_component_title_icon">Значки</string>
     <string name="theme_component_title_launcher">Рабочий стол</string>
     <string name="theme_component_title_lockstyle">Стиль блокировки</string>
