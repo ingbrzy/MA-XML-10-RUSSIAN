@@ -72,7 +72,7 @@
   <string name="adjust_traffic_carrier_summary_today">Обновлено сегодня в %s</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
-  <string name="adjust_traffic_data">Израсходованный трафик</string>
+  <string name="adjust_traffic_data">Расход трафика</string>
   <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
   <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
   <string name="alert_back_diving_mode_title">Режим погружения</string>
@@ -1137,8 +1137,8 @@
   <string name="information_setting">Рекомендации</string>
   <string name="input_aviable_traffic">Лимит трафика</string>
   <string name="input_password_hint_text">Введите пароль</string>
-  <string name="input_traffic_pkg">Введите трафик</string>
-  <string name="input_used_hint">Введите трафик</string>
+  <string name="input_traffic_pkg">Расход трафика</string>
+  <string name="input_used_hint">Расход трафика</string>
   <string name="input_used_max_hint">Введите трафик (не более %s)</string>
   <string name="install">Установить</string>
   <string name="install_sucess">Установка %s завершена</string>
@@ -1899,7 +1899,7 @@
   <string name="pref_about_traffic_title">Общие настройки</string>
   <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
   <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
-  <string name="pref_adjust_traffic_data">Ввод расхода трафика</string>
+  <string name="pref_adjust_traffic_data">Расход трафика</string>
   <string name="pref_allow_connect_network_title">Интернет в роуминге</string>
   <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
   <string name="pref_automatic_adjust">Синхронизация трафика с оператором</string>
@@ -1916,7 +1916,7 @@
   <string name="pref_correction_setting_switch">Использовать особый шаблон калибровки</string>
   <string name="pref_correction_sms_content">Шаблон калибровки</string>
   <string name="pref_correction_sms_number">Отправить SMS для калибровки на номер</string>
-  <string name="pref_daily_adjust">Израсходованный трафик</string>
+  <string name="pref_daily_adjust">Расход трафика</string>
   <string name="pref_daily_traffic">Лимит трафика</string>
   <string name="pref_data_usage_ignore_settings">Игнорировать трафик</string>
   <string name="pref_data_usage_ignore_settings_summary">Не следить за трафиком выбранных приложений</string>
@@ -2716,7 +2716,7 @@
   <string name="traffic_setting_fragment_sms_content_tips">Введите сообщение</string>
   <string name="traffic_setting_fragment_title">Настройки запросов трафика</string>
   <string name="traffic_setting_fragment_title_guide">Операторы и тарифные планы</string>
-  <string name="traffic_usage_warning_body">"Вы уже использовали %s мобильных данных в этом месяце."</string>
+  <string name="traffic_usage_warning_body">"Вы уже использовали %s мобильного трафика в этом месяце."</string>
   <string name="traffic_usage_warning_limit">Порог предупреждения о трафике</string>
   <string name="traffic_usage_warning_title">Порог предупреждения</string>
   <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
