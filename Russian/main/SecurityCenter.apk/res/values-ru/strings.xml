@@ -72,7 +72,7 @@
   <string name="adjust_traffic_carrier_summary_today">Обновлено сегодня в %s</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
-  <string name="adjust_traffic_data">Расход трафика</string>
+  <string name="adjust_traffic_data">Израсходованный трафик</string>
   <string name="after_the_lock_screen">Блокировать вместе с экраном</string>
   <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
   <string name="alert_back_diving_mode_title">Режим погружения</string>
@@ -1916,7 +1916,7 @@
   <string name="pref_correction_setting_switch">Использовать особый шаблон калибровки</string>
   <string name="pref_correction_sms_content">Шаблон калибровки</string>
   <string name="pref_correction_sms_number">Отправить SMS для калибровки на номер</string>
-  <string name="pref_daily_adjust">Ввод обычного трафика</string>
+  <string name="pref_daily_adjust">Израсходованный трафик</string>
   <string name="pref_daily_traffic">Лимит трафика</string>
   <string name="pref_data_usage_ignore_settings">Игнорировать трафик</string>
   <string name="pref_data_usage_ignore_settings_summary">Не следить за трафиком выбранных приложений</string>
@@ -2715,6 +2715,10 @@
   <string name="traffic_setting_fragment_sms_content">Сообщение</string>
   <string name="traffic_setting_fragment_sms_content_tips">Введите сообщение</string>
   <string name="traffic_setting_fragment_title">Настройки запросов трафика</string>
+  <string name="traffic_setting_fragment_title_guide">Операторы и тарифные планы</string>
+  <string name="traffic_usage_warning_body">"Вы уже использовали %s мобильных данных в этом месяце."</string>
+  <string name="traffic_usage_warning_limit">Порог предупреждения о трафике</string>
+  <string name="traffic_usage_warning_title">Порог предупреждения</string>
   <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
   <string name="try_game">Попробовать</string>
   <string name="try_recommended_function">Улучшение защиты с новыми функциями Безопасности</string>
