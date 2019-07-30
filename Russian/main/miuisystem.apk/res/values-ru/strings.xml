@@ -26,9 +26,9 @@
   <string name="christmas_day">Рождество</string>
   <string name="citylight">Огни города</string>
   <string name="clank">Лязг</string>
-  <string name="cloud_state_disabled">Синхронизация с Mi Cloud отключена</string>
-  <string name="cloud_state_finished">Синхронизировано с Mi Cloud</string>
-  <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
+  <string name="cloud_state_disabled">Синхронизация с облаком отключена</string>
+  <string name="cloud_state_finished">Синхронизировано с облаком</string>
+  <string name="cloud_state_syncing">Синхронизация с облаком…</string>
   <string name="country">Кантри</string>
   <string name="countryside">Деревня</string>
   <string name="cowboy">Ковбой</string>
