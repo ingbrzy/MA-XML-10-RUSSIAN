@@ -25,6 +25,7 @@
   <string name="autofill_save_ok">Разрешить</string>
   <string name="autofill_save_sub_message">"Вы можете управлять сохраненными данными в Настройки &gt; Защита и безопасность &gt; Управление паролями."</string>
   <string name="autofill_save_title">Автосохранение данных</string>
+  <string name="autofill_service_name">Управление паролями</string>
   <string name="button_text_cancel">Отмена</string>
   <string name="button_text_delete">Удалить</string>
   <string name="button_text_delete_timer">Удалить (%d)</string>
