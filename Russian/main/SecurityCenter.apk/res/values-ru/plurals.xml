@@ -518,6 +518,30 @@
     <item quantity="few">%s минуты до полной зарядки</item>
     <item quantity="many">%s минут до полной зарядки</item>
   </plurals>
+  <plurals name="pc_statistics_battery_use_minute">
+    <item quantity="other">%d минут с момента последней зарядки</item>
+    <item quantity="one">%d минута с момента последней зарядки</item>
+    <item quantity="few">%d минуты с момента последней зарядки</item>
+    <item quantity="many">%d минут с момента последней зарядки</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_use_second">
+    <item quantity="other">%d секунд с момента последней зарядки</item>
+    <item quantity="one">%d секунда с момента последней зарядки</item>
+    <item quantity="few">%d секунды с момента последней зарядки</item>
+    <item quantity="many">%d секунд с момента последней зарядки</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_last_minute">
+    <item quantity="other">Осталось %s минут</item>
+    <item quantity="one">Осталась %s минута</item>
+    <item quantity="few">Осталось %s минуты</item>
+    <item quantity="many">Осталось %s минут</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_last_hour">
+    <item quantity="other">Осталось %s часов</item>
+    <item quantity="one">Остался %s час</item>
+    <item quantity="few">Осталось %s часа</item>
+    <item quantity="many">Осталось %s часов</item>
+  </plurals>
   <plurals name="power_center_menu_text">
     <item quantity="other">проблем</item>
     <item quantity="one">проблема</item>
