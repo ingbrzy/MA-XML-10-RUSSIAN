@@ -24,6 +24,8 @@
     <string name="activity_tip_name">Лотерея</string>
     <string name="add_private">Скрыть файлы</string>
     <string name="add_private_files">Добавить файлы</string>
+    <string name="app_function">Управление файлами на вашем устройстве</string>
+    <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Камера</string>
     <string name="app_name_downloadedrom">Пакеты</string>
@@ -155,6 +157,7 @@
     <string name="error_create_dir">Ошибка создания папки</string>
     <string name="error_create_file">Ошибка создания файла</string>
     <string name="error_delete_failed">Ошибка удаления файла</string>
+    <string name="error_file_already_exists">Файл уже существует</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="error_folder_already_exists">Такой файл уже существует</string>
     <string name="error_info_cant_send_folder">Не удается отправить папки</string>
@@ -204,6 +207,9 @@
     <string name="ftp_transfer_secure">БЕЗОПАСНОСТЬ</string>
     <string name="ftp_username_and_passworld">Вход</string>
     <string name="ftp_username_hint">Имя пользователя</string>
+    <string name="function_file_operation">"Для доступа и открытия файлов; "</string>
+    <string name="function_set_private">"Для просмотра и шифрования файлов; "</string>
+    <string name="function_use_imei">"Для доступа к IMEI и шифрования файлов; "</string>    
     <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
     <string name="gigabyteShort">ГБ</string>
     <string name="group_title">%2$s из %1$s</string>
