@@ -28,8 +28,8 @@
     <string name="audio_toast_network_is_not_available">Не удалось подключиться к сети</string>
     <string name="call_folder_name">Заметки вызовов</string>
     <string name="cancel_alarm_description">Отменить напоминание</string>
-    <string name="cloud_service_state_open_reminder">Включите синхронизацию с Облаком</string>
-    <string name="cloud_trash_bin_title">Удаленные заметки в Облаке</string>
+    <string name="cloud_service_state_open_reminder">Включите синхронизацию с облаком</string>
+    <string name="cloud_trash_bin_title">Удаленные заметки в облаке</string>
     <string name="cta_confirm_cancel">Не разрешать</string>
     <string name="cta_confirm_ok">Разрешить</string>
     <string name="cta_dialog_message">Для нормальной работы Заметкам требуется подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
@@ -41,7 +41,7 @@
     <string name="date_time_picker_has_not_set_alarm">Напоминание не установлено</string>
     <string name="date_time_picker_has_set_alarm">Напоминание установлено</string>
     <string name="db_downgrade_clear_button">Очистить данные</string>
-    <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию MIUI требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в Облаке.</string>
+    <string name="db_downgrade_clear_date_reminder">Для перехода на другую версию MIUI требуется очистка данных приложения. Прежде чем это сделать, убедитесь, что вы сохранили свои заметки в облаке.</string>
     <string name="default_folder_name">Заметки</string>
     <string name="delete_folder_dialog_tile">Удаление папки</string>
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта войдите на сайт i.mi.com до отзыва разрешения для Облачных сервисов.</string>
@@ -124,7 +124,7 @@
     <string name="menu_unhide">Отменить скрытие</string>
     <string name="menu_unstick">Открепить</string>
     <string name="not_now">Не сейчас</string>
-    <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Приложение содержит встроенные напоминания и может синхронизировать ваши объекты с Облаком, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
+    <string name="note_description_content">Заметки - отличное средство для записи ваших идей. Приложение содержит встроенные напоминания и может синхронизировать ваши объекты с облаком, чтобы вы могли получить к ним доступ в любом месте и в любое время. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="note_description_title">О приложении</string>
     <string name="note_link_email">Написать письмо</string>
     <string name="note_link_other">Открыть с помощью карт</string>
@@ -139,7 +139,7 @@
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_desc_todo_float_mode">Проведите от края экрана, чтобы открыть панель инструментов задач</string>
-    <string name="pref_title_cloud_trash_bin">Удаленные заметки в Облаке</string>
+    <string name="pref_title_cloud_trash_bin">Удаленные заметки в облаке</string>
     <string name="pref_title_common">Дополнительные настройки</string>
     <string name="pref_title_font_size">Размер шрифта</string>
     <string name="pref_title_note_style">Стиль</string>
@@ -191,7 +191,7 @@
     <string name="sns_title_send">Отправить сообщение</string>
     <string name="sns_toast_empty">Нельзя отправить пустое сообщение</string>
     <string name="sns_toast_over_limit">Отправлено как изображение</string>
-    <string name="sync_tips">Нажмите для синхронизации заметок с Облаком.</string>
+    <string name="sync_tips">Нажмите для синхронизации заметок с облаком.</string>
     <string name="theme_blue_description">Синяя</string>
     <string name="theme_green_description">Зеленая</string>
     <string name="theme_red_description">Красная</string>
