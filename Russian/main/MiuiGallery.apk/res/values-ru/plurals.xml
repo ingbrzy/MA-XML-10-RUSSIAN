@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Час назад</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Час назад</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Полчаса назад</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Через час</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Через полчаса</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Сразу</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">через %d минут</item>
+    <item quantity="one">через 1 минуту</item>
+    <item quantity="few">через %d минуты</item>
+    <item quantity="many">через %d минут</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Прямо сейчас</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d минут назад</item>
+    <item quantity="one">1 минуту назад</item>
+    <item quantity="few">%d минуты назад</item>
+    <item quantity="many">%d минут назад</item>
+  </plurals>
   <plurals name="add_secret_ensure_message">
     <item quantity="other">Скрыть эти файлы?</item>
     <item quantity="one">Скрыть этот файл?</item>
@@ -99,32 +132,26 @@
   <plurals name="backuping_desc_gprs">
     <item quantity="other">%1$d фото и видео | %2$s</item>
     <item quantity="one">%1$d фото или видео | %2$s</item>
-    <item quantity="few">%1$d фото и видео | %2$s</item>
-    <item quantity="many">%1$d фото и видео | %2$s</item>
   </plurals>
   <plurals name="backuping_desc_normal">
     <item quantity="other">%1$d фото и видео</item>
     <item quantity="one">%1$d фото или видео</item>
-    <item quantity="few">%1$d фото и видео</item>
-    <item quantity="many">%1$d фото и видео</item>
   </plurals>
   <plurals name="burst_image_download_item_title_count">
     <item quantity="other">%d фото</item>
     <item quantity="one">%d фото</item>
-    <item quantity="few">%d фото</item>
-    <item quantity="many">%d фото</item>
   </plurals>
   <plurals name="burst_save_confirm_dialog_message">
-    <item quantity="other">Сохранить %d выбранных фото и удалить остальные?</item>
-    <item quantity="one">Сохранить %d выбранное фото и удалить остальные?</item>
-    <item quantity="few">Сохранить %d выбранных фото и удалить остальные?</item>
-    <item quantity="many">Сохранить %d выбранных фото и удалить остальные?</item>
+    <item quantity="other">Удалить %d не выбранных фото?</item>
+    <item quantity="one">Удалить %d не выбранное фото?</item>
   </plurals>
+  <plurals name="burst_save_confirm_dialog_title">
+    <item quantity="other">Удалить %d фото</item>
+    <item quantity="one">Удалить %d фото</item>
+  </plurals>  
   <plurals name="burst_save_selected">
-    <item quantity="other">Сохранение %d выбранных фото</item>
-    <item quantity="one">Сохранение %d выбранного фото</item>
-    <item quantity="few">Сохранение %d выбранных фото</item>
-    <item quantity="many">Сохранение %d выбранных фото</item>
+    <item quantity="other">Сохранить %d выбранных фото</item>
+    <item quantity="one">Сохранить %d выбранное фото</item>
   </plurals>
   <plurals name="cloud_storage_photo_num">
     <item quantity="other">%d фото</item>
@@ -171,6 +198,12 @@
     <item quantity="one">Удалить %d серийный снимок из Mi Cloud и с этого устройства?</item>
     <item quantity="few">Удалить %d серийных снимка из Mi Cloud и с этого устройства?</item>
     <item quantity="many">Удалить %d серийных снимков из Mi Cloud и с этого устройства?</item>
+  </plurals>
+  <plurals name="delete_finish_format">
+    <item quantity="other">%d объектов удалено</item>
+    <item quantity="one">%d объект удален</item>
+    <item quantity="few">%d объекта удалено</item>
+    <item quantity="other">%d объектов удалено</item>
   </plurals>
   <plurals name="delete_media_from_all_devices_and_cloud_msg">
     <item quantity="other">Удалить %d объектов со всех устройств и из Mi Cloud?</item>
@@ -267,6 +300,33 @@
     <item quantity="one">%1$d объект</item>
     <item quantity="few">%1$d объекта</item>
     <item quantity="many">%1$d объектов</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Полчаса назад</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Через час</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Через полчаса</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Сразу</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">через %d минут</item>
+    <item quantity="one">через 1 минуту</item>
+    <item quantity="few">через %d минуты</item>
+    <item quantity="many">через %d минут</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Прямо сейчас</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d минут назад</item>
+    <item quantity="one">1 минуту назад</item>
+    <item quantity="few">%d минуты назад</item>
+    <item quantity="many">%d минут назад</item>
   </plurals>
   <plurals name="number_of_images_and_videos_to_upload">
     <item quantity="other">Ожидание выгрузки %1$d объектов</item>
