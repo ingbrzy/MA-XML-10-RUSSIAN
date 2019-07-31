@@ -12,6 +12,7 @@
     <string name="btn_pause">Приостановить</string>
     <string name="btn_share">Поделиться</string>
     <string name="btn_stop">Остановить</string>
+    <string name="btn_wrong_md5">Неверный MD5. Нажмите, чтобы удалить ZIP!</string>
     <string name="btn_yes">Да</string>
     <string name="channel_downloading">Прогресс загрузки</string>
     <string name="channel_update">Доступна новая версия</string>
