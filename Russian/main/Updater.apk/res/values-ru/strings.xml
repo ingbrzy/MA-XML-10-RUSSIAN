@@ -6,7 +6,7 @@
     <string name="btn_changelog">Список изменений</string>
     <string name="btn_download">Загрузка (%1$s)</string>
     <string name="btn_error">Произошла ошибка, повторить попытку?</string>
-    <string name="btn_install">Установить</string>
+    <string name="btn_install">Проверить MD5 и установить</string>
     <string name="btn_no">Отмена</string>
     <string name="btn_ok">ОК</string>
     <string name="btn_pause">Приостановить</string>
