@@ -155,6 +155,10 @@
     <string name="dialog_insufficient_space_on_cache">Не удалось загрузить. Недостаточно места во внутренней памяти.</string>
     <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
     <string name="dialog_media_not_found">Ошибка загрузки. SD карта недоступна.</string>
+    <string name="dialog_my_playlist_online_changed_merge">Сохранить</string>
+    <string name="dialog_my_playlist_online_changed_message">Вероятно, этот плейлист изменился. Вы можете заменить его новой версией или оставить старую.</string>
+    <string name="dialog_my_playlist_online_changed_replace">Заменить</string>
+    <string name="dialog_my_playlist_set_to_public">Отправить плейлист в Mi Music</string>
     <string name="dialog_queued_body">Этот файл находится в очереди загрузок.</string>
     <string name="dialog_renew_failure">Произошла ошибка</string>
     <string name="dialog_renew_free_end">Пробный период окончен. Подписаться на Hungama PRO?</string>
@@ -350,7 +354,15 @@
     <string name="home_tab_online">Онлайн музыка</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Загружать несколько треков одновременно могут только владельцы PRO подписки. Купить её?</string>
+    <string name="hungama_category_chart">Хит-парад</string>
+    <string name="hungama_category_playlist">Плейлисты</string>
+    <string name="hungama_category_radio">Радио</string>
+    <string name="hungama_category_video">Видео</string>
     <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
+    <string name="hungama_playlist_category">Категория</string>
+    <string name="hungama_privacy_desc">Политика конфиденциальности Hungama (необязательное)</string>
+    <string name="hungama_privacy_tips_content">Для получения доступа к онлайн-контенту, вы должны принять &lt;a href="/link/click"&gt;Политика конфиденциальности Hungama&lt;/a&gt;.</string>
+    <string name="hungama_privacy_tips_title">Политика конфиденциальности Hungama</string>
     <string name="hungama_subscribe_message">Купите PRO подписку для загрузки музыки в высоком качестве.</string>
     <string name="hungama_subscribe_positive_button">Купить PRO подписку</string>
     <string name="hungama_subscribe_title">PRO подписка</string>
@@ -454,6 +466,10 @@
     <string name="my_account">Mi Аккаунт</string>
     <string name="my_music_empty">Плейлист пуст.</string>
     <string name="my_music_empty_goto_online">Нет треков</string>
+    <string name="my_playlist_add_song">Добавить треки</string>
+    <string name="my_playlist_create_self_playlist">Создавайте плейлисты с вашими любимыми треками</string>
+    <string name="my_playlist_set_to_private">Закрыть доступ</string>
+    <string name="my_playlist_set_to_public">Опубликовать</string>
     <string name="network_error_and_retry">Не удалось подключиться, нажмите для повтора</string>
     <string name="network_request_error">Не удалось подключиться к сети</string>
     <string name="network_settings_error">Не удалось подключиться к сети</string>
@@ -526,7 +542,9 @@
     <string name="permission_declaration_message">Разрешите доступ к памяти, перейдя в Безопасность > Приложения > Разрешения > Разрешения приложений > Память > Музыка.</string>
     <string name="permission_declaration_negative_text">Позже</string>
     <string name="permission_declaration_positive_text">Безопасность</string>
-    <string name="permission_declaration_title">Требуется доступ</string>
+    <string name="permission_declaration_title">Разрешить доступ</string>
+    <string name="permission_open">Разрешить</string>
+    <string name="permission_required">Требуются разрешения</string>
     <string name="pick_favorite_song">Избранные</string>
     <string name="pick_local_song">Локальные</string>
     <string name="pick_recent_song">Недавние</string>
@@ -540,6 +558,7 @@
     <string name="play_video_with_traffic">ПРОДОЛЖИТЬ</string>
     <string name="play_video_with_traffic_toast">Используется мобильный интернет.</string>
     <string name="playlist_empty">Плейлисты не найдены</string>
+    <string name="playlist_recommend_title">Рекомендуемые</string>
     <string name="playlist_title">Имя плейлиста</string>
     <string name="playlist_title_is_empty">Имя плейлиста не может быть пустым</string>
     <string name="playlist_title_is_invalid">Плейлист уже существует</string>
@@ -572,6 +591,7 @@
     <string name="remove_download">Удалить</string>
     <string name="repeat_all_notif">Повтор всех треков.</string>
     <string name="repeat_current_notif">Повтор текущего трека.</string>
+    <string name="request_overlay_permission_desc">Разрешить приложению отображать плавающие окна.</string>
     <string name="request_share_info">Подождите…</string>
     <string name="request_subscription_status">Подождите…</string>
     <string name="restart_immediate">Перезапуск</string>
@@ -602,6 +622,7 @@
     <string name="search_hint_online">Поиск исполнителей, треков, альбомов, плейлистов и видео онлайн</string>
     <string name="search_history_clear_all">Очистить</string>
     <string name="search_history_delete_all_dialog_titile">Очистить историю поиска?</string>
+    <string name="search_in_youtube">Поиск на YouTube</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result_local_songs">Локальные</string>
@@ -641,6 +662,7 @@
     <string name="share_image_error">Не удалось поделиться изображением из-за ошибки загрузки</string>
     <string name="share_text_list">"Плейлист Mi Music: "</string>
     <string name="share_text_song">"Трек Mi Music: "</string>
+    <string name="show_float_first_hint">Свернуть</string>
     <string name="show_more">Показать еще %s</string>
     <string name="shuffle_music">В случайном порядке</string>
     <string name="shuffle_off_notif">Перемешивание отключено.</string>
@@ -714,6 +736,9 @@
     <string name="toast_download_error_by_vip_required">Приобретите пакет Премиум для загрузки этого трека</string>
     <string name="toast_download_in_process">Загрузка…</string>
     <string name="toast_is_pro">Вы уже являетесь PRO подписчиком</string>
+    <string name="toast_my_playlist_illegal_name">"Некорректное название плейлиста. Переименуйте плейлист."</string>
+    <string name="toast_my_playlist_set_to_private">"Плейлист закрыт. Никто не может видеть его."</string>
+    <string name="toast_my_playlist_set_to_public">Плейлист доступен. Все могут видеть его.</string>
     <string name="toast_new_playlist_name_no_enter">Не удалось начать новый абзац</string>
     <string name="toast_new_playlist_name_too_long">Имя плейлиста слишком длинное</string>
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>
