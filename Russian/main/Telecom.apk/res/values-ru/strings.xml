@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Перейти на главный экран</string>
   <string name="abc_action_bar_up_description">Перейти вверх</string>
@@ -436,7 +436,11 @@
   <string name="wifi_cant_connect">Ошибка подключения</string>
   <string name="wifi_cant_connect_to_ap">Не удалось подключиться к сети \"%1$s\"</string>
   <string name="wifi_check_password_try_again">Возможно, вы указали неверный пароль. Повторите попытку.</string>
+  <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
+  <string name="wifi_connected_mac_randomization_summary">Генерация случайного MAC-адреса при подключении к сетям Wi-Fi</string>
   <string name="wifi_connected_no_internet">Подключено, без Интернета</string>
+  <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
+  <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с использованием точки доступа</string>
   <string name="wifi_disabled_by_recommendation_provider">Подключение невозможно из-за низкого качества сети</string>
   <string name="wifi_disabled_generic">Отключено</string>
   <string name="wifi_disabled_network_failure">Ошибка IP-конфигурации</string>
