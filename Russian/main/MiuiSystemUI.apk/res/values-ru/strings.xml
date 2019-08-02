@@ -1820,7 +1820,11 @@ d MMMM"</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей Wi‑Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
+    <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
+    <string name="wifi_connected_mac_randomization_summary">Генерация случайного MAC-адреса при подключении к сетям Wi-Fi</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
+    <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с использованием точки доступа</string>
     <string name="wifi_disabled_by_recommendation_provider">Не подключено из-за низкого качества сети</string>
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_network_failure">Ошибка конфигурации IP</string>
