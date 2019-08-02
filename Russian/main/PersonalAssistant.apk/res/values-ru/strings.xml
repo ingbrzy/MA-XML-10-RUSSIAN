@@ -463,7 +463,7 @@
     <string name="step_km"> км</string>
     <string name="step_setting_tip">ИСТОЧНИК</string>
     <string name="step_vip_action_bar">Шаги</string>
-    <string name="steps">шаги</string>
+    <string name="steps">шаг(а)(ов)</string>
     <string name="steps_auto_misport">Разрешить автозапуск</string>
     <string name="steps_get_misport">Установить Mi Fit</string>
     <string name="steps_misport">Выбранный Mi Fit</string>
