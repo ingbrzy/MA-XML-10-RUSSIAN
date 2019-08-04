@@ -542,10 +542,6 @@
     <item quantity="few">Осталось %s часа</item>
     <item quantity="many">Осталось %s часов</item>
   </plurals>
-  <plurals name="power_center_battery_volume">
-    <item quantity="other">%d мАч</item>
-    <item quantity="one">%d мАч</item>
-  </plurals>
   <plurals name="power_center_menu_text">
     <item quantity="other">проблем</item>
     <item quantity="one">проблема</item>
