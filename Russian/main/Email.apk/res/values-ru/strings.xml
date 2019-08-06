@@ -3,6 +3,7 @@
     <string name="SMTP_independent_verification_text">SMTP верификация</string>
     <string name="SMTP_password_text">Пароль</string>
     <string name="SMTP_username_text">Имя пользователя</string>
+    <string name="account_add_title">Выберите почтовый сервис</string>
     <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\".</string>
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
     <string name="account_failure">Время сессии истекло</string>
@@ -32,7 +33,7 @@
     <string name="account_settings_enforced_summary">Пусто</string>
     <string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера</string>
     <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить сейчас?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не удалось выполнить вход в %s. Ответ сервера: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Не удалось выполнить вход в %s. Ответ сервера: %s</string>
     <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам нужно обновить почту вручную, чтобы синхронизировать ваши письма</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Вам придется синхронизировать почту вручную, чтобы синхронизировать сообщения и события календаря.</string>
@@ -413,6 +414,7 @@
     <string name="email_setting">Почта</string>
     <string name="email_setting_keywords">Аккаунты;Добавить аккаунт;аккаунты почты;добавить аккаунт почты;подтверждение перед удалением;удалить подтверждение;подтверждение перед отправкой;отправить подтверждение;удалить диалог;удалить перенаправление;цепочка сообщений;диалог почты;экономия энергии;батарея почты;отправить отзыв;загрузить журналы</string>
     <string name="email_sina">Sina Mail</string>
+    <string name="email_sync_failed">Ошибка синхронизации</string>
     <string name="eml_parse_message">Открытие файла EML…</string>
     <string name="empty_account_tip">Не удалось найти аккаунт</string>
     <string name="empty_email_tip">Невозможно отправить пустое сообщение</string>
@@ -524,11 +526,10 @@
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Загрузка…</string>
     <string name="local_search">Локальный поиск</string>
-    <string name="local_search_result">Результатов в синхронизированных сообщениях: %s</string>
     <string name="log_save_path">Путь к журналу</string>
     <string name="login">Вход</string>
     <string name="login139">Войти с помощью China Mobile</string>
-    <string name="login_err_message">Неверный пароль. Вам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://email.163.com/ чтобы посмотреть доступные способы.</string>
+    <string name="login_err_message">%1$sВам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://email.163.com/ чтобы посмотреть доступные способы.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
@@ -540,6 +541,11 @@
     <string name="mail_description_content">Почта - это почтовый клиент, который может сразу с несколькими учетными записями, отправлять и получать сообщения. А также вы можете синхронизировать календарь и контакты. Перед удалением убедитесь, что вы можете обойтись без этих функций. Информация о ваших контактах и календаре также будет удалена.</string>
     <string name="mail_description_title">О приложении</string>
     <string name="mail_header_network_not_available">Интернет недоступен</string>
+    <string name="mail_login_help">Помощь по входу</string>
+    <string name="mail_login_help_bottom_tip">Если нужно сбросить пароль или проверить статус настроек, посетите https://email.163.com/ чтобы посмотреть доступные функции:</string>
+    <string name="mail_login_help_details1">1.Пароль электронной почты: Если вы не задали код подтверждения и уже открыли протокол POP3/IMAP/SMTP, можете использовать пароль электронной почты для входа.</string>
+    <string name="mail_login_help_details2">2.Код подтверждения: Если вы уже задали код подтверждения, необходимо использовать его для входа. Убедитесь, что протокол POP3/IMAP/SMTP открыт.</string>
+    <string name="mail_login_help_title">Пароль электронной почты или код подтверждения:</string>
     <string name="mailbox_list_account_selector_combined_view">Совмещенный аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
     <string name="mailbox_name_display_circular">Уведомления</string>
@@ -683,7 +689,7 @@
     <string name="no_more_mail">Больше сообщений нет</string>
     <string name="no_recognize_describe">"Не удалось найти письма, содержащие билеты или бронь.
 Выберите другой почтовый ящик."</string>
-    <string name="no_search_results">"Ничего не найдено"</string>
+    <string name="no_search_results">"Продолжить поиск на сервере"</string>
     <string name="not_subject">(Без темы)</string>
     <string name="not_synced_title">Аккаунт не синхронизирован</string>
     <string name="notification_action_archive">Архивировать</string>
@@ -714,6 +720,9 @@
     <string name="open_external_storage_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу, контактам и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_permission">Разрешить приложению Почта доступ к хранилищу и контактам в Настройках</string>
+    <string name="optimization_suggestion">Предложения по оптимизации</string>
+    <string name="others_mail">Другое</string>
+    <string name="others_mail_des">Это для другого почтового сервиса или корпоративного почтового сервиса</string>
     <string name="outbox_alert_button_no_resend">Не отправлять</string>
     <string name="outbox_alert_button_resend">Отправить</string>
     <string name="outbox_alert_certificate_error">Свяжитесь с системным администратором почтовой службы и обновите сертификат.</string>
@@ -972,7 +981,7 @@
     <string name="ser_resp_err_map_max_connections">Слишком много попыток подключения</string>
     <string name="ser_resp_err_map_nouser">Такого пользователя нет</string>
     <string name="ser_resp_err_map_or">%1$s или %2$s</string>
-    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
+    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль.</string>
     <string name="ser_resp_err_map_serclosed">%s сервер закрыт</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="service_protocol_discribe"><u>Я прочитал и принимаю Соглашение об обслуживании WPS Mail</u></string>
@@ -1030,8 +1039,9 @@
     <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно памяти.</string>
     <string name="toast_bar_invalid_account">Срок информации об учетной записи истек. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
-    <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Включите прокси Gmail.</string>
+    <string name="toast_bar_open_gmail_synchronization">Ошибка подключения к Gmail, проверьте сетевые настройки.</string>
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
+    <string name="toast_bar_sync_failed_client_cert">Не удалось синхронизировать, ошибка аутентификации. Нажмите, чтобы повторно добавить сертификат</string>
     <string name="toast_bar_sync_failed_mi_authority">"Не удалось синхронизировать, повторите попытку позже. Просмотрите сведения. 
 (Если это первый вход в систему, авторизуйте свое устройство через интранет/SMS-токен.)"</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Чтобы синхронизировать данные календаря и контакты, предоставьте приложению Почта необходимые разрешения в Настройках</string>
