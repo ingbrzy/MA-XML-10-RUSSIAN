@@ -88,9 +88,10 @@
     <string name="got_it">Понятно</string>
     <string name="gps">Навигация</string>
     <string name="import_contact">Импортировать контакт</string>
-    <string name="impunity_declaration_content">Сканеру требуются разрешения на доступ к камере и съемку фото. Для нормальной работы Сканеру также требуется подключение к интернету. Нажатие \"Согласен\" означает, что вы прочитали и принимаете нашу %1$sПолитику конфиденциальности%2$s.</string>
+    <string name="impunity_declaration_content">Сканеру требуются разрешения на доступ к камере и съемку фото. Для нормальной работы Сканеру также требуется подключение к интернету. Нажатие \"Согласен\" означает, что вы прочитали и принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфидеальности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="impunity_declaration_negative_text">Выход</string>
     <string name="impunity_declaration_title">Политика конфиденциальности</string>
+    <string name="jd_shopping_title">Поиск в JD</string>
     <string name="label_choose_picture">Выбор изображения</string>
     <string name="label_flash_light">Вспышка</string>
     <string name="language_entry_chinese_cn">Китайский (упрощенный)</string>
@@ -115,6 +116,7 @@
     <string name="module_title_shopping">Покупки</string>
     <string name="module_title_study">Домашнее задание</string>
     <string name="module_title_translation">Перевод</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="name">"Имя: "</string>
     <string name="new_schedule">Создать мероприятие</string>
     <string name="nickname">"Псевдоним: "</string>
@@ -202,7 +204,9 @@
     <string name="wifi_details">Информация Wi-Fi:</string>
     <string name="wifi_exist_fail">Точка доступа Wi-Fi \"%1$s\" уже существует. Удалите ее и повторите попытку.</string>
     <string name="wifi_open_fail">Не удалось включить Wi-Fi</string>
+    <string name="wifi_psd_toolong">Пароль слишком длинный, введите его вручную</string>
     <string name="wifi_pwd">"Пароль: "</string>
     <string name="wifi_security">"Защита: "</string>
     <string name="wifi_ssid">"SSID: "</string>
+    <string name="wx_not_installed_toast">Для работы функции необходим WeChat, установите сначала WeChat</string>
 </resources>
