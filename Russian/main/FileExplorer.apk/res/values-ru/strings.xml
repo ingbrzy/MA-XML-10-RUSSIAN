@@ -216,6 +216,8 @@
     <string name="group_title_extra_backup">Резервные копии</string>
     <string name="group_title_extra_expire">Истекает срок действия</string>
     <string name="group_title_extra_new">Новое</string>
+    <string name="hint_switch_to_grid_mode">Просмотр таблицей</string>
+    <string name="hint_switch_to_list_mode">Просмотр списком</string>
     <string name="handsome_boy">Мужчина</string>
     <string name="has_installed">Установлено</string>
     <string name="home_action_up">Назад</string>
