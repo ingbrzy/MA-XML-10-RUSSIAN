@@ -57,6 +57,7 @@
   <string name="superpower_battery_dangerous">Подключите зарядное устройство как можно скорее</string>
   <string name="superpower_dialog_app_select_content">Сторонние приложения обычно потребляют больше энергии, чем системные приложения. Добавить в любом случае?</string>
   <string name="superpower_dialog_app_select_title">Внимание</string>
+  <string name="superpower_exit_hint">Выключение максимального энергосбережения…</string>
   <string name="superpower_incharging">Зарядка</string>
   <string name="superpower_progress_battery_last">%s осталось</string>
   <string name="superpower_progress_left_time">%1$dч. %2$dмин.</string>
