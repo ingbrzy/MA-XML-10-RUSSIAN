@@ -33,7 +33,7 @@
     <string name="account_settings_enforced_summary">Пусто</string>
     <string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера</string>
     <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить сейчас?</string>
-    <string name="account_settings_login_dialog_reason_fmt">Не удалось выполнить вход в %s. Ответ сервера: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не удалось выполнить вход в %s. Ответ сервера: %s</string>
     <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Вам нужно обновить почту вручную, чтобы синхронизировать ваши письма</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Вам придется синхронизировать почту вручную, чтобы синхронизировать сообщения и события календаря.</string>
