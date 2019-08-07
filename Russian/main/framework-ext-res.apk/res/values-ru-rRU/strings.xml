@@ -168,10 +168,10 @@
   <string name="sim_added_reboot_title">SIM карта будет активирована после перезагрузки устройства.</string>
   <string name="sim_lock_non_ais_msg">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
   <string name="sim_lock_now_ais_title">SIM%1$d</string>
-  <string name="slavewifi">Двойной Wi-Fi</string>
+  <string name="slavewifi">Двухдиапазонный Wi-Fi</string>
   <string name="slavewifi_disconnect">Отключить</string>
-  <string name="slavewifi_notification_title">Ускорение двойного Wi-Fi</string>
-  <string name="slavewifi_settings">Нажмите для редактирования конфигурации</string>
+  <string name="slavewifi_notification_title">Использование духдиапазонного Wi-Fi</string>
+  <string name="slavewifi_settings">Нажмите для изменения настроек</string>
   <string name="softap_notifif_summary">Подключено: %d</string>
   <string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
   <string name="standard">Без звука</string>
