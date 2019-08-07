@@ -460,6 +460,7 @@
   <string name="pref_camera_show_gender_age_title">Распознавание лиц</string>
   <string name="pref_camera_snap_enable_title">Быстрые снимки</string>
   <string name="pref_camera_snap_entry_off">Откл</string>
+  <string name="pref_camera_snap_entry_summary">Нажмите и удерживайте кнопку уменьшения громкости при выключенном экране, чтобы сделать снимок</string>
   <string name="pref_camera_snap_entry_take_movie">Быстрые снимки (видео)</string>
   <string name="pref_camera_snap_entry_take_picture">Быстрые снимки (фото)</string>
   <string name="pref_camera_snap_label_take_movie">Видео</string>
