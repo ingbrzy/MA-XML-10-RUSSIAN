@@ -180,11 +180,11 @@
     <string name="cloud_antispam_mark">Метка</string>
     <string name="cloud_antispam_marked">Отмечено</string>
     <string name="cloud_antispam_title">Определитель номеров</string>
-    <string name="cloud_recommend_msg">Нажмите для синхронизации контактов с Mi Cloud.</string>
-    <string name="cloud_state_disabled">Синхронизация с Mi Cloud отключена</string>
+    <string name="cloud_recommend_msg">Нажмите для синхронизации контактов с облаком.</string>
+    <string name="cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="cloud_state_loading">Подождите…</string>
-    <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
-    <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
+    <string name="cloud_state_sync_finished">Синхронизировано с облаком</string>
+    <string name="cloud_state_syncing">Синхронизация с облаком…</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
