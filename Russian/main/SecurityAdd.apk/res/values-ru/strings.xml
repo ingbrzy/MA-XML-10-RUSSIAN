@@ -61,8 +61,8 @@
   <string name="superpower_progress_battery_last">%s осталось</string>
   <string name="superpower_progress_left_time">%1$dч. %2$dмин.</string>
   <string name="superpower_search_hint">Поиск приложений</string>
-  <string name="superpower_select_app_title">Home screen layout</string>
-  <string name="superpower_settings">Глубокое энергосбережение</string>
+  <string name="superpower_select_app_title">Макет рабочего стола</string>
+  <string name="superpower_settings">Максимальное энергосбережение</string>
   <string name="superpower_system">Рекомендуемые</string>
   <string name="superpower_third">Сторонние приложения</string>
   <string name="title_share_link">Поделиться ссылкой</string>
