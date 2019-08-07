@@ -20,6 +20,7 @@
     <string name="all_folder_name">Все заметки</string>
     <string name="all_terms">%1$s и %2$s</string>
     <string name="app_name">Заметки</string>
+    <string name="app_notification_info">Заметки работают в фоне</string>
     <string name="app_widget">Заметки</string>
     <string name="application_icon">Значок приложения</string>
     <string name="audio_panel_time_counter_default">00:00</string>
@@ -28,6 +29,7 @@
     <string name="audio_toast_network_is_not_available">Не удалось подключиться к сети</string>
     <string name="call_folder_name">Заметки вызовов</string>
     <string name="cancel_alarm_description">Отменить напоминание</string>
+    <string name="check_in_todo_app">Просмотр задач</string>
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с облаком</string>
     <string name="cloud_trash_bin_title">Удаленные заметки в облаке</string>
     <string name="cta_confirm_cancel">Не разрешать</string>
@@ -247,6 +249,7 @@
     <string name="todo_event_description_today">Сегодня</string>
     <string name="todo_event_description_tomorrow">Завтра</string>
     <string name="todo_event_description_yesterday">Вчера</string>
+    <string name="todo_float_permission_open_reminder">Разрешите Заметкам отображать плавающие окна в других приложениях, чтобы использовать эту функцию.</string>
     <string name="todo_item_group_expired">Истекшие</string>
     <string name="todo_item_group_finished">Завершенные</string>
     <string name="todo_item_group_further">Позже</string>
@@ -258,6 +261,7 @@
     <string name="todo_item_status_unfinished">Незавершенные</string>
     <string name="todo_menu_add_audio_description">Добавить голосовую задачу</string>
     <string name="todo_menu_add_description">Добавить задачу</string>
+    <string name="todo_menu_cancel">Отмена</string>
     <string name="todo_menu_delete">Удалить</string>
     <string name="todo_module_name">Задачи</string>
     <string name="todo_notify_alarm_title">Напоминание о задаче</string>
@@ -267,10 +271,12 @@
     <string name="todo_schedule_time_yesterday">Вчера</string>
     <string name="todo_search_hint">Поиск задач</string>
     <string name="todo_time_picker_title">Напоминание</string>
-    <string name="todo_user_guide_tip1">Добро пожаловать в \"Задачи\"!</string>
-    <string name="todo_user_guide_tip2">Это задача. Вы можете поставить галочку для ее завершения.</string>
-    <string name="todo_user_guide_tip3">Нажмите на плюс ниже, чтобы создать задачу. Также вы можете добавить голосовую задачу.</string>
-    <string name="todo_user_guide_tip4">Установите напоминания для ваших задач, чтобы не забыть о них.</string>
+    <string name="todo_user_guide_fw_pop">Добавить ярлык на рабочий стол</string>
+    <string name="todo_user_guide_tip1">Добро пожаловать в Задачи</string>
+    <string name="todo_user_guide_tip2">Здесь вы можете добавить текстовые и голосовые задачи.</string>
+    <string name="todo_user_guide_tip3">Для редактирования задачи просто нажмите на нее.</string>
+    <string name="todo_user_guide_tip4">"Не забудьте добавить ярлык для Задач на рабочем столе"</string>
+    <string name="todo_user_guide_tip5">Расположите поверх всех окон, чтобы не пропустить ничего важного</string>
     <string name="todoalert_done">ОК</string>
     <string name="toolbar_check_description">Флажок</string>
     <string name="toolbar_delete_description">Удалить заметку</string>
