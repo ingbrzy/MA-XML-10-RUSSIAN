@@ -2,16 +2,16 @@
 <resources>
     <string name="about_to_recover">Подождите…</string>
     <string name="app_is_running">Задача выполняется…</string>
-    <string name="app_name">Резервирование в Mi Cloud</string>
+    <string name="app_name">Облачное резервное копирование</string>
     <string name="arrange_restore_order">Упорядочивание приложений…</string>
     <string name="as_new_device">Заменить предыдущий рабочий стол и настройки</string>
-    <string name="as_new_device_summary">Удалить предыдущие копии Mi Cloud</string>
+    <string name="as_new_device_summary">Удалить предыдущие копии Xiaomi Cloud</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
     <string name="back_up_task_in_process">Резервирование…</string>
     <string name="back_up_task_unfinished">Не удалось создать резервную копию</string>
     <string name="backing_up_to_micloud">Резервирование…</string>
     <string name="backup_fail_wifi_needed">Резервирование не удалось, требуется Wi-Fi</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Mi Cloud. Обновите свой план или освободите место.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Xiaomi Cloud. Обновите свой план или освободите место.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="backup_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="backup_finished_notification_content">Резервирование завершено</string>
@@ -42,7 +42,7 @@
     <string name="cancel_restore_home">Отмена восстановления…</string>
     <string name="click_try_to_restore_again">Повторить</string>
     <string name="cloud_app_backup_success">Резервирование завершено</string>
-    <string name="cloud_app_check_data">Запрос данных Mi Cloud…</string>
+    <string name="cloud_app_check_data">Запрос данных Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
     <string name="cloud_app_dont_restore">Настроить как новое устройство</string>
     <string name="cloud_app_no_data">Нет резервных копий</string>
@@ -52,14 +52,14 @@
     <string name="cloud_app_restore_data">Личные данные и ранее установленные приложения появятся на устройстве автоматически</string>
     <string name="cloud_app_restore_error">Восстановление не удалось</string>
     <string name="cloud_app_restore_success">Восстановление завершено</string>
-    <string name="cloud_app_restore_wifi_prompt">Восстановление из Mi Cloud</string>
+    <string name="cloud_app_restore_wifi_prompt">Восстановление из облачной резервной копии</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-    <string name="cloud_back_up_detail_discription">"При подключении к Wi-Fi в Mi Cloud будут созданы резервные копии следующих объектов: 
+    <string name="cloud_back_up_detail_discription">"При подключении к Wi-Fi в Xiaomi Cloud будут созданы резервные копии следующих объектов: 
 *  Приложения, рабочий стол и обои 
 *  Настройки будильника, часов и времени 
 *  Настройки уведомлений 
 *  Настройки MIUI и системы 
-Внимание: данные установленных приложений не будут сохранены в Mi Cloud."</string>
+Внимание: данные установленных приложений не будут сохранены в Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Расписание резервирования</string>
     <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
     <string name="cloud_back_up_frequence_short">Каждый день</string>
@@ -69,8 +69,8 @@
     <string name="cloud_back_up_share_activity_confirm">Повысить</string>
     <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
     <string name="cloud_back_up_share_activity_title">Повысить Mi Аккаунт</string>
-    <string name="cloud_back_up_task">Резервирование…</string>
-    <string name="cloud_backup">Резервирование в Mi Cloud</string>
+    <string name="cloud_back_up_task">Резервное копирование…</string>
+    <string name="cloud_backup">Облачные резервные копии</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
     <string name="cloud_backup_detail_frequence">Расписание резервирования</string>
     <string name="cloud_backup_detail_manage">Управление резервными копиями</string>
@@ -78,10 +78,10 @@
     <string name="cloud_backup_detail_state_summary">Создавать резервные копии автоматически при подключении к Wi-Fi</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Рабочий стол, приложения и настройки</string>
-    <string name="cloud_backup_have_data">Найдена резервная копия в Mi Cloud</string>
+    <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Отмена</string>
     <string name="cloud_backup_in_process">Резервирование…</string>
-    <string name="cloud_backup_select_recover">Выберите копию из Mi Cloud</string>
+    <string name="cloud_backup_select_recover">Выберите копию из Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>
     <string name="cloud_restore_task">Восстановление…</string>
     <string name="cloud_task_in_process">Остановить %s и удалить копию? Это необратимое действие!</string>
@@ -108,7 +108,7 @@
     <string name="dialog_cancel_backup_confirm">OK</string>
     <string name="dialog_cancel_backup_msg">Отключение резервирования прервет текущие процессы копирования.</string>
     <string name="dialog_cancel_backup_title">Отменить резервирование?</string>
-    <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Mi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
+    <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -138,13 +138,13 @@
     <string name="menu_item_sort_name">Название</string>
     <string name="menu_item_sort_size">Размер</string>
     <string name="msg_alert_cancel_restore">Идет восстановление. Остановить его?</string>
-    <string name="msg_alert_restore_error">Не удалось восстановить объекты из Mi Cloud. Повторите попытку.</string>
+    <string name="msg_alert_restore_error">Не удалось восстановить объекты из Xiaomi Cloud. Повторите попытку.</string>
     <string name="msg_restore_start_with_metered_network">"Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt; Будет загружено файлов: %s&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; файл(а)(ов) будет загружен(о)."</string>
     <string name="network_error">Подключитесь к сети</string>
     <string name="no_account">Не выполнен вход в Mi Аккаунт</string>
-    <string name="no_backup">Нет резервных копий в Mi Cloud</string>
+    <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
     <string name="notification_channel_remind">Напоминание</string>
     <string name="notification_channel_service">Служба</string>
     <string name="open_backup_switch">Включите резервирование</string>
@@ -160,7 +160,7 @@
     <string name="provision_restore_data">Восстановление объектов</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="query_restore_description">Восстановите настройки и приложения рабочего стола, используя эту копию. Это действие перезапишет данные уже установленных дублирующихся приложений. Приложения, не включенные в копию, будут перемещены на последний рабочий стол.</string>
-    <string name="query_restore_summary">Найдена резервная копия Mi Cloud для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
+    <string name="query_restore_summary">Найдена резервная копия Xiaomi Cloud для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
     <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
     <string name="recover_miui_settings">Восстановить настройки системы</string>
     <string name="recover_settings_description">Не выключайте устройство</string>
@@ -180,7 +180,7 @@
     <string name="restore_app_order_search_normal">Приложения с обычным приоритетом</string>
     <string name="restore_app_order_search_prior">Приложения с высоким приоритетом</string>
     <string name="restore_app_order_title">Установка приоритета</string>
-    <string name="restore_cloud_backup_to_phone">Восстановить из Mi Cloud</string>
+    <string name="restore_cloud_backup_to_phone">Восстановление элементов из облака</string>
     <string name="restore_data_summary">Этой функции требуется подключение к интернету.</string>
     <string name="restore_data_title">Восстановление данных</string>
     <string name="restore_detail_category_apps">Рабочий стол &amp; Приложения</string>
@@ -190,10 +190,10 @@
     <string name="restore_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="restore_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
-    <string name="restore_from_cloud">Восстановить из Mi Cloud</string>
+    <string name="restore_from_cloud">Восстановление из облачной резервной копии</string>
     <string name="restore_from_this_device">Восстановить из этой копии</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
-    <string name="restore_home_screen_apps">Восстановить из Mi Cloud</string>
+    <string name="restore_home_screen_apps">Восстановление из облачной резервной копии</string>
     <string name="restore_init_description">Запуск восстановления</string>
     <string name="restore_network_pause">%s (нажмите для продолжения)</string>
     <string name="restore_network_unconnect">%s (ожидание подключения)</string>
@@ -208,9 +208,9 @@
     <string name="self_device_second_space">Второе пространство этого устройства</string>
     <string name="settings_backup">Настройки системы</string>
     <string name="size_unknown">Размер неизвестен</string>
-    <string name="start_backup_to_micloud">Резервировать в Mi Cloud</string>
+    <string name="start_backup_to_micloud">Резервное копирование приложений в Xiaomi Cloud</string>
     <string name="start_recover">Восстановить %s</string>
-    <string name="success_open_cloudbackup">Резервирование приложений рабочего стола включено</string>
+    <string name="success_open_cloudbackup">Резервное копирование приложений рабочего стола включено</string>
     <string name="title_alert_cancel_restore">Предупреждение</string>
     <string name="title_alert_restore_error">Восстановление не удалось</string>
     <string name="title_restore_with_current_network">Используется текущее сетевое подключение для загрузки файлов</string>
