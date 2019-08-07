@@ -41,6 +41,7 @@
     <string name="clock_bg_button_setting_title">Фон</string>
     <string name="close_alarm">Отключить</string>
     <string name="common_settings">Основные настройки</string>
+    <string name="confirm">Подтвердить</string>
     <string name="confirm_abort">Выход</string>
     <string name="content_desc_keep_screen">Кнопка \"Не выключать экран\"</string>
     <string name="control_set_alarm">Установить</string>
@@ -101,8 +102,11 @@
     <string name="life_post_setting">Утренняя сводка</string>
     <string name="life_post_setting_FBE_remind">Из-за ограничений системы информация о погоде в утренней сводке после перезагрузки может отображаться неправильно.</string>
     <string name="life_post_setting_close_title">Не получать утреннюю сводку</string>
+    <string name="life_post_setting_open_background_subtitle">Показывать фоновые изображения для соответствующих будильников</string>
+    <string name="life_post_setting_open_background_title">Фоновые изображения</string>
     <string name="life_post_setting_open_desc">Отключить повтор будильника с 04:00 до 10:00 для прослушивания сводки погоды</string>
     <string name="life_post_setting_open_subtitle">Получать сводку погоды при отключении будильника между 4:00 и 9:30</string>
+    <string name="life_post_setting_open_summary">Включить информацию о погоде в первый будильник, отключенный с 4:00 до 10:00</string>
     <string name="life_post_setting_open_title">Получать утреннюю сводку</string>
     <string name="life_post_setting_wake_up_list_title">История пробуждений</string>
     <string name="life_post_wake_up_acumu_day_title">Число дней</string>
@@ -119,6 +123,7 @@
     <string name="life_post_weather_description_third">%1$s, %2$s</string>
     <string name="life_post_weather_invalid">Не удалось получить данные, нажмите для повтора</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
+    <string name="listen_news_privacy">&lt;Data&gt;Для обеспечения персонализированных услуг и включения утренних новостей в будильники, Часам необходимо подключение к интернету. Перед использованием Часов, вы также должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="loading_ringtone">Загрузка мелодий…</string>
     <string name="menu_add_worldclock">Добавить</string>
     <string name="menu_desk_clock">Часы</string>
@@ -126,6 +131,9 @@
     <string name="menu_item_dock_settings">Настройки</string>
     <string name="menu_item_sort_by_gmt_offset">Сортировать по времени</string>
     <string name="menu_item_sort_by_name">Сортировать по имени</string>
+    <string name="module_dialog_negative">"Не согласен"</string>
+    <string name="module_dialog_neutral">Понятно</string>
+    <string name="module_dialog_positive">Согласен</string>
     <string name="minutes">%d мин</string>
     <string name="module_download_cancel">Нет, спасибо</string>
     <string name="module_download_data_msg">Часам необходимо загрузить аудиофайлы для умных будильников. Умные будильники содержат функции, которые позволяют включать в сигналы текущую информацию о погоде. Для загрузки потребуется ≈20 МБ мобильного интернета. Загрузить?</string>
@@ -133,17 +141,37 @@
     <string name="module_download_data_msg_replace">Доступно обновление аудиофайлов умных будильников. Для загрузки потребуется ≈20MB мобильного интернета. Загрузить?</string>
     <string name="module_download_data_msg_timer">Часам необходимо загрузить аудиофайлы звуков окружающей среды. Для загрузки потребуется ≈20MB мобильного интернета. Загрузить?</string>
     <string name="module_download_fail">Не удалось загрузить аудиофайлы</string>
+    <string name="module_download_failure">"Не удалось загрузить аудиофайлы. Проверьте настройки сети и повторите попытку."</string>
     <string name="module_download_msg">Часам необходимо загрузить аудиофайлы для умных будильников. Умные будильники содержат функции, которые позволяют включать в сигналы текущую информацию о погоде. Загрузить?</string>
     <string name="module_download_msg_golbal">Часам необходимо загрузить аудиофайлы для умных будильников. Загрузить?</string>
     <string name="module_download_msg_replace">Доступно обновление аудиофайлов умных будильников. Загрузить?</string>
     <string name="module_download_msg_timer">Часам необходимо загрузить аудиофайлы звуков окружающей среды. Загрузить?</string>
-    <string name="module_download_no_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
+    <string name="module_download_no_network">Часам необходимо подключение к интернету для загрузки аудиофайлов. Проверьте настройки и повторите попытку.</string>
     <string name="module_download_ok">Разрешить</string>
     <string name="module_download_success">Загрузка аудиофайлов завершена</string>
     <string name="module_download_title">Требуются аудиофайлы</string>
     <string name="module_downloading">Загрузка аудиофайлов…</string>
     <string name="module_update_success">Аудиофайлы для умных будильников обновлены.</string>
     <string name="module_update_success_control">Понятно</string>
+    <string name="module_weather_ringtone_download_data">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Часам неободимо загузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Часам необходимо подключение к интернету, чтобы загрузить &amp;#8776;30 МБ аудиофайлов. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Часам необходимо загрузить аудиофайлы. Загрузить?</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Часам необходимо подключение к интернету для загрузки аудиофайлов. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_introduce">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Это позволит прослушивать информацию о текущей погоде по утрам.</string>
+    <string name="module_weather_ringtone_introduce_global">Для сводки погоды используются различные мелодии в зависимости от текущей погоды.</string>
+    <string name="module_weather_ringtone_update_data">Сводка погоды теперь идет с фоновой музыкой и улучшенными голосовыми объявлениями. Часам неободимо загузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_weather_ringtone_update_success">Сводка погоды теперь идет с фоновой музыкой и улучшенными голосовыми объявлениями. Вы можете включить эту функцию в настройках.</string>
+    <string name="module_week_ringtone_download_data">Еженедельный будильник воспроизводит различные звуки природы каждый день недели. Часам неободимо загузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Еженедельный будильник воспроизводит различные звуки природы каждый день недели. Часам необходимо подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+	<string name="module_week_ringtone_download_wifi">Еженедельный будильник воспроизводит различные звуки природы каждый день недели. Часам необходимо загрузить аудиофайлы. Загрузить?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Еженедельный будильник воспроизводит различные звуки природы каждый день недели. Часам необходимо подключение к интернету для загрузки аудиофайлов. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_introduce">Еженедельный будильник воспроизводит различные звуки природы каждый день недели.</string>
+    <string name="module_week_ringtone_update_data">Еженедельный будильник воспроизводит различные звуки природы каждый день недели. Часам неободимо загузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_update_success">Еженедельный будильник использует фоновую музыку для каждого дня недели. Вы можете включить эту функцию в настройках.</string>
+    <string name="module_white_noise_download_data">Часам необходимо загрузить аудиофайлы окружающих звуков для таймеров. ≈30MB мобильного интернета понадобится для загрузки. Загрузить?</string>
+	<string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Для загрузки аудиофайлов окружающих звуков для таймеров (&amp;#8776;30 МБ) и обеспечения персонилизированных услуг, Часам необходимо подключение к интернету. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Для загрузки будет использоваться мобильный интернет. Согласны?"&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_wifi">Часам необходимо загрузить аудиофайлы окружающих звуков для таймеров. Загрузить?</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Для загрузки аудиофайлов окружающих звуков для таймеров и обеспечения персонилизированных услуг, Часам необходимо подключение к интернету. Перед использованием Часов, вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Согласны?&lt;/Data&gt;</string>
     <string name="monday_to_friday">По будням</string>
     <string name="more_setting">Прочие настройки</string>
     <string name="more_settings">Настройки</string>
@@ -157,6 +185,7 @@
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Получать рекомендации</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="remind_ringtone">Мелодия</string>
     <string name="repeat_count">Количество</string>
     <string name="repeat_count_value_five">5</string>
@@ -166,12 +195,16 @@
     <string name="repeat_count_value_two">2</string>
     <string name="reset">Сброс</string>
     <string name="revert">Назад</string>
+    <string name="ringtone_other">Больше мелодий</string>
+    <string name="ringtone_weather">Мелодии для сводки погоды</string>
+    <string name="ringtone_week">Мелодии для еженедельных будильников</string>
     <string name="search_alarm_clock_keywords">Будильник;Будильник</string>
     <string name="search_stopwatch_keywords">Секундомер</string>
     <string name="search_timer_keywords">Таймер</string>
     <string name="search_worldclock_keywords">Время;Мировое время;Часы</string>
     <string name="set_alarm">Выберите время</string>
     <string name="set_alarm_done">Готово</string>
+    <string name="setting_alarm_arriving_subtitle">Показывать уведомления перед отключением будильников</string>
     <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
     <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
     <string name="settings">Настройки</string>
@@ -179,6 +212,8 @@
     <string name="shortcut_start_timer">Запуск таймера</string>
     <string name="shortcut_stop_watch">Запуск секундомера</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
+    <string name="shutdown_alarm_alert_enable_summary">Сигналы отключения сработают как минимум через 10 минут после выключения устройства</string>
+    <string name="shutdown_alarm_alert_title">Сигналы отключения</string>
     <string name="shutdown_alarm_disable_summary">Будильник не будет звонить после выключения устройства</string>
     <string name="shutdown_alarm_enable_summary">Будильник зазвонит, если время звонка не менее чем на 10 минут позже момента выключения устройства</string>
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
@@ -200,6 +235,9 @@
     <string name="start_up">Пуск</string>
     <string name="stopwatch_lap_empty_text">Нет кругов</string>
     <string name="stopwatch_title">Секундомер</string>
+    <string name="system_permission_phone_desc">Для идентификации разных устройств</string>
+    <string name="system_permission_purpose">Будильники, секундомер, таймеры, часы</string>
+    <string name="system_permission_storage_desc">Для доступа к мелодиям будильника</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>
@@ -220,6 +258,7 @@
     <string name="timer_alert_type_forest">Лес</string>
     <string name="timer_alert_type_mute">Стандарт</string>
     <string name="timer_alert_type_rain">Дождь</string>
+    <string name="timer_alert_type_spring_rain">Летний дождь</string>
     <string name="timer_alert_type_stove_fire">Костер</string>
     <string name="timer_alert_type_summer_night">Ночь</string>
     <string name="timer_can_continue_in_timer">Откройте таймер для продолжения</string>
@@ -257,6 +296,7 @@
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="vibrate_pref_summary">Вибрировать при сигнале</string>
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
+    <string name="volume_button_setting_desc">Назначьте функции для кнопок питания и громкости +/-</string>
     <string name="volume_button_setting_summary">Настройка функции боковых кнопок при их нажатии во время звонка будильника</string>
     <string name="volume_button_setting_title">Функция боковых кнопок</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
