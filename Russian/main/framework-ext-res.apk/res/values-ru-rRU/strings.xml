@@ -70,6 +70,11 @@
   <string name="handy_mode_summary">Для выхода нажмите на темную область</string>
   <string name="handy_mode_title">Управление одной рукой</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Поместите палец на кнопку \"Домой\"</string>
+  <string name="input_method_edit_phrase_text">Редактирование частых фраз</string>
+  <string name="input_method_no_content_text">Ничего нет</string>
+  <string name="input_method_switch_settings_text">Настройки клавиатуры</string>
+  <string name="input_method_tab_clipboard_text">Буфер обмена</string>
+  <string name="input_method_tab_phrase_text">Частые фразы</string>
   <string name="internal_livetalk_enable">Пакет пополнения баланса используется для внутренних вызовов</string>
   <string name="international_livetalk_enable">Пакет пополнения баланса используется для международных вызовов</string>
   <string name="key_btn_ok">OK</string>
@@ -163,6 +168,10 @@
   <string name="sim_added_reboot_title">SIM карта будет активирована после перезагрузки устройства.</string>
   <string name="sim_lock_non_ais_msg">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
   <string name="sim_lock_now_ais_title">SIM%1$d</string>
+  <string name="slavewifi">Двойной Wi-Fi</string>
+  <string name="slavewifi_disconnect">Отключить</string>
+  <string name="slavewifi_notification_title">Ускорение двойного Wi-Fi</string>
+  <string name="slavewifi_settings">Нажмите для редактирования конфигурации</string>
   <string name="softap_notifif_summary">Подключено: %d</string>
   <string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
   <string name="standard">Без звука</string>
