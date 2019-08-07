@@ -249,7 +249,8 @@
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
-    <string name="no_space_toast">Не хватает места</string>
+    <string name="no_space_toast">Нет свободного места</string>
+    <string name="no_space_toast_when_click_widget">Нет свободного места на этом экране. Попробуйте перетащить этот элемент на другой экран.</string>
     <string name="normal_wallpaper">Обои</string>
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
