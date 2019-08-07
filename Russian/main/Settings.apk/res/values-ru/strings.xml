@@ -1197,10 +1197,10 @@
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
     <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия"</string>
-    <string name="cloud_backup_section_title">Резервирование в Mi Cloud</string>
+    <string name="cloud_backup_section_title">Резервирование в облаке</string>
     <string name="cloud_backup_settings_section_title">Настройки резервирования</string>
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
-    <string name="cloud_restore_section_title">Восстановление из Mi Cloud</string>
+    <string name="cloud_restore_section_title">Восстановление из облака</string>
     <string name="cmcc_hardware_version">Версия оборудования</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
@@ -2222,6 +2222,7 @@
     <string name="fsg_mistake_touch_summary">В некоторых случаях, например, в полноэкранных играх и видео, жесты будет необходимо повторять дважды</string>
     <string name="fsg_mistake_touch_title">Защита от ошибочных жестов</string>
     <string name="full_screen_display">Полноэкранный режим</string>
+    <string name="full_screen_keyboard_optimization">Расширение клавиатуры</string>
     <string name="full_transparent_smarrcover_title">Прозрачная</string>
     <string name="fullbackup_data_summary">"Автоматически копируйте данные устройства (например, пароли сетей Wi-Fi и журнал звонков), а также сведения из приложений (например, настройки и файлы) в удаленное хранилище.
 
@@ -2400,6 +2401,16 @@
     <string name="input_assistance">Помощь при вводе</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="input_method">Клавиатура</string>
+    <string name="input_method_function_clipboard">Буфер обмена и частые фразы</string>
+    <string name="input_method_function_clipboard_des">Нажмите для просмотра содержимого буфера обмена и частых фраз</string>
+    <string name="input_method_function_no_function">Ничего</string>
+    <string name="input_method_function_no_function_des">"Не показывать ярлыки"</string>
+    <string name="input_method_function_switch">Переключение между клавиатурами</string>
+    <string name="input_method_function_switch_des">Нажмите для переключения на другую клавиатуру</string>
+    <string name="input_method_function_voice">Голосовой ввод</string>
+    <string name="input_method_function_voice_des">Нажмите для использования голосового ввода</string>
+    <string name="input_method_function_xiaoai">Mi AI голосовой ввод</string>
+    <string name="input_method_function_xiaoai_des">Нажмите для использования Mi AI голосового ввода</string>
     <string name="input_method_selector">Выбор способа ввода</string>
     <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
@@ -2585,6 +2596,7 @@
     <string name="led_frequence_summary">Задать интервал</string>
     <string name="led_pulse_summary">Индикатор будет мигать при получении новых уведомлений</string>
     <string name="led_settings">Световой индикатор</string>
+    <string name="left_function_key">Левый ярлык</string>
     <string name="legal_information">Юридическая информация</string>
     <string name="legal_workday">По рабочим дням</string>
     <string name="legal_workday_invalidate">Пн-пт (данные праздников устарели)</string>
@@ -2816,7 +2828,7 @@
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
-    <string name="login_account_dialog_message">Войдите в свой Mi Аккаунт и включите синхронизацию с Mi Cloud.</string>
+    <string name="login_account_dialog_message">Войдите в свой Mi Аккаунт и включите синхронизацию с облаком.</string>
     <string name="login_account_dialog_title">Войдите в Mi Аккаунт</string>
     <string name="login_account_summary">Управление аккаунтами, облачными сервисами и прочим</string>
     <string name="login_action">Войти</string>
@@ -2825,7 +2837,9 @@
     <string name="long_press_home_key">Долгое нажатие \"Домой\"</string>
     <string name="long_press_menu_key">Долгое нажатие \"Меню\"</string>
     <string name="long_press_menu_key_when_lock">Долгое нажатие \"Меню\" на экране блокировки</string>
+    <string name="long_press_power_key">Долгое нажатие кнопки питания</string>
     <string name="long_press_power_key_half_of_second">Запускать Google Ассистент кнопкой питания</string>
+    <string name="long_press_power_key_tips">&lt;Data&gt;Долгое нажатие кнопки питания &amp;lt;font color=#999999&amp;gt;Быстрее и удобнее&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Долгое нажатие кнопки уменьшения громкости</string>
     <string name="lost_internet_access_cancel">Не отключаться от сети Wi‑Fi</string>
     <string name="lost_internet_access_persist">Больше не показывать</string>
@@ -3349,6 +3363,7 @@
     <string name="noise_suppression">Подавление внешних шумов</string>
     <string name="none">Нет</string>
     <string name="normal">Отключен</string>
+    <string name="normal_bottom_height_of_keyboard">Нормальная высота</string>
     <string name="normal_info">Все звуки разрешены</string>
     <string name="normal_smartcover_title">Непрозрачная</string>
     <string name="not_battery_optimizing">Режим экономии заряда отключен</string>
@@ -3723,6 +3738,7 @@ OTG отключается автоматически через 10 минут �
     <string name="power_usage_not_available">Нет данных.</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
     <string name="power_usage_summary_title">Питание и производительность</string>
+    <string name="power_usage_summary_title_new">Питание и производительность</string>
     <string name="power_user">Пользователь</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Предустановленные приложения</string>
@@ -4011,6 +4027,9 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_smsc_update_label">Обновить</string>
     <string name="radio_info_toggle_dns_check_label">Включить/отключить проверку DNS</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
+    <string name="raise_bottom_height_of_keyboard">Увеличенная высота</string>
+    <string name="raise_bottom_height_of_keyboard_sub_title">Под клавиатурой появится панель с настраиваемыми ярлыками</string>
+    <string name="raise_bottom_height_of_keyboard_title">Настройка клавиатуры в полноэкранном режиме</string>
     <string name="rank_title">Рейтинги</string>
     <string name="rarely_running">Редко (%s)</string>
     <string name="reading_data">Получение данных…</string>
@@ -4110,6 +4129,7 @@ UT-интерфейс: %5$s"</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
     <string name="retry">Повторить</string>
     <string name="rgb_manage_facerecoginition_text">Управление 2D данными лица</string>
+    <string name="right_function_key">Правый ярлык</string>
     <string name="ring_volume_option_title">Рингтон</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_slot_setting_title">Отдельно для каждой SIM</string>
@@ -4648,7 +4668,7 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_manual_activity_title">Руководство пользователя</string>
     <string name="settings_manual_activity_unavailable">Не удалось загрузить руководство пользователя.</string>
     <string name="settings_new_version_btn">Обновление</string>
-    <string name="settings_notify_need_backup">Сохраните ваши настройки в Mi Cloud для доступа к ним после замены телефона</string>
+    <string name="settings_notify_need_backup">Сохраните ваши настройки в облаке для доступа к ним после замены телефона</string>
     <string name="settings_notify_new_version">Доступно обновление. Нажмите для просмотра информации.</string>
     <string name="settings_notify_phone_recycled">Ваш номер телефона был перевыпущен. Нажмите для добавления другого номера.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
@@ -6496,8 +6516,9 @@ UT-интерфейс: %5$s"</string>
     <string name="write_tag">Записать</string>
     <string name="wrong_pin_code_pukked">Неверный ПИН-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_cloud_service_description">Mi Cloud синхронизирует контакты, фото и другие объекты между вашими устройствами. Для работы Поиска устройства также требуется Mi Cloud.</string>
+    <string name="xiaomi_cloud_service">Облако</string>
+    <string name="xiaomi_cloud_service_description">Облако синхронизирует ваши контакты и фото, создает резервные копии приложений и настроек, помогает найти телефон с помощью Поиск устройства.</string>
+    <string name="xiaomi_cloud_service_description_without_contacts">Облако синхронизирует ваши фото, создает резервные копии приложений и настроек, помогает найти телефон с помощью Поиск устройства.</string>
     <string name="xiaomi_cloud_service_disabled">Откл</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
