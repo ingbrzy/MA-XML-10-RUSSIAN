@@ -121,9 +121,9 @@
         <item quantity="many">%s часов назад</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s сервисов будет синхронизировано с Mi Cloud</item>
-        <item quantity="one">%s сервис будет синхронизирован с Mi Cloud</item>
-        <item quantity="few">%s сервиса будет синхронизировано с Mi Cloud</item>
-        <item quantity="many">%s сервисов будет синхронизировано с Mi Cloud</item>
+        <item quantity="other">%s сервисов будет синхронизировано с Xiaomi Cloud</item>
+        <item quantity="one">%s сервис будет синхронизирован с Xiaomi Cloud</item>
+        <item quantity="few">%s сервиса будет синхронизировано с Xiaomi Cloud</item>
+        <item quantity="many">%s сервисов будет синхронизировано с Xiaomi Cloud</item>
     </plurals>
 </resources>
