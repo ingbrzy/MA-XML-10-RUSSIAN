@@ -34,9 +34,12 @@
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Посетите сайт MIUI, чтобы загрузить утилиту разблокировки.</string>
   <string name="game_booster">Ускорение игр</string>
+  <string name="gamebooster_network_dialog_message">Разрешить Безопасности подключение к сети, чтобы использовать все функции Ускорения игр?</string>
+  <string name="gamebooster_network_dialog_title">"Некоторые функции недоступны"</string>
   <string name="gamebox_no_network_btn">Перегрузить</string>
   <string name="gb_alipays_can_not_complete">Для завершения платежа установите Alipay.</string>
   <string name="gb_weixinpay_can_not_complete">Для завершения платежа установите WeChat Pay.</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Чтобы использовать основные функции Безопасности, вы должны согласиться с тем, что xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об используемых функциях (например, статистику использования мобильных данных, информацию о вредоносных программах, а также основную информацию об устройстве) и другие виды информации, указанные в нашей &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политике конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="lucky_result_title">Красные конверты</string>
   <string name="main_toolbar_purchase">Пополнение баланса</string>
   <string name="miuishare_title_more">Еще</string>
