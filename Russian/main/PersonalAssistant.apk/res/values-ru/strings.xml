@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_select">Выбрано: %s</string>
+    <string name="access_unselect">Удалено: %s</string>
     <string name="accessibility_title">Ассистент</string>
     <string name="accordingto_position">Распознавать частые места используя GPS</string>
     <string name="account_address">Адрес</string>
@@ -70,6 +72,8 @@
     <string name="bl_open_failed_exit">Не удалось подключить Браслет</string>
     <string name="bl_validate_failed_change_pwd">Не удалось проверить Браслет, используйте пароль для платежа</string>
     <string name="bluetooth_open_ok">Bluetooth активирован</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_more">Еще</string>
     <string name="cannot_get_download_url">Невозможно получить путь загрузки службы безопасности</string>
     <string name="calc_currency">Валюта</string>
     <string name="calc_name">Научный</string>
@@ -82,7 +86,7 @@
     <string name="card_note_finish">Готово</string>
     <string name="card_settings">Настроить</string>
     <string name="card_title_empty_note">Создать</string>
-    <string name="card_example">Карточка</string>
+    <string name="card_example">Карта</string>
     <string name="card_expand_note_clear">Очистить</string>
     <string name="card_expand_note_clear_all">Очистить все</string>
     <string name="card_expand_note_dialog_button">Понятно</string>
@@ -142,6 +146,13 @@
     <string name="disclaimer_title">Отказ от ответственности</string>
     <string name="display_weather_default">Нажмите для получения информации о погоде</string>
     <string name="dummy_tip">Поместите банковскую карту лицевой стороной к этому полю и попытайтесь не выходить за края.</string>
+    <string name="edit_amount_hint">Введите сумму</string>
+    <string name="edit_category_dialog_title">Выберите категорию платежа</string>
+    <string name="edit_comment_hint">Заметка</string>
+    <string name="edit_delete_dialog_message">Удалить эту запись?</string>
+    <string name="edit_record_label">Сведения</string>
+    <string name="empty_card_btn">Открыть приложение</string>
+    <string name="empty_card_tip">"Похоже, вы еще не вошли в систему или не настроили эту карту."</string>
     <string name="empty_card_title">Нет данных</string>
     <string name="empty_fav_card_btn">Все избранное</string>
     <string name="empty_fav_card_tip">Ничего нет</string>
@@ -254,7 +265,7 @@
     <string name="list_icon_delete">Удалить</string>
     <string name="list_icon_drag">Переместить</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-    <string name="memory_clear_result">%1$sB очищено</string>
+    <string name="memory_clear_result">%1$sБ очищено</string>
     <string name="mi_agenda">Мероприятия</string>
     <string name="mi_sport">Счетчик шагов</string>
     <string name="mi_sport_go_install">Загрузить</string>
@@ -379,8 +390,10 @@
     <string name="not_installed">Не установлено</string>
     <string name="note_name">Создать</string>
     <string name="note_parent">Заметки</string>
-    <string name="notification_channel_card">Карточки</string>
     <string name="notification_channel_default">По умолчанию</string>
+    <string name="notification_channel_default_description">Прочие уведомления</string>
+    <string name="notification_channel_favorite_description">Уведомления об элементах, добавленных в избранное в разных приложениях</string>
+    <string name="notification_channel_payment_description">Уведомления о платежах</string>    
     <string name="open_bluetooth">Активировать</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить раслету\"доступ к аксессуарам</string>
@@ -423,6 +436,10 @@
     <string name="selected_shortcuts_title">Функции</string>
     <string name="send_action_title">Добавить в избранное</string>
     <string name="security">Безопасность</string>
+    <string name="setting_authorization_canceled_dialog_cancel">Отмена</string>
+    <string name="setting_authorization_canceled_dialog_message">MIUI больше не будет записывать ваши платежи, и эта карта будет удалена.</string>
+    <string name="setting_authorization_canceled_dialog_ok">Удалить</string>
+    <string name="setting_authorization_canceled_dialog_title">Удаление</string>
     <string name="setting_btn_add">Добавить</string>
     <string name="setting_btn_added">Добавлено</string>
     <string name="setting_btn_remove">Удалить</string>
@@ -456,6 +473,8 @@
     <string name="setting_stock">Акции</string>
     <string name="setting_title_resident_function">Постоянные функции</string>
     <string name="shortcut">Ярлыки</string>
+    <string name="show_more">Показать еще</string>
+    <string name="smart_assistant_enter_tip">Ассистент</string>
     <string name="shopping_source">От %s</string>
     <string name="show_more">Показать больше</string>
     <string name="sport_headline">"Активность сегодня"</string>
@@ -494,5 +513,12 @@
     <string name="widget_loading">Подождите…</string>
     <string name="widget_more">Посмотреть больше</string>
     <string name="widget_no_data">Ничего нет</string>
-    <string name="widget_title">Недавно добавленное</string>    
+    <string name="widget_title">Недавно добавленные</string>   
+    <string name="wx_paycode">Платеж</string>
+    <string name="wx_photo">Фото</string>
+    <string name="wx_scan">Сканер</string>
+    <string name="wx_timeline">Моменты</string>
+    <string name="xiaomi_search_label">Поиск</string>
+    <string name="xspace_resolver_activity_title">Выбор приложения</string>
+    <string name="yesterday">Вчера</string>
 </resources>
