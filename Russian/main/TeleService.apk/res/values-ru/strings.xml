@@ -757,6 +757,7 @@
   <string name="local_enable">Местные новости включены</string>
   <string name="local_weather_disable">Местный прогноз погоды отключен</string>
   <string name="local_weather_enable">Местный прогноз погоды включен</string>
+  <string name="location">Местоположение</string>
   <string name="lodgings_disable">Аренда жилья отключена</string>
   <string name="lodgings_enable">Аренда жилья включена</string>
   <string name="maintenance_disable">Поддержка отключена</string>
@@ -934,6 +935,7 @@
   <string name="open_miui">Включить</string>
   <string name="opened_dual_4g_confirm_prompt">Ваша SIM-карта поддерживает только 4G. Режим Dual 4G включен автоматически.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s поддерживает только 4G. Для нормальной работы вашей SIM-карты был включен режим Dual 4G.</string>
+  <string name="operator">Оператор</string>
   <string name="optional_summary">&lt;Необязательно&gt;</string>
   <string name="ota_activate">Активировать</string>
   <string name="ota_call_end">Назад</string>
@@ -1284,6 +1286,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="sip_system_decide">Автоматически</string>
   <string name="smart_divert_summary">Настройки CFNRc</string>
   <string name="smart_divert_title">Smart Divert</string>
+  <string name="smsc_dialog_message">"Убедитесь, что номер правильный. В противном случае вы не сможете отправлять или получать SMS. Свяжитесь с вашим оператором, чтобы подтвердить номер SMS-центра."</string>
   <string name="speed_label_fast">Быстрая</string>
   <string name="speed_label_medium">Средняя</string>
   <string name="speed_label_okay">ОК</string>
