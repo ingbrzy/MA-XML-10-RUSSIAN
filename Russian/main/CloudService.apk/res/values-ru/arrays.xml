@@ -1,5 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>For identifying synced items</item>
+        <item>For syncing messages</item>
+        <item>For syncing contacts</item>
+        <item>For syncing calendar events</item>
+        <item>For syncing items with services that use storage</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Телефон</item>
+        <item>SMS</item>
+        <item>Контакты</item>
+        <item>Календарь</item>
+        <item>Хранилище</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Синхронизировать контакты с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>Контакты;История звонков;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Синхронизировать сообщения с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>Messages;SMS;MMS;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Синхронизировать Галерею с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>Галерея;Фото;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Синхронизировать историю звонков с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>История звонков;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Синхронизировать записи с Xiaomi Cloud</item>
+        <item>Включить/настроить синхронизацию</item>
+        <item>Recorder;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Синхронизировать музыку с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Music;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Синхронизировать заметки с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Notes;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Синхронизировать Wi-Fi настройки с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Wi-Fi;wifi;WLAN;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Синхронизировать Календарь с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Календарь;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Синхронизировать Browser с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Browser;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Синхронизировать Безопасность с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Безопасность;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Синхронизировать Ассистент с Xiaomi Cloud</item>
+        <item>Включить синхронизацию</item>
+        <item>Ассистент;Cards;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Все Mi сервисы в одном месте.</item>
+        <item>доступ к фото, контактам, сообщениям и устройствам из любого места</item>
+        <item>Недостаточно места;Членство;Память;Место для хранения;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud;Мусор;Удаленные элементы;Безопасность</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Поиск устройства</item>
+        <item>"Стереть данные и заблокировать устройство в случае утери"</item>
+        <item>Поиск устройства;Утеря;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Поиск устройства</item>
+        <item>"Стереть данные и заблокировать устройство в случае утери"</item>
+        <item>Поиск устройства;Утеря;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Удаленные элементы в Xiaomi Cloud</item>
+        <item>Восстановление контактов, фото, сообщений и прочего</item>
+        <item>Мусор;Удаленные элементы;Корзина;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Cloud членство</item>
+        <item>Обновите членство, получите больше места для хранения и защитите свои данные</item>
+        <item>Недостаточно места;Членство;Память;Место для хранения;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud;Mega;Ultra;VIP;Резервное копирование;Резервирование;Восстановление;Мусор;Удаленные элементы;Корзина</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Резервное копирование рабочего стола Xiaomi Cloud</item>
+        <item>Резервное копирование рабочего стола, списка установленных приложений и системных настроек</item>
+        <item>Облако;Резервное копирование;Резервирование;Облачные сервисы;Xiaomi Cloud;Рабочий стол;Макет;Приложения;Настройки;Частота резервного копирования ;Управление резервными копиями;Восстановление</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Резервные копии</item>
+        <item>Резервное копирование элементов</item>
+        <item>Облако;Резервное копирование;Резервирование;Облачные сервисы;Xiaomi Cloud;Рабочий стол;Макет;Приложения;Управление резервными копиями;Восстановление</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Восстановление элементов из Xiaomi Cloud</item>
+        <item>Загрузка сохраненных элементов на устройство</item>
+        <item>Облако;Резервное копирование;Резервирование;Восстановление;Облачные сервисы;Xiaomi Cloud</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Синхронизация данных</item>
         <item>Настройки рабочего стола</item>
