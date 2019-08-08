@@ -26,6 +26,8 @@
   <string name="autofill_save_sub_message">"Вы можете управлять сохраненными данными в Настройки &gt; Защита и безопасность &gt; Управление паролями."</string>
   <string name="autofill_save_title">Автосохранение данных</string>
   <string name="autofill_service_name">Управление паролями</string>
+  <string name="btn_cancel">Отмена</string>
+  <string name="btn_sure">ОК</string>
   <string name="button_text_cancel">Отмена</string>
   <string name="button_text_delete">Удалить</string>
   <string name="button_text_delete_timer">Удалить (%d)</string>
@@ -36,6 +38,8 @@
   <string name="cancel_action">Отмена</string>
   <string name="close">Откл</string>
   <string name="configure_input_methods">Выбрать способы ввода</string>
+  <string name="confirm_cancel_task_files">Отменить отправку файлов на %1$s?</string>
+  <string name="confirm_cancel_task_images">Отменить отправку изображений на %1$s?</string>
   <string name="content_description_dial">Вызов</string>
   <string name="content_description_search">Поиск</string>
   <string name="content_description_share">Отправить</string>
@@ -43,13 +47,19 @@
   <string name="content_description_web_url">Просмотр</string>
   <string name="copy">Копировать</string>
   <string name="cut">Вырезать</string>
+  <string name="default_device_name">Неизвестное устройство</string>
   <string name="default_name">По умолчанию</string>
   <string name="description_title">Режим \"Без звука\"</string>
+  <string name="device_type_pc">Компьютер</string>
   <string name="eighthours">8 часов</string>
   <string name="enable_livetalk_summary">Экономьте 70% на исходящих вызовах</string>
   <string name="enable_livetalk_title">Включить пакет пополнения баланса</string>
+  <string name="enable_midrop">Включить</string>
   <string name="fc_dialog_body">Отправить отчет об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчеты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
   <string name="fc_dialog_jump_to_preview">Просмотреть</string>
+  <string name="file_cannot_print">"Не удается распечатать."</string>
+  <string name="file_cannot_screen_throw">"Не удается транслировать."</string>
+  <string name="file_sending">Передача файлов…</string>
   <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки &gt; Расширенные настройки &gt; Кнопки и жесты</string>
   <string name="fm_record_smaple_prefix_miui">Запись FM</string>
   <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
@@ -89,6 +99,7 @@
   <string name="maml_component_customization_title">Настройки</string>
   <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
   <string name="memory_clear_result">Очищено %1$sB памяти</string>
+  <string name="mi_drop">Mi Share</string>
   <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
   <string name="miui_screen_ratio_hint">Проблемы с отображением</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>
@@ -104,7 +115,8 @@
   <string name="package_delete_confirm_step_2">Удаление этого приложения может вызвать нестабильность системы.</string>
   <string name="package_delete_confirm_step_3">Вы не сможете открыть приложение после его удаления.</string>
   <string name="paste">Вставить</string>
-  <string name="perm_send_push_dspt">Разрешить Push сообщения Mi</string>
+  <string name="pc_device_model_name">Компьютер</string>
+  <string name="perm_send_push_dspt">Разрешить Mi Push сообщения</string>
   <string name="perm_send_push_lab">Отправить Push сообщение</string>
   <string name="permdesc_manageLocationPolicy">Позволяет приложению управлять политиками местоположения и определять правила для конкретных приложений.</string>
   <string name="permlab_manageLocationPolicy">Доступ к местоположению</string>
@@ -127,6 +139,15 @@
   <string name="reboot_info_auto_boot">Устройство включится по расписанию в %s</string>
   <string name="reboot_info_shutdown_alarm">Следующий будильник: %s</string>
   <string name="reboot_progress">Перезагрузка…</string>
+  <string name="redmi_6">Redmi 6</string>
+  <string name="redmi_6_pro">Redmi 6 Pro</string>
+  <string name="redmi_6a">Redmi 6A</string>
+  <string name="redmi_7a">Redmi 7A</string>
+  <string name="redmi_k20">Redmi K20</string>
+  <string name="redmi_k20_pro">Redmi K20 Pro</string>
+  <string name="redmi_note_5">Redmi Note 5</string>
+  <string name="redmi_note_7">Redmi Note 7</string>
+  <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
   <string name="remain">Осталось: %s</string>
   <string name="replace">Заменить</string>
   <string name="resolver_app_recommend_flag">Рекомендовать</string>
@@ -137,6 +158,7 @@
   <string name="resolver_other_method">Другой вариант</string>
   <string name="resolver_recommend_options_tag">Рекомендуемый вариант</string>
   <string name="resource_select">Выбрать</string>
+  <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
   <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
   <string name="screen_button_notification_title">Кнопки навигации отключены</string>
   <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
@@ -158,6 +180,7 @@
   <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Mi аккаунта</string>
   <string name="select">Выбрать</string>
   <string name="select_all">Выбрать все</string>
+  <string name="send_files_to">Отправка на</string>
   <string name="set_password_action">Задать пароль</string>
   <string name="set_password_message">Для использования этой функции задайте пароль.</string>
   <string name="set_password_title">Задайте пароль</string>
@@ -211,6 +234,9 @@
   <string name="takeback_camera_front_failed">"Не удалось закрыть переднюю камеру. Повторите попытку."</string>
   <string name="talk_back_water_mark_string1">TalkBack включен</string>
   <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
+  <string name="throwing_print">Печать</string>
+  <string name="throwing_screen">Трансляция</string>
+  <string name="tips_prompt_enable_midrop">Отправка файлов на устройства поблизости</string>
   <string name="total">Не беспокоить</string>
   <string name="total_description">Отключение звука и вибрации для всех режимов, кроме будильника</string>
   <string name="total_title">Не беспокоить</string>
@@ -220,6 +246,8 @@
   <string name="turn_off">Отключить</string>
   <string name="twohours">1 час</string>
   <string name="unknown_caller">Неизвестный номер</string>
+  <string name="unrecognized_manufacture">Неизвестное устройство</string>
+  <string name="unrecognized_model">Неизвестное устройство</string>
   <string name="user_switching_dialog_switch_into_kid_space">Переключение в Детский режим…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Выход из Детского режима…</string>
   <string name="user_switching_dialog_text">Переключение…</string>
@@ -230,6 +258,31 @@
   <string name="voice_input_error_other">Произошла ошибка. Подождите немного и повторите попытку.</string>
   <string name="wifi_assistant_wifi_no_internet">Сеть Wi-Fi без доступа в интернет</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Нажмите для просмотра.</string>
+  <string name="wireless_charging_notification_message1">"
+86/5000
+Не удалось найти беспроводные устройства для зарядки. Обратная беспроводная зарядка отключена."</string>
+  <string name="wireless_charging_notification_message2">Заряд батареи менее чем 30%. Обратная беспроводная зарядка отключена.</string>
+  <string name="wireless_charging_notification_message3">Ошибка во время зарядки. Обратная беспроводная зарядка отключена.</string>
+  <string name="wireless_charging_notification_titile">Обратная беспроводная зарядка отключена</string>
+  <string name="xiaomi">Mi</string>
+  <string name="xiaomi_6">Mi 6</string>
+  <string name="xiaomi_8">Mi 8</string>
+  <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
+  <string name="xiaomi_8_se">Mi 8 SE</string>
+  <string name="xiaomi_8_ud">Mi 8 Pro</string>
+  <string name="xiaomi_8_young">Mi 8 Lite</string>
+  <string name="xiaomi_9">Mi 9</string>
+  <string name="xiaomi_9_se">Mi 9 SE</string>
+  <string name="xiaomi_cc_9">Mi CC9</string>
+  <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
+  <string name="xiaomi_cc_9e">Mi CC9e</string>
+  <string name="xiaomi_max_3">Mi MAX 3</string>
+  <string name="xiaomi_mix_2">Mi MIX 2</string>
+  <string name="xiaomi_mix_2s">Mi MIX 2S</string>
+  <string name="xiaomi_mix_3">Mi MIX 3</string>
+  <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
+  <string name="xiaomi_note_3">Mi Note 3</string>
+  <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="xspace_head">Клонированное приложение</string>
   <string name="xspace_resolver_activity_title">Выберите приложение</string>
 </resources>
