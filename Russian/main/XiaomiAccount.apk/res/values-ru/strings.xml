@@ -86,7 +86,7 @@ ID вашего аккаунта: %s"</string>
   <string name="change_email_address">Изменить адрес электронной почты</string>
   <string name="change_password">Изменить пароль</string>
   <string name="change_phone_number">Изменить номер телефона</string>
-  <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Создать журнал диагностики</string>
   <string name="completed">Настройка завершена</string>
   <string name="confirm_activate_email">Проверено</string>
@@ -181,8 +181,8 @@ ID:%s
   <string name="mipay_others">Прочее</string>
   <string name="mipay_transit_card">Транспортная карта</string>
   <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете Mi Аккаунт из первого пространства.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Mi Cloud.</string>
-  <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Mi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Xiaomi Cloud.</string>
+  <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Xiaomi Cloud</string>
   <string name="my_device_title">Текущее устройство</string>
   <string name="need_install_wechat">Установите WeChat</string>
   <string name="no_network_btn">Обновить</string>
@@ -385,7 +385,7 @@ ID:%s
   <string name="passport_skip_login">Пропустить</string>
   <string name="passport_skip_register">Пропустить регистрацию</string>
   <string name="passport_skip_setup_account_msg">Вы можете настроить Mi Аккаунт позже.</string>
-  <string name="passport_skip_setup_account_title">Не использовать Mi Cloud?</string>
+  <string name="passport_skip_setup_account_title">Не использовать Xiaomi Cloud?</string>
   <string name="passport_sms_send_success">Отправлено</string>
   <string name="passport_sms_verification_code_login">Вход через SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Войти или создать аккаунт через SMS</string>
@@ -459,7 +459,7 @@ ID:%s
   <string name="search_app_name">Mi Аккаунт</string>
   <string name="search_mi_account">Mi Аккаунт</string>
   <string name="search_mi_account_desc">Mi Аккаунт</string>
-  <string name="search_mi_account_key_words">Mi Cloud,Настройки аккаунта,Данные Mi Pay,Выйти</string>
+  <string name="search_mi_account_key_words">Xiaomi Cloud,Настройки аккаунта,Данные Mi Pay,Выйти</string>
   <string name="search_mi_account_path">Настройки/Mi Аккаунт</string>
   <string name="search_user_detail">Личная информация</string>
   <string name="search_user_detail_bottom_key_words">Изменить доход,Изменить образование,Изменить местоположение,Изменить регион</string>
