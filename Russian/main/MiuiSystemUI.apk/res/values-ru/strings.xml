@@ -329,8 +329,6 @@
     <string name="block_notification_content_text">Уведомления от %1$s больше не будут отображаться. Для изменения перейдите в Настройки.</string>
     <string name="block_notification_desc">Уведомления от приложения больше не будут отображаться. Для изменения перейдите в Настройки.</string>
     <string name="block_notification_text">Скрыть</string>
-    <string name="block_record_notification_text">Уведомления от %1$s скрыты.</string>
-    <string name="block_record_notification_title">Уведомления скрыты</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
     <string name="bluetooth_active_battery_level">Активно, батарея %1$s</string>
@@ -529,7 +527,6 @@
     <string name="development_settings_title">Для разработчиков</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки разблокируйте устройство.</string>
-    <string name="disable_notification_summary">Никогда не показывать уведомления от выбранных приложений</string>
     <string name="disable_notification_title">Скрыть уведомления</string>
     <string name="disable_overlays">Отключить наложение</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
@@ -589,7 +586,6 @@
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="ethernet_label">Ethernet</string>
-    <string name="expanded_confirm_disable_notification">Скрыть</string>
     <string name="expanded_header_battery_charged">Заряжена</string>
     <string name="expanded_header_battery_charging">Заряжается</string>
     <string name="expanded_header_battery_charging_with_time">%s до окончания</string>
