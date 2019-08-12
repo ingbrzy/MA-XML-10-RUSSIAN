@@ -1695,6 +1695,9 @@
   <string name="power_center_dialog_msg_top">Когда энергосбережение включено, MIUI выполнит следующие действия:</string>
   <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
   <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s мА·ч</string>
+  <string name="power_center_list_item_battery_status_capacity">мА·ч</string>
   <string name="power_center_list_item_battery_status_time">ч.</string>
   <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
