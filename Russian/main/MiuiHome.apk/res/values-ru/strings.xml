@@ -4,6 +4,21 @@
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
     <string name="add_screen">Добавить экран</string>
+    <string name="all_apps">Все приложения</string>
+    <string name="all_apps_no_search_results">Нет результатов</string>
+    <string name="all_apps_search_app">Поиск приложений</string>
+    <string name="all_apps_search_market_message">Поиск в интернете</string>
+    <string name="all_apps_setting_desktop_desc">Приложения расположены на рабочем столе. Для просмотра доступных функций приложения нажмите и удерживайте его иконку.</string>
+    <string name="all_apps_setting_desktop_title">Классический</string>
+    <string name="all_apps_setting_drawer_desc">Приложения расположены в меню, которое открывается свайпом вверх на рабочем столе. Приложения можно размещать и на рабочем столе.</string>
+    <string name="all_apps_setting_drawer_tips_desc">1. Свайп вверх на рабочем столе будет использоваться для открытия меню приложений. 
+2. Поиск свайпом вверх на рабочем столе будет недоступен. 
+3. Для перемещения приложения с рабочего стола в меню приложений, нажмите и удерживайте иконку приложения, затем переместите на значок "Удалить".</string>
+    <string name="all_apps_setting_drawer_tips_title">Меню приложений</string>
+    <string name="all_apps_setting_drawer_title">Меню приложений</string>
+    <string name="all_apps_setting_title">Рабочий стол</string>
+    <string name="all_apps_slide_up_tips">Свайп вверх используется для открытия меню приложений. Для поиска свайпом вверх на рабочем столе переключитесь на классический рабочий стол.</string>
+    <string name="all_apps_suggestions">Рекомендуемые</string>
     <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
     <string name="announce_for_checked">%1$s, выбрано</string>
     <string name="announce_for_choose_default_screen">Установить экран %1$d в качестве основного</string>
@@ -295,6 +310,7 @@
     <string name="privacy_thumbnail_blur_summary">Размывать миниатюры приложений в Недавних</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="quick_app">Быстрые приложения</string>
+    <string name="recent_apps">Недавние</string>
     <string name="recents_config_title">Недавние приложения</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_apps_default_title">Пусто</string>
@@ -305,6 +321,7 @@
     <string name="recommend_apps_switch_title">Рекомендации</string>
     <string name="recommend_apps_tips">Для нормальной работы этой функции требуется подключение к интернету. Для отключения этой функции нажмите на имя папки.</string>
     <string name="recommend_loading">Загрузка…</string>
+    <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
     <string name="reset_description_first_time">Вы можете восстановить макет с %1$s в течение 2 часов</string>
     <string name="reset_description_others">Вы можете восстановить макет с %1$s</string>
     <string name="reset_fail">Восстановление не удалось</string>
