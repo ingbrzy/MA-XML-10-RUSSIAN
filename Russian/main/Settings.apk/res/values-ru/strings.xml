@@ -6126,6 +6126,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Больше не показывать</string>
     <string name="wifi_connect_cmcc_dialog_title">Уведомление о трафике</string>
     <string name="wifi_connect_failed_message">Не удалось подключиться к сети Wi-Fi</string>
+    <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
+    <string name="wifi_connected_mac_randomization_summary">Генерация случайного MAC-адреса при подключении к сетям Wi-Fi</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
     <string name="wifi_connection_management">Управление подключениями</string>
     <string name="wifi_context_menu_change_password">Изменить пароль</string>
