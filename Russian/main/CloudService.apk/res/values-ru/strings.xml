@@ -369,7 +369,10 @@
     <string name="no_sim">Нет SIM карты</string>
     <string name="other_sync_item">Остальные объекты</string>
     <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
+    <string name="pre_privacy_policy">Политика конфиденциальности</string>
+    <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
+    <string name="privacy_and_agreement">Конфиденциальность и соглашение</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
@@ -417,6 +420,8 @@
     <string name="sync_item_sms_summary">Синхронизация SMS на этом телефоне</string>
     <string name="sync_item_sms_title">Синхронизация сообщений</string>
     <string name="sync_item_title">Объекты синхронизации</string>
+    <string name="sync_normal_summary">"Некоторые элементы из списка ниже не могут быть синхронизированы"</string>
+    <string name="sync_normal_title">"Не удается завершить синхронизацию"</string
     <string name="sync_off">Откл</string>
     <string name="sync_on">Вкл</string>
     <string name="sync_setting_title">Настройки синхронизации</string>
@@ -433,8 +438,6 @@
     <string name="user_agreement_link">Условия использования Xiaomi Cloud</string>
     <string name="user_agreement_p5">""</string>
     <string name="user_agreement_title">Условия использования Xiaomi Cloud</string>
-    <string name="user_detail_agreement">Пользовательское соглашение</string>
-    <string name="user_detail_privacy_policy">Политика конфиденциальности</string>
     <string name="user_storage_info_available_text_prefix">%s доступно</string>
     <string name="waiting_for_sync">Ожидание…</string>
     <string name="warning_bar_action_add_short_cut">Добавить</string>
