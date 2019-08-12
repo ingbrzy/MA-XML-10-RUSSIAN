@@ -435,10 +435,10 @@
     <item quantity="many">%d ℃</item>
   </plurals>
   <plurals name="power_center_battery_volume">
-    <item quantity="other">%d мАч</item>
-    <item quantity="one">%d мАч</item>
-    <item quantity="few">%d мАч</item>
-    <item quantity="many">%d мАч</item>
+    <item quantity="other">%d мА·ч</item>
+    <item quantity="one">%d мА·ч</item>
+    <item quantity="few">%d мА·ч</item>
+    <item quantity="many">%d мА·ч</item>
   </plurals>
   <plurals name="power_center_list_item_optimize_button">
     <item quantity="other">Добавить %d мин к автономности</item>
