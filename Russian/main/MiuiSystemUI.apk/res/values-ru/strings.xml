@@ -1187,7 +1187,7 @@
     <string name="open_camera_hint_text">Потяните иконку для запуска камеры</string>
     <string name="open_extreme_power_save_mode_title">Включите максимальное энергосбережение</string>
     <string name="open_lock_screen_magazine_hint_text">Проведите вправо для выбора</string>
-    <string name="open_remote_center_hint_text">Проведите вправо для просмотра элементов управления</string>
+    <string name="open_remote_center_hint_text">Проведите вправо для доступа к ярлыкам</string>
     <string name="other">Другое</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="overview">Обзор</string>
