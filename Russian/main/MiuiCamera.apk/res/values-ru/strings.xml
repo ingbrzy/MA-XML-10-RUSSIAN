@@ -40,6 +40,14 @@
   <string name="accessibility_setting">Настройки</string>
   <string name="accessibility_shutter_button">Кнопка затвора</string>
   <string name="accessibility_stereo_button">Стерео</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD отключен</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD включен</string>
+  <string name="accessibility_ultra_wide_off">Ультра-широкоугольный режим отключен</string>
+  <string name="accessibility_ultra_wide_on">Ультра-широкоугольный режим включен</string>
+  <string name="accessibility_video_btn_play">Воспроизведение видео</string>
+  <string name="accessibility_video_capture_button">Кнопка для фотографирования во время съемки видео</string>
+  <string name="accessibility_video_pause_button">Запись видео приостановлена</string>
+  <string name="accessibility_video_resume_button">Запись видео возобновлена</string>
   <string name="accessibility_zoom_button">Приближение</string>
   <string name="ai_scene_mode_use_hint_text">"AI камера автоматически распознаёт сюжеты
 и оптимизирует фото на основе этих данных"</string>
@@ -613,6 +621,21 @@
   <string name="toast_start_audio_capture">Издайте звук, чтобы сделать снимок</string>
   <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
   <string name="ubifocus_capture_warning_message">Используйте 2 объекта для фокусировки: первый расположите на расстоянии менее 1 метра от объектива, второй - вдали.</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD отключен</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD включен</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Увеличение на работает в режиме %s Ultra HD"</string>
+  <string name="ultra_wide_bokeh_close_tip">Режим \"Во весь рост\" отключен</string>
+  <string name="ultra_wide_bokeh_open_tip">Режим \"Во весь рост\"</string>
+  <string name="ultra_wide_close_tip">Ультра-широкоугольный режим отключен</string>
+  <string name="ultra_wide_mode">Ультра-широкоугольный режим</string>
+  <string name="ultra_wide_mode_use_hint_text">"Используйте этот режим, чтобы сюжет поместился на фото.
+Ультра-широкоугольный режим помогает, когда вы не можете отодвинуться дальше от объекта съемки."</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Попробуйте 0.6X ультра-широкоугольный режим, чтобы сюжет поместился на фото.
+Ультра-широкоугольный режим помогает, когда вы не можете отодвинуться дальше от объекта съемки."</string>
+  <string name="ultra_wide_open_tip">Ультра-широкоугольный режим</string>
+  <string name="ultra_wide_open_tip_sat">0.6X ультра-широкоугольный режим</string>
+  <string name="ultra_wide_recommend_tip_hint">Попробуйте 0.6X ультра-широкоугольный режим</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Попробуйте 0.6X ультра-широкоугольный режим</string>
   <string name="user_agree">Принять</string>
   <string name="user_agreement2">Условия использования</string>
   <string name="user_agreement4">Политика конфиденциальности</string>
@@ -635,5 +658,4 @@
   <string name="wideselfie_rotate_to_front">Наклоните телефон вперед</string>
   <string name="wideselfie_rotate_to_left_slowly">Медленно поверните телефон влево</string>
   <string name="wideselfie_rotate_to_right_slowly">Медленно поверните телефон вправо</string>
-  <string name="zoom_no_support_tip_48M">"Увеличение не работает в режиме 48MP"</string>
 </resources>
