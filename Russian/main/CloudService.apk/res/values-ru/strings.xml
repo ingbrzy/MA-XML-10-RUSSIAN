@@ -421,7 +421,7 @@
     <string name="sync_item_sms_title">Синхронизация сообщений</string>
     <string name="sync_item_title">Объекты синхронизации</string>
     <string name="sync_normal_summary">"Некоторые элементы из списка ниже не могут быть синхронизированы"</string>
-    <string name="sync_normal_title">"Не удается завершить синхронизацию"</string
+    <string name="sync_normal_title">"Не удается завершить синхронизацию"</string>
     <string name="sync_off">Откл</string>
     <string name="sync_on">Вкл</string>
     <string name="sync_setting_title">Настройки синхронизации</string>
