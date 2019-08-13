@@ -491,12 +491,12 @@
     <string name="resource_search_list_empty">Ничего не найдено</string>
     <string name="resource_see_more">Показать еще</string>
     <string name="resource_select">Выбрать</string>
-    <string name="resource_select_alarm_audio_confirm">Выбрать этот звук уведомления?</string>
-    <string name="resource_select_audio_confirm_picker">Выбрать этот звук?</string>
-    <string name="resource_select_boot_audio_confirm">Выбрать эту мелодию загрузки?</string>
-    <string name="resource_select_notification_audio_confirm">Выбрать эту мелодию будильника?</string>
-    <string name="resource_select_ringtone_audio_confirm">Выбрать эту мелодию?</string>
-    <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
+    <string name="resource_select_alarm_audio_confirm">Использовать этот звук уведомления?</string>
+    <string name="resource_select_audio_confirm_picker">Использовать выбранный вариант?</string>
+    <string name="resource_select_boot_audio_confirm">Использовать эту мелодию загрузки?</string>
+    <string name="resource_select_notification_audio_confirm">Использовать эту мелодию будильника?</string>
+    <string name="resource_select_ringtone_audio_confirm">Использовать эту мелодию?</string>
+    <string name="resource_select_ringtone_confirm">Использовать эту мелодию?</string>
     <string name="resource_selected">Рекомендуемые</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_server_alert_dialog_title">Мы скоро вернёмся…</string>
@@ -512,7 +512,7 @@
     <string name="resource_title_hot_subject">Популярные</string>
     <string name="resource_title_local">На устройстве</string>
     <string name="resource_title_rank">Лучшие</string>
-    <string name="resource_title_select_ringtone">Выберите мелодию</string>
+    <string name="resource_title_select_ringtone">Выбор мелодии или звука</string>
     <string name="resource_title_subject">Рекомендуемые</string>
     <string name="resource_trial_15_days_end_title">15-дневный пробный период окончен</string>
     <string name="resource_trial_15_days_immediately">Пробная версия на 15 дней сейчас</string>
