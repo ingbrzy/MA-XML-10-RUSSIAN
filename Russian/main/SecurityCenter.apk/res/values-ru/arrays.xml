@@ -105,6 +105,14 @@
         <item>По будням</item>
         <item>Выбрать дни</item>
     </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Режим по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Режим контроля температуры по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 минуту</item>
         <item>Через 5 минут</item>
