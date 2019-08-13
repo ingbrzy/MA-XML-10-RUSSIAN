@@ -82,12 +82,22 @@
         <item quantity="few">Интервал повтора изменен на %d минуты</item>
         <item quantity="many">Интервал повтора изменен на %d минут</item>
     </plurals>	
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Сработает %1$s раз</item>
+        <item quantity="one">Сработает %1$s раз</item>
+        <item quantity="few">Сработает %1$s раза</item>
+        <item quantity="many">Сработает %1$s раз</item>
+    </plurals>
     <plurals name="snooze_duration_desc">
         <item quantity="other">%2$s повторов (интервал %1$s мин.)</item>
         <item quantity="one">%2$s повтор (интервал %1$s мин.)</item>
         <item quantity="few">%2$s повтора (интервал %1$s мин.)</item>
         <item quantity="many">%2$s повторов (интервал %1$s мин.)</item>
     </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Каждые %1$s мин.</item>
+        <item quantity="one">Каждую %1$s мин.</item>
+    </plurals>    
     <plurals name="snooze_duration_summary">
         <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
         <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
