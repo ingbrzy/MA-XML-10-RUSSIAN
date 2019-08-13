@@ -246,7 +246,7 @@
   <string name="turn_off">Отключить</string>
   <string name="twohours">1 час</string>
   <string name="unknown_caller">Неизвестный номер</string>
-  <string name="unrecognized_manufacture">Неизвестное устройство</string>
+  <string name="unrecognized_manufacture">Нет данных</string>
   <string name="unrecognized_model">Неизвестное устройство</string>
   <string name="user_switching_dialog_switch_into_kid_space">Переключение в Детский режим…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Выход из Детского режима…</string>
@@ -280,7 +280,7 @@
   <string name="xiaomi_mix_2">Mi MIX 2</string>
   <string name="xiaomi_mix_2s">Mi MIX 2S</string>
   <string name="xiaomi_mix_3">Mi MIX 3</string>
-  <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
+  <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
   <string name="xiaomi_note_3">Mi Note 3</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="xspace_head">Клонированное приложение</string>
