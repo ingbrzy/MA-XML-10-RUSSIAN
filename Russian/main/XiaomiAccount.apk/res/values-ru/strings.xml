@@ -485,6 +485,13 @@ ID:%s
   <string name="trusted_browsers_prompt">Браузер перестанет быть надежным, если вы удалите cookies.</string>
   <string name="turn_off_find_device_failed_title">Не удалось отключить Поиск устройства</string>
   <string name="turning_off_find_device">Отключение Поиска устройства…</string>
+  <string name="two_factor_auth">Двухфакторная авторизация</string>
+  <string name="two_factor_auth_click_confirm">Подтверждение входа</string>
+  <string name="two_factor_auth_click_confirm_summary">"Вы увидите уведомление на других подключенных Mi устройствах. Нажмите на уведомление, чтобы разрешить вход на новом устройстве."</string>
+  <string name="two_factor_auth_method">Метод авторизации</string>
+  <string name="two_factor_auth_need_code">Введите код</string>
+  <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключенных Mi устройствах. Введите этот код на новом устройстве для входа."</string>
+  <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключенных устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
   <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в Mi Аккаунт.</string>
   <string name="unlock_help_notice">"Справка:
 1. Если вы забыли свой пароль, перейдите на id.mi.com для его сброса.
