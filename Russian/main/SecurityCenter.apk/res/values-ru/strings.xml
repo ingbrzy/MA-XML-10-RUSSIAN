@@ -1638,7 +1638,7 @@
   <string name="pc_search_keywords_battery_use">Расход заряда батареи</string>
   <string name="pc_search_keywords_capacity">Емкость</string>
   <string name="pc_search_keywords_property">Производительность</string>
-  <string name="pc_settings_title">Настройки оптимизации питания</string>
+  <string name="pc_settings_title">Настройки питания и производительности</string>
   <string name="pc_statistics_battery_last_hour_minute">Заряда хватит на %1$d ч. %2$d мин.</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d ч. %2$d мин. с момента зарядки</string>
   <string name="pc_statistics_battery_use_summary">%s с момента зарядки</string>
@@ -1734,7 +1734,7 @@
   <string name="power_center_super_save_title_text">Максимальное энергосбережение</string>
   <string name="power_center_time_to_boot">Время включения</string>
   <string name="power_center_time_to_shutdown">Время выключения</string>
-  <string name="power_center_title">Оптимизация питания</string>
+  <string name="power_center_title">Питание и производительность</string>
   <string name="power_chooser_check_box_summary">Выбор режима энергосбережения для продолжительной работы устройства</string>
   <string name="power_chooser_check_box_title">Энергосбережение</string>
   <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
@@ -1903,8 +1903,16 @@
   <string name="power_setting_background_app_save_summary">Ограничение активности приложений в фоне без ущерба для их функциональности</string>
   <string name="power_setting_background_app_save_title">Фоновое энергосбережение</string>
   <string name="power_setting_category_other">Дополнительные настройки</string>
+  <string name="power_setting_config_scenario_policies_title">Сценарии</string>
+  <string name="power_setting_features">Специальные функции</string>
+  <string name="power_setting_important_warning">Внимание</string>
   <string name="power_setting_power_save_summary_text">Оптимизация системных настроек для энергосбережения</string>
-  <string name="power_setting_super_save_summary_text">Ограничение некоторых системных функций для энергосбережения</string>
+  <string name="power_setting_scenario_policies_summary">Сценарии автоматического переключения между режимами энергосбережения</string>
+  <string name="power_setting_super_save_summary_text">Ограничение большинства системных функций для энергосбережения</string>
+  <string name="power_setting_warm_configure">Контроль температуры</string>
+  <string name="power_setting_warm_performance_tip">Сценарии, требующие высокого энергопотребления, поднимут температуру устройства выше стандартного уровня.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Беспроводная зарядка совместимых устройств</string>
+  <string name="power_setting_wireless_reverse_charging_title">Обратная беспроводная зарядка</string>
   <string name="power_settings_category_title">Индикатор батареи</string>
   <string name="power_settings_lock_screen_saver_title">Экран блокировки</string>
   <string name="power_settings_number">Процентный</string>
