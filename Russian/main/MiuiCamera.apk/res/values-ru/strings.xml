@@ -365,6 +365,7 @@
   <string name="pref_camera_exposuretime_entry_8s">8 с</string>
   <string name="pref_camera_exposuretime_entry_auto">АВТО</string>
   <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
+  <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку определения лица</string>
   <string name="pref_camera_facedetection_title">Определение лиц</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_off">Откл</string>
@@ -421,6 +422,7 @@
   <string name="pref_camera_multilevel_entry_middle">Средняя (по умолчанию)</string>
   <string name="pref_camera_multilevel_entry_normal">Средняя</string>
   <string name="pref_camera_panoramamode_title">Панорама</string>
+  <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
   <string name="pref_camera_peak_entry_off">Откл</string>
   <string name="pref_camera_peak_entry_on">Вкл</string>
   <string name="pref_camera_peak_title">Выделение области фокусировки</string>
@@ -434,6 +436,7 @@
   <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключен</string>
   <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включен</string>
   <string name="pref_camera_portrait_mode_title">Портрет</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в режиме \"Портрет\"</string>
   <string name="pref_camera_proximity_lock_summary">Предотвращать случайные нажатия при помещении устройства в карман</string>
   <string name="pref_camera_proximity_lock_title">Режим \"В кармане\"</string>
   <string name="pref_camera_recordlocation_entry_off">Откл</string>
@@ -475,6 +478,7 @@
   <string name="pref_camera_snap_label_take_picture">Фото</string>
   <string name="pref_camera_sound_title">Звук затвора</string>
   <string name="pref_camera_square_mode_title">Квадрат</string>
+  <string name="pref_camera_sr_enable_title">Суперразрешение</string>
   <string name="pref_camera_stereo_mode_title">Стерео</string>
   <string name="pref_camera_super_resolution_title">Суперразрешение</string>
   <string name="pref_camera_tilt_shift_entry_circle">Окружность</string>
