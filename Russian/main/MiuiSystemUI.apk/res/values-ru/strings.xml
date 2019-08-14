@@ -513,6 +513,7 @@
     <string name="description_direction_left">Влево для %s</string>
     <string name="description_direction_up">Вверх для %s</string>
     <string name="description_image_button_answer">Ответить</string>
+    <string name="description_image_button_bubble_answer">Динамик</string>
     <string name="description_image_button_reject">Отклонить</string>
     <string name="description_image_icon_sim_card">SIM карта %1$d</string>
     <string name="description_target_search">Поиск</string>
