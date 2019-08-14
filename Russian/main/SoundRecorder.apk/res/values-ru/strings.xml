@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="alert_message_delete_local_record">Удалить эту запись?</string>
-    <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Mi Cloud. Удалить запись?</string>
+    <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Xiaomi Cloud. Удалить запись?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="app_name">Диктофон</string>
     <string name="back">Назад</string>
@@ -12,14 +12,14 @@
     <string name="call_record_list_group_all">Все</string>
     <string name="call_record_list_group_connected">Подключенные</string>
     <string name="call_record_list_group_unconnected">Не подключенные</string>
-    <string name="clear_records">Удаление записей из Mi Cloud</string>
+    <string name="clear_records">Удаление записей из Xiaomi Cloud</string>
     <string name="cloud_record_open">Синхронизация записей</string>
-    <string name="cloud_record_tip">Синхронизировать записи с Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">Включите синхронизацию с Mi Cloud</string>
+    <string name="cloud_record_tip">Синхронизировать записи с Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Включите синхронизацию с Xiaomi Cloud</string>
     <string name="cloud_status_full_dialog_cancel">Не сейчас</string>
     <string name="cloud_status_full_dialog_msg">Ваше облачное хранилище заполнено. Повысьте свой аккаунт для получения дополнительного объема хранения.</string>
     <string name="cloud_status_full_dialog_ok">Повысить</string>
-    <string name="cloud_status_full_dialog_title">Хранилище Mi Cloud заполнено</string>
+    <string name="cloud_status_full_dialog_title">Хранилище Xiaomi Cloud заполнено</string>
     <string name="data_connection_body">Использование мобильного интернета для загрузки этого файла увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Предупреждение о трафике</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">Удаление…</string>
     <string name="details">Подробнее</string>
     <string name="dialog_content_storage_full">Запись была остановлена из-за нехватки места в памяти устройства.</string>
-    <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Недостаточно места</string>
     <string name="download">Загрузить</string>
     <string name="duration_format_hour">%s ч</string>
@@ -97,7 +97,7 @@
     <string name="recognition_status_downloading">Загружается</string>
     <string name="record">Запись</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
-    <string name="record_download">Загрузка из Mi Cloud</string>
+    <string name="record_download">Загрузка из Xiaomi Cloud</string>
     <string name="record_download_complete">Загружено</string>
     <string name="record_download_msg">Записи можно воспроизводить только после окончания их загрузки.</string>
     <string name="record_download_msg_reload">Запись не существует</string>
@@ -108,9 +108,9 @@
     <string name="record_list">Мои записи</string>
     <string name="record_list_call">Записи вызовов</string>
     <string name="record_list_category_title_format">MM.yyyy</string>
-    <string name="record_list_cloud">Записи в Mi Cloud</string>
-    <string name="record_list_cloud_call">Записи вызовов в Mi Cloud</string>
-    <string name="record_list_cloud_fm">Записи радио в Mi Cloud</string>
+    <string name="record_list_cloud">Записи в Xiaomi Cloud</string>
+    <string name="record_list_cloud_call">Записи вызовов в Xiaomi Cloud</string>
+    <string name="record_list_cloud_fm">Записи радио в Xiaomi Cloud</string>
     <string name="record_list_fm">Записи радио</string>
     <string name="record_mark_point">Метка %s</string>
     <string name="record_name_hour">.</string>
