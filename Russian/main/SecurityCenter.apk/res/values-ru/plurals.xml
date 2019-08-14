@@ -86,6 +86,12 @@
     <item quantity="few">Через %1$d минуты</item>
     <item quantity="many">Через %1$d минут</item>
   </plurals>
+  <plurals name="ew_alert_second_after">
+    <item quantity="other">Через %d секунд</item>
+    <item quantity="one">Через %d секунду</item>
+    <item quantity="few">Через %d секунды</item>
+    <item quantity="many">Через %d секунд</item>
+  </plurals>
   <plurals name="find_applications">
     <item quantity="other">%d приложений</item>
     <item quantity="one">%d приложение</item>
