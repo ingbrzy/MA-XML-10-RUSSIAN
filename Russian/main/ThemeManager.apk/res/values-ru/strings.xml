@@ -61,6 +61,11 @@
     <string name="audio_duration_minutes_format">%1$d мин</string>
     <string name="audio_duration_seconds_format">%1$d с</string>
     <string name="audition_ringtone">Воспроизвести</string>
+    <string name="author_attention">Подписаться</string>
+    <string name="author_attention_success">В подписках</string>
+    <string name="author_dialog_message">Отписаться от этого аккаунта?</string>
+    <string name="author_dynamic">Статус</string>
+    <string name="author_dynamic_no_resource">"Ничего нет"</string>
     <string name="automatically_update_using_theme_tips">Обновлять тему автоматически</string>
     <string name="backup_theme_dialog_message">Сохранить текущую тему?</string>
     <string name="backup_theme_dialog_ok">Сохранить</string>
@@ -109,6 +114,9 @@
     <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
     <string name="desktop_effects">Эффекты рабочего стола</string>
     <string name="desktop_wallpaper">Рабочий стол</string>
+    <string name="detail_author_attention_head">Подпишитесь на лучших дизайнеров</string>
+    <string name="detail_author_fans">"Подписчики: "</string>
+    <string name="detail_author_works">"Работы: "</string>
     <string name="detail_recommend_title">Вам могут понравиться</string>
     <string name="dev_options">Параметры разработчика</string>
     <string name="dev_options_summary">Веб-ресурсы</string>
@@ -250,7 +258,6 @@
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="lockstyle_personal_settings">Настройки</string>
     <string name="long_click_can_hide_resource">Нажмите и удерживайте для скрытия элементов</string>
-    <string name="loop_wallpaper_is_here">Новые функции</string>
     <string name="mi_wallpaper">Mi обои</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
@@ -334,6 +341,7 @@
     <string name="resource_alarm_default">Будильник</string>
     <string name="resource_app_name">Просмотр ресурсов</string>
     <string name="resource_apply">Применить</string>
+    <string name="resource_apply_trial">Применить</string>
     <string name="resource_back">Назад</string>
     <string name="resource_buy">Купить</string>
     <string name="resource_can_not_selected">Не удалось выбрать: %1$s</string>
@@ -404,6 +412,7 @@
     <string name="resource_download">Загрузить</string>
     <string name="resource_download_notification_title_many">Загружено тем: %1$s</string>
     <string name="resource_download_notification_title_one">Тема загружена</string>
+    <string name="resource_download_trial">Пробная версия</string>
     <string name="resource_downloaded_title">Загруженные</string>
     <string name="resource_downloading">Загрузка…</string>
     <string name="resource_exchange">Получить подарок</string>
@@ -747,6 +756,8 @@
     <string name="wallpaper_loop_title">Слайд-шоу обоев</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Слайд-шоу обоев рабочего стола</string>
     <string name="wallpaper_loop_title_lock_walpaper">Слайд-шоу обоев экрана блокировки</string>
+    <string name="wallpaper_no_favorite">Ничего нет</string>
+    <string name="wallpaper_no_record">Ничего нет</string>
     <string name="wallpaper_online">Обои онлайн</string>
     <string name="wallpaper_online_no_more">"Больше ничего нет"</string>
     <string name="wallpaper_online_tip">Подключитесь к сети, чтобы посмотреть больше</string>
