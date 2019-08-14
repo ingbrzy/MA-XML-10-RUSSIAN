@@ -73,7 +73,7 @@
     <string name="last_sync_time_yesterday">Вчера</string>
     <string name="license_host_unreachable">Не удалось подключиться к сети. Для просмотра информации посетите %s.</string>
     <string name="loading">Подождите…</string>
-    <string name="master_alert_notif_content">Ошибка синхронизации</string>
+    <string name="master_alert_notif_content">Регулярно делайте резервные копии для сохранности данных</string>
     <string name="master_alert_notif_title">Включите синхронизацию с Xiaomi Cloud</string>
     <string name="member_entrance_normal_title">Сменить план Xiaomi Cloud</string>
     <string name="member_entrance_title_free_high_case_a">Получить больше места</string>
@@ -150,7 +150,8 @@
     <string name="micloud_dialog_sync_now_negative">Не сейчас</string>
     <string name="micloud_dialog_sync_now_positive">Продолжить</string>
     <string name="micloud_dialog_sync_now_title">Подключитесь к Wi-Fi</string>
-    <string name="micloud_dspt">"Используйте Xiaomi Cloud для синхронизации данных, поиска устройства, "</string>
+    <string name="micloud_dspt">"Синхронизация контактов, сообщений, журнала вызовов и других элементов на всех устройствах.
+Поиск и блокировка устройства в случае потери."</string>
     <string name="micloud_dspt_provision">Используйте Xiaomi Cloud для синхронизации данных, поиска устройства и обмена информацией с друзьями.</string>
     <string name="micloud_dspt_provision_xms">Используйте Xiaomi Cloud для синхронизации данных.</string>
     <string name="micloud_find_device_close_alert_content">При отключении функции \"Поиск устройства\" вы не сможете найти устройство в случае его утери. Если ваш телефон поддерживает функцию NFC, все ваши банковские карты и карты-ключи будут удалены из Mi Pay.</string>
@@ -310,7 +311,6 @@
     <string name="micloud_request_permission_content">Xiaomi Cloud требуются разрешения для синхронизации данных. Разрешите Xiaomi Cloud доступ к Календарю, Контактам, Mi аккаунту, статусу SIM карты, журналу вызовов и сообщениям.</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud требуются разрешения</string>
     <string name="micloud_request_sync_too_frequent">Слишком много запросов. Повторите попытку позже.</string>
-    <string name="micloud_sec_dspt">и обмена информацией с друзьями.</string>
     <string name="micloud_setting_antispam_summary">Номера черного и белого списков</string>
     <string name="micloud_setting_browser_summary">Закладки и история</string>
     <string name="micloud_setting_contact_summary">Фото и данные контактов</string>
