@@ -8,6 +8,7 @@
   <string name="asend">Отправка</string>
   <string name="beep">Сигнал</string>
   <string name="bells">Колокольчики</string>
+  <string name="birdcicada_preview">Звуки природы (цикады)</string>
   <string name="blues">Блюз</string>
   <string name="bottle">Бутылка</string>
   <string name="breeze">Бриз</string>
@@ -112,6 +113,7 @@
   <string name="vip_login">Нажмите для входа</string>
   <string name="vip_not_login">Вход не выполнен</string>
   <string name="vip_sign">Подпись:</string>
+  <string name="waterdrop_preview">Звуки природы (капли воды)</string>
   <string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Нельзя отправлять сообщения в режиме \"Гость\"</string>
   <string name="yellow_page_sms_send_failed">Не удалось отправить сообщение</string>
