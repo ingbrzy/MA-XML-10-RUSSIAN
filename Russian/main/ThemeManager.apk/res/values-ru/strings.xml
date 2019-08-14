@@ -341,7 +341,6 @@
     <string name="resource_alarm_default">Будильник</string>
     <string name="resource_app_name">Просмотр ресурсов</string>
     <string name="resource_apply">Применить</string>
-    <string name="resource_apply_trial">Применить</string>
     <string name="resource_back">Назад</string>
     <string name="resource_buy">Купить</string>
     <string name="resource_can_not_selected">Не удалось выбрать: %1$s</string>
@@ -412,7 +411,6 @@
     <string name="resource_download">Загрузить</string>
     <string name="resource_download_notification_title_many">Загружено тем: %1$s</string>
     <string name="resource_download_notification_title_one">Тема загружена</string>
-    <string name="resource_download_trial">Пробная версия</string>
     <string name="resource_downloaded_title">Загруженные</string>
     <string name="resource_downloading">Загрузка…</string>
     <string name="resource_exchange">Получить подарок</string>
