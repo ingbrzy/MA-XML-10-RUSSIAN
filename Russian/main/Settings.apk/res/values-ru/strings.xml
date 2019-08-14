@@ -3027,6 +3027,8 @@
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
     <string name="miui_lab_ai_preload_desc">Предзагрузка увеличивает скорость запуска приложений</string>
     <string name="miui_lab_ai_preload_title">Предзагрузка</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Подсказки по подключению</string>
+    <string name="miui_lab_aiasst_call_screen_title">Подсказки по вызовам</string>
     <string name="miui_lab_drive_mode_desc">Используйте управление голосом и слушайте сообщения WeChat</string>
     <string name="miui_lab_drive_mode_title">Режим \"За рулем\"</string>
     <string name="miui_lab_feature_applied">Применено</string>
