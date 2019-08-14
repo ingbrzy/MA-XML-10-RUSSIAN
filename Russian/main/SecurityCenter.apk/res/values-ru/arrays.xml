@@ -32,6 +32,16 @@
         <item>"За прошлый месяц (Wi-Fi) "</item>
         <item>"За месяц (Wi-Fi) "</item>
     </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
     <string-array name="traffic_type">
         <item>"Трафик 3G/4G "</item>
         <item>"Трафик Wi-Fi "</item>
