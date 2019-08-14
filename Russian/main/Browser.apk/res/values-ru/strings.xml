@@ -655,7 +655,6 @@ ID:%s
     <string name="translation_query_error">Ошибка перевода</string>
     <string name="translation_query_error_network">Ошибка получения информации. Подключитесь к сети и попробуйте снова.</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
-    <string name="temporary_not_available">временно не доступно</string>
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_notice_push">Turn on push</string>
     <string name="toast_feedback">Содержимое этого типа буде показывать реже</string>
