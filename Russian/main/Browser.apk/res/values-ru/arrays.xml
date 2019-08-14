@@ -44,11 +44,17 @@
         <item>По умолчанию</item>
         <item>Пользовательская</item>
     </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>По умолчанию</item>
+        <item>Пустая страница</item>
+        <item>Пользовательская</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Телефон</item>
         <item>Планшет</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Плитка</item>
         <item>Вертикальный вид</item>
         <item>Горизонтальный вид</item>
     </string-array>
