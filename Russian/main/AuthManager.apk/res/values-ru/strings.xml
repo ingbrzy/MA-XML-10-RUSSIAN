@@ -23,8 +23,8 @@
   <string name="HIPS_Perm_AudioRecorder_Desc">запись звука и вызовов</string>
   <string name="HIPS_Perm_AutoStart">Автозапуск</string>
   <string name="HIPS_Perm_AutoStart_Desc">автоматический запуск</string>
-  <string name="HIPS_Perm_background_start_activity">Запуск в фоне</string>
-  <string name="HIPS_Perm_background_start_activity_Desc">запуск в фоне</string>
+  <string name="HIPS_Perm_background_start_activity">Разрешить всплывающие окна во время работы в фоновом режиме</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">Разрешить всплывающие окна во время работы в фоновом режиме</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Состояние Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">включение/выключение Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Нательные датчики</string>
