@@ -264,6 +264,17 @@
     <string name="list_icon_add">Добавить</string>
     <string name="list_icon_delete">Удалить</string>
     <string name="list_icon_drag">Переместить</string>
+    <string name="load_more_error">Ошибка сети. Повторите попытку позже.</string>
+    <string name="load_no_more">"Больше ничего нет"</string>
+    <string name="loading_desktop">Подождите…</string>
+    <string name="locating_fail">"Не удалось получить местоположение"</string>
+    <string name="locations">Частые места</string>
+    <string name="locations_preferences">Адреса</string>
+    <string name="login_before_use">Сначала выполните вход</string>
+    <string name="login_dialog_body">Включите синхронизацию с облаком для доступа к элементам с разных устройств. Войти и включить?</string>
+    <string name="login_dialog_negative">Не сейчас</string>
+    <string name="login_dialog_positive">Войти и включить</string>
+    <string name="login_dialog_title">Включение синхронизации</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">%1$sБ очищено</string>
     <string name="mi_agenda">Мероприятия</string>
