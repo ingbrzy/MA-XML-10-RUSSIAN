@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$sчасов %2$s"</item>
+        <item quantity="one">" %1$sчас %2$s"</item>
+        <item quantity="few">" %1$sчаса %2$s"</item>
+        <item quantity="many">" %1$sчасов %2$s"</item>
+    </plurals>
+</resources>
