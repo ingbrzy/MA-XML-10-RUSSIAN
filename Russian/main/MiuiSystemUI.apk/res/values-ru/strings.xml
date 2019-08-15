@@ -693,7 +693,7 @@
     <string name="float_incall_ignore">Игнорировать</string>
     <string name="float_incall_message">Сообщение</string>
     <string name="force_allow_on_external">Разрешить сохранение на внешние накопители</string>
-    <string name="force_allow_on_external_summary">Разрешить сохранение приложений на внешних накопителях независимо от значений в манифесте</string>
+    <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_hw_ui">Включить GPU-ускорение</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерной отрисовки</string>
     <string name="force_msaa">Включить 4x MSAA</string>
