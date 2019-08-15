@@ -161,7 +161,7 @@
   <string name="dialog_msg_uninstall_apps_xspace">Удалить эти приложения, включая их клоны?</string>
   <string name="dialog_ok_add_white_list_error">Понятно</string>
   <string name="dialog_title_add_white_list_error">Внимание</string>
-  <string name="dialog_title_backup_and_uninstall_apps">Резервирование и удаление</string>
+  <string name="dialog_title_backup_and_uninstall_apps">Резервное копирование и удаление</string>
   <string name="dialog_title_check_all">Выбрать все</string>
   <string name="dialog_title_delete_image">Удаление выбранных фото</string>
   <string name="dialog_title_esc_cleanmaster">Остановка проверки</string>
@@ -475,9 +475,9 @@
   <string name="toast_add_white_list_success">Успешно добавлено в исключения</string>
   <string name="toast_app_no_residual_on_sdcard">Приложение не имеет данных на накопителе</string>
   <string name="toast_backup_is_running">Идет резервирование</string>
-  <string name="toast_backup_uninstall_failed">Резервирование %d приложений не удалось</string>
-  <string name="toast_backup_uninstall_failed2">Резервирование не удалось</string>
-  <string name="toast_backup_uninstall_success">Резервирование и удаление завершено</string>
+  <string name="toast_backup_uninstall_failed">Резервное копирование %d приложений не удалось</string>
+  <string name="toast_backup_uninstall_failed2">Резервное копирование не удалось</string>
+  <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
   <string name="toast_delete_select_image_succeed">Удалено</string>
   <string name="toast_garbage_cleanup_success">Очистка завершена</string>
   <string name="toast_garbage_list_empty">Всё в порядке</string>
