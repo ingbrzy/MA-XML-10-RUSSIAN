@@ -131,6 +131,7 @@
     <string name="delete_download">Удалить</string>
     <string name="delete_file_as_well">Навсегда удалить этот трек</string>
     <string name="delete_file_end">Удалить навсегда</string>
+    <string name="delete_file_error">"Ошибка удаления файла"</string>
     <string name="delete_file_start">Удалить выбранные файлы</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="desktop_lyric_button_close">Закрыть</string>
@@ -158,7 +159,7 @@
     <string name="dialog_my_playlist_online_changed_merge">Сохранить</string>
     <string name="dialog_my_playlist_online_changed_message">Вероятно, этот плейлист изменился. Вы можете заменить его новой версией или оставить старую.</string>
     <string name="dialog_my_playlist_online_changed_replace">Заменить</string>
-    <string name="dialog_my_playlist_set_to_public">Отправить плейлист в Mi Music</string>
+    <string name="dialog_my_playlist_set_to_public">Поделиться плейлистом со всеми пользователями Mi Music и Hungama music</string>
     <string name="dialog_queued_body">Этот файл находится в очереди загрузок.</string>
     <string name="dialog_renew_failure">Произошла ошибка</string>
     <string name="dialog_renew_free_end">Пробный период окончен. Подписаться на Hungama PRO?</string>
@@ -276,6 +277,7 @@
     <string name="eq_preset_select">Выберите настройку</string>
     <string name="eq_rock">Рок</string>
     <string name="equalizer">Эквалайзер</string>
+    <string name="error_not_support">Не поддерживается</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_next_description">Следующий трек</string>
@@ -310,6 +312,8 @@
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
+    <string name="failed_not_access_sd_card">необходимо сначала разрешить доступ к SD-карте</string>
+    <string name="failed_obtain_permissions">"Не удалось получить разрешения"</string>
     <string name="fav_login_msg">Войдите в Mi Аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
     <string name="favorite_playlist">Избранные</string>
@@ -333,6 +337,10 @@
     <string name="filter_by_size_prefix">"Скрыть файлы меньше "</string>
     <string name="filter_by_size_summary">Скрыть маленькие файлы</string>
     <string name="filter_size_unit">%d КБ</string>
+    <string name="floating_view_dialog_desc">Воспроизведение будет остановлено, если вы покинете эту страницу. Покинуть страницу?</string>
+    <string name="floating_view_dialog_leave">Покинуть</string>
+    <string name="floating_view_dialog_stay">Остаться</string>
+    <string name="floating_view_dialog_title">Выход</string>
     <string name="follow">Подписаться</string>
     <string name="followed">Подписан</string>
     <string name="format_not_support">Тип файла не поддерживается</string>
@@ -350,8 +358,12 @@
     <string name="hide_lyric">Скрыть текст</string>
     <string name="higher_quality_music">Звук высокого качества</string>
     <string name="higher_quality_music_summary">Загрузка музыки в высоком качестве</string>
+    <string name="home_tab_home">Домашняя страница</string>
     <string name="home_tab_local">Моя музыка</string>
+    <string name="home_tab_more_music">Еще</string>
     <string name="home_tab_online">Онлайн музыка</string>
+    <string name="home_tab_search">Поиск</string>
+    <string name="home_tab_yandex">Яндекс Музыка</string>    
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Загружать несколько треков одновременно могут только владельцы PRO подписки. Купить её?</string>
     <string name="hungama_category_chart">Хит-парад</string>
@@ -493,6 +505,7 @@
     <string name="not_login">Вход не выполнен</string>
     <string name="not_now">Не сейчас</string>
     <string name="not_selected">Выберите трек</string>
+    <string name="not_support_documentui">"DocumentUI не поддерживается на этом устройстве"</string>
     <string name="notif_title_file_size">Всего: %1$d</string>
     <string name="notif_title_single_downloading">Загрузка файла (%1$s)</string>
     <string name="notification_download_complete">Загрузка завершена</string>
@@ -625,6 +638,7 @@
     <string name="search_in_youtube">Поиск на YouTube</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="search_more">Еще</string>
     <string name="search_result_local_songs">Локальные</string>
     <string name="search_result_online_songs">Онлайн</string>
     <string name="search_songs">Поиск треков</string>
@@ -676,8 +690,10 @@
     <string name="sleep_mode_summary">Остановить плеер через заданное время</string>
     <string name="sleep_mode_title">Таймер сна</string>
     <string name="sliding_pro_center">PRO центр</string>
+    <string name="song_already_in_playlist">Этот трек уже в очереди</string>
     <string name="song_exist_in_playlist">Этот трек уже в очереди</string>
     <string name="song_info">Информация о треке</string>
+    <string name="song_is_added_to_playlist">Добавлено в очередь</string>
     <string name="song_is_empty">Введите имя трека</string>
     <string name="song_name">Трек</string>
     <string name="song_not_find">Трек недоступен.</string>
@@ -689,7 +705,8 @@
     <string name="sort_by_time">Дата</string>
     <string name="start_to_check_new_version">Проверка обновлений…</string>
     <string name="start_to_download">Загрузка…</string>
-    <string name="start_to_play">Играть</string>
+    <string name="start_to_play">Воспроизвести</string>
+    <string name="storage_cloned_app">Хранилище для двойных приложений</string>
     <string name="storage_internal">Внутренняя память</string>
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопитель</string>
