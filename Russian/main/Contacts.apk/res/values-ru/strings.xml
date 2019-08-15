@@ -978,7 +978,8 @@
     <string name="scan_business_card">Сканировать визитку</string>
     <string name="scan_bussiness_card_merge_tip">Противоречивые данные были заменены</string>
     <string name="scan_duplicate_message">Контактов с идентичными данными: %1$d</string>
-    <string name="scan_merge">Поиск возможных дубликатов контактов…</string>
+    <string name="scan_merge">Поиск дубликатов контактов…</string>
+    <string name="scan_not_installed">Сначала установите сканер</string>
     <string name="scan_qrcode_card_hint1">Отсканируйте этот QR-код</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
