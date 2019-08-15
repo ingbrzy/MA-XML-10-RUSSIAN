@@ -199,7 +199,7 @@
     <string name="micloud_main_error_activated_fail">Активируйте SIM карту</string>
     <string name="micloud_main_error_network_disallowed">Разрешите Xiaomi Cloud доступ в интернет</string>
     <string name="micloud_main_error_permission_limit">Разрешите Xiaomi Cloud доступ к памяти</string>
-    <string name="micloud_main_head_menu_cloud_backup">Резервирование</string>
+    <string name="micloud_main_head_menu_cloud_backup">Резервное копирование</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Поиск устройства недоступен из второго пространства</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Удаленные объекты</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Корзина</string>
@@ -380,10 +380,10 @@
     <string name="reading_status">Получение статуса…</string>
     <string name="reading_status_failure">Не удалось получить статус</string>
     <string name="recommend_open_all_sync">Синхронизируйте все объекты</string>
-    <string name="search_cloudbackup_pref">Резервирование в Xiaomi Cloud</string>
+    <string name="search_cloudbackup_pref">Резервное копирование в Xiaomi Cloud</string>
     <string name="search_cloudbackup_pref_desc">Включить/отключить бэкап Xiaomi Cloud</string>
     <string name="search_cloudbackup_pref_key_words">бэкап mi cloud, облачный бэкап</string>
-    <string name="search_cloudbackup_pref_path">Mi аккаунт/Xiaomi Cloud/Резервирование</string>
+    <string name="search_cloudbackup_pref_path">Mi аккаунт/Xiaomi Cloud/Резервное копирование</string>
     <string name="search_finddevice_pref">Поиск устройства</string>
     <string name="search_finddevice_pref_desc">Включить/отключить поиск устройства</string>
     <string name="search_finddevice_pref_key_words">поиск устройства, поиск устройства</string>
@@ -398,7 +398,7 @@
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
-    <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервирования данных</string>
+    <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Синхронизировать сообщения, содержащие фото, аудио и другие медиаданные, только по Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS только по Wi-Fi</string>
