@@ -1197,10 +1197,10 @@
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
     <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия"</string>
-    <string name="cloud_backup_section_title">Резервирование в облаке</string>
-    <string name="cloud_backup_settings_section_title">Настройки резервирования</string>
+    <string name="cloud_backup_section_title">Резервное копирование в Xiaomi Cloud</string>
+    <string name="cloud_backup_settings_section_title">Настройки резервного копирования</string>
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
-    <string name="cloud_restore_section_title">Восстановление из облака</string>
+    <string name="cloud_restore_section_title">Восстановление из Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Версия оборудования</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
@@ -2163,7 +2163,7 @@
     <string name="font_size_summary2">Простой режим.</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
     <string name="force_allow_on_external">Разрешить сохранение на внешние накопители</string>
-    <string name="force_allow_on_external_summary">Разрешить сохранение приложений на внешних накопителях независимо от значений в манифесте</string>
+    <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешние накопители независимо от значений в манифесте</string>
     <string name="force_hw_ui">Включить GPU-ускорение</string>
     <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерной отрисовки</string>
     <string name="force_immersive_compatibility_dont_hide">Не скрывать</string>
@@ -3226,6 +3226,7 @@
     <string name="music_unsupport_effect_summary">USB гарнитуры не поддерживаются</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="mute_music_stream">Отключить музыкальный поток</string>
+    <string name="mute_voiceassist_stream">Отключить голосовой помощник</string>
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
     <string name="my_device">Моё устройство</string>
@@ -4670,7 +4671,7 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_manual_activity_title">Руководство пользователя</string>
     <string name="settings_manual_activity_unavailable">Не удалось загрузить руководство пользователя.</string>
     <string name="settings_new_version_btn">Обновление</string>
-    <string name="settings_notify_need_backup">Сохраните ваши настройки в облаке для доступа к ним после замены телефона</string>
+    <string name="settings_notify_need_backup">Сохраните ваши настройки в Xiaomi Cloud для доступа к ним после замены телефона</string>
     <string name="settings_notify_new_version">Доступно обновление. Нажмите для просмотра информации.</string>
     <string name="settings_notify_phone_recycled">Ваш номер телефона был перевыпущен. Нажмите для добавления другого номера.</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
@@ -6520,9 +6521,9 @@ UT-интерфейс: %5$s"</string>
     <string name="write_tag">Записать</string>
     <string name="wrong_pin_code_pukked">Неверный ПИН-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
-    <string name="xiaomi_cloud_service">Облако</string>
-    <string name="xiaomi_cloud_service_description">Облако синхронизирует ваши контакты и фото, создает резервные копии приложений и настроек, помогает найти телефон с помощью Поиск устройства.</string>
-    <string name="xiaomi_cloud_service_description_without_contacts">Облако синхронизирует ваши фото, создает резервные копии приложений и настроек, помогает найти телефон с помощью Поиск устройства.</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_cloud_service_description">Xiaomi Cloud синхронизирует ваши контакты и фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
+    <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud синхронизирует ваши фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
     <string name="xiaomi_cloud_service_disabled">Откл</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
