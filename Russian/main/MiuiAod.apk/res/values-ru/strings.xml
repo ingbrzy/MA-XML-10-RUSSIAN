@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Домой</string>
+  <string name="abc_action_bar_up_description">Вверх</string>
+  <string name="abc_action_menu_overflow_description">Еще</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Посмотреть все</string>
+  <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+  <string name="abc_capital_off">ВЫКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Очистить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+  <string name="abc_shareactionprovider_share_with_application">Открыть доступ %s</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
+  <string name="accessibility_battery_level">Батарея %d</string>
+  <string name="accessibility_battery_level_charging">Батарея заряжается, %d</string>
+  <string name="always_style">Всегда</string>
+  <string name="animation_clock_panel">Волновой дисплей</string>
+  <string name="aod_close_color_inversion">"Эту функцию нельзя сочетать с инверсией цвета. Сначала отключите инверсию цвета."</string>
+  <string name="aod_mode_preview">Предпросмотр</string>
+  <string name="aod_mode_style">Стиль часов и фон</string>
+  <string name="aod_mode_style_title">Дополнительные параметры</string>
+  <string name="aod_mode_summary">Отображение часов, даты, уведомлений и фоновых изображений при выключенном экране</string>
+  <string name="aod_mode_time_summary">Установите расписание для включения и выключения режима \"Амбиентный дисплей\"</string>
+  <string name="aod_mode_time_title">Расписание</string>
+  <string name="aod_mode_title">Амбиентный дисплей</string>
+  <string name="aod_show_style_title">Отображение</string>
+  <string name="aod_to_close">Отключить</string>
+  <string name="apply">Применить</string>
+  <string name="background_icon">Фон</string>
+  <string name="black_white_clock_panel">Часы</string>
+  <string name="cancel">Отмена</string>
+  <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
+  <string name="choose_aod_style">Выбор темы</string>
+  <string name="clock_panel_icon">Циферблат</string>
+  <string name="color_change_with_time_description">Менять цвет текста автоматически с течением времени</string>
+  <string name="color_change_with_time_title">Автоматическое изменение цвета</string>
+  <string name="deep_space_planet">Космическое пространство</string>
+  <string name="deep_space_planet_des">\"Космическое пространство\" отражает световые изменения, происходящие вокруг вас в течение дня. Рассветы и закаты в этой теме синхронизируются с вашим местоположением.</string>
+  <string name="large_time">Большие часы</string>
+  <string name="mini_time">Маленькие часы</string>
+  <string name="mtrl_chip_close_icon_content_description">Удаление %1$s</string>
+  <string name="only_show_bg_description">"Не показывать время, дату и другие элементы"</string>
+  <string name="only_show_bg_title">Показывать только фон</string>
+  <string name="paper_mode_end_time_title">Отключить</string>
+  <string name="paper_mode_start_time_title">Включить</string>
+  <string name="password_toggle_content_description">Показать пароль</string>
+  <string name="scheduled_style">По расписанию</string>
+  <string name="search_menu_title">Поиск</string>
+  <string name="show_battery_status">Показывать состояние батареи</string>
+  <string name="show_notification">Показывать уведомления</string>
+  <string name="standard_style">По умолчанию</string>
+  <string name="summary">"Для энергосбережения элементы не будут отображаться в следующих ситуациях:
+1. Когда устройство долго лежит в темноте.
+2. Когда включен режим \"Не беспокоить\"."</string>
+  <string name="temporary_style">В течение 10 секунд после нажатия</string>
+  <string name="text_color">Цвет текста</string>
+</resources>
