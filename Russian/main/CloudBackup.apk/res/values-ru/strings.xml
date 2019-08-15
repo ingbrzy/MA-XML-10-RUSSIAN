@@ -7,21 +7,21 @@
     <string name="as_new_device">Заменить предыдущий рабочий стол и настройки</string>
     <string name="as_new_device_summary">Удалить предыдущие копии Xiaomi Cloud</string>
     <string name="authentication_failed">Не удалось проверить аккаунт</string>
-    <string name="back_up_task_in_process">Резервирование…</string>
+    <string name="back_up_task_in_process">Резервное копирование…</string>
     <string name="back_up_task_unfinished">Не удалось создать резервную копию</string>
-    <string name="backing_up_to_micloud">Резервирование…</string>
-    <string name="backup_fail_wifi_needed">Резервирование не удалось, требуется Wi-Fi</string>
+    <string name="backing_up_to_micloud">Резервное копирование…</string>
+    <string name="backup_fail_wifi_needed">Резервное копирование не удалось, требуется Wi-Fi</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места для хранения в Xiaomi Cloud. Обновите свой план или освободите место.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="backup_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
-    <string name="backup_finished_notification_content">Резервирование завершено</string>
+    <string name="backup_finished_notification_content">Резервное копирование завершено</string>
     <string name="backup_now">Начать</string>
     <string name="backup_size">Размер: %s</string>
     <string name="backup_stopped_msg">Текущая резервная копия перезапишет предыдущую. Нажмите для просмотра.</string>
-    <string name="backup_stopped_title">Резервирование остановлено</string>
-    <string name="backup_success">Резервирование завершено</string>
-    <string name="backup_successfully">Резервирование завершено</string>
-    <string name="backup_to_cloud">Резервировать приложение</string>
+    <string name="backup_stopped_title">Резервное копирование остановлено</string>
+    <string name="backup_success">Резервное копирование завершено</string>
+    <string name="backup_successfully">Резервное копирование завершено</string>
+    <string name="backup_to_cloud">Сделать резервную копию приложения</string>
     <string name="btn_back">Назад</string>
     <string name="btn_continue">Продолжить</string>
     <string name="btn_restore_abort">Прервать</string>
@@ -35,13 +35,13 @@
     <string name="button_cancel">Отмена</string>
     <string name="button_delete">Удалить</string>
     <string name="button_next">Далее</string>
-    <string name="can_not_backup_in_lite_mode">Нельзя резервировать в Простом режиме</string>
-    <string name="can_not_restore_in_lite_mode">Нельзя восстанавливать в Простом режиме</string>
-    <string name="cancel_backup">Отмена резервирования…</string>
+    <string name="can_not_backup_in_lite_mode">Нельзя выполнить резервное копирование в Простом режиме</string>
+    <string name="can_not_restore_in_lite_mode">Нельзя выполнить восстановление в Простом режиме</string>
+    <string name="cancel_backup">Отмена резервного копирования…</string>
     <string name="cancel_recover_settings"><u>Отмена</u></string>
     <string name="cancel_restore_home">Отмена восстановления…</string>
     <string name="click_try_to_restore_again">Повторить</string>
-    <string name="cloud_app_backup_success">Резервирование завершено</string>
+    <string name="cloud_app_backup_success">Резервное копирование завершено</string>
     <string name="cloud_app_check_data">Запрос данных Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
     <string name="cloud_app_dont_restore">Настроить как новое устройство</string>
@@ -60,7 +60,7 @@
 *  Настройки уведомлений 
 *  Настройки MIUI и системы 
 Внимание: данные установленных приложений не будут сохранены в Xiaomi Cloud."</string>
-    <string name="cloud_back_up_frequence_choice_title">Расписание резервирования</string>
+    <string name="cloud_back_up_frequence_choice_title">Расписание резервного копирования</string>
     <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
     <string name="cloud_back_up_frequence_short">Каждый день</string>
     <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
@@ -72,15 +72,15 @@
     <string name="cloud_back_up_task">Резервное копирование…</string>
     <string name="cloud_backup">Облачные резервные копии</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
-    <string name="cloud_backup_detail_frequence">Расписание резервирования</string>
+    <string name="cloud_backup_detail_frequence">Расписание резервного копирования</string>
     <string name="cloud_backup_detail_manage">Управление резервными копиями</string>
-    <string name="cloud_backup_detail_state">Авторезервирование</string>
+    <string name="cloud_backup_detail_state">Автоматическое резервное копирование</string>
     <string name="cloud_backup_detail_state_summary">Создавать резервные копии автоматически при подключении к Wi-Fi</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Рабочий стол, приложения и настройки</string>
     <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Отмена</string>
-    <string name="cloud_backup_in_process">Резервирование…</string>
+    <string name="cloud_backup_in_process">Резервное копирование…</string>
     <string name="cloud_backup_select_recover">Выберите копию из Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>
     <string name="cloud_restore_task">Восстановление…</string>
@@ -106,8 +106,8 @@
     <string name="dialog_btn_restore_skip">Пропустить</string>
     <string name="dialog_cancel_backup_cancel">Отмена</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
-    <string name="dialog_cancel_backup_msg">Отключение резервирования прервет текущие процессы копирования.</string>
-    <string name="dialog_cancel_backup_title">Отменить резервирование?</string>
+    <string name="dialog_cancel_backup_msg">Отключение резервного копирования прервет текущие процессы копирования.</string>
+    <string name="dialog_cancel_backup_title">Отменить резервное копирование?</string>
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
@@ -147,7 +147,7 @@
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
     <string name="notification_channel_remind">Напоминание</string>
     <string name="notification_channel_service">Служба</string>
-    <string name="open_backup_switch">Включите резервирование</string>
+    <string name="open_backup_switch">Включите резервное копирование</string>
     <string name="open_wifi">Включите Wi-Fi</string>
     <string name="open_wifi_description">Для восстановления приложений подключитесь к Wi-Fi.</string>
     <string name="open_wifi_setting">Настройки Wi-Fi</string>
@@ -155,7 +155,7 @@
     <string name="other_device_second_space">Второе пространство</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
-    <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервирование недоступно, когда ваше устройство отключено от сети.</string>
+    <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервное копирование недоступно, когда ваше устройство отключено от сети.</string>
     <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="provision_restore_data">Восстановление объектов</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
