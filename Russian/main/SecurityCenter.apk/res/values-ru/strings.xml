@@ -2465,7 +2465,7 @@
   <string name="system_application">Системные приложения</string>
   <string name="system_permission_declare_agree">Согласен</string>
   <string name="system_permission_declare_disagree">Не согласен</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите наши &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! Приложение предоставляет следующие функции: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных."</string>
@@ -2474,12 +2474,12 @@
   <string name="system_permission_declare_revoke_path">Вы можете удалить это приложение, выйти из своей учетной записи или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_privacy_no_permission">"Обратите внимание, что приложению %1s необходим доступ к вашим данным для нормальной работы.
 Мы уважаем и защищаем вашу конфиденциальность."</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &amp;lt;a href=\"%1$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
   <string name="system_permission_declare_revoke_uninstallable">Вы можете удалить это приложение или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Вызовы</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
