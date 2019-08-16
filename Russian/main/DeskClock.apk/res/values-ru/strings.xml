@@ -198,6 +198,10 @@
     <string name="repeat_count_value_two">2</string>
     <string name="reset">Сброс</string>
     <string name="revert">Назад</string>
+    <string name="ringtone_all">Все мелодии</string>
+    <string name="ringtone_dew">Утренняя роса</string>
+    <string name="ringtone_dream">Грезы</string>
+    <string name="ringtone_firefly">Светлячки</string>
     <string name="ringtone_other">Больше мелодий</string>
     <string name="ringtone_weather">Мелодии сводки погоды</string>
     <string name="ringtone_week">Мелодии еженедельных будильников</string>
