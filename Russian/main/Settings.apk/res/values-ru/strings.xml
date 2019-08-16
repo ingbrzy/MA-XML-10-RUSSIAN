@@ -321,7 +321,7 @@
     <string name="apn_user">Имя пользователя</string>
     <string name="app_and_notification_dashboard_summary">Разрешения, приложения по умолчанию</string>
     <string name="app_and_notification_dashboard_title">Приложения и уведомления</string>
-    <string name="app_backup">Резервирование</string>
+    <string name="app_backup">Резервное копирование</string>
     <string name="app_data_usage">Трафик приложений</string>
     <string name="app_default_dashboard_title">Приложения по умолчанию</string>
     <string name="app_detail">Подробности</string>
@@ -532,9 +532,9 @@
     <string name="background_traffic">Фоновый: %s</string>
     <string name="backtouch_enable_title">Регулировка громкости на задней панели</string>
     <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
-    <string name="backup_configure_account_title">Аккаунт для резервирования</string>
+    <string name="backup_configure_account_title">Аккаунт для резервного копирования</string>
     <string name="backup_data_summary">Сохранять данные приложений, пароли Wi-Fi и другие настройки на серверах Google</string>
-    <string name="backup_data_title">Резервирование данных</string>
+    <string name="backup_data_title">Резервное копирование данных</string>
     <string name="backup_disabled">Резервное копирование отключено</string>
     <string name="backup_erase_dialog_message">Прекратить сохранение паролей Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
     <string name="backup_erase_dialog_title" />
@@ -2131,7 +2131,7 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="firmware_version">Версия Android</string>
-    <string name="flash_drive_backup_restore">Резервирование на USB</string>
+    <string name="flash_drive_backup_restore">Резервное копирование на USB</string>
     <string name="flash_drive_backup_restore_summary">Подключите USB накопитель</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
@@ -2272,8 +2272,8 @@
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
     <string name="google_assistant_label">Google Ассистент</string>
-    <string name="google_backup_enable">Включить резервирование</string>
-    <string name="google_backup_section_title">Резервирование Google</string>
+    <string name="google_backup_enable">Включить резервное копирование</string>
+    <string name="google_backup_section_title">Резервное копирование в Google</string>
     <string name="google_service_title">Сервисы Google</string>
     <string name="google_title">Google</string>
     <string name="got_it">Понятно</string>
@@ -2612,15 +2612,15 @@
     <string name="loading_notification_apps">Загрузка…</string>
     <string name="local_auto_backup_off">Откл</string>
     <string name="local_auto_backup_on">Вкл</string>
-    <string name="local_auto_backup_section_title">Авторезервирование</string>
+    <string name="local_auto_backup_section_title">Автоматическое резервное копирование</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
     <string name="local_backup_password_title">Пароль для резервных копий</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
-    <string name="local_backup_section_summary">Резервирование настроек системы, аккаунтов и приложений</string>
-    <string name="local_backup_section_title">Локальное резервирование</string>
+    <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунтов и приложений</string>
+    <string name="local_backup_section_title">Локальное резервное копирование</string>
     <string name="locale_default">По умолчанию</string>
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
@@ -3822,7 +3822,7 @@ OTG отключается автоматически через 10 минут �
     <string name="priority_storage_settings_summary">При отсутствии SD карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
     <string name="priority_storage_title">Настройки памяти</string>
-    <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Mi Cloud (включая синхронизацию и резервирование)</string>
+    <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Mi Cloud (включая синхронизацию и резервное копирование)</string>
     <string name="privacy_authorize_dialog_agree">Согласен</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
     <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Для использования основных функций этого сервиса вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; и &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
@@ -3893,7 +3893,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_protect_title">Защита данных</string>
     <string name="privacy_protection_title">Защита данных</string>
     <string name="privacy_relative">Разрешения приватности</string>
-    <string name="privacy_settings">Резервирование и сброс</string>
+    <string name="privacy_settings">Резервное копирование и сброс</string>
     <string name="privacy_settings_title">Резервное копирование</string>
     <string name="privacy_thumbnail_blur_progress_message">Подождите…</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
@@ -4377,7 +4377,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_change_password">Способ защиты;Блокировка экрана;Изменить способ защиты;изменить блокировку;блокировка экрана</string>
     <string name="search_children_mode_title">Детский режим;Блокировать SMS;Родительский контроль;родительский;Ограничить SMS</string>
     <string name="search_choose_timezone">Выбрать часовой пояс;Часовой пояс;Часовые пояса</string>
-    <string name="search_cloud_backup_settings_section_title">Настройки резервирования;Настройки бэкапа;Резервная копия;Бэкап;Резервное копирование;Бэкапы;Резервные копии</string>
+    <string name="search_cloud_backup_settings_section_title">Настройки резервного копирования;Настройки бэкапа;Резервная копия;Бэкап;Резервное копирование;Бэкапы;Резервные копии</string>
     <string name="search_cloud_restore_section_title">Восстановление из Mi Cloud;Mi Cloud;Облачные бэкапы</string>
     <string name="search_copyright_title">Авторские права</string>
     <string name="search_credentials_install">Установка с SD карты;Прямая установка;Установить APK</string>
@@ -4415,8 +4415,8 @@ UT-интерфейс: %5$s"</string>
     <string name="search_language_settings">Язык и ввод;Язык;Язык и ввод;Ввод;Клавиатура</string>
     <string name="search_led_settings">Светодиод;Световой индикатор;Светодиодный индикатор</string>
     <string name="search_legal_information">Юридическая информация</string>
-    <string name="search_local_auto_backup_section_title">Авто резервирование;Автоматическое резервирование;Автоматические бэкапы</string>
-    <string name="search_local_backup_section_title">Локальное резервирование</string>
+    <string name="search_local_auto_backup_section_title">Авто резервное копирование;Автоматическое резервное копирование;Автоматические бэкапы</string>
+    <string name="search_local_backup_section_title">Локальное резервное копирование</string>
     <string name="search_location_settings_title">Местоположение;Сервисы местоположения;GPS</string>
     <string name="search_lock_settings">Блокировка и защита;разблокировка по Bluetooth;секретный код;Разблокировка устройством Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Звук блокировки экрана;Включить звук блокировки экрана</string>
@@ -4456,7 +4456,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_pref_volume_wake_title">Включать экран кнопками громкости;Пробуждать кнопками громкости;кнопки громкости</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
     <string name="search_privacy_policy">Политика конфиденциальности</string>
-    <string name="search_privacy_settings">Резервирование и сброс;Восстановление и сброс;Бэкап и сброс;Резервирование;Бэкап;сброс;Резервное копирование</string>
+    <string name="search_privacy_settings">Резервное копирование и сброс;Восстановление и сброс;Бэкап и сброс;Резервирование;Бэкап;сброс;Резервное копирование</string>
     <string name="search_radio_controls_title">Дополнительные функции;Беспроводной</string>
     <string name="search_results_title">Настройки</string>
     <string name="search_ring_volume_option_title">Громкость;громкость;Мелодия и уведомления;рингтон;мелодия;Будильник;Музыка</string>
@@ -5135,7 +5135,7 @@ UT-интерфейс: %5$s"</string>
 "<b>Все данные, сохраненные на карте \"^1\", будут удалены.</b> Чтобы избежать их потери, создайте их резервную копию.</string>
     <string name="storage_wizard_format_confirm_next">Очистить и отформатировать</string>
     <string name="storage_wizard_format_confirm_public_body">"Потребуется отформатировать устройство ^1.
-"<b>При этом будут удалены все данные на устройстве ^1.</b> Во избежание потери данных произведите их резервирование.</string>
+"<b>При этом будут удалены все данные на устройстве ^1.</b> Во избежание потери данных сделайте их резервную копию.</string>
     <string name="storage_wizard_format_confirm_public_title">Форматировать как съемный накопитель</string>
     <string name="storage_wizard_format_confirm_third_body">^1 форматируется</string>
     <string name="storage_wizard_format_confirm_title">Внутренняя память</string>
@@ -5279,7 +5279,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_app">(системное)</string>
     <string name="system_app_settings">Системные приложения</string>
     <string name="system_apps_updater">Обновление компонентов</string>
-    <string name="system_backup_section_title">Резервирование системы</string>
+    <string name="system_backup_section_title">Резервное копирование системы</string>
     <string name="system_dashboard_summary">Язык, время, резервное копирование и обновления</string>
     <string name="system_default_app">(по умолчанию)</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
