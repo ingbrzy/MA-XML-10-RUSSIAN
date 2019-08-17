@@ -474,7 +474,7 @@
   <string name="title_share_link">Поделиться ссылкой</string>
   <string name="toast_add_white_list_success">Успешно добавлено в исключения</string>
   <string name="toast_app_no_residual_on_sdcard">Приложение не имеет данных на накопителе</string>
-  <string name="toast_backup_is_running">Идет резервирование</string>
+  <string name="toast_backup_is_running">Идет резервное копирование</string>
   <string name="toast_backup_uninstall_failed">Резервное копирование %d приложений не удалось</string>
   <string name="toast_backup_uninstall_failed2">Резервное копирование не удалось</string>
   <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
