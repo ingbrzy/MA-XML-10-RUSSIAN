@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>Резервное копирование фотографий</item>
-        <item>Синхронизация фотографий с Mi Cloud</item>
+        <item>Синхронизация фотографий с облаком</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
