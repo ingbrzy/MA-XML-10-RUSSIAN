@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Сервис UniPlay</string>
+  <string name="casting_tips">Отображение...</string>
+  <string name="console_guide_btn_got_it">Понятно</string>
+  <string name="console_guide_subtitle_hang_up">"Не прерывайте трансляцию при выключении экрана телефона. Эта функция может привести к повышенному расходу заряда батареи."</string>
+  <string name="console_guide_subtitle_private">"Не транслируйте всплывающие уведомления, уведомления о входящих вызовах и другие элементы, которые могут содержать личную информацию."</string>
+  <string name="console_guide_subtitle_small_window">Сверните проецируемое окно, чтобы иметь возможность пользоваться телефоном во время трансляции</string>
+  <string name="dialog_can_not_find_device">"Не удалось найти устройства поблизости"</string>
+  <string name="dialog_cancle">Отмена</string>
+  <string name="dialog_connect_fail">"Не удалось подключиться"</string>
+  <string name="dialog_connect_retry">Нажмите, чтобы повторить попытку</string>
+  <string name="dialog_connect_verify_perssion">Сначала разрешите трансляцию на телевизоре.</string>
+  <string name="dialog_connect_verify_perssion_fail">"Не удалось получить разрешение на трансляцию на телевизоре. Подождите минуту-две и повторите попытку."</string>
+  <string name="dialog_connected">Подключено</string>
+  <string name="dialog_connecting">Подключение…</string>
+  <string name="dialog_ok">ОК</string>
+  <string name="dialog_only_suport_content">Потоковая передача фотографий, видео или музыки</string>
+  <string name="dialog_open_wifi_bt">Включить</string>
+  <string name="dialog_please_make_sure_tv_ok">Беспроводная передача</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включена функция беспроводной передачи экрана.
+Для дополнительной информации, пожалуйста, обратитесь к справке."</string>
+  <string name="dialog_recent_connected">Недавние</string>
+  <string name="dialog_retry">Попробуйте еще раз</string>
+  <string name="dialog_scanning_device">Поиск устройств поблизости…</string>
+  <string name="dialog_scanning_precondition">Включите Wi-Fi и Bluetooth на телефоне для использования беспроводного дисплея.</string>
+  <string name="dialog_select_tv">Выберите устройство для подключения</string>
+  <string name="dialog_show_help">Справка</string>
+  <string name="disconnect">Остановить трансляцию</string>
+  <string name="hang_up">Трансляция при выключенном экране</string>
+  <string name="hang_up_alert_dialog_content">"Трансляция не будет прервана при выключении экрана телефона. Чтобы снова включить экран, нажмите кнопку питания на телефоне."</string>
+  <string name="hang_up_alert_dialog_neg">Отмена</string>
+  <string name="hang_up_alert_dialog_pos">ОК</string>
+  <string name="hang_up_alert_dialog_title">О трансляции с выключенным экраном</string>
+  <string name="help_page_text_01">Справка</string>
+  <string name="help_page_text_02">Что такое трансляция?</string>
+  <string name="help_page_text_03">"Трансляция - это проецирование содержимого экрана телефона на внешний монитор. Трансляция позволяет обмениваться изображениями и видео, вместе играть в игры. При использовании этой функции, расход заряда батареи обычно остается прежним."</string>
+  <string name="help_page_text_04">Как организовать трансляцию?</string>
+  <string name="help_page_text_05">Шаг 1</string>
+  <string name="help_page_text_06">"1. Используйте для подключения без использования сети, специальные передатчик и приемник для телефона и телевизора, если они имеются.
+2. Некоторые телевизоры Xiaomi или других брендов не поддерживают smart screening, в этом случае необходимо подключить телевизор к телефону в той же самой беспроводной сети."</string>
+  <string name="help_page_text_07">3. Некоторые телевизоры Xiaomi или других брендов не поддерживают smart screening. Если беспроводная сеть отсутствует или телевизор и телефон не могут установить соединение, попробуйте включить на телевизоре функцию [Miracast / Mirror projection screen]. Название может различаться для разных производителей. Прокрутите страницу до конца, для лополнительной информации.</string>
+  <string name="help_page_text_08">Шаг 2</string>
+  <string name="help_page_text_09">"Нажмите переключатель \"Трансляция\" в шторке уведомлений. Включите Wi-fi и Bluetooth."</string>
+  <string name="help_page_text_10">Если вы хотите транслировать из Галереи или Mi Видео, используйте встроенные функции трансляции в этих приложениях.</string>
+  <string name="help_page_text_11">Шаг 3</string>
+  <string name="help_page_text_12">Выберите устройство из списка доступных для начала трансляции.</string>
+  <string name="help_page_text_13">"Не удалось подключиться к устройству?"</string>
+  <string name="help_page_text_14">"1. Для Millet TV обновите приложение Wireless Screening на телевизоре до последней версии. 
+2. Попробуйте подключить телефон к телевизору в той же локальной сети. Обратите внимание, что некоторые маршрутизаторы могут не обеспечивать стабильное подключение. 
+3. Если вы используете Mi TV, включение Bluetooth может улучшить соединение. 
+4. Если нет доступных Wi-Fi сетей, убедитесь, что устройство поддерживает функцию Miracast. Названия функций трансляции на устройстве могут различаться в зависимости от марки. Обратитесь к информации ниже, чтобы узнать о поддержке Miracast на других устройствах."</string>
+  <string name="help_page_text_15">Поддержка Miracast на других устройствах</string>
+  <string name="help_page_text_16">Mi TV/Mi проектор</string>
+  <string name="help_page_text_17">"Мобильный телефон Xiaomi может напрямую подключаться к большинству телевизоров Xiaomi по Bluetooth вместо ручного запуска функции Miracast.
+Если вам нужно вручную запустить функцию Miracast, вы можете нажать кнопку [Меню] на пульте дистанционного управления телевизора, перейти в Приложения &gt; Беспроводное отображение &gt; Millet / Android Miracast."</string>
+  <string name="help_page_text_17_1">Служба поддержки Xiaomi: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выберите \"Screen Mirroring\". Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_20">Служба поддержки Samsung: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Убедитесь, что функция Miracast поддерживается на устройстве. Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_23">Служба поддержки LG: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Убедитесь, что функция Miracast поддерживается на устройстве. Эта функция включена по умолчанию на многих моделях.</string>
+  <string name="help_page_text_26">Служба поддержки Philips: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_29">Служба поддержки TPV: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_32">Служба поддержки Hisense: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Трансляция &gt; Устройства Android &gt; Miracast.</string>
+  <string name="help_page_text_35">Служба поддержки Skyworth: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_38">Служба поддержки Sony: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Screen Mirroring.</string>
+  <string name="help_page_text_41">Служба поддержки Panasonic: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_44">Служба поддержки Changhong: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Беспроводный дисплей.</string>
+  <string name="help_page_text_47">Служба поддержки TCL: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Убедитесь, что функция Miracast поддерживается на устройстве. Чтобы включить эту функцию, перейдите в Мои приложения &gt; Wi-Fi дисплей.</string>
+  <string name="help_page_text_50">Служба поддержки AODIN:400-810-5858</string>
+  <string name="help_page_text_51">LeTV</string>
+  <string name="help_page_text_52">Убедитесь, что устройство поддерживает протокол Miracast. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_53">Телефон службы поддержки LeTV: 10109000</string>
+  <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
+  <string name="notification_rc_desc">Попробуйте приложение TV Assistant для трансляции видео, фото и приложений на XiaoMi Box или XiaoMi TV.</string>
+  <string name="notification_rc_title">Помощник XiaoMi TV</string>
+  <string name="notification_show_more">Дополнительные функции</string>
+  <string name="privacy_text_1">　　Добро пожаловать в функцию трансляции экрана. Сервис трансляции экрана предоставлен Milian, некоторые функции трансляции экрана поддерживаются широковещательными экранами сторонних компаний. Чтобы обеспечить конфиденциальность, пожалуйста, прочитайте &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
+  <string name="privacy_text_2">　　Нажимая Согласен, вы соглашаетесь с нижеприведенным &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;содержанием и предоставленными правами.</string>
+  <string name="privacy_text_pemission">"　　• Использование Wi-Fi для обнаружения и подключения устройств.
+　　• Использование Bluetooth для обнаружения и подключения устройств.
+　　• Чтение памяти телефона, трансляция содержимого.
+　　• Получение информации о телефоне: IMEI, версия Android, записи журнала.
+　　• Трансляция звука на устройство.
+　　• Получение разрешений для обнаружения и подключения устройств"</string>
+  <string name="private_protect">Защита конфиденциальности</string>
+  <string name="service_name">Сервис UniPlay</string>
+  <string name="small_window">Свернуть окно</string>
+  <string name="status_bar_in_casting">Трансляция</string>
+  <string name="status_bar_in_casting_long">Нажмите для дополнительных функций</string>
+  <string name="tile_label">Трансляция</string>
+  <string name="toast_guide_show_more">Узнать больше</string>
+  <string name="toast_guide_title">Новые функции</string>
+  <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
+  <string name="toast_msg_for_small_window">После открытия приложения, которое хотите транслировать на экран, используйте функцию проецирования в маленькое окно. Транслируемое приложение не будет прервано, параллельно можно работать с другими приложениями.</string>
+  <string name="toast_title_for_small_window">Используйте маленькое окно для трансляции приложения на экран.</string>
+</resources>
