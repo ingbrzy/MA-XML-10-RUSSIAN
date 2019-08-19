@@ -99,6 +99,12 @@
     <item quantity="few">(%d объекта)</item>
     <item quantity="many">(%d объектов)</item>
   </plurals>
+  <plurals name="album_photo_count_text">
+    <item quantity="other">%1$d объектов</item>
+    <item quantity="one">%1$d объект</item>
+    <item quantity="few">%1$d объекта</item>
+    <item quantity="many">%1$d объектов</item>
+  </plurals>
   <plurals name="baby_album_sharer_recommand_new_pictures">
     <item quantity="other">Будет добавлено %1$d фото из %2$s</item>
     <item quantity="one">Будет добавлено %1$d фото из %2$s</item>
