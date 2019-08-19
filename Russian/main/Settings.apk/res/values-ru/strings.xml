@@ -3383,7 +3383,7 @@
     <string name="notes_privacy_password_role_instruction">Здесь будут храниться ваши скрытые заметки</string>
     <string name="notifi_channels">Категории уведомлений</string>
     <string name="notifi_channels_other">Прочее</string>
-    <string name="notifi_importance_default">Звук и вибрация отключены</string>
+    <string name="notifi_importance_default">Звук и вибрация разрешены</string>
     <string name="notifi_importance_high">Все выбранные способы уведомлений</string>
     <string name="notifi_importance_low">Звук и вибрация отключены</string>
     <string name="notifi_importance_min">Уведомления только в шторке</string>
