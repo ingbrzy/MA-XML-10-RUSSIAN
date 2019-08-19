@@ -216,6 +216,7 @@
   <string name="live_error_confirm">Настройка времени</string>
   <string name="live_error_message">Некоторые функции могут работать неправильно, если системное время некорректно.</string>
   <string name="live_error_title">"Системное время некорректно"</string>
+  <string name="live_music_author">Короткое видео Xiaomi</string>
   <string name="live_music_change_bgm">Изменить фоновую музыку</string>
   <string name="live_music_close_cancel_message">Отмена</string>
   <string name="live_music_close_message">Выключить музыку?</string>
@@ -238,6 +239,9 @@
   <string name="live_sticker_updating">Обновление…</string>
   <string name="macro_mode">Макро</string>
   <string name="macro_mode_tip">"Расстояние между объективом и объектом не должно превышать 10 см."</string>
+  <string name="macro_mode_use_hint_text_body">"Используйте режим Макро, чтобы маленькие объекты
+на фото были большими"</string>
+  <string name="macro_mode_use_hint_text_title">Макро</string>
   <string name="message_snap_double_confirm">Долгое нажатие кнопки громкости запускает NFC. Заменить эту функцию?</string>
   <string name="module_name_beauty">Улучшение</string>
   <string name="module_name_capture">Фото</string>
@@ -368,6 +372,7 @@
   <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку определения лица</string>
   <string name="pref_camera_facedetection_title">Определение лиц</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>
   <string name="pref_camera_flashmode_entry_off">Откл</string>
   <string name="pref_camera_flashmode_entry_on">Вкл</string>
   <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
@@ -428,8 +433,6 @@
   <string name="pref_camera_peak_title">Выделение области фокусировки</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
-  <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-  <string name="pref_camera_picturesize_entry_4_3">4:3</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Полноэкранный</string>
   <string name="pref_camera_picturesize_entry_standard">Стандартный 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Формат кадра</string>
@@ -583,6 +586,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 секунд)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Интервал в режиме \"Ускорение\"</string>
   <string name="preparing_sd">Подготовка SD карты…</string>
+  <string name="recommend_soft_light_tip">Используйте вспышку в режиме мягкого света</string>
   <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
   <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
   <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
