@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="chapter_count">
+    <item quantity="other">" (%1$d эпизодов)"</item>
+    <item quantity="one">" (%1$d эпизод)"</item>
+    <item quantity="few">" (%1$d эпизода)"</item>
+    <item quantity="many">" (%1$d эпизодов)"</item>
+  </plurals>
   <plurals name="check_in_day_label">
     <item quantity="other">%1$d дней</item>
     <item quantity="one">%1$d день</item>
@@ -25,16 +31,16 @@
     <item quantity="many">Удалить %d объектов?</item>
   </plurals>
   <plurals name="dialog_delete_descript">
-    <item quantity="other">Удалить %d песен?</item>
-    <item quantity="one">Удалить %d песню?</item>
-    <item quantity="few">Удалить %d песни?</item>
-    <item quantity="many">Удалить %d песен?</item>
+    <item quantity="other">Удалить %d объектов?</item>
+    <item quantity="one">Удалить %d объект?</item>
+    <item quantity="few">Удалить %d объекта?</item>
+    <item quantity="many">Удалить %d объектов?</item>
   </plurals>
   <plurals name="dialog_remove_descript">
-    <item quantity="other">Удалить %d песен?</item>
-    <item quantity="one">Удалить %d песню?</item>
-    <item quantity="few">Удалить %d песни?</item>
-    <item quantity="many">Удалить %d песен?</item>
+    <item quantity="other">Удалить %d записей?</item>
+    <item quantity="one">Удалить %d запись?</item>
+    <item quantity="few">Удалить %d записи?</item>
+    <item quantity="many">Удалить %d записей?</item>
   </plurals>
   <plurals name="dialog_remove_from_cloud_descript">
     <item quantity="other">Удалить %d песен из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
@@ -60,6 +66,24 @@
     <item quantity="few">&lt;font color==\"red\"&gt;%d песни&lt;/font&gt; загружаются</item>
     <item quantity="many">&lt;font color==\"red\"&gt;%d песен&lt;/font&gt; загружается</item>
   </plurals>
+  <plurals name="fm_download_fm_count">
+    <item quantity="other">загружено %1$d эпизодов</item>
+    <item quantity="one">Загружен %1$d эпизод</item>
+    <item quantity="few">загружено %1$d эпизода</item>
+    <item quantity="many">загружено %1$d эпизодов</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">%1$d часов назад</item>
+    <item quantity="one">%1$d час назад</item>
+    <item quantity="few">%1$d часа назад</item>
+    <item quantity="many">%1$d часов назад</item>
+  </plurals>
+  <plurals name="minutes_ago">
+    <item quantity="other">%1$d минут назад</item>
+    <item quantity="one">%1$d минуту назад</item>
+    <item quantity="few">%1$d минуты назад</item>
+    <item quantity="many">%1$d минут назад</item>
+  </plurals>  
   <plurals name="multichoice_title">
     <item quantity="other">%d объектов выбрано</item>
     <item quantity="one">%d объект выбран</item>
@@ -222,4 +246,10 @@
     <item quantity="few">Найдено %1$d станции</item>
     <item quantity="many">Найдено %1$d станций</item>
   </plurals>
+  <plurals name="total_chapter_count">
+    <item quantity="other">%1$d эпизодов</item>
+    <item quantity="one">%1$d эпизод</item>
+    <item quantity="few">%1$d эпизода</item>
+    <item quantity="many">%1$d эпизодов</item>
+  </plurals>  
 </resources>
