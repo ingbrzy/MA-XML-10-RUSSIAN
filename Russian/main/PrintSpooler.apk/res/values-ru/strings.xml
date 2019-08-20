@@ -71,6 +71,7 @@
   <string name="search">Поиск</string>
   <string name="select_to_add_printers">Выберите, чтобы добавить принтер</string>
   <string name="summary_template">Общие сведения. Количество копий: %1$s. Размер бумаги: %2$s.</string>
+  <string name="system_print_service_help">О печати</string>
   <string name="template_all_pages">Все %1$s</string>
   <string name="template_page_range">Диапазон %1$s</string>
 </resources>
