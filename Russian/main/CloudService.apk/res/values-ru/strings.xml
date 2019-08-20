@@ -22,6 +22,7 @@
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
     <string name="cloud_storage_info_type_others">Другое</string>
     <string name="cloud_storage_manage_title">Управление хранилищем</string>
+    <string name="cloud_storage_no_data">Пока ничего не загружено</string>
     <string name="cloudservice_new_sync">Синхронизация %s с Xiaomi Cloud</string>
     <string name="confirm_delete">Удалить</string>
     <string name="confirm_save">Оставить</string>
@@ -368,11 +369,14 @@
     <string name="network_unconnected">Подключитесь к сети</string>
     <string name="no_sim">Нет SIM карты</string>
     <string name="other_sync_item">Остальные объекты</string>
-    <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
+    <string name="pay_info_dialog_confirm_to_pay">Оплатить %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Credits: %s</string>
+    <string name="pay_info_dialog_title">Выберите метод оплаты</string>
+    <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
     <string name="pre_privacy_policy">Политика конфиденциальности</string>
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
-    <string name="privacy_and_agreement">Конфиденциальность и соглашение</string>
+    <string name="privacy_and_agreement">Условия и положения</string>
     <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
