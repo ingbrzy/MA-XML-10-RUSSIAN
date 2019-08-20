@@ -188,10 +188,10 @@
     <item quantity="many">Выбрано: %d</item>
   </plurals>
   <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-    <item quantity="other">Удалить %d серийных снимков из Mi Cloud и со всех синхронизированных устройств?</item>
-    <item quantity="one">Удалить %d серийный снимок из Mi Cloud и со всех синхронизированных устройств?</item>
-    <item quantity="few">Удалить %d серийных снимка из Mi Cloud и со всех синхронизированных устройств?</item>
-    <item quantity="many">Удалить %d серийных снимков из Mi Cloud и со всех синхронизированных устройств?</item>
+    <item quantity="other">Удалить %d серийных снимков из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+    <item quantity="one">Удалить %d серийный снимок из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+    <item quantity="few">Удалить %d серийных снимка из Xiaomi Cloud и со всех синхронизированных устройств?</item>
+    <item quantity="many">Удалить %d серийных снимков из Xiaomi Cloud и со всех синхронизированных устройств?</item>
   </plurals>
   <plurals name="delete_burst_photo_from_local">
     <item quantity="other">Удалить %d серийных снимков?</item>
@@ -200,10 +200,10 @@
     <item quantity="many">Удалить %d серийных снимков?</item>
   </plurals>
   <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-    <item quantity="other">Удалить %d серийных снимков из Mi Cloud и с этого устройства?</item>
-    <item quantity="one">Удалить %d серийный снимок из Mi Cloud и с этого устройства?</item>
-    <item quantity="few">Удалить %d серийных снимка из Mi Cloud и с этого устройства?</item>
-    <item quantity="many">Удалить %d серийных снимков из Mi Cloud и с этого устройства?</item>
+    <item quantity="other">Удалить %d серийных снимков из Xiaomi Cloud и с этого устройства?</item>
+    <item quantity="one">Удалить %d серийный снимок из Xiaomi Cloud и с этого устройства?</item>
+    <item quantity="few">Удалить %d серийных снимка из Xiaomi Cloud и с этого устройства?</item>
+    <item quantity="many">Удалить %d серийных снимков из Xiaomi Cloud и с этого устройства?</item>
   </plurals>
   <plurals name="delete_finish_format">
     <item quantity="other">%d объектов удалено</item>
@@ -212,10 +212,10 @@
     <item quantity="other">%d объектов удалено</item>
   </plurals>
   <plurals name="delete_media_from_all_devices_and_cloud_msg">
-    <item quantity="other">Удалить %d объектов со всех устройств и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d объект со всех устройств и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d объекта со всех устройств и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d объектов со всех устройств и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d объектов со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d объект со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d объекта со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d объектов со всех устройств и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="delete_media_from_local">
     <item quantity="other">Удалить %d объектов?</item>
@@ -224,16 +224,16 @@
     <item quantity="many">Удалить %d объектов?</item>
   </plurals>
   <plurals name="delete_media_from_this_album_and_cloud_msg">
-    <item quantity="other">Удалить %d объектов из этого альбома и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d объект из этого альбома и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d объекта из этого альбома и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d объектов из этого альбома и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d объектов из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d объект из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d объекта из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d объектов из этого альбома и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-    <item quantity="other">Удалить %d фото со всех устройств и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d фото со всех устройств и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d фото со всех устройств и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d фото со всех устройств и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="delete_photo_from_local">
     <item quantity="other">Удалить %d фото?</item>
@@ -242,10 +242,10 @@
     <item quantity="many">Удалить %d фото?</item>
   </plurals>
   <plurals name="delete_photo_from_this_album_and_cloud_msg">
-    <item quantity="other">Удалить %d фото из этого альбома и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d фото из этого альбома и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d фото из этого альбома и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d фото из этого альбома и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d фото из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d фото из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d фото из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d фото из этого альбома и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="delete_third_party_burst_photo">
     <item quantity="other">Удалить %d серийных снимков с этого устройства?</item>
@@ -254,10 +254,10 @@
     <item quantity="many">Удалить %d серийных снимков с этого устройства?</item>
   </plurals>
   <plurals name="delete_video_from_all_devices_and_cloud_msg">
-    <item quantity="other">Удалить %d видео со всех устройств и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d видео со всех устройств и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d видео со всех устройств и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d видео со всех устройств и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d видео со всех устройств и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="delete_video_from_local">
     <item quantity="other">Удалить %d видео?</item>
@@ -266,10 +266,10 @@
     <item quantity="many">Удалить %d видео?</item>
   </plurals>
   <plurals name="delete_video_from_this_album_and_cloud_msg">
-    <item quantity="other">Удалить %d видео из этого альбома и из Mi Cloud?</item>
-    <item quantity="one">Удалить %d видео из этого альбома и из Mi Cloud?</item>
-    <item quantity="few">Удалить %d видео из этого альбома и из Mi Cloud?</item>
-    <item quantity="many">Удалить %d видео из этого альбома и из Mi Cloud?</item>
+    <item quantity="other">Удалить %d видео из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="one">Удалить %d видео из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="few">Удалить %d видео из этого альбома и из Xiaomi Cloud?</item>
+    <item quantity="many">Удалить %d видео из этого альбома и из Xiaomi Cloud?</item>
   </plurals>
   <plurals name="download_error">
     <item quantity="other">Не удалось загрузить %1$d файлов</item>
