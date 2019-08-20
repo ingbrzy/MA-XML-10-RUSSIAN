@@ -21,6 +21,7 @@
   <string name="app_name">Плагин службы безопасности</string>
   <string name="app_select_title">Часто используемые приложения</string>
   <string name="cancel_button">Отмена</string>
+  <string name="cta_main_purpose">Добро пожаловать в Ускорение игр</string>
   <string name="dual_app_title">Клонирование</string>
   <string name="dual_app_words">Отдельное приложение для каждого аккаунта</string>
   <string name="fastboot_locked_answer_1">Fastboot - это традиционный способ прошивки устройств Xiaomi. Когда устройство находится в режиме Fastboot, все данные, хранящиеся на нем, могут быть изменены и стерты напрямую. Мы блокируем Fastboot, чтобы убедиться, что данные останутся в безопасности в случае утери устройства, а также для обеспечения надежности работы Поиска устройства.</string>
