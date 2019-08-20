@@ -632,7 +632,7 @@
   <string name="deep_clean_never_memory_clean">Никогда</string>
   <string name="deep_power_save_item_summary_auto_brightness">Автоматическая регулировка яркости для энергосбережения</string>
   <string name="deep_power_save_item_summary_bluetooth">Отключение Bluetooth для энергосбережения</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Отключение экрана через 30 секунд бездействия для энергосбережения</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Отключение экрана через 15 секунд бездействия для энергосбережения</string>
   <string name="deep_power_save_item_title_auto_brightness">Включение автояркости</string>
   <string name="deep_power_save_item_title_bluetooth">Отключение Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
@@ -912,6 +912,12 @@
   <string name="free_time_traffic_title">Лимит льготного трафика</string>
   <string name="free_traffic_settings">Контроль льготного трафика</string>
   <string name="function_close">Откл</string>
+  <string name="function_gwsd_detail">"О функции:
+ 1. Входящие звонки на SIM-карту не прервут соединение мобильной передачи данных. Соединение будет прервано только при ответе на звонок.
+ 2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова. Входящий вызов будут завершен, если вы не ответите в течение 6 секунд.
+ 3. Эта функция работает только для SIM-карт для интернета. Звонки на основную SIM-карту прервут соединение мобильной передачи данных.
+ 4. Эта функция поддерживается только China Mobile и China Unicom."</string>
+  <string name="function_gwsd_title">"Don't allow incoming calls to interrupt data SIM connection"</string>
   <string name="function_shield_auto_bright">Выключить автояркость</string>
   <string name="function_shield_eye_shield">Выключить режим чтения</string>
   <string name="function_shield_pull_notification_bar">"Заблокировать шторку уведомлений"</string>
@@ -1650,6 +1656,8 @@
   <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Разрешить</string>
+  <string name="permission_action_always">Разрешать всегда</string>
+  <string name="permission_action_foreground">На время использования</string>
   <string name="permission_action_prompt">Спрашивать</string>
   <string name="permission_action_reject">Запретить</string>
   <string name="permission_close_permission_control_dialog_msg">Если управление разрешениями отключено, приложения не будут запрашивать разрешения на доступ к вашим данным и изменение настроек системы.</string>
@@ -2605,7 +2613,7 @@
   <string name="title_chain_start">Взаимный запуск ограничен</string>
   <string name="title_cleaner_cloudscan">Облачная проверка мусора</string>
   <string name="title_cloud_account">Mi Аккаунт</string>
-  <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cloud_service">Xiaomi Cloud</string>
   <string name="title_cloud_space_almost_full">Облачное хранилище заполнено, синхронизация приостановлена</string>
   <string name="title_cloud_space_full">Память Mi Cloud заполнена</string>
   <string name="title_cmcc_app_check">Проверка не завершена</string>
