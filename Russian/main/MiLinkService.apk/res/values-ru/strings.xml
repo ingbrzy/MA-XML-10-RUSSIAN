@@ -27,11 +27,11 @@
   <string name="dialog_select_tv">Выберите устройство для подключения</string>
   <string name="dialog_show_help">Справка</string>
   <string name="disconnect">Остановить трансляцию</string>
-  <string name="hang_up">Трансляция при выключенном экране</string>
+  <string name="hang_up">Транслировать при выключенном экране</string>
   <string name="hang_up_alert_dialog_content">"При выключении экрана телефона трансляция будет продолжаться. Чтобы снова включить экран, нажмите кнопку питания на телефоне."</string>
   <string name="hang_up_alert_dialog_neg">Отмена</string>
   <string name="hang_up_alert_dialog_pos">ОК</string>
-  <string name="hang_up_alert_dialog_title">Трансляция при выключенном экране</string>
+  <string name="hang_up_alert_dialog_title">Транслировать при выключенном экране</string>
   <string name="help_page_text_01">Справка</string>
   <string name="help_page_text_02">Что такое трансляция?</string>
   <string name="help_page_text_03">"Трансляция - это проецирование содержимого экрана телефона на внешний монитор. Трансляция позволяет делиться фото и видео, вместе играть в игры. Во время трансляции расход заряда батареи обычно остается прежним."</string>
@@ -105,13 +105,13 @@
 　　• Получение разрешений для обнаружения и подключения устройств"</string>
   <string name="private_protect">Защита конфиденциальности</string>
   <string name="service_name">Сервис UniPlay</string>
-  <string name="small_window">Свернуть окно</string>
+  <string name="small_window">Минимизировать окно</string>
   <string name="status_bar_in_casting">Трансляция</string>
   <string name="status_bar_in_casting_long">Нажмите для дополнительных функций</string>
   <string name="tile_label">Трансляция</string>
   <string name="toast_guide_show_more">Узнать больше</string>
   <string name="toast_guide_title">Новые функции</string>
   <string name="toast_msg_for_multi_window">Эта функция недоступна в режиме разделения экрана</string>
-  <string name="toast_msg_for_small_window">После открытия приложения, которое хотите транслировать на экран, используйте функцию минимизации окна. Это позволит работать с другими приложениями во время трансляции.</string>
+  <string name="toast_msg_for_small_window">После открытия приложения, которое хотите транслировать на экран, используйте функцию минимизации окна, это позволит пользоваться другими функциями и приложениями на телефоне во время трансляции.</string>
   <string name="toast_title_for_small_window">Используйте минимизацию окна во время трансляции.</string>
 </resources>
