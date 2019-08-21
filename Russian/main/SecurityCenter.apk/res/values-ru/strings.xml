@@ -586,10 +586,10 @@
   <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
   <string name="cpu_usage_view_action_btn_text">Просмотреть</string>
   <string name="create_shortcut">На рабочем столе будет создан ярлык для Ускорения игр</string>
-  <string name="cta_dialog_msg">&lt;Data&gt;Необходимо согласие с &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Политикой конфиденциальности&amp;lt;/a&amp;gt; перед использованием приложения Безопасность. Приложению также требуется доступ к Интернету и местоположению для нормальной работы и обновления антивирусных баз. Принять?&lt;/Data&gt;</string>
   <string name="cta_dialog_negative">Выйти</string>
   <string name="cta_dialog_positive">Принять</string>
   <string name="cta_dialog_title">Доступ в интернет</string>
+  <string name="cta_main_purpose">Добро пожаловать в Безопасность. Вы можете использовать это приложение для очистки мусора на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и энергосбережения, управления приложениями и многого другого.</string>
   <string name="cta_settings">Разрешить доступ в интернет</string>
   <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
   <string name="customize_limit_pkg">%s (особый)</string>
@@ -1146,7 +1146,7 @@
   <string name="gb_xunyou_gift_type_three">Ускорение Xunyou на 3 дня</string>
   <string name="gb_xunyou_gift_type_two">Ускорение Xunyou на 2 дня</string>
   <string name="gdpr_msg">
-    <Data>Для использования основных функций Безопасности вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об использовании функций (например, статистика мобильного трафика, информация о вредоносном ПО, а также базовая информация о вашем устройстве) и другие типы данных, которые определяет наша &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Политика конфиденциальности&lt;/a&gt;.</Data>
+    <Data>Для использования основных функций Безопасности вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об использовании функций (например, статистика мобильного трафика, информация о вредоносном ПО, а также базовая информация о вашем устройстве) и другие типы данных, которые определяет наша &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Политика конфиденциальности&lt;/a&gt;.</Data>
   </string>
   <string name="get_sys_info">Получение данных…</string>
   <string name="gigabyteShort">ГБ</string>
