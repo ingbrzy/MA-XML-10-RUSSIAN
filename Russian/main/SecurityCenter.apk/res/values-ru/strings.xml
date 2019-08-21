@@ -107,7 +107,7 @@
   <string name="antivirus_privacy_dialog_summary">При использовании функции ID вашего устройства шифруется и отправляется на серверы Avast, AVL и Tencent (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">Политика конфиденциальности</string>
   <string name="antivirus_privacy_dialog_title">Политика конфиденциальности</string>
-  <string name="antivirus_sec_network_unavailable">Приложение \"Безопасность\" не может обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?</string>
+  <string name="antivirus_sec_network_unavailable">"Безопасность не может обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?"</string>
   <string name="antivirus_toast_already_update">Обновление не требуется</string>
   <string name="antivirus_toast_network_unavailable">Ошибка подключения к сети</string>
   <string name="antivirus_toast_update_failed">Ошибка обновления</string>
@@ -386,6 +386,9 @@
   <string name="background_restrict_app_dialog_message">Ограничение фонового подключения для этого приложения может привести к тому, что приложение не сможет нормально работать, получать сообщения, загружать данные и т.д. Ограничить подключение?</string>
   <string name="background_traffic">Фоновый: %s</string>
   <string name="backsound_set_hint">Установить сообщение об отсутствии на \"%s\"?</string>
+  <string name="banner_optimizemanage_summary">Освобождение памяти</string>
+  <string name="banner_red_money_assist_button">Включить</string>
+  <string name="banner_red_money_assist_summary">Быстрое открытие красных конвертов</string>
   <string name="battery_and_property">Питание и производительность</string>
   <string name="battery_capacity_title">Емкость</string>
   <string name="battery_charge_estimating">Оценка…</string>
@@ -712,7 +715,7 @@
   <string name="dlg_remove_whitelist">Удалить номера из белого списка?</string>
   <string name="dlg_remove_whitelist_ing">Удаление…</string>
   <string name="dlg_remove_whitelist_title">Удаление</string>
-  <string name="dlg_sec_network_unavailable">Приложение \"Безопасность\" не может обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?</string>
+  <string name="dlg_sec_network_unavailable">"Безопасность не может обновиться, поскольку вы ограничили доступ в интернет. Разрешить доступ?"</string>
   <string name="dlg_title_not_open_stranger_identify">Определитель номеров</string>
   <string name="dlg_update_btn_contiue">Продолжить</string>
   <string name="dlg_update_btn_open">Разрешить</string>
@@ -1355,15 +1358,10 @@
   <string name="menu_setting_traffic">Задать вручную</string>
   <string name="menu_sms">Отправить сообщение</string>
   <string name="menu_summary_antispam">Блокировка вызовов и SMS</string>
-  <string name="menu_summary_antispam_2">Имеются блокировки</string>
   <string name="menu_summary_antivirus">Проверка устройства</string>
-  <string name="menu_summary_antivirus_2">Найдены возможные угрозы</string>
-  <string name="menu_summary_antivirus_3">Проверка не проводилась</string>
   <string name="menu_summary_app_manager">Управление приложениями</string>
-  <string name="menu_summary_app_manager_2">Доступны обновления</string>
   <string name="menu_summary_garbage_cleanup">Мусор не найден</string>
-  <string name="menu_summary_garbage_cleanup_2">Размер мусора</string>
-  <string name="menu_summary_garbage_cleanup_3">Требуется очистка</string>
+  <string name="menu_summary_garbage_cleanup_ex">Удалить %s мусора</string>
   <string name="menu_summary_networkassistants">Управление трафиком</string>
   <string name="menu_summary_networkassistants_2">Лимит трафика превышен</string>
   <string name="menu_summary_networkassistants_3">Трафика достаточно</string>
@@ -1385,7 +1383,7 @@
   <string name="menu_text_networkassistants_unit_kb">КБ</string>
   <string name="menu_text_networkassistants_unit_mb">МБ</string>
   <string name="menu_text_optimize_manage">Ускорение</string>
-  <string name="menu_text_power_manager">Энергосбережение</string>
+  <string name="menu_text_power_manager">Питание и производительность</string>
   <string name="menu_wh_remove">Удалить из белого списка</string>
   <string name="menu_white">Добавить в белый список</string>
   <string name="mi_service_app_detail">Информация о трафике</string>
@@ -1670,6 +1668,16 @@
   <string name="permit_running_network">Фоновое подключение</string>
   <string name="person_hotpot">Мобильные точки доступа</string>
   <string name="phone">Телефон</string>
+  <string name="phone_manage">Утилиты</string>
+  <string name="phone_manage_app_manager_summary">Управление приложениями на устройстве</string>
+  <string name="phone_manage_clean_summary">Высвобождение места на устройстве</string>
+  <string name="phone_manage_clean_title">Очистка</string>
+  <string name="phone_manage_electric_summary">Оптимизация устройства для энергосбережения</string>
+  <string name="phone_manage_electric_title">Оптимизация питания</string>
+  <string name="phone_manage_special_summary">Ознакомьтесь с новыми функциями</string>
+  <string name="phone_manage_special_title">Специальные функции</string>
+  <string name="phone_manage_system_tool_summary">Полезные системные инструменты</string>
+  <string name="phone_manage_system_tool_title">Инструменты</string>
   <string name="Phonepass">Разрешить вызовы</string>
   <string name="pkg_traffic">Лимит трафика</string>
   <string name="pm_auto_start_by_other">Взаимный запуск</string>
@@ -1865,6 +1873,7 @@
   <string name="power_optimize_save_mode_not_opened">Включить энергосбережение</string>
   <string name="power_optimize_save_on_lockscreen">Энергосбережение при блокировке устройства</string>
   <string name="power_phone">Голосовые вызовы</string>
+  <string name="power_save_mode">Энергосбережение</string>
   <string name="power_recovery_mode">Восстановлен \"%1$s\"</string>
   <string name="power_save_choose_mode">Режим</string>
   <string name="power_save_choose_recovery_mode">Режим</string>
@@ -1905,6 +1914,7 @@
   <string name="power_save_ps_close_setting">Отключение фоновых сервисов (синхронизация, GPS)</string>
   <string name="power_save_ps_freeze">Заморозка приложений в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
+  <string name="power_save_settings">Настройки оптимизации питания</string>
   <string name="power_save_started_summary_text">Включено энергосбережение. Это снижает фоновую активность приложений, останавливает синхронизацию и сводит к минимуму системные анимации.</string>
   <string name="power_save_summary_text">Включение энергосбережения для снижения фоновой активности приложений, остановка синхронизации и уменьшение системной анимации</string>
   <string name="power_save_title_text">Энергосбережение</string>
@@ -2158,13 +2168,14 @@
   <string name="section_title_clear_acc">Память</string>
   <string name="section_title_security_defend">Безопасность</string>
   <string name="section_title_system">Система</string>
-  <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
+  <string name="security_center_slogan">Безопасность и производительность</string>
   <string name="security_scan_optimizing">Оптимизация…</string>
   <string name="securityadd_install_fail">"Не удалось обновить плагин. Повторите попытку."</string>
   <string name="securityadd_update_tips_cancle">Не сейчас</string>
   <string name="securityadd_update_tips_message">Обновите плагин службы безопасности, чтобы получить доступ к новейшим игровым функциям. %1$dMB будет загружено.</string>
   <string name="securityadd_update_tips_now">Обновить</string>
   <string name="securityadd_update_tips_title">Обновление</string>
+  <string name="securitycenter_tab_title">Безопасность</string>
   <string name="see_detail">Подробности</string>
   <string name="see_more_content">Обновите Игры для просмотра новинок</string>
   <string name="set_applock_password">Задать пароль</string>
@@ -2247,7 +2258,7 @@
   <string name="sp_empty_title_sign_exception">Удерживайте объект для добавления его в исключения</string>
   <string name="sp_monitored_apps_count_zero">Нет платежных приложений с защитой</string>
   <string name="sp_monitored_apps_list_title">Настройки мониторинга</string>
-  <string name="sp_network_privacy_dialog_message">Приложение \"Безопасность\" может работать неправильно, поскольку вы ограничили доступ в интернет. Разрешить доступ?</string>
+  <string name="sp_network_privacy_dialog_message">"Безопасность может работать неправильно, поскольку вы ограничили доступ в интернет. Разрешить доступ?"</string>
   <string name="sp_network_privacy_dialog_title">Проверка невозможна</string>
   <string name="sp_scan_item_monitor">Мониторинг платежей</string>
   <string name="sp_scan_item_url_antispam">Защита от вредоносных ссылок</string>
@@ -2484,7 +2495,7 @@
 Мы уважаем и защищаем вашу конфиденциальность.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
-  <string name="system_permission_declare_revoke_uninstallable">Вы можете удалить это приложение или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Вы можете выйти, удалить это приложение или отозвать авторизацию в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
@@ -2492,6 +2503,8 @@
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
   <string name="system_permission_perm_send_mms">Отправка MMS</string>
+  <string name="system_tool_green_guard">Семейный защитник</string>
+  <string name="system_tool_sos">Экстренная связь</string>
   <string name="tab_blacklist">Черный список</string>
   <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
   <string name="tab_call">Вызовы</string>
