@@ -652,11 +652,9 @@
   <string name="pulluprefreshrecyclerview_loading_finished">Успешно загружено</string>
   <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
   <string name="push_message_switch">Уведомлять о новых эпизодах</string>
-  <string name="radio_cancel_subscribe">Отменить подписку</string>
   <string name="radio_cancel_subscribe">Успешно удалено из избранных</string>
   <string name="radio_not_support">Радио не поддерживается</string>
   <string name="radio_subscribe_success">Успешно добавлено в избранные</string>
-  <string name="radio_subscribe_success">Успешно подписано</string>
   <string name="recently_played">Recently played</string>
   <string name="recently_played_songs">Recently played</string>
   <string name="recognize_calling_network_error">"Couldn't connect to the network. Wait a minute or two and try again."</string>
@@ -768,7 +766,6 @@
   <string name="splash_bottom_hint">by Xiaomi Music</string>
   <string name="splash_skip_button">Пропустить</string>
   <string name="start_to_download">Успешно добавлено в очередь загрузки</string>
-  <string name="start_to_download">Загрузка…</string>
   <string name="start_to_play">Воспроизвести</string>
   <string name="station_check_favorite">Добавить в избранные</string>
   <string name="station_freq_format">%s МГц</string>
