@@ -743,6 +743,96 @@
   <string name="empty_title_permission_apps_list">Нет приложений</string>
   <string name="empty_title_root_apps">Нет приложений с ROOT доступом</string>
   <string name="enable_network">Необходимо подключение к сети</string>
+  <string name="ew_alert_arrive_location">Сейсмическая волна прибудет %s</string>
+  <string name="ew_alert_dial_text">"Контакт для
+экстренней связи"</string>
+  <string name="ew_alert_earthquake_center_title">Эпицентр</string>
+  <string name="ew_alert_earthquake_distance">"Вы в %s км от эпицентра"</string>
+  <string name="ew_alert_earthquake_feel_max">Серьезное</string>
+  <string name="ew_alert_earthquake_feel_middle">Сильное</string>
+  <string name="ew_alert_earthquake_feel_normal">Легкое</string>
+  <string name="ew_alert_earthquake_feel_title">Расчетная интенсивность</string>
+  <string name="ew_alert_earthquake_level_title">Расчетная величина</string>
+  <string name="ew_alert_emergency_text">"Показать
+медицинскую карту"</string>
+  <string name="ew_alert_help_earthquake_title">Сейсмическая волна прибыла</string>
+  <string name="ew_alert_help_place_navigation">Навигация</string>
+  <string name="ew_alert_help_place_text">При необходимости отправляйтесь в ближайший приют для безопасности и получения необходимой помощи.</string>
+  <string name="ew_alert_help_place_title">Ближайшее убежище</string>
+  <string name="ew_alert_help_safe_title">Предупреждение об опасности</string>
+  <string name="ew_alert_help_tips">"Сохраняйте спокойствие и будьте начеку. Держитесь подальше от висящих предметов, не поднимайтесь на лифте. Найдите безопасное место и укройтесь."</string>
+  <string name="ew_alert_no_contact">Добавьте экстренный контакт в Безопасность &gt; Предупреждения о землетрясении</string>
+  <string name="ew_alert_no_emergency">Добавьте свои медицинские данные в Безопасность &gt; Предупреждения о землетрясении</string>
+  <string name="ew_alert_text_from">Данные предоставлены %s</string>
+  <string name="ew_app_name">Предупреждения о землетрясении</string>
+  <string name="ew_app_name_exercise">Предупреждения о землетрясении (Демо)</string>
+  <string name="ew_app_name_test">Предупреждения о землетрясении (Бета)</string>
+  <string name="ew_app_name_test_run">Предупреждения о землетрясении (Пробный период)</string>
+  <string name="ew_arrive_text_tips">Сейсмическая волна прибыла: %s</string>
+  <string name="ew_button_confirm">Согласен</string>
+  <string name="ew_button_exit">"Не согласен"</string>
+  
+  <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
+  
+  <string name="ew_close">Отключить оповещение</string>
+  <string name="ew_emergency_allergy">Аллергия</string>
+  <string name="ew_emergency_basic_info">Основная информация</string>
+  <string name="ew_emergency_birthday">Дата рождения</string>
+  <string name="ew_emergency_blood_type">Группа крови</string>
+  <string name="ew_emergency_choose">Выбрать</string>
+  <string name="ew_emergency_delete_all">Удаление медицинской информации</string>
+  <string name="ew_emergency_delete_text">Удалить всю медицинскую информацию??</string>
+  <string name="ew_emergency_delete_title">Удалить</string>
+  <string name="ew_emergency_detail_info">Сведения</string>
+  <string name="ew_emergency_edit_text">Редактировать</string>
+  <string name="ew_emergency_edit_title">Медицинская карта</string>
+  <string name="ew_emergency_idcard">ID</string>
+  <string name="ew_emergency_input">Ввод</string>
+  <string name="ew_emergency_input_allergy">Аллергии</string>
+  <string name="ew_emergency_input_medical">Состояние здоровья и лечение</string>
+  <string name="ew_emergency_input_medicine">"Список принимаемых лекарств"</string>
+  <string name="ew_emergency_medical">Состояние здоровья</string>
+  <string name="ew_emergency_medicine">Активное лечение</string>
+  <string name="ew_emergency_name">Имя</string>
+  <string name="ew_emergency_organ_donation">Вы доброволец по донорству органов?</string>
+  <string name="ew_emergency_privacy">"Заявление о конфиденциальности: предоставленная вами информация будет использоваться только в экстренных случаях и храниться на вашем устройстве. Мы не будем загружать эту информацию на наши серверы."</string>
+  <string name="ew_emergency_recent_medicine">Недавно приятые лекарства</string>
+  <string name="ew_emergency_title">Медицинская карта</string>
+  <string name="ew_first_start_network_title">Условия и положения</string>
+  <string name="ew_guide_law_agree">Согласен</string>
+  <string name="ew_guide_law_done">Понятно</string>
+  <string name="ew_guide_law_exit">"Не согласен"</string>
+  
+  <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
+  
+  <string name="ew_guide_law_title">Отказ от ответственности</string>
+  <string name="ew_guide_next_text">Дальше</string>
+  <string name="ew_guide_play_audio">Воспроизведение звукового предупреждения</string>
+  <string name="ew_guide_play_audio_last">Воспроизведение звукового предупреждения (%ds)</string>
+  
+  <string name="ew_guide_statement_text">&lt;Data&gt;"&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Disclaimer&amp;lt;/a&amp;gt; Whenever a user (hereinafter referred to as \"you\") activates earthquake warning functionality, he or she enters a legally binding contract with Xiaomi and its affiliates (hereinafter referred to as \"Xiaomi\"). By using this feature, you acknowledge that you've read this disclaimer, and you fully understand and agree to the entire contents of this disclaimer. If you don't agree to this disclaimer, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; In accordance with relevant laws and regulations, earthquake early warning services are provided only to the areas that have been authorized by the relevant government departments. This means that when you turn on the earthquake warning functionality and your device is in an authorized area, you can receive earthquake warning services. You can check the list of areas where earthquake warning services are currently provided. More areas will be supported in the future. Stay tuned!&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The Security app provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them. &amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature. &amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+  
+  <string name="ew_guide_tips_1">"Вы будете уведомлены о предстоящих землетрясениях и услышите звуковое предупреждение"</string>
+  <string name="ew_guide_tips_2">Информация и звуковые предупреждения будут обновляться во время землетрясения</string>
+  <string name="ew_guide_tips_3">"Вы сможете найти ближайшее убежище, позвонить в службу экстренной помощи и, при необходимости, предъявить свою медицинскую карту."</string>
+  <string name="ew_guide_title">Демо</string>
+  <string name="ew_main_close_text">"Вы не сможете получать актуальную информацию об землетрясении, если отключите оповещение. Все равно выключить?"</string>
+  <string name="ew_main_close_title">Внимание</string>
+  <string name="ew_main_contact_change">Изменить</string>
+  <string name="ew_main_contact_change_dialog_content">"Вы можете изменить или удалить экстренный контакт. После удаления вы не сможете использовать его."</string>
+  <string name="ew_main_contact_change_dialog_title">Изменение экстренного контакта</string>
+  <string name="ew_main_contact_delete">Удалить</string>
+  <string name="ew_main_contact_summary">Добавлено: %s</string>
+  <string name="ew_main_contact_tips">Связь с выбранным контактом во время чрезвычайных ситуаций</string>
+  <string name="ew_main_contact_title">Экстренный контакт</string>
+  <string name="ew_main_detail_title">Настройки</string>
+  <string name="ew_main_emergency_tips">Запишите свою основную медицинскую информацию, чтобы всегда иметь ее под рукой</string>
+  <string name="ew_main_emergency_title">Медицинская карта</string>
+  <string name="ew_main_open_tips">"Эта функция будет уведомлять вас о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вам также будет предоставлена информация об экстренных службах после того, как прекратится обратный отсчет."</string>
+  <string name="ew_main_open_title">Оповещения и получение помощи</string>
+  <string name="ew_main_place_tips">Узнайте, где находится ближайшее экстреннее убежище, в случае необходимости</string>
+  <string name="ew_main_place_title">Ближайшие экстренние убежища</string>
+  <string name="ew_safe_place_no_maps_tips">"Поиск недоступен. Сначала установите Baidu Maps или Amap."</string>
   <string name="every_day">Ежедневно</string>
   <string name="examination_score_100">Всё в порядке</string>
   <string name="examination_score_60_0">Требуется оптимизация</string>
@@ -2483,10 +2573,12 @@
   <string name="system_app">Системные приложения</string>
   <string name="system_application">Системные приложения</string>
   <string name="system_permission_declare_agree">Согласен</string>
+  <string name="system_permission_declare_analytics_declare">"Благодарим Вас за участие в нашей программе улучшения качаства. Чтобы эта функция работала нормально, устройству необходимо подключение к Интернету. Вам также необходимо предоставить необходимые разрешения для сбора данных, чтобы улучшить продукты и услуги. Эти данные собираются только для статистических целей. Мы не сможем использовать эти данные для вашей  идентификации."</string>
   <string name="system_permission_declare_disagree">Не согласен</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите наши &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! Приложение предоставляет следующие функции: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Если вы не хотите предоставлять эти разрешения, вы можете отменить их в Настройки &gt; Защита и безопасность &gt; Конфиденциальность &gt; Программа улучшения качества."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
   <string name="system_permission_declare_privacy_declare">Мы уважаем и защищаем вашу конфиденциальность.
 Обратите внимание, что приложению %1s необходимы следующие разрешения для нормальной работы:</string>
@@ -2504,7 +2596,7 @@
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
   <string name="system_permission_perm_send_mms">Отправка MMS</string>
   <string name="system_tool_green_guard">Семейный защитник</string>
-  <string name="system_tool_sos">Экстренная связь</string>
+  <string name="system_tool_sos">Экстренная информация</string>
   <string name="tab_blacklist">Черный список</string>
   <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
   <string name="tab_call">Вызовы</string>
