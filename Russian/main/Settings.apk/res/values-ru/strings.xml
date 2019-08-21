@@ -1300,6 +1300,7 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
+    <string name="connection_and_sharing">Подключение и обмен</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="contributors_title">Участники</string>
     <string name="controls_label">Элементы управления</string>
@@ -1878,6 +1879,7 @@
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
     <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
     <string name="enable_quick_setting">Показывать в быстрых настройках</string>
+    <string name="enable_screen_projection_summary">Вывод содержимого экрана на внешний монитор</string>
     <string name="enable_service_encryption_warning">Если включить службу \"%1$s\", блокировка экрана будет отключена и надежность защиты зашифрованных данных снизится.</string>
     <string name="enable_service_password_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести пароль.</string>
     <string name="enable_service_pattern_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести графический ключ.</string>
@@ -3522,6 +3524,7 @@
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
     <string name="open_demo_mode">Включить</string>
     <string name="open_demo_mode_warning_message">В деморежиме часы в строке состояния будут остановлены, значки батареи и сигналов сети будут показаны полными. Для изменения этого поведения отключите деморежим или перезагрузите устройство.</string>
+    <string name="open_game_accelerate">Включение Ускорения игр</string>
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
     <string name="open_optimization_message">Включите оптимизацию и наслаждайтесь плавным, быстрым интерфейсом.</string>
     <string name="open_optimization_option">Включить</string>
@@ -3540,6 +3543,7 @@
     <string name="otg_tip">"USB On-The-Go позволяет USB-накопителям и портативным клавиатурам подключаться к вашему устройству и обмениваться данными.
 
 OTG отключается автоматически через 10 минут бездействия."</string>
+    <string name="other">Другое</string>
     <string name="other_advanced_settings">Расширенные настройки</string>
     <string name="other_device_info">Прочее</string>
     <string name="other_personal_settings">Личные настройки</string>
@@ -4194,6 +4198,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_compatibility_label">Совместимость с экраном</string>
     <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
     <string name="screen_confirm">Включить</string>
+    <string name="screen_dark_mode_select_time_error_summary">"Время начала и время окончания не должны совпадать"</string>
+    <string name="screen_dark_mode_time_title">Расписание</string>
     <string name="screen_effect">Цвета и контрастность</string>
     <string name="screen_key_long_press">Долгое нажатие кнопок</string>
     <string name="screen_key_long_press_action">Функция нажатия</string>
@@ -4257,6 +4263,24 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_pinning_unlock_password">Запрашивать пароль для отключения блокировки в приложении</string>
     <string name="screen_pinning_unlock_pattern">Запрашивать графический ключ</string>
     <string name="screen_pinning_unlock_pin">ПИН-код для отключения</string>
+    <string name="screen_projection">Трансляция</string>
+    <string name="screen_projection_characteristics">Специальные функции</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Трансляция при выключенном экране позволяет уменьшить расход заряда батареи.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Транслировать при выключенном экране</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Не показывать всплывающие уведомления, входящие вызовы и другую личную информацию на внешнем мониторе."</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Скрыть личную информацию</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Минимизация окна дает возможность пользоваться другими функциями и приложениями на телефоне во время трансляции."</string>
+    <string name="screen_projection_characteristics_small_window_title">Минимизировать окно</string>
+    <string name="screen_projection_example_document_summary">Используйте телефон для презентаций на внешнем мониторе и переключения между слайдами, а также для просмотра заметок. Попробуйте эту функцию в Проводник &gt; Документы.</string>
+    <string name="screen_projection_example_document_title">Документы</string>
+    <string name="screen_projection_example_gallery_summary">В Галерее нажмите кнопку Транслировать под элементом, чтобы передать его на внешний монитор.</string>
+    <string name="screen_projection_example_gallery_title">Фото и видео</string>
+    <string name="screen_projection_example_game_summary">Ускорение игр позволяет транслировать игры на внешний монитор. Используйте соответствующий ярлык на панели Ускорения игр для включения этой функции.</string>
+    <string name="screen_projection_example_game_title">Игры</string>
+    <string name="screen_projection_help">Помощь</string>
+    <string name="screen_projection_sample_summary">Трансляция документов, игр, фото и видео</string>
+    <string name="screen_projection_sample_title">Демо</string>
+    <string name="screen_projection_title">Трансляция</string>
     <string name="screen_reader_category_title">Программы чтения с экрана</string>
     <string name="screen_resolution_dialog_title">Изменение разрешения</string>
     <string name="screen_resolution_high_format">Высокое (%1$s)</string>
@@ -4379,6 +4403,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_choose_timezone">Выбрать часовой пояс;Часовой пояс;Часовые пояса</string>
     <string name="search_cloud_backup_settings_section_title">Настройки резервного копирования;Настройки бэкапа;Резервная копия;Бэкап;Резервное копирование;Бэкапы;Резервные копии</string>
     <string name="search_cloud_restore_section_title">Восстановление из Xiaomi Cloud;Xiaomi Cloud;Облачные бэкапы</string>
+    <string name="search_connection_and_sharing">Дополнительные функции;Беспроводной</string>
     <string name="search_copyright_title">Авторские права</string>
     <string name="search_credentials_install">Установка с SD карты;Прямая установка;Установить APK</string>
     <string name="search_date_and_time_settings_title">Дата и время;Дата и время;Дата;Время</string>
@@ -4457,7 +4482,6 @@ UT-интерфейс: %5$s"</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
     <string name="search_privacy_policy">Политика конфиденциальности</string>
     <string name="search_privacy_settings">Резервное копирование и сброс;Восстановление и сброс;Бэкап и сброс;Резервирование;Бэкап;сброс;Резервное копирование</string>
-    <string name="search_radio_controls_title">Дополнительные функции;Беспроводной</string>
     <string name="search_results_title">Настройки</string>
     <string name="search_ring_volume_option_title">Громкость;громкость;Мелодия и уведомления;рингтон;мелодия;Будильник;Музыка</string>
     <string name="search_ringtone_title">Мелодия звонка;рингтон;мелодии</string>
@@ -5283,6 +5307,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_dashboard_summary">Язык, время, резервное копирование и обновления</string>
     <string name="system_default_app">(по умолчанию)</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
+    <string name="system_print_service_help">О печати</string>
     <string name="system_shortcut_wake">Запуск кнопкой</string>
     <string name="system_storage">Системная память</string>
     <string name="system_ui_settings">Показать SystemUI Tuner</string>
@@ -6531,6 +6556,7 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_router_available_notif_title">Доступен Mi роутер</string>
     <string name="xiaomi_router_notif_summary">Сообщать о доступности Mi роутера</string>
     <string name="xiaomi_router_notif_title">Уведомлять о Mi роутере</string>
+    <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">Клонирование приложений</string>
     <string name="yes">Да</string>
     <string name="zen_access_disabled_package_warning">Должно быть включено, поскольку разрешен доступ к уведомлениям</string>
