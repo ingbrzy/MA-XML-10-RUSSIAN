@@ -290,23 +290,21 @@
     <item quantity="few">%d человека отметили как</item>
     <item quantity="many">%d человек отметили как</item>
   </plurals>
-  <plurals name="menu_text_antispam_2">
-    <item quantity="other">%d объектов</item>
-    <item quantity="one">%d объект</item>
-    <item quantity="few">%d объекта</item>
-    <item quantity="many">%d объектов</item>
+  <plurals name="menu_text_antispam_ex">
+    <item quantity="other">Заблокировано сообщений и вызовов: %d</item>
+    <item quantity="one">Заблокировано сообщений или вызовов: %d</item>
   </plurals>
-  <plurals name="menu_text_antivirus_2">
-    <item quantity="other">%d объектов</item>
-    <item quantity="one">%d объект</item>
-    <item quantity="few">%d объекта</item>
-    <item quantity="many">%d объектов</item>
-  </plurals>
-  <plurals name="menu_text_antivirus_3">
-    <item quantity="other">%d дней</item>
-    <item quantity="one">%d день</item>
-    <item quantity="few">%d дня</item>
-    <item quantity="many">%d дней</item>
+  <plurals name="menu_text_antivirus_virus_ex">
+    <item quantity="other">%d приложений содержат вирусы или вредоносное ПО</item>
+    <item quantity="one">%d приложение содержит вирусы или вредоносное ПО</item>
+    <item quantity="few">%d приложения содержат вирусы или вредоносное ПО</item>
+    <item quantity="many">%d приложений содержат вирусы или вредоносное ПО</item>
+  </plurals>  
+  <plurals name="menu_text_antivirus_day_ex">
+    <item quantity="other">"Проверка не проводилась %d дней"</item>
+    <item quantity="one">"Проверка не проводилась %d день"</item>
+    <item quantity="few">"Проверка не проводилась %d дня"</item>
+    <item quantity="many">"Проверка не проводилась %d дней"</item>
   </plurals>
   <plurals name="menu_text_app_manager_2">
     <item quantity="other">%d приложений</item>
@@ -314,6 +312,12 @@
     <item quantity="few">%d приложения</item>
     <item quantity="many">%d приложений</item>
   </plurals>
+  <plurals name="menu_text_app_manager_ex">
+    <item quantity="other">Доступно %d обновлений</item>
+    <item quantity="one">Доступно %d обновление</item>
+    <item quantity="few">Доступно %d обновления</item>
+    <item quantity="many">Доступно %d обновлений</item>
+  </plurals>  
   <plurals name="mixed_recording_incorrect_too_short">
     <item quantity="other">Введите не менее %d символов</item>
     <item quantity="one">Введите не менее %d символа</item>
