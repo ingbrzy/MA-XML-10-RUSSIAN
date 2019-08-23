@@ -25,7 +25,7 @@
   <string name="auto_backup_choose_title">Выберите объекты</string>
   <string name="auto_backup_date">Дни создания</string>
   <string name="auto_backup_only_wifi">Только по Wi-Fi</string>
-  <string name="auto_backup_open">Автоматическое резервное копирование</string>
+  <string name="auto_backup_open">Резервное копирование по расписанию</string>
   <string name="auto_backup_progress">Резервное копирование…</string>
   <string name="auto_backup_select_user_apps">Выбор приложений</string>
   <string name="auto_backup_selected_user_apps">Выбранные приложения</string>
