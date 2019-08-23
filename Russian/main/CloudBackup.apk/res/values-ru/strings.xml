@@ -159,10 +159,10 @@
     <string name="provision_error_connect_title">Не удалось подключиться</string>
     <string name="provision_restore_data">Восстановление объектов</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
-    <string name="query_restore_description">Восстановите настройки и приложения рабочего стола, используя эту копию. Это действие перезапишет данные уже установленных дублирующихся приложений. Приложения, не включенные в копию, будут перемещены на последний рабочий стол.</string>
+    <string name="query_restore_description">Восстановление настроек и приложений рабочего стола из резервной копии. Это действие перезапишет данные уже установленных приложений. Приложения, не включенные в резервную копию, будут перемещены на последний рабочий стол.</string>
     <string name="query_restore_summary">Найдена резервная копия Xiaomi Cloud для этого устройства. Восстановить приложения и настройки или отметить устройство как новое и удалить предыдущие копии?</string>
-    <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
-    <string name="recover_miui_settings">Восстановить настройки системы</string>
+    <string name="recover_home_settings">Восстановление настроек рабочего стола</string>
+    <string name="recover_miui_settings">Восстановление настроек системы</string>
     <string name="recover_settings_description">Не выключайте устройство</string>
     <string name="recovering">Восстановление %s</string>
     <string name="remove_again">Повторить</string>
