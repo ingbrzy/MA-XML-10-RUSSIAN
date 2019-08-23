@@ -485,7 +485,7 @@
     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
     <string name="auto_replace">Автокоррекция</string>
     <string name="auto_replace_summary">Исправлять опечатки</string>
-    <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
+    <string name="auto_restore_summary">При переустановке приложения восстанавливать настройки и данные из резервной копии</string>
     <string name="auto_restore_title">Автовосстановление</string>
     <string name="auto_rule">Таймер</string>
     <string name="auto_silent">Расписание включения</string>
@@ -4266,14 +4266,14 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_projection">Трансляция</string>
     <string name="screen_projection_characteristics">Специальные функции</string>
     <string name="screen_projection_characteristics_off_screen_summary">Трансляция при выключенном экране позволяет уменьшить расход заряда батареи.</string>
-    <string name="screen_projection_characteristics_off_screen_title">Транслировать при выключенном экране</string>
+    <string name="screen_projection_characteristics_off_screen_title">Трансляция при выключенном экране</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"Не показывать всплывающие уведомления, входящие вызовы и другую личную информацию на внешнем мониторе."</string>
-    <string name="screen_projection_characteristics_privacy_protect_title">Скрыть личную информацию</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Скрытие личной информации</string>
     <string name="screen_projection_characteristics_small_window_summary">"Минимизация окна дает возможность пользоваться другими функциями и приложениями на телефоне во время трансляции."</string>
-    <string name="screen_projection_characteristics_small_window_title">Минимизировать окно</string>
+    <string name="screen_projection_characteristics_small_window_title">Минимизация окна</string>
     <string name="screen_projection_example_document_summary">Используйте телефон для презентаций на внешнем мониторе и переключения между слайдами, а также для просмотра заметок. Попробуйте эту функцию в Проводник &gt; Документы.</string>
     <string name="screen_projection_example_document_title">Документы</string>
-    <string name="screen_projection_example_gallery_summary">В Галерее нажмите кнопку Транслировать под элементом, чтобы передать его на внешний монитор.</string>
+    <string name="screen_projection_example_gallery_summary">В Галерее нажмите кнопку Транслировать под фото или видео, чтобы передать его на внешний монитор.</string>
     <string name="screen_projection_example_gallery_title">Фото и видео</string>
     <string name="screen_projection_example_game_summary">Ускорение игр позволяет транслировать игры на внешний монитор. Используйте соответствующий ярлык на панели Ускорения игр для включения этой функции.</string>
     <string name="screen_projection_example_game_title">Игры</string>
