@@ -21,6 +21,7 @@
     <string name="cloud_lab_title">Лаборатория</string>
     <string name="cloud_storage_already_used">Занято: %1$s/%2$s</string>
     <string name="cloud_storage_info_type_others">Другое</string>
+    <string name="cloud_storage_info_type_pdc">Настройки системы</string>
     <string name="cloud_storage_manage_title">Управление хранилищем</string>
     <string name="cloud_storage_no_data">Пока ничего не загружено</string>
     <string name="cloudservice_new_sync">Синхронизация %s с Xiaomi Cloud</string>
@@ -201,6 +202,8 @@
     <string name="micloud_main_error_network_disallowed">Разрешите Xiaomi Cloud доступ в интернет</string>
     <string name="micloud_main_error_permission_limit">Разрешите Xiaomi Cloud доступ к памяти</string>
     <string name="micloud_main_head_menu_cloud_backup">Резервное копирование</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Раскладка рабочего стола, приложения и настройки системы</string>
+    <string name="micloud_main_head_menu_finddevice_summary">"Поиск и блокировка устройства в случае потери"</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Поиск устройства недоступен из второго пространства</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Удаленные объекты</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Корзина</string>
@@ -314,9 +317,15 @@
     <string name="micloud_request_sync_too_frequent">Слишком много запросов. Повторите попытку позже.</string>
     <string name="micloud_setting_antispam_summary">Номера черного и белого списков</string>
     <string name="micloud_setting_browser_summary">Закладки и история</string>
-    <string name="micloud_setting_contact_summary">Фото и данные контактов</string>
+    <string name="micloud_setting_calendar_summary">События календаря</string>
+    <string name="micloud_setting_calllog_summary">История звонков</string>
+    <string name="micloud_setting_contact_summary">Контакты и фото профиля</string>
     <string name="micloud_setting_gallery_summary">Фото и видео</string>
     <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
+    <string name="micloud_setting_notes_summary">Заметки</string>
+    <string name="micloud_setting_personal_assistant_summary">Карточки и функции Ассистента</string>
+    <string name="micloud_setting_phrase_summary">Частые фразы</string>
+    <string name="micloud_setting_recorder_summary">Аудио и записи звонков</string>
     <string name="micloud_setting_sms_summary">SMS и MMS сообщения</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
     <string name="micloud_space_applist_detail">Управляйте приложениями на рабочем столе</string>
@@ -402,6 +411,11 @@
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
+    <string name="storage_manage_expansion">Больше</string>
+    <string name="storage_manage_list_title">Облачные данные</string>
+    <string name="storage_manage_list_title_action">Подробнее</string>
+    <string name="storage_manage_renewal">Продлить</string>
+    <string name="storage_manage_upgrade">Обновить</string>
     <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Синхронизировать сообщения, содержащие фото, аудио и другие медиаданные, только по Wi-Fi</string>
@@ -451,7 +465,7 @@
     <string name="warning_bar_action_upgrade_vip">Обновить план Xiaomi Cloud</string>
     <string name="warning_bar_add_short_cut_success">Успешно добавлено</string>
     <string name="warning_bar_title_cloud_space_already_full">Недостаточно места в облачном хранилище. Фото могут быть не синхронизированы.</string>
-    <string name="warning_bar_title_cloud_space_full">Облачное хранилище заполнено. Синхронизация приостановлена.</string>
+    <string name="warning_bar_title_cloud_space_full">"Облачное хранилище заполнено. Не удается синхронизировать данные."</string>
     <string name="warning_bar_title_master_sync_off">Автосинхронизация отключена</string>
     <string name="warning_bar_title_network_unconnected">"Не удалось подключиться к сети"</string>
     <string name="warning_bar_title_short_cut">Добавить на Рабочий стол ярлык для Xiaomi Cloud?</string>
