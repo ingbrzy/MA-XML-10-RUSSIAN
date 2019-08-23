@@ -316,9 +316,9 @@
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
-    <string name="worldcolock_date_display_prefix">"Текущие: "</string>
+    <string name="worldcolock_date_display_prefix">"Текущее время: "</string>
     <string name="worldcolock_timezone_current">Текущий: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">ч</string>
-    <string name="worldcolock_timezone_local">Как местное время</string>
+    <string name="worldcolock_timezone_local">| как и местное время</string>
 </resources>
