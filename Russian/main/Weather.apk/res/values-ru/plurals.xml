@@ -24,6 +24,12 @@
         <item quantity="few">Среднее из %1$s станций</item>
         <item quantity="many">Среднее из %1$s станций</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Прогноз на %1$s дней</item>
+        <item quantity="one">Прогноз на %1$s день</item>
+        <item quantity="few">Прогноз на %1$s дня</item>
+        <item quantity="many">Прогноз на %1$s дней</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">Прогноз на %1$s дней</item>
         <item quantity="one">Прогноз на %1$s день</item>
