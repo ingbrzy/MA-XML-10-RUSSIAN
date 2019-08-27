@@ -2225,6 +2225,7 @@
     <string name="fsg_mistake_touch_title">Защита от ошибочных жестов</string>
     <string name="full_screen_display">Полноэкранный режим</string>
     <string name="full_screen_keyboard_optimization">Расширение клавиатуры</string>
+    <string name="full_screen_keyboard_settings">Настройки клавиатуры в полноэкранном режиме</string>
     <string name="full_transparent_smarrcover_title">Прозрачная</string>
     <string name="fullbackup_data_summary">"Автоматическое копирование данных устройства (например, паролей Wi-Fi и журнала звонков) и данных приложений (например, настроек и файлов приложений) на серверы.
 
@@ -2403,6 +2404,8 @@
     <string name="input_assistance">Помощь при вводе</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="input_method">Клавиатура</string>
+    <string name="input_method_bottom_close">Откл.</string>
+    <string name="input_method_bottom_open">Вкл.</string>
     <string name="input_method_function_clipboard">Буфер обмена и частые фразы</string>
     <string name="input_method_function_clipboard_des">Нажмите для просмотра содержимого буфера обмена и частых фраз</string>
     <string name="input_method_function_no_function">Ничего</string>
@@ -2413,12 +2416,14 @@
     <string name="input_method_function_voice_des">Нажмите для использования голосового ввода</string>
     <string name="input_method_function_xiaoai">Mi AI голосовой ввод</string>
     <string name="input_method_function_xiaoai_des">Нажмите для использования Mi AI голосового ввода</string>
+    <string name="input_method_manage">Управление клавиатурами</string>
     <string name="input_method_selector">Выбор способа ввода</string>
     <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
     <string name="input_method_selector_always_show_title">Всегда показывать</string>
     <string name="input_method_selector_show_automatically_title">Автоматически</string>
     <string name="input_method_settings">Настройки</string>
     <string name="input_method_settings_button">Настройки</string>
+    <string name="input_method_settings_text">Настройки</string>
     <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
     <string name="input_methods_settings_label_format">Настройки %1$s</string>
     <string name="input_methods_settings_title">Ввод текста</string>
@@ -2487,6 +2492,7 @@
     <string name="keyboard_layout_dialog_switch_hint">Для смены нажмите CTRL + Пробел</string>
     <string name="keyboard_layout_dialog_title">Выбор раскладки клавиатуры</string>
     <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
+    <string name="keyboard_mouse_touch">Клавиатура, мышь и трекпад</string>
     <string name="keyboard_settings_category">Способы ввода</string>
     <string name="keyboard_settings_title">Клавиатура Android</string>
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
@@ -3546,6 +3552,7 @@ OTG отключается автоматически через 10 минут �
     <string name="other">Другое</string>
     <string name="other_advanced_settings">Расширенные настройки</string>
     <string name="other_device_info">Прочее</string>
+    <string name="other_input_settings">Дополнительные настройки клавиатуры</string>
     <string name="other_personal_settings">Личные настройки</string>
     <string name="other_relative">Другие разрешения</string>
     <string name="other_settings_sync_settings">Синхронизация</string>
