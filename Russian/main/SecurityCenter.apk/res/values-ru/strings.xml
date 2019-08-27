@@ -586,6 +586,7 @@
   <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
   <string name="cpu_usage_view_action_btn_text">Просмотреть</string>
   <string name="create_shortcut">На рабочем столе будет создан ярлык для Ускорения игр</string>
+  <string name="cta_HIPS_Perm_Location_Desc">получить точное местоположение (по GPS и координатам сети)</string>
   <string name="cta_dialog_negative">Выйти</string>
   <string name="cta_dialog_positive">Принять</string>
   <string name="cta_dialog_title">Доступ в интернет</string>
