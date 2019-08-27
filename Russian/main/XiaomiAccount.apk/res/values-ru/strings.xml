@@ -121,7 +121,7 @@ ID вашего аккаунта: %s"</string>
 ID:%s
 Отправьте этот код руководителю."</string>
   <string name="empty_device_list_notice">Нет устройств</string>
-  <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
+  <string name="ep_unsupported">"Не удается войти в Mi Аккаунт на устройстве"</string>
   <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi Аккаунтом.</string>
   <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
   <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi Аккаунтом.</string>
