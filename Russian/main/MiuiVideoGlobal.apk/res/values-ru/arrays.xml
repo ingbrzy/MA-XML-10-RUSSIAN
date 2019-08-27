@@ -1,5 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="countries">
+        <item>Афганистан</item>
+        <item>Албания</item>
+        <item>Алжир</item>
+        <item>Андорра</item>
+        <item>Ангола</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Аргентина</item>
+        <item>Армения</item>
+        <item>Австралия</item>
+        <item>Австрия</item>
+        <item>Азербайджан</item>
+        <item>Багамские острова</item>
+        <item>Бахрейн</item>
+        <item>Бангладеш</item>
+        <item>Барбадос</item>
+        <item>Беларусь</item>
+        <item>Бельгия</item>
+        <item>Белиз</item>
+        <item>Бенин</item>
+        <item>Бутан</item>
+        <item>Боливия</item>
+        <item>Босния и Герцеговина</item>
+        <item>Ботсвана</item>
+        <item>Бразилия</item>
+        <item>Бруней</item>
+        <item>Болгария</item>
+        <item>Буркина Фасо</item>
+        <item>Бирма</item>
+        <item>Бурунди</item>
+        <item>Камбоджа</item>
+        <item>Камерун</item>
+        <item>Канада</item>
+        <item>Кабо-Верде</item>
+        <item>Центрально-Африканская Республика</item>
+        <item>Чад</item>
+        <item>Чили</item>
+        <item>Китай</item>
+        <item>Колумбия</item>
+        <item>Коморские острова</item>
+        <item>Демократическая Республика Конго</item>
+        <item>Республика Конго</item>
+        <item>Коста Рика</item>
+        <item>"Кот-д'Ивуар"</item>
+        <item>Хорватия</item>
+        <item>Куба</item>
+        <item>Кипр</item>
+        <item>Чехия</item>
+        <item>Дания</item>
+        <item>Джибути</item>
+        <item>Доминика</item>
+        <item>Доминиканская Республика</item>
+        <item>Эквадор</item>
+        <item>Египет</item>
+        <item>Эль Сальвадор</item>
+        <item>Экваториальная Гвинея</item>
+        <item>Эритрея</item>
+        <item>Эстония</item>
+        <item>Эфиопия</item>
+        <item>Фиджи</item>
+        <item>Финляндия</item>
+        <item>Франция</item>
+        <item>Габон</item>
+        <item>Гамбия</item>
+        <item>Грузия</item>
+        <item>Гана</item>
+        <item>Греция</item>
+        <item>Гренада</item>
+        <item>Гватемала</item>
+        <item>Гвинея</item>
+        <item>Гвинея-Бисау</item>
+        <item>Гайана</item>
+        <item>Гаити</item>
+        <item>Ватикан</item>
+        <item>Гондурас</item>
+        <item>Гонконг</item>
+        <item>Болгария</item>
+        <item>Исландия</item>
+        <item>Индия</item>
+        <item>Индонезия</item>
+        <item>Иран</item>
+        <item>Ирак</item>
+        <item>Ирландия</item>
+        <item>Израиль</item>
+        <item>Италия</item>
+        <item>Ямайка</item>
+        <item>Япония</item>
+        <item>Иордан</item>
+        <item>Казахстан</item>
+        <item>Кения</item>
+        <item>Кирибати</item>
+        <item>Корея, Северная</item>
+        <item>Корея, Южная</item>
+        <item>Косово</item>
+        <item>Кувейт</item>
+        <item>Киргизстан</item>
+        <item>Лаос</item>
+        <item>Латвия</item>
+        <item>Ливан</item>
+        <item>Лесото</item>
+        <item>Либерия</item>
+        <item>Ливия</item>
+        <item>Лихтенштейн</item>
+        <item>Литва</item>
+        <item>Люксембург</item>
+        <item>Макао</item>
+        <item>Македония</item>
+        <item>Мадагаскар</item>
+        <item>Малави</item>
+        <item>Малайзия</item>
+        <item>Мальдивы</item>
+        <item>Мали</item>
+        <item>Мальта</item>
+        <item>Маршалловы острова</item>
+        <item>Мавритания</item>
+        <item>Маврикий</item>
+        <item>Мексика</item>
+        <item>Микронезия</item>
+        <item>Молдова</item>
+        <item>Монако</item>
+        <item>Монголия</item>
+        <item>Черногория</item>
+        <item>Марокко</item>
+        <item>Мозамбик</item>
+        <item>Намибия</item>
+        <item>Науру</item>
+        <item>Непал</item>
+        <item>Нидерланды</item>
+        <item>Нидерландские Антильские острова</item>
+        <item>Новвя Зеландия</item>
+        <item>Никарагуа</item>
+        <item>Нигер</item>
+        <item>Нигерия</item>
+        <item>Северная Корея</item>
+        <item>Норвегия</item>
+        <item>Оман</item>
+        <item>Пакистан</item>
+        <item>Палау</item>
+        <item>Территория Палестины</item>
+        <item>Панама</item>
+        <item>Папуа - Новая Гвинея</item>
+        <item>Парагвай</item>
+        <item>Перу</item>
+        <item>Филиппины</item>
+        <item>Польша</item>
+        <item>Португалия</item>
+        <item>Катар</item>
+        <item>Румыния</item>
+        <item>Россия</item>
+        <item>Руанда</item>
+        <item>Сент-Китс и Невис</item>
+        <item>Сент-Люсия</item>
+        <item>Сент-Винсент и Гренадины</item>
+        <item>Самоа</item>
+        <item>Сан-Марино</item>
+        <item>Сан-Томе и Принсипи</item>
+        <item>Саудовская Аравия</item>
+        <item>Сенегал</item>
+        <item>Сербия</item>
+        <item>Сейшельские острова</item>
+        <item>Сьерра-Леоне</item>
+        <item>Сингапур</item>
+        <item>Словакия</item>
+        <item>Словения</item>
+        <item>Соломоновы острова</item>
+        <item>Сомали</item>
+        <item>Южная Африка</item>
+        <item>Южная Корея</item>
+        <item>Южный Судан</item>
+        <item>Испания</item>
+        <item>Шри-Ланка</item>
+        <item>Судан</item>
+        <item>Суринам</item>
+        <item>Свазиленд</item>
+        <item>Швеция</item>
+        <item>Швейцария</item>
+        <item>Сирия</item>
+        <item>Тайвань</item>
+        <item>Таджикистан</item>
+        <item>Танзания</item>
+        <item>Таиланд</item>
+        <item>Восточный Тимор</item>
+        <item>Того</item>
+        <item>Тонга</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тунис</item>
+        <item>Турция</item>
+        <item>Туркменистан</item>
+        <item>Тувалу</item>
+        <item>Уганда</item>
+        <item>Украина</item>
+        <item>ОАЭ</item>
+        <item>Великобритания</item>
+        <item>Уругвай</item>
+        <item>Узбекистан</item>
+        <item>Вануату</item>
+        <item>Венесуэла</item>
+        <item>Вьетнам</item>
+        <item>Йемен</item>
+        <item>Замбия</item>
+        <item>Зимбабве</item>
+    </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Ошибка</item>
+        <item>Предложение</item>
+        <item>Другое</item>
+    </string-array>
     <string-array name="playback_streaming_quality">
         <item>Авто</item>
         <item>Низкое</item>
