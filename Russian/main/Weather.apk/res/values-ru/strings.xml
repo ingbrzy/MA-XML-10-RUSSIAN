@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">О Погоде</string>
+    <string name="about_weather_setting_feedback">Обратная связь</string>
+    <string name="abrupt_weather_settings_summary_type">Получать оповещения об ожидаемых осадках, изменениях качества воздуха и других существенных изменениях</string>
+    <string name="abrupt_weather_settings_summary_type_a">Переключатель нестандартного оповещения о погоде</string>
+    <string name="abrupt_weather_settings_summary_type_b">Переключатель нестандартного оповещения о погоде</string>
+    <string name="abrupt_weather_settings_title">Нестандартные оповещения о погоде</string>
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
@@ -26,6 +32,8 @@
     <string name="add_city">Добавить</string>
     <string name="alert_detail_title">Подробности оповещения</string>
     <string name="alert_warning">Оповещения погоды</string>
+    <string name="alert_weather_enable_settings_summary">Получать официальные предупреждения о погоде</string>
+    <string name="alert_weather_enable_settings_title">Предупреждения о погоде</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
     <string name="app_name">Погода</string>
     <string name="aqi_data_source">Поддержка: Colorful Clouds</string>
@@ -96,6 +104,7 @@
     <string name="empty_view_net_unavailable">"Не удалось подключиться к сети"</string>
     <string name="empty_view_refresh">Повторите попытку</string>
     <string name="eu_region_version_first_start_network_msg">Используя этот продукт, вы соглашаетесь с тем, что он будет подключаться к сети, собирать, обрабатывать и использовать ваши личные данные, включая координаты городов, которые вы ищете, и другие типы данных, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем информацию. Нажав \"Согласен\", вы принимаете %1$s и %2$s Xiaomi.</string>
+    <string name="feedback">Сообщить о некорректной информации о погоде</string>
     <string name="feedback_cloudy">Облачно</string>
     <string name="feedback_foggy">Туман</string>
     <string name="feedback_haze">Смог</string>
@@ -154,7 +163,7 @@
     <string name="more_details">Подробнее</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>
-    <string name="night_not_disturb_settings_summary">Отключить уведомления между 23:00 и 07:00</string>
+    <string name="night_not_disturb_settings_summary">Блокировать оповещения с 23:00 до 7:00</string>
     <string name="night_not_disturb_settings_title">Не беспокоить ночью</string>
     <string name="no_data">Данных нет</string>
     <string name="no_network_btn">Повторить</string>
@@ -249,6 +258,8 @@
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
+    <string name="warning_weather_day_and_night_settings_summary">Получать ежедневные сводки о погоде в 7:00 и 19:00</string>
+    <string name="warning_weather_day_and_night_settings_title">Ежедневные сводки</string>
     <string name="weather_alert_channel_name">Оповещения</string>
     <string name="weather_service_channel_name">Фоновые сервисы</string>
     <string name="wind_direction_no_data">Ветер</string>
