@@ -35,6 +35,7 @@
   <string name="button_text_next_step_timer">Далее (%d)</string>
   <string name="call_record_or">" или "</string>
   <string name="caller_info_name_delimiter">" или "</string>
+  <string name="can_not_transfer_when_screening">"Передача недоступна во время показа"</string>
   <string name="cancel_action">Отмена</string>
   <string name="close">Откл</string>
   <string name="configure_input_methods">Выбрать способы ввода</string>
