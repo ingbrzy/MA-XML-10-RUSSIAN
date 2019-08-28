@@ -103,9 +103,9 @@
   <string name="permgroupdesc_contacts">Доступ к контактам</string>
   <string name="permgroupdesc_location">Доступ к данным о местоположении устройства</string>
   <string name="permgroupdesc_microphone">Записывать аудио</string>
-  <string name="permgroupdesc_phone">Осуществлять вызовы и управлять разговорами</string>
+  <string name="permgroupdesc_phone">Осуществлять вызовы и управлять ими</string>
   <string name="permgroupdesc_recognition">Доступ к данным о здоровье и активности</string>
-  <string name="permgroupdesc_sensors">Доступ к данным нательных датчиков</string>
+  <string name="permgroupdesc_sensors">Доступ к данным датчиков о состоянии организма</string>
   <string name="permgroupdesc_sms">Отправлять и просматривать SMS-сообщения</string>
   <string name="permgroupdesc_storage">Доступ к фото, мультимедиа и файлам на устройстве</string>
   <string name="permgrouprequest_storage_isolated">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к фото, мультимедиа и файлам на устройстве?</string>
