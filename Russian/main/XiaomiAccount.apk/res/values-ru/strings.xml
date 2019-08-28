@@ -121,7 +121,7 @@ ID вашего аккаунта: %s"</string>
 ID:%s
 Отправьте этот код руководителю."</string>
   <string name="empty_device_list_notice">Нет устройств</string>
-  <string name="ep_unsupported">"Не удается войти в Mi Аккаунт на устройстве"</string>
+  <string name="ep_unsupported">Устройство не поддерживает вход в аккаунт Xiaomi</string>
   <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi Аккаунтом.</string>
   <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
   <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi Аккаунтом.</string>
@@ -405,10 +405,7 @@ ID:%s
   <string name="passport_use_generated_pwd_message">Убедитесь, что вы запомнили свой пароль. Вы можете использовать его для подключения к другим сервисам Mi.</string>
   <string name="passport_use_generated_pwd_title">Запомните свой пароль!</string>
   <string name="passport_user_agreement">Условия использования</string>
-  <string name="passport_user_agreement_p1">Принять </string>
-  <string name="passport_user_agreement_p2">Условия использования</string>
-  <string name="passport_user_agreement_p3"> и </string>
-  <string name="passport_user_agreement_p4">Политику конфиденциальности</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;"Я прочитал и согласен с &amp;lt;a href=%1$s&amp;gt;Условиями использования&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политикой конфиденциальности&amp;lt;/a&amp;gt; Xiaomi."&lt;/Data&gt;</string>
   <string name="passport_user_agreement_required">Пользовательское соглашение (обязательно)</string>
   <string name="passport_user_id_notice">ID вашего Mi Аккаунта %s.</string>
   <string name="passport_user_reg_region">Страна/Регион</string>
@@ -480,6 +477,11 @@ ID:%s
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Отправлено</string>
   <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+  <string name="system_ad">Реклама в системных приложениях</string>
+  <string name="system_ad_list">Посмотреть похожие приложения.</string>
+  <string name="system_ad_summary">"Включите эту функцию для показа небольшого количества рекламы в системных приложениях. Эти объявления помогают нам развивать и улучшать наши продукты и услуги. Вы можете отключить эту функцию в любое время. Спасибо за поддержку! "</string>
+  <string name="system_ad_switch">Реклама в системных приложениях</string>
+  <string name="system_ad_switch_failed">ошибка</string>
   <string name="talkback_scan_barcode">Отсканируйте QR-код</string>
   <string name="temporary_not_available">Эта функция пока недоступна.</string>
   <string name="trusted_browsers">Надежные браузеры</string>
