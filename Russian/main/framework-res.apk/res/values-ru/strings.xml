@@ -974,7 +974,7 @@
     <string name="permgroupdesc_contacts">доступ к контактам</string>
     <string name="permgroupdesc_location">доступ к данным о местоположении устройства</string>
     <string name="permgroupdesc_microphone">записывать аудио</string>
-    <string name="permgroupdesc_phone">осуществление телефонных звонков и управление ими</string>
+    <string name="permgroupdesc_phone">осуществлять вызовы и управлять ими</string>
     <string name="permgroupdesc_sensors">доступ к данным датчиков о состоянии организма</string>
     <string name="permgroupdesc_sms">отправлять и просматривать SMS-сообщения</string>
     <string name="permgroupdesc_storage">доступ к фото, мультимедиа и файлам на вашем устройстве</string>
@@ -994,7 +994,7 @@
     <string name="permgrouprequest_contacts">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к контактам?</string>
     <string name="permgrouprequest_location">"Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным о местоположении устройства?"</string>
     <string name="permgrouprequest_microphone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; записывать аудио?</string>
-    <string name="permgrouprequest_phone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; осуществление телефонных звонков и управление ими?</string>
+    <string name="permgrouprequest_phone">Разрешить &lt;b&gt;%1$s&lt;/b&gt; осуществление вызовов и управление ими?</string>
     <string name="permgrouprequest_sensors">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к данным датчиков о состоянии организма?</string>
     <string name="permgrouprequest_sms">Разрешить &lt;b&gt;%1$s&lt;/b&gt; отправлять и просматривать SMS-сообщения?</string>
     <string name="permgrouprequest_storage">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к фото, мультимедиа и файлам на вашем устройстве?</string>
