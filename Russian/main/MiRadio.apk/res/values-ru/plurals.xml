@@ -43,10 +43,10 @@
     <item quantity="many">Удалить %d записей?</item>
   </plurals>
   <plurals name="dialog_remove_from_cloud_descript">
-    <item quantity="other">Удалить %d песен из Mi Cloud? Они также будут удалены из локальных плейлистов.</item>
-    <item quantity="one">Удалить %d песню из Mi Cloud? Она также будут удалена из локальных плейлистов.</item>
-    <item quantity="few">Удалить %d песни из Mi Cloud? Они также будут удалены из локальных плейлистов</item>
-    <item quantity="many">Удалить %d песен из Mi Cloud? Они также будут удалены из локальных плейлистов</item>
+    <item quantity="other">Удалить %d песен из Xiaomi Cloud? Они также будут удалены из локальных плейлистов.</item>
+    <item quantity="one">Удалить %d песню из Xiaomi Cloud? Она также будут удалена из локальных плейлистов.</item>
+    <item quantity="few">Удалить %d песни из Xiaomi Cloud? Они также будут удалены из локальных плейлистов</item>
+    <item quantity="many">Удалить %d песен из Xiaomi Cloud? Они также будут удалены из локальных плейлистов</item>
   </plurals>
   <plurals name="download_finished">
     <item quantity="other">&lt;font color=\"red\"&gt;%d песен&lt;/font&gt; загружено</item>
@@ -165,10 +165,10 @@
     <item quantity="many">Создано на %1$s | всего %2$d песен</item>
   </plurals>
   <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">"%d песен не сохранено в Mi Cloud. Прервать?"</item>
-    <item quantity="one">"%d песня не сохранена в Mi Cloud. Прервать?"</item>
-    <item quantity="few">"%d песни не сохранены в Mi Cloud. Прервать?"</item>
-    <item quantity="many">"%d песен не сохранено в Mi Cloud. Прервать?"</item>
+    <item quantity="other">"%d песен не сохранено в облаке. Прервать?"</item>
+    <item quantity="one">"%d песня не сохранена в облаке. Прервать?"</item>
+    <item quantity="few">"%d песни не сохранены в облаке. Прервать?"</item>
+    <item quantity="many">"%d песен не сохранено в облаке. Прервать?"</item>
   </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d песен добавлено в плейлист</item>
