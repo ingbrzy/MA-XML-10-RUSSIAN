@@ -2616,7 +2616,7 @@
     <string name="line_breaking_summary">Исправить разрывы строк абзаца</string>
     <string name="line_breaking_title">Оптимизация текста</string>
     <string name="link_speed_label">Скорость соединения:</string>
-    <string name="link_turbo_prompt">"Статистика на этой странице показывает только объем данных, использованный для повышения скорости соединения Wi-Fi. Эта статистика не отражает фактическое использование мобильных данных."</string>
+    <string name="link_turbo_prompt">"Статистика на этой странице показывает только объем данных, использованный для увеличения скорости соединения Wi-Fi. Эта статистика не отражает фактическое использование мобильных данных."</string>
     <string name="link_turbo_settings_all_app_display_loading">Подождите…</string>
     <string name="link_turbo_settings_all_app_reach_max">Вы можете выбрать до 15 приложений</string>
     <string name="link_turbo_usage_state_month">Этот месяц</string>
@@ -6261,13 +6261,13 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ip_settings_menu_cancel">Отмена</string>
     <string name="wifi_ip_settings_menu_save">Сохранить</string>
     <string name="wifi_limit_optimizations_summary">Лимит расхода батареи (Wi‑Fi)</string>
-    <string name="wifi_link_turbo">Использование мобильных данных для увеличения скорости</string>
+    <string name="wifi_link_turbo">Увеличение скорости соединения</string>
     <string name="wifi_link_turbo_app_settings_summary">Выберите приложения для которых будет доступна эта функция</string>
     <string name="wifi_link_turbo_app_settings_title">Выбор приложений</string>
     <string name="wifi_link_turbo_no_app">Нет приложений</string>
     <string name="wifi_link_turbo_off">Откл.</string>
     <string name="wifi_link_turbo_on">Вкл.</string>
-    <string name="wifi_link_turbo_summary">Boost connection speed for selecting apps using mobile data when when WLAN connection is poor</string>
+    <string name="wifi_link_turbo_summary">Использовать мобильные данные для увеличения скорости при плохом Wi-Fi соединении</string>
     <string name="wifi_menu_advanced">Дополнительные функции</string>
     <string name="wifi_menu_configure">Настроить</string>
     <string name="wifi_menu_connect">Подключиться к сети</string>
