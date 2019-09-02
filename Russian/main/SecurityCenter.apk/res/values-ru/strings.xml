@@ -2548,7 +2548,7 @@
   <string name="superpower_progress_turndown_brightness">Уменьшение яркости экрана</string>
   <string name="superpower_progress_turnoff_items">Ограничение энергоемких функций</string>
   <string name="superpower_progress_turnoff_process">Ограничение фоновой активности</string>
-  <string name="superpower_savemode_limit1">Использование темной темы</string>
+  <string name="superpower_savemode_limit1">Темный режим</string>
   <string name="superpower_savemode_limit2">Ограничение фоновой активности</string>
   <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Амбиентный дисплей и др.)</string>
   <string name="superpower_savemode_limit4">Разрешение выбранным приложениям работать нормально</string>
