@@ -624,7 +624,7 @@
     <string name="frame_not_support_image_ratio">Это соотношение не поддерживается</string>
     <string name="free_view_desc">3D просмотр</string>
     <string name="friday">Пятница</string>
-    <string name="friday_short">Пт.</string>
+    <string name="friday_short">Пт</string>
     <string name="friday_shortest">П</string>
     <string name="gallery_setting">Настройки</string>
     <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
@@ -745,7 +745,7 @@
     <string name="messagelist_sender_self">Я</string>
     <string name="micloud_introduce">Автоматическая выгрузка фото и видео (требуется Mi Аккаунт)</string>
     <string name="monday">Понедельник</string>
-    <string name="monday_short">Пн.</string>
+    <string name="monday_short">Пн</string>
     <string name="monday_shortest">П</string>
     <string name="month_april">апреля</string>
     <string name="month_april_short">апр.</string>
@@ -1115,7 +1115,7 @@
     <string name="runtime_permission_ungranted">Невозможно использовать Галерею без необходимых разрешений</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="saturday">Суббота</string>
-    <string name="saturday_short">Сб.</string>
+    <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">С</string>
     <string name="scan_barcode_guide">Для получения QR-кода альбома нажмите на значок \"Поделиться\".</string>
     <string name="scan_barcode_to_join">Отсканируйте QR-код для добавления альбома</string>
@@ -1330,7 +1330,7 @@
     <string name="sub_discard_positive_btn">Сохранить</string>
     <string name="success_create_quick_icon_on_desk">Ярлык создан</string>
     <string name="sunday">Воскресенье</string>
-    <string name="sunday_short">Вс.</string>
+    <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">В</string>
     <string name="sync_album_in_proecess">Синхронизация альбома…</string>
     <string name="sync_battery_low">Батарея разряжена</string>
@@ -1410,7 +1410,7 @@
     <string name="things_album_empty_title">Фото можно отсортировать по объектам</string>
     <string name="thumbnail_name">эскиз</string>
     <string name="thursday">Четверг</string>
-    <string name="thursday_short">Чт.</string>
+    <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Ч</string>
     <string name="time_picker_label_hour">ч.</string>
     <string name="time_picker_label_minute">мин.</string>
@@ -1438,7 +1438,7 @@
     <string name="try_again_later">Повторите попытку позже.</string>
     <string name="try_to_send">Отправить</string>
     <string name="tuesday">Вторник</string>
-    <string name="tuesday_short">Вт.</string>
+    <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">В</string>
     <string name="turn_off_and_move">Отключить и переместить</string>
     <string name="turn_on_and_remove">Включить и переместить</string>
@@ -1567,7 +1567,7 @@
     <string name="view_more_face_desc">Показать другие лица</string>
     <string name="voice_assistant">Голосовой ввод</string>
     <string name="wednesday">Среда</string>
-    <string name="wednesday_short">Ср.</string>
+    <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">С</string>
     <string name="welcome_to_micloud">Добро пожаловать в Xiaomi Cloud</string>
     <string name="where_is_barcode">Где получить QR-код?</string>
