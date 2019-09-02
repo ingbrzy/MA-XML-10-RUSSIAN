@@ -1300,7 +1300,7 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
-    <string name="connection_and_sharing">Подключение и обмен</string>
+    <string name="connection_and_sharing">Подключение и передача</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="contributors_title">Участники</string>
     <string name="controls_label">Элементы управления</string>
