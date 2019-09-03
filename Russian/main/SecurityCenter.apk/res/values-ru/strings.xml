@@ -1364,13 +1364,13 @@
   <string name="main_today_used">Расход за сегодня</string>
   <string name="main_toolbar_firewall">Сетевые подключения</string>
   <string name="main_toolbar_purchase">Пополнение баланса</string>
-  <string name="main_toolbar_statistic">Потребление трафика</string>
+  <string name="main_toolbar_statistic">Расход трафика</string>
   <string name="main_traffic_detail">Передача данных</string>
   <string name="man_add_application">Добавить приложение с автозапуском</string>
   <string name="manage_hybrid_permissions">Управление разрешениями</string>
   <string name="managed_user_title">Корпоративные приложения</string>
   <string name="manual_input_free_traffic">Расход льготного трафика</string>
-  <string name="manual_input_traffic">Расход трафика</string>
+  <string name="manual_input_traffic">Израсходованный трафик</string>
   <string name="manual_item_white_list_summary">Приложения из списка исключений не будут оптимизированы</string>
   <string name="manual_item_white_list_title">Исключения</string>
   <string name="mark_agent">Агентства</string>
@@ -2030,7 +2030,7 @@
   <string name="pref_about_traffic_title">Общие настройки</string>
   <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
   <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики от оператора</string>
-  <string name="pref_adjust_traffic_data">Расход трафика</string>
+  <string name="pref_adjust_traffic_data">Израсходованный трафик</string>
   <string name="pref_allow_connect_network_title">Интернет в роуминге</string>
   <string name="pref_auto_adjust_traffic">Автообновление статистики</string>
   <string name="pref_automatic_adjust">Синхронизация трафика с оператором</string>
@@ -2047,7 +2047,7 @@
   <string name="pref_correction_setting_switch">Использовать особый шаблон калибровки</string>
   <string name="pref_correction_sms_content">Шаблон калибровки</string>
   <string name="pref_correction_sms_number">Отправить SMS для калибровки на номер</string>
-  <string name="pref_daily_adjust">Расход трафика</string>
+  <string name="pref_daily_adjust">Израсходованный трафик</string>
   <string name="pref_daily_traffic">Лимит трафика</string>
   <string name="pref_data_usage_ignore_settings">Игнорировать трафик</string>
   <string name="pref_data_usage_ignore_settings_summary">Не следить за трафиком выбранных приложений</string>
