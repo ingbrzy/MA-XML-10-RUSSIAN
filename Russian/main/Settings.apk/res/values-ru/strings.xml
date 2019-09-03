@@ -1300,7 +1300,7 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
-    <string name="connection_and_sharing">Подключения и передача данных</string>
+    <string name="connection_and_sharing">Подключения и обмен</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="contributors_title">Участники</string>
     <string name="controls_label">Элементы управления</string>
@@ -1500,7 +1500,7 @@
     <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
     <string name="data_usage_restrict_denied_dialog">Чтобы ограничить передачу данных в фоновом режиме, сначала установите лимит мобильного трафика.</string>
     <string name="data_usage_summary_format">Использовано трафика: %1$s</string>
-    <string name="data_usage_summary_title">Передача данных</string>
+    <string name="data_usage_summary_title">Расход трафика</string>
     <string name="data_usage_sweep_limit"><font size="12">Лимит</font>"
 "<font size="18">^1</font> <font size="9">^2</font></string>
     <string name="data_usage_sweep_warning"><font size="12">Предупреждение</font>"
@@ -4294,7 +4294,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_projection_example_game_title">Игры</string>
     <string name="screen_projection_help">Помощь</string>
     <string name="screen_projection_sample_summary">Трансляция документов, игр, фото и видео</string>
-    <string name="screen_projection_sample_title">Демо</string>
+    <string name="screen_projection_sample_title">Гид по функциям</string>
     <string name="screen_projection_title">Трансляция</string>
     <string name="screen_reader_category_title">Программы чтения с экрана</string>
     <string name="screen_resolution_dialog_title">Изменение разрешения</string>
