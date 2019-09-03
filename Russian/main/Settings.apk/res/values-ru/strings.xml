@@ -1300,7 +1300,7 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
-    <string name="connection_and_sharing">Подключения и обмен</string>
+    <string name="connection_and_sharing">Подключения и доступ</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="contributors_title">Участники</string>
     <string name="controls_label">Элементы управления</string>
@@ -2366,7 +2366,7 @@
     <string name="home">Настройки рабочего стола</string>
     <string name="home_app">Рабочий стол</string>
     <string name="home_key">Кнопка \"Домой\"</string>
-    <string name="home_title">Рабочий стол и Недавние</string>
+    <string name="home_title">Рабочий стол</string>
     <string name="home_work_profile_not_supported">Рабочие профили не поддерживаются</string>
     <string name="http_invoke_app">Веб-приложения</string>
     <string name="http_invoke_app_summary">Быстрый запуск приложений без их установки</string>
@@ -2581,7 +2581,7 @@
     <string name="launch_recents">Вызов Недавних</string>
     <string name="launch_voice_assistant">Голосовой помощник</string>
     <string name="launcher_icon">Значки</string>
-    <string name="launcher_title">Рабочий стол и Недавние</string>
+    <string name="launcher_title">Рабочий стол</string>
     <string name="launching_cit">Запуск инженерного меню…</string>
     <string name="launching_pho">Загрузка информации о телефоне…</string>
     <string name="launching_rep">Отправка отчета об ошибках…</string>
@@ -3759,8 +3759,8 @@ OTG отключается автоматически через 10 минут �
     <string name="power_usage_list_summary_device">Использование устройства с момента полной зарядки (прошло: ^1)</string>
     <string name="power_usage_not_available">Нет данных.</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
-    <string name="power_usage_summary_title">Питание и производительность</string>
-    <string name="power_usage_summary_title_new">Питание и производительность</string>
+    <string name="power_usage_summary_title">Батарея и производительность</string>
+    <string name="power_usage_summary_title_new">Батарея и производительность</string>
     <string name="power_user">Пользователь</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Предустановленные приложения</string>
@@ -4491,7 +4491,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_power_hide_mode_title">Контроль активности;Использование батареи приложением;Управление питанием;Состояние батареи</string>
     <string name="search_power_mode">Режим питания;Энергосбережение</string>
     <string name="search_power_optimize">Оптимизация питания;Экономия заряда</string>
-    <string name="search_power_usage_summary_title">Питание и производительность;Питание и производительность;Батарея;Питание;производительность;Энергосбережение;Экономия заряда</string>
+    <string name="search_power_usage_summary_title">Батарея и производительность;Питание и производительность;Батарея;Питание;производительность;Энергосбережение;Экономия заряда</string>
     <string name="search_pref_edge_handgrip">Кромка экрана</string>
     <string name="search_pref_volume_wake_title">Включать экран кнопками громкости;Пробуждать кнопками громкости;кнопки громкости</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
