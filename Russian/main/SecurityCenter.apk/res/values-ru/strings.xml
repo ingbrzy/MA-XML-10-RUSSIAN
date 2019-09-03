@@ -389,7 +389,7 @@
   <string name="banner_optimizemanage_summary">Освобождение памяти</string>
   <string name="banner_red_money_assist_button">Включить</string>
   <string name="banner_red_money_assist_summary">Быстрое открытие красных конвертов</string>
-  <string name="battery_and_property">Питание и производительность</string>
+  <string name="battery_and_property">Батарея и производительность</string>
   <string name="battery_capacity_title">Емкость</string>
   <string name="battery_charge_estimating">Оценка…</string>
   <string name="battery_charge_full">Заряжена</string>
@@ -1468,7 +1468,7 @@
   <string name="menu_text_networkassistants_unit_kb">КБ</string>
   <string name="menu_text_networkassistants_unit_mb">МБ</string>
   <string name="menu_text_optimize_manage">Ускорение</string>
-  <string name="menu_text_power_manager">Питание и производительность</string>
+  <string name="menu_text_power_manager">Батарея и производительность</string>
   <string name="menu_wh_remove">Удалить из белого списка</string>
   <string name="menu_white">Добавить в белый список</string>
   <string name="mi_service_app_detail">Информация о трафике</string>
@@ -1693,7 +1693,7 @@
   <string name="path_networkassistant_2">Системные приложения/Безопасность/Передача данных</string>
   <string name="path_networkassistant_4">Системные приложения/Безопасность/Передача данных/Диагностика сети</string>
   <string name="path_powercenter">Системные приложения/Безопасность/Оптимизация питания</string>
-  <string name="path_powercenter_powerrank">Питание и производительность/Использование батареи</string>
+  <string name="path_powercenter_powerrank">Батарея и производительность/Использование батареи</string>
   <string name="path_securitycenter">Системные приложения/Безопасность</string>
   <string name="path_securitycenter_settings">Системные приложения/Безопасность</string>
   <string name="path_usb_install">Системные приложения/Безопасность/Разрешения/Установка через USB</string>
@@ -1836,7 +1836,7 @@
   <string name="power_center_super_save_title_text">Максимальное энергосбережение</string>
   <string name="power_center_time_to_boot">Время включения</string>
   <string name="power_center_time_to_shutdown">Время выключения</string>
-  <string name="power_center_title">Питание и производительность</string>
+  <string name="power_center_title">Батарея и производительность</string>
   <string name="power_chooser_check_box_summary">Выбор режима энергосбережения для продолжительной работы устройства</string>
   <string name="power_chooser_check_box_title">Энергосбережение</string>
   <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
@@ -2192,7 +2192,7 @@
   <string name="resource_networkassistant_2">Калибровка тарифа</string>
   <string name="resource_networkassistant_4">Диагностика сети</string>
   <string name="resource_powercenter">Оптимизация питания</string>
-  <string name="resource_powercenter_powerrank">Питание и производительность</string>
+  <string name="resource_powercenter_powerrank">Батарея и производительность</string>
   <string name="resource_securitycenter">Безопасность</string>
   <string name="resource_securitycenter_settings">Безопасность</string>
   <string name="resource_usb_install">Установка через USB</string>
