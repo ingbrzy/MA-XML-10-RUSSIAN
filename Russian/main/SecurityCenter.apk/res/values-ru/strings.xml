@@ -2878,7 +2878,7 @@
   <string name="unlock_set_unlock_pin_summary">Введите 4 цифры</string>
   <string name="unlock_set_unlock_pin_title">Цифровой код</string>
   <string name="updating_diagnostic_botton">Анализ данных…</string>
-  <string name="usage_sorted_activity_lable">Передача данных</string>
+  <string name="usage_sorted_activity_lable">Расход трафика</string>
   <string name="usage_sorted_empty_text">Пусто</string>
   <string name="usage_sorted_loading_text">Подождите…</string>
   <string name="usage_type_audio">Аудио</string>
