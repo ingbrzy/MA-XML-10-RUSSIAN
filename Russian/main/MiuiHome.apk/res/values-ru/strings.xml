@@ -224,7 +224,7 @@
     <string name="launcher_pull_down_title">Свайп вниз на рабочем столе</string>
     <string name="launcher_slide_up_title">Свайп вверх на рабочем столе</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
-    <string name="launcher_title">Рабочий стол и Недавние</string>
+    <string name="launcher_title">Рабочий стол</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
     <string name="loading_desktop">Подождите…</string>
@@ -260,7 +260,7 @@
     <string name="menu_workspace_preview">Просмотр рабочего стола</string>
     <string name="mi_wallpaper">Темы MIUI</string>
     <string name="minus_one_screen">Ассистент</string>
-    <string name="miui_screen_config_title">Рабочий стол</string>
+    <string name="miui_screen_config_title">Настройки рабочего стола</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
@@ -311,7 +311,7 @@
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recent_apps">Недавние</string>
-    <string name="recents_config_title">Недавние приложения</string>
+    <string name="recents_config_title">Недавние</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_apps_default_title">Пусто</string>
     <string name="recommend_apps_no_data">Данных нет</string>
