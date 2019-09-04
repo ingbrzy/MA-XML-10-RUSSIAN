@@ -71,7 +71,7 @@
   <string name="appcleaner_qq_scanning_cache">Кэш QQ</string>
   <string name="appcleaner_qq_scanning_chat">Отправленные</string>
   <string name="appcleaner_qq_scanning_trash">Мусор</string>
-  <string name="appcleaner_result_dc_card_title">Высвобождение места на накопителе</string>
+  <string name="appcleaner_result_dc_card_title">Освобождение места на накопителе</string>
   <string name="appcleaner_wechat_clean_summary">Удаление ненужных элементов из WeChat</string>
   <string name="appcleaner_wechat_clean_title">Очистка приложения</string>
   <string name="appcleaner_wechat_scanning_cache">Кэш WeChat</string>
@@ -158,7 +158,7 @@
   <string name="deepclean_cache_header_left">Файлы данных: %d</string>
   <string name="deepclean_cache_summary_empty">Всё в порядке, удалять данные не нужно</string>
   <string name="deepclean_empty">Всё в порядке</string>
-  <string name="deepclean_install_info_desc2">Удаление приложений для высвобождения меса</string>
+  <string name="deepclean_install_info_desc2">Удаление приложений для освобождения места</string>
   <string name="deepclean_large_content">Удаление файлов размером более 10 МБ</string>
   <string name="deepclean_large_summary_empty">Всё в порядке, удалять файлы не нужно</string>
   <string name="deepclean_list_item_from_app">Mi Apps</string>
