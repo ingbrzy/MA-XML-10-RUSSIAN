@@ -1605,14 +1605,14 @@
   <string name="om_running_third_apps">Работающие (сторонние)</string>
   <string name="om_settings_cpu_over_load_notify">Перегрузка ЦП</string>
   <string name="om_settings_cpu_over_load_summary">Получение уведомлений о чрезмерной загрузке ЦП</string>
-  <string name="om_settings_lock_app">Закрепление приложений</string>
+  <string name="om_settings_lock_app">Закрепленные приложения</string>
   <string name="om_settings_lock_app_manage">Запрет выгрузки приложений</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Получение уведомлений о чрезмерной загрузке памяти</string>
-  <string name="om_settings_memory_clean_lock_screen">Запуск очистки</string>
+  <string name="om_settings_memory_clean_lock_screen">Очистка памяти</string>
   <string name="om_settings_memory_occupy_notify">Перегрузка памяти</string>
   <string name="om_settings_memory_occupy_notify_never">Не уведомлять</string>
   <string name="om_settings_notify_manage">Уведомления</string>
-  <string name="om_settings_speed_up_auto">Автоочистка памяти</string>
+  <string name="om_settings_speed_up_auto">Автоматическая очистка памяти</string>
   <string name="om_settings_title">Ускорение</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Приложение не найдено</string>
