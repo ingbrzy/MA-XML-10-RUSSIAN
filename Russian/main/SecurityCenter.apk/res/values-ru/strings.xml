@@ -2272,7 +2272,7 @@
   <string name="settings_category_overheat">Уведомления</string>
   <string name="settings_choice_no_notification">Отключено</string>
   <string name="settings_power_save_ontime_title">Расписание</string>
-  <string name="Settings_title_anti_spam">Черный список</string>
+  <string name="Settings_title_anti_spam">Антиспам</string>
   <string name="Settings_title_anti_virus">Антивирус</string>
   <string name="Settings_title_garbage_cleanup">Очистка</string>
   <string name="Settings_title_network_assistants">Трафик</string>
