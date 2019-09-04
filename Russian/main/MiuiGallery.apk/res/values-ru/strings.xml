@@ -241,12 +241,12 @@
     <string name="chooser_fragment_mishare_title">Отправить в</string>
     <string name="cleaner_empty_value_description">Всё в порядке</string>
     <string name="cleaner_photo_pick_delete_selected">Удалить выбранные файлы</string>
-    <string name="cleaner_scan_description">Поиск файлов для высвобождения места</string>
+    <string name="cleaner_scan_description">Поиск файлов для освобождения места</string>
     <string name="cleaner_scan_exit_dialog_message">В следующий раз вам придется начать сначала. Остановить проверку?</string>
     <string name="cleaner_scan_exit_dialog_positive">Остановить</string>
     <string name="cleaner_scan_exit_dialog_title">Остановка проверки</string>
     <string name="cleaner_scan_finish">Проверка завершена</string>
-    <string name="cleaner_scan_no_result">Не удалось высвободить больше места</string>
+    <string name="cleaner_scan_no_result">Не удалось освободить больше места</string>
     <string name="cleaner_scan_ok">Понятно</string>
     <string name="cleaner_scan_title">Проверка альбомов…</string>
     <string name="cleaner_screen_shot_action">Удалить</string>
@@ -260,7 +260,7 @@
     <string name="cleaner_slim_start">Оптимизировать</string>
     <string name="cleaner_slim_title">Оптимизация фото</string>
     <string name="cleaner_space_description">можно освободить</string>
-    <string name="cleaner_space_detail_description">Удалите ненужные файлы для высвобождения места</string>
+    <string name="cleaner_space_detail_description">Удалите ненужные файлы для освобождения места</string>
     <string name="cleaner_stop_scan">Остановить</string>
     <string name="cleaner_video_action">Удалить</string>
     <string name="cleaner_video_description">Удалите ненужные видео</string>
