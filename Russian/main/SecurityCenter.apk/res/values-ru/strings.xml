@@ -561,7 +561,7 @@
   <string name="choose_gs_show_way">Ориентация рабочего стола</string>
   <string name="clean_immediately">Очистить</string>
   <string name="cleaned">Очищено</string>
-  <string name="clear_garbage">Удаление мусора для высвобождения места</string>
+  <string name="clear_garbage">Удаление мусора для освобождения места</string>
   <string name="clear_immediately">Очистить</string>
   <string name="close">Закрыть</string>
   <string name="close_callwait">Откл</string>
@@ -1755,7 +1755,7 @@
   <string name="phone">Телефон</string>
   <string name="phone_manage">Утилиты</string>
   <string name="phone_manage_app_manager_summary">Управление приложениями на устройстве</string>
-  <string name="phone_manage_clean_summary">Высвобождение места на устройстве</string>
+  <string name="phone_manage_clean_summary">Освобождение места на устройстве</string>
   <string name="phone_manage_clean_title">Очистка</string>
   <string name="phone_manage_electric_summary">Оптимизация устройства для энергосбережения</string>
   <string name="phone_manage_electric_title">Батарея</string>
