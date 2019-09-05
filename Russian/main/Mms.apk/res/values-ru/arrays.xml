@@ -26,10 +26,34 @@
         <item>1 день</item>
         <item>Максимум</item>
     </string-array>
+        <item>Предложенная служба сообщений</item>
+        <item>SMS, MMS</item>
+        <item>RCS чат, RCS передача файлов</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Всегда</item>
         <item>Только в режиме \"Без звука\"</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Не спрашивать и отправлять как SMS-ссылку</item>
+        <item>Не спрашивать и не отправлять как SMS-ссылку</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Не спрашивать и отправлять как SMS</item>
+        <item>Не спрашивать и не отправлять как SMS</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>всегда спрашивать</item>
+        <item>не изменять размер</item>
+        <item>изменить размер и сохранить как значение по умолчанию</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>всегда спрашивать</item>
+        <item>не изменять размер</item>
+        <item>изменить размер и сохранить как значение по умолчанию</item>
     </string-array>
     <string-array name="reason_type">
         <item>Мошенничество</item>
