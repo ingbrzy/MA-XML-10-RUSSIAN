@@ -60,6 +60,12 @@
         <item quantity="few">%1$s сообщения</item>
         <item quantity="many">%1$s сообщений</item>
     </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s сообщений | "</item>
+        <item quantity="one">"%s сообщение | "</item>
+        <item quantity="few">"%s сообщения | "</item>
+        <item quantity="many">"%s сообщений | "</item>
+    </plurals>    
     <plurals name="recipient_count">
         <item quantity="other">%1$s получателей</item>
         <item quantity="one">%1$s получатель</item>
