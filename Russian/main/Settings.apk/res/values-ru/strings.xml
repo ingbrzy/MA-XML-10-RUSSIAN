@@ -3245,7 +3245,7 @@
     <string name="mute_voiceassist_stream">Отключить голосовой помощник</string>
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
-    <string name="my_device">Моё устройство</string>
+    <string name="my_device">Мое устройство</string>
     <string name="my_device_disclaimer">Примечание: информация об оборудовании, включая процессор, емкость аккумулятора, камеру, размер и разрешение экрана, предоставлена лабораториями, дизайнерами и поставщиками Xiaomi.</string>
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="nature_color">Стандарт</string>
