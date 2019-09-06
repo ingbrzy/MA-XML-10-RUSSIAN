@@ -648,19 +648,20 @@
     <string name="restore_to_phone_memory_failed">Восстановление не удалось</string>
     <string name="restored_to_phone_memory">Восстановление завершено</string>
     <string name="rms_audio_body">[Аудио]</string>
-    <string name="rms_audio_file_duration_too_long">Нельзя отправить аудио длиной более 180 с</string>
-    <string name="rms_audio_file_length_too_large">Нельзя отправить аудио размером более %1$d МБ</string>
+    <string name="rms_audio_file_duration_too_long">Нельзя отправить аудиофайлы дольше 180 с</string>
+    <string name="rms_audio_file_length_too_large">Нельзя отправить аудиофайлы больше %1$d МБ</string>
     <string name="rms_card_body">[Визитка]</string>
     <string name="rms_cloud_file_body">[Облачный файл]</string>
+    <string name="rms_editor_hints">Чат</string>
     <string name="rms_emoticon_body">[Смайлик]</string>
     <string name="rms_file_body">[Файл]</string>
     <string name="rms_file_not_exist">Файл не существует</string>
     <string name="rms_file_not_exist_to_view">Этот файл был перемещен или удален</string>
-    <string name="rms_illegal_extension">Неверный формат файла</string>
+    <string name="rms_illegal_extension">Этот формат файла не поддерживается</string>
     <string name="rms_image_body">[Изображение]</string>
     <string name="rms_location_body">[Расположение]</string>
-    <string name="rms_normal_file_length_too_large">Нельзя отправить файл размером более %1$d МБ</string>
-    <string name="rms_original_image_length_too_large">Нельзя отправить изображение размером более %1$d МБ</string>
+    <string name="rms_normal_file_length_too_large">Нельзя отправить файл больше %1$d МБ</string>
+    <string name="rms_original_image_length_too_large">Нельзя отправить изображение больше %1$d МБ</string>
     <string name="rms_original_image_size_too_large">Изображение слишком большое</string>
     <string name="rms_text_body">[Текст]</string>
     <string name="rms_vcard_body">[Контакт]</string>
@@ -723,6 +724,8 @@
     <string name="service_not_activated">Услуга не активирована в сети</string>
     <string name="set">Сохранить</string>
     <string name="share_img">Отправить</string>
+    <string name="shortcut_new_msg">Новое сообщение</string>
+    <string name="shortcut_setting">Настройки</string>
     <string name="show_all_messages">Показать все сообщения</string>
     <string name="show_delivery_status">Показывать отчет о доставке</string>
     <string name="show_sender">Показать данные отправителя</string>
@@ -786,6 +789,7 @@
     <string name="subject_hint">Тема</string>
     <string name="subject_label">"Тема: "</string>
     <string name="subscribe">Подписка</string>
+    <string name="success_login">Успешный вход</string>
     <string name="summary_pref_cm_smart_sms">Шаблоны карточек, сервисные номера SMS и многое другое.</string>
     <string name="switch_to_editor">Режим редактирования</string>
     <string name="switch_to_menu">Режим меню</string>
@@ -793,6 +797,8 @@
     <string name="text_message">Текстовое сообщение</string>
     <string name="timed_message_expired_title_2">Отправить их сейчас?</string>
     <string name="timed_message_to">для</string>
+    <string name="title_activity_rcs_login">Вход</string>
+    <string name="title_activity_rcs_maps">Местоположение</string>
     <string name="title_allow_network_access">Обновлять данные автоматически</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>
     <string name="title_hide_verification_code">Скрывать одноразовые пароли</string>
@@ -806,6 +812,7 @@
     <string name="to_address_label">"Получатель: "</string>
     <string name="to_label">"Кому: "</string>
     <string name="to_send_wrapper">Будет отправлено в %s</string>
+    <string name="toast_failed_to_close_priv_auth">"Не удалось отозвать разрешение. Проверьте настройки сети и повторите попытку."</string>
     <string name="toast_pending_hangup_msg">Сообщение будет отправлено после окончания вызова</string>
     <string name="today">Сегодня</string>
     <string name="too_many_attachments">Максимальное число вложений: %1$s. Будут добавлены только первые %2$s.</string>
@@ -825,7 +832,7 @@
     <string name="undelivered_msg_dialog_title">Сообщение не доставлено</string>
     <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение.</string>
     <string name="unknown_num">Неизвестный номер</string>
-    <string name="unknown_sender">У вас новое сообщение</string>
+    <string name="unknown_sender">Неизвестный отправитель</string>
     <string name="unstick">Открепить</string>
     <string name="unstick_conversation">Открепить диалог</string>
     <string name="unsticked_conversation">Диалог уже откреплен</string>
@@ -852,4 +859,8 @@
     <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
     <string name="yes">OK</string>
     <string name="yesterday">Вчера</string>
+    <string name="you_have_new_message">У вас есть новые сообщения</string>
+    <string name="zero_sms_feedback_message">Отчеты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы черных списков.</string>
+    <string name="zero_sms_feedback_success">Отчет отправлен</string>
+    <string name="zero_sms_feedback_title">Отчет</string>
 </resources>
