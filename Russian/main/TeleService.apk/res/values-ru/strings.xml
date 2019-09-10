@@ -1105,7 +1105,7 @@
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Предпочтительно 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Автоматически</string>
   <string name="preferred_network_type_pref_entries_global">Глобальный</string>
-  <string name="preferred_network_type_pref_entries_only_2g">Только 2G (экономия энергии)</string>
+  <string name="preferred_network_type_pref_entries_only_2g">Только 2G (экономия батареи)</string>
   <string name="preferred_network_type_pref_entries_only_3g">Только 3G</string>
   <string name="preferred_network_type_title">Предпочтительный тип сети</string>
   <string name="preferred_phone_account">Предпочтительный аккаунт</string>
