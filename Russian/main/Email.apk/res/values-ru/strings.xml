@@ -412,7 +412,7 @@
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_setting">Почта</string>
-    <string name="email_setting_keywords">Аккаунты;Добавить аккаунт;аккаунты почты;добавить аккаунт почты;подтверждение перед удалением;удалить подтверждение;подтверждение перед отправкой;отправить подтверждение;удалить диалог;удалить перенаправление;цепочка сообщений;диалог почты;экономия энергии;батарея почты;отправить отзыв;загрузить журналы</string>
+    <string name="email_setting_keywords">Аккаунты;Добавить аккаунт;аккаунты почты;добавить аккаунт почты;подтверждение перед удалением;удалить подтверждение;подтверждение перед отправкой;отправить подтверждение;удалить диалог;удалить перенаправление;цепочка сообщений;диалог почты;энергосбережение;батарея почты;отправить отзыв;загрузить журналы</string>
     <string name="email_sina">Sina Mail</string>
     <string name="email_sync_failed">Ошибка синхронизации</string>
     <string name="eml_parse_message">Открытие файла EML…</string>
@@ -762,7 +762,7 @@
     <string name="password_expired_ticker">Срок действия вашего кода или пароля блокировки экрана истек</string>
     <string name="path_about_account_setting">Почта/Настройки/Аккаунты</string>
     <string name="path_about_add_account">Почта/Настройки/Добавить аккаунт</string>
-    <string name="path_about_battery_saver">Почта/Настройки/Экономия батареи</string>
+    <string name="path_about_battery_saver">Почта/Настройки/Экономия заряда батареи</string>
     <string name="path_about_confirm_before_delete">Почта/Настройки/Подтверждение перед удалением</string>
     <string name="path_about_confirm_before_send">Почта/Настройки/Подтверждение перед отправкой</string>
     <string name="path_about_conversation_view">Почта/Настройки/Цепочка сообщений</string>
@@ -936,8 +936,8 @@
     <string name="save_action">Сохранить</string>
     <string name="save_attachment">Сохранить</string>
     <string name="save_draft_failed">Черновик не сохранен</string>
-    <string name="save_power_summary">Установить время для экономии энергии</string>
-    <string name="save_power_title">Экономия батареи</string>
+    <string name="save_power_summary">Настройка синхронизации для экономии заряда батареи</string>
+    <string name="save_power_title">Экономия заряда батареи</string>
     <string name="save_this_new_signature">Сохранить новую подпись?</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
