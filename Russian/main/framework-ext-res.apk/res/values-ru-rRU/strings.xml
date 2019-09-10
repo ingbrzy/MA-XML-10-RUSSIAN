@@ -205,7 +205,7 @@
   <string name="start_dump_log">Начать сбор журналов проблем</string>
   <string name="start_security_permission_verify_text">Проверьте разрешения с помощью вашего Mi аккаунта</string>
   <string name="status_bar_toggle_auto_brightness">Яркость</string>
-  <string name="status_bar_toggle_battery_saver">Экономия</string>
+  <string name="status_bar_toggle_battery_saver">Энергосбережение</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Трансляция</string>
   <string name="status_bar_toggle_data">Интернет</string>
