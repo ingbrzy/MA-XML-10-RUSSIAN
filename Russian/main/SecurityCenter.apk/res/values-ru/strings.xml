@@ -2546,7 +2546,7 @@
   <string name="superpower_savemode_limit1">Темный режим</string>
   <string name="superpower_savemode_limit2">Ограничение фоновой активности</string>
   <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Амбиентный дисплей и др.)</string>
-  <string name="superpower_savemode_limit4">Разрешение выбранным приложениям работать нормально</string>
+  <string name="superpower_savemode_limit4">Разрешение работать нормально только выбранным приложениям</string>
   <string name="superpower_settings">Ультра энергосбережение</string>
   <string name="superpower_settins_autoenter_summary">Автоматически включать ультра энергосбережение, когда заряд батареи 10%</string>
   <string name="superpower_settins_autoenter_title">Автоматическое включение</string>
