@@ -17,7 +17,7 @@
   <string name="activity_title_residual">Остатки данных</string>
   <string name="activity_title_scanfinish">Проверка завершена</string>
   <string name="activity_title_screenshot">Скриншоты</string>
-  <string name="activity_title_settings">Настройки</string>
+  <string name="activity_title_settings">Настройки очистки</string>
   <string name="activity_title_similar_image">Дубликаты фото</string>
   <string name="activity_title_similar_image_group">Удалить дубликаты</string>
   <string name="activity_title_tedious_image">Случайные фото</string>
