@@ -1453,7 +1453,7 @@
   <string name="menu_summary_networkassistants_4">Трафик заканчивается</string>
   <string name="menu_summary_power_manager">Энергосбережение увеличивает время между зарядками</string>
   <string name="menu_summary_power_manager_1">Батарея заряжена</string>
-  <string name="menu_summary_power_manager_2">Осталось %s</string>
+  <string name="menu_summary_power_manager_2">Заряда хватит на %s</string>
   <string name="menu_summary_power_manager_3">Батарея разряжена</string>
   <string name="menu_summary_power_manager_4">%sдо окончания</string>
   <string name="menu_text_antispam">Антиспам</string>
