@@ -366,7 +366,7 @@
     <string name="key_choice">Кнопки с цифрами</string>
     <string name="key_clean_air">Очистка воздуха</string>
     <string name="key_efficient">Высокая эффективность</string>
-    <string name="key_energy_saver">Экономия батареи</string>
+    <string name="key_energy_saver">Экономия заряда батареи</string>
     <string name="key_fan_speed_down">Снизить скорость</string>
     <string name="key_fan_speed_up">Увеличить скорость</string>
     <string name="key_ff">Перемотка вперед</string>
