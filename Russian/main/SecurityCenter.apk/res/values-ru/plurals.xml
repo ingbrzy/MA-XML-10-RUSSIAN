@@ -301,10 +301,10 @@
     <item quantity="many">%d приложений содержат вирусы или вредоносное ПО</item>
   </plurals>  
   <plurals name="menu_text_antivirus_day_ex">
-    <item quantity="other">"Проверка не проводилась %d дней"</item>
-    <item quantity="one">"Проверка не проводилась %d день"</item>
-    <item quantity="few">"Проверка не проводилась %d дня"</item>
-    <item quantity="many">"Проверка не проводилась %d дней"</item>
+    <item quantity="other">"%d дней без проверки"</item>
+    <item quantity="one">"%d день без проверки"</item>
+    <item quantity="few">"%d дня без проверки"</item>
+    <item quantity="many">"%d дней без проверки"</item>
   </plurals>
   <plurals name="menu_text_app_manager_2">
     <item quantity="other">%d приложений</item>
