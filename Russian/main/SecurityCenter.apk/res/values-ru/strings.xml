@@ -339,10 +339,10 @@
   <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Имя</string>
   <string name="auto_task_main_title">"Автоматизация действий"</string>
-  <string name="auto_task_mamange_activity_title">Настройки</string>
+  <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
   <string name="auto_task_manage_delete_prompt">Удалить выбранные задачи?</string>
   <string name="auto_task_manage_new_task">Новая задача</string>
-  <string name="auto_task_manager_group_title">Автоматизация действий</string>
+  <string name="auto_task_manager_group_title">ЗАДАЧИ</string>
   <string name="auto_task_notify_do_task_title">Задача запущена</string>
   <string name="auto_task_notify_exit_task_title">Задача завершена</string>
   <string name="auto_task_notify_task_cancel_count_down">Задача будет отменена через 5 секунд</string>
@@ -1993,7 +1993,7 @@
   <string name="power_save_on_time_title">Расписание</string>
   <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
   <string name="power_save_ps_close_setting">Отключение фоновых сервисов (синхронизация, GPS)</string>
-  <string name="power_save_ps_freeze">Заморозка приложений в фоновом режиме</string>
+  <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
   <string name="power_save_settings">Настройки оптимизации питания</string>
   <string name="power_save_started_summary_text">Включено энергосбережение. Это снижает фоновую активность приложений, останавливает синхронизацию и сводит к минимуму системные анимации.</string>
