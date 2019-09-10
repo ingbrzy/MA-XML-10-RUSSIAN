@@ -772,7 +772,7 @@
     <string name="input_password_after_boot_msg">После перезагрузки необходимо ввести пароль</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещен родительским контролем</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Переключение пространства при максимальном энергосбережении недоступно"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Переключение пространства при ультра энергосбережении недоступно"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_pattern_hint_text">Введите графический ключ</string>
@@ -1186,7 +1186,7 @@
     <string name="oldman_airplane_mode_text">Режим полета</string>
     <string name="oldman_incall_text">Назад к разговору</string>
     <string name="open_camera_hint_text">Потяните иконку для запуска камеры</string>
-    <string name="open_extreme_power_save_mode_title">Включите максимальное энергосбережение</string>
+    <string name="open_extreme_power_save_mode_title">Включите ультра энергосбережение</string>
     <string name="open_lock_screen_magazine_hint_text">Проведите вправо для выбора</string>
     <string name="open_remote_center_hint_text">Проведите вправо для доступа к ярлыкам</string>
     <string name="other">Другое</string>
