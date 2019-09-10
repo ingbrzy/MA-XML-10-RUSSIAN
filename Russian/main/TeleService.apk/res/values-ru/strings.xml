@@ -1065,8 +1065,8 @@
   <string name="prefered_network_type_3g_promp">Вы должны отключить VoLTE до выбора 3G в качестве предпочтительного типа сети. Отключить?</string>
   <string name="preference_auto_ip_summary_disable">Откл</string>
   <string name="preference_category_ringtone">Мелодия и вибрация</string>
-  <string name="preference_data_usage_summary">Настройки тарифных планов для контроля мобильного трафика</string>
-  <string name="preference_data_usage_title">Передача данных</string>
+  <string name="preference_data_usage_summary">Установка тарифного плана для контроля трафика</string>
+  <string name="preference_data_usage_title">Настройки трафика</string>
   <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
   <string name="preference_dial_pad_touch_tone_off">Отключен</string>
   <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
