@@ -44,7 +44,7 @@
     <string name="new_version">Найдена новая версия!</string>
     <string name="no_info">Информация недоступна.</string>
     <string name="no_network">Сеть недоступна.</string>
-    <string name="no_update">Установлена последняя версия или проблема с сервером, проверьте наличие новой версии на xiaomi.eu</string>
+    <string name="no_update">Установлена последняя версия</string>
     <string name="no_xioamieu">"Установлена прошивка не xiaomi.eu!
 Обновления недоступны!"</string>
     <string name="notif_cancel">Отмена</string>
@@ -71,5 +71,5 @@
     <string name="version">Текущая версия:</string>
     <string name="version_type">MIUI 10 | %1$s | (%2$s)</string>
     <string name="weekly">еженедельная</string>
-    <string name="wifi_recommended">Отсутствует Wi-Fi соединение!</string>  
+    <string name="wifi_recommended">Отсутствует Wi-Fi соединение</string>  
 </resources>
