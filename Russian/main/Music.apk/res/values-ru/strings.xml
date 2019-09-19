@@ -93,6 +93,7 @@
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="checking_new_version">Проверка обновлений…</string>
     <string name="choose_download_quality">Выберите качество загрузки</string>
+    <string name="choose_music_lang_pref">Предпочтительные языки для песен</string>
     <string name="choose_stream_quality">Выберите качество музыки</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close_music_time">"Оставшееся время: "</string>
@@ -690,10 +691,10 @@
     <string name="sleep_mode_summary">Остановить плеер через заданное время</string>
     <string name="sleep_mode_title">Таймер сна</string>
     <string name="sliding_pro_center">PRO центр</string>
-    <string name="song_already_in_playlist">Этот трек уже в очереди</string>
-    <string name="song_exist_in_playlist">Этот трек уже в очереди</string>
+    <string name="song_already_in_playlist">Этот трек уже в плейлисте</string>
+    <string name="song_exist_in_playlist">Этот трек уже в плейлисте</string>
     <string name="song_info">Информация о треке</string>
-    <string name="song_is_added_to_playlist">Добавлено в очередь</string>
+    <string name="song_is_added_to_playlist">Добавлено в плейлист</string>
     <string name="song_is_empty">Введите имя трека</string>
     <string name="song_name">Трек</string>
     <string name="song_not_find">Трек недоступен.</string>
@@ -717,6 +718,7 @@
     <string name="tab_artist_list">Исполнители</string>
     <string name="tab_folder">Папки</string>
     <string name="tab_playlist">Плейлисты</string>
+    <string name="tab_top_results">Лучшее</string>
     <string name="tab_track">Треки</string>
     <string name="tab_track_list">Треки</string>
     <string name="tab_video">Видео</string>
@@ -756,6 +758,7 @@
     <string name="toast_my_playlist_illegal_name">"Некорректное название плейлиста. Переименуйте плейлист."</string>
     <string name="toast_my_playlist_set_to_private">"Плейлист закрыт. Никто не может видеть его."</string>
     <string name="toast_my_playlist_set_to_public">Плейлист доступен. Все могут видеть его.</string>
+    <string name="toast_my_playlist_sync_failed">"Не удалось синхронизировать плейлисты из-за ошибки сети."</string>
     <string name="toast_new_playlist_name_no_enter">Не удалось начать новый абзац</string>
     <string name="toast_new_playlist_name_too_long">Имя плейлиста слишком длинное</string>
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>
