@@ -112,8 +112,8 @@
     <string name="description_uploadtime">Обновлено</string>
     <string name="description_version">Версия</string>
     <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
-    <string name="desktop_effects">Эффекты рабочего стола</string>
-    <string name="desktop_wallpaper">Рабочий стол</string>
+    <string name="desktop_effects">Живые обои</string>
+    <string name="desktop_wallpaper">Обои</string>
     <string name="detail_author_attention_head">Подпишитесь на лучших дизайнеров</string>
     <string name="detail_author_fans">"Подписчики: "</string>
     <string name="detail_author_works">"Работы: "</string>
@@ -239,7 +239,7 @@
     <string name="kuyin_user_agreement_content_href">Политика конфиденциальности iFlytek</string>
     <string name="lab">Лаборатория тем</string>
     <string name="like_list">Отмеченные</string>
-    <string name="live_wallpaper">Живые обои</string>
+    <string name="live_wallpaper">Видео обои</string>
     <string name="loading">Подождите…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="loading_resource_detail_info">Подождите…</string>
@@ -621,7 +621,7 @@
     <string name="theme_component_title_photo_frame">Фоторамка</string>
     <string name="theme_component_title_ringtone">Мелодия</string>
     <string name="theme_component_title_statusbar">Строка состояния</string>
-    <string name="theme_component_title_wallpaper">Рабочий стол</string>
+    <string name="theme_component_title_wallpaper">Обои</string>
     <string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
     <string name="theme_description_title_customized">Изменено</string>
     <string name="theme_description_title_default">По умолчанию</string>
@@ -664,8 +664,8 @@
     <string name="tips_theme_gate_transfer_fail">Не удалось открыть страницу. Подождите немного и повторите попытку.</string>
     <string name="title_component">Компоненты тем</string>
     <string name="title_my_audio_resource">Мои мелодии</string>
-    <string name="title_my_miwallpaper_desktop_effects">Эффекты рабочего стола</string>
-    <string name="title_my_miwallpaper_resource">Мои живые обои</string>
+    <string name="title_my_miwallpaper_desktop_effects">Живые обои</string>
+    <string name="title_my_miwallpaper_resource">Мои видео обои</string>
     <string name="title_my_miwallpaper_video_file_resource">Мои живые обои</string>
     <string name="title_my_wallpaper_resource">Мои обои</string>
     <string name="title_system_audio_notification_resource">Системные уведомления</string>
