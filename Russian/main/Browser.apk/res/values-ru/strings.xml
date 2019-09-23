@@ -649,6 +649,15 @@ ID:%s
     <string name="sync_and_backup_bookmark">Синхронизация и резервное копирование закладок</string>
     <string name="sync_and_backup_history">Синхронизация и резервное копирование истории</string>
     <string name="sync_cloud_tabs">Синхронизация</string>
+    <string name="system_permission_accounts_purpose">Используется для входа в систему и управления учетной записью</string>
+    <string name="system_permission_main_purpose">Просмотр веб-страниц, поиск информации, чтение новости, просмотр видео и т. д</string>
+    <string name="system_permission_phone_state_purpose">Используется для получения идентификатора IMEI устройства для предоставления соответствующей услуги</string>
+    <string name="system_permission_storage_purpose">Используется для чтения и записи файлов, таких как сохраненные изображения, а также для включения функций выгрузки/загрузки файлов</string>
+    <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/ru.html</string>
+    <string name="tab_hotpage">Новостная лента</string>
+    <string name="tab_quicklinks">Стартовая страница</string>
+    <string name="tab_yellowpage">Ссылки</string>
+    <string name="tabs_description">Вкладки</string>
     <string name="temp_refuse">Нет, спасибо</string>
     <string name="temporary_not_available">временно недоступно</string>
     <string name="translation_copy">Копировать</string>
